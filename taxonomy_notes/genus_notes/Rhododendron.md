@@ -23,9 +23,9 @@ distribution:
     - Bhutan
   endemic: true
 publication:
-  - micro_citation:  Sp. Pl. 1: 392 (1753)
+  - micro_citation:  Sp. Pl. 1 392 (1753)
   - year: 2022
-  -link: https://doi.org/10.xxxx/yyyy
+  - link: (https://doi.org/10.5962/bhl.title.669)
 metadata:
   created: 2025-07-11
   updated: 2025-07-11
