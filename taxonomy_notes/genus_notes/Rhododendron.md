@@ -22,13 +22,11 @@ distribution:
     - Nepal
     - Bhutan
   endemic: true
-references:
-  - title: Revision of Himalayan Rhododendrons
-    authors: [A. Botanist, B. Taxonomist]
-    year: 2022
-    link: https://doi.org/10.xxxx/yyyy
+publication:
+  - micro_citation:  Sp. Pl. 1: 392 (1753).
+  - year: 2022
+  -link: https://doi.org/10.xxxx/yyyy
 metadata:
-  sql_id: RHOD_0157
   created: 2025-07-11
   updated: 2025-07-11
 contributors:
@@ -37,21 +35,22 @@ contributors:
     github: [your-username]
 ---
 
-# Rhododendron [species name]
+# Rhododendron L.
 
 ## Taxonomic Overview  
-Rhododendron *[species name]* belongs to the subsection *Pontica* of section *Ponticum*. It is recognized as an [accepted/synonym/unresolved] by..
+_Rhododendron_ L. is one of the largest genera of vascular plants, and the largest predominatly woody genus.
 
 ## Morphological Traits  
-This species exhibits an [evergreen] leaf type and reaches heights typical of [shrub/treelet] forms. Notable flower characteristics include [purple] blooms and growth within an elevation range of [1000–2500m].
+Its green.
 
 ## Distribution & Habitat  
-Endemic to the [Himalayas], it is found primarily in [Nepal and Bhutan], thriving in [temperate forests/montane zones/etc.].
-
-## References  
-- A. Botanist & B. Taxonomist (2022). *Revision of Himalayan Rhododendrons*. DOI: [link]
+Predominatly N hemisphere. 
 
 ## Remarks  
-[Here you can add commentary on taxonomic controversies, ecological insights, conservation status, or connections to other species.]
+Rhododendron, is comparatively well monographed compared to some genera (Chamberlain 1996). The genus is monophyletic, more or less, segregate genera have been incorporated in the last decade (Craven et al. 2011). Monophyllyl of infra-generic groups remains a major issue to resolve as are species boundaries.
+
+## References  
+- Chamberlain, D.F. 1996. The Genus Rhododendron: its classification and synonymy. Royal Botanic Garden, Edinburgh.
+- Craven, L.A. 2011. Diplarche and Menziesia transferred to Rhododendron (Ericaceae). Blumea - Biodiversity, Evolution and Biogeography of Plants 56: 33–35. https://doi.org/10.3767/000651911X568594
 
 ---
