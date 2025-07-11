@@ -47,7 +47,7 @@ Its green.
 Predominatly N hemisphere. 
 
 ## Remarks  
-Rhododendron, is comparatively well monographed compared to some genera (Chamberlain 1996). The genus is monophyletic, more or less, segregate genera have been incorporated in the last decade (Craven et al. 2011). Monophyllyl of infra-generic groups remains a major issue to resolve as are species boundaries.
+_Rhododendron_ is comparatively well monographed compared to some genera (Chamberlain 1996). The genus is monophyletic, more or less, segregate genera have been incorporated in the last decade (Craven et al. 2011). Monophyllyl of infra-generic groups remains a major issue to resolve as are species boundaries.
 
 ## References  
 - Chamberlain, D.F. 1996. The Genus Rhododendron: its classification and synonymy. Royal Botanic Garden, Edinburgh.
