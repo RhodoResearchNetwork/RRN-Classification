@@ -7,7 +7,7 @@ taxonomy:
   genus: Rhododendron
   section: [Ponticum]
   subsection: [Pontica]
-  species: [ponticum]
+  species: ponticum
   wfo_id: wfo-0000123456
   ipnilsid: urn:lsid:ipni.org:names:123456-1
 status: accepted
@@ -37,19 +37,19 @@ contributors:
     github: [your-username]
 ---
 
-# Rhododendron [species name]
+# Rhododendron ponticum
 
 ## Taxonomic Overview  
-Rhododendron *[species name]* belongs to the subsection *Pontica* of section *Ponticum*. It is recognized as an [accepted/synonym/unresolved] by.
+Rhododendron *ponticum* belongs to the subsection *Pontica* of section *Ponticum*. It is recognized as an accepted species.
 
 ## Morphological Traits  
-This species exhibits an [evergreen] leaf type and reaches heights typical of [shrub/treelet] forms. Notable flower characteristics include [purple] blooms and growth within an elevation range of [1000–2500m].
+This species exhibits an evergreen leaf type and reaches heights typical of shrub forms. Notable flower characteristics include purple blooms and growth within an elevation range of 1000–2500m.
 
 ## Distribution & Habitat  
-Endemic to the [Himalayas], it is found primarily in [Nepal and Bhutan], thriving in [temperate forests/montane zones/etc.].
+Endemic to the Himalayas, it is found primarily in Nepal and Bhutan, thriving in temperate forests and montane zones.
 
 ## References  
-- A. Botanist & B. Taxonomist (2022). *Revision of Himalayan Rhododendrons*. DOI: [link]
+- A. Botanist & B. Taxonomist (2022). *Revision of Himalayan Rhododendrons*. DOI: https://doi.org/10.xxxx/yyyy
 
 ## Remarks  
 [Here you can add commentary on taxonomic controversies, ecological insights, conservation status, or connections to other species.]
