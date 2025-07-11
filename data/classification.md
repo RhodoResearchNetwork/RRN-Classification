@@ -1,0 +1,3629 @@
+### Taxonomic Checklist as of June 2025
+
+- [ ] *Rhododendron* L., Sp. Pl. 1: 392 (1753)
+  - [ ] _(Menziesia Sm., Pl. Icon. Ined. : t. 56 (1791))_
+  - [ ] _(Iposues Raf., Autik. Bot. : 186 (1840))_
+  - [ ] _(Chamaerhododendron Mill., Gard. Dict. Abr. (ed. 4) 1754.)_
+  - [ ] _(Stemotis Raf., Sylva Tellur. : 152 (1838))_
+  - [ ] _(Biltia Small, Fl. S.E. U.S. : 884 (1903))_
+  - [ ] _(Rhodazalea Croux, J. Soc. Natl. Hort. France , sér. 4, 9: 328 (1908))_
+  - [ ] _(Anthodendron Rchb., Handb. Gewächsk. 1(40): 244 (1827))_
+  - [ ] _(Plinthochroma Dulac, Fl. Hautes-Pyrénées 419. 1867.)_
+  - [ ] _(Ledodendron F.de Vos, )_
+  - [ ] _(Hochenwartia Crantz, Inst. 2: 468. 1766.)_
+  - [ ] _(Tsusiophyllum Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 12 (1871))_
+  - [ ] _(Candollea Baumg., Baumg., Cat. Hort. Bollw. (1810).)_
+  - [ ] _(Azalea L., Sp. Pl. : 150 (1753))_
+  - [ ] _(Osmothamnus DC., Pl. Vasc. Gen. 1: 246. 18-2.)_
+  - [ ] _(Diplarche Hook.f. & Thomson, Hooker's J. Bot. Kew Gard. Misc. 6: 382, t. 11 (1854))_
+  - [ ] _(Loiseleria Rchb., Fl. Germ. Excurs. 416. (1831))_
+  - [ ] _(Waldemaria Klotzsch, Bot. Ergebn. Reise Waldemar 99. 1862.)_
+  - [ ] _(Rhodothamnus Lindl. & Paxton, Paxton's Fl. Gard. 1:113. (1851))_
+  - [ ] *Rhododendron subg. Azaleastrum* (Maxim.) Planch., Dendrologie 2(1): 159 (1872)
+    - [ ] _(Mumeazalea Makino, Bot. Mag. (Tokyo) 28(336): 338. 1914 [Dec 1914])_
+    - [ ] _(Azaleastrum (Planch.) Rydb., Mem. New York Bot. Gard. 1: 297 (1900))_
+    - [ ] *Rhododendron sect. Tsutsutsi* G.Don, Gen. Hist. 3: 845 (1834)
+      - [ ] _(Rhododendron ser. Tsutsusi X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi 76 (2009))_
+      - [ ] *Rhododendron semibarbatum* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 15: 229 (1870)
+        - [ ] _(Azalea semibarbata (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] _(Azaleastrum semibarbatum (Maxim.) Makino, Bot. Mag. (Tokyo) 28: 338 (1914))_
+      - [ ] *Rhododendron subsect. Tsutsusi* Sweet, 
+        - [ ] *Rhododendron rufohirtum* Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 58: 153 (1921)
+        - [ ] *Rhododendron jinpingense* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 85 (1982)
+        - [ ] *Rhododendron cretaceum* P.C.Tam, Survey Gen. Rhododendron S. China : 108 (1983)
+        - [ ] *Rhododendron breviperulatum* Hayata, Icon. Pl. Formosan. 3: 129 (1913)
+          - [ ] _(Rhododendron rubropilosum var. breviperulatum (Hayata) T.Yamaz, Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin 35 (1996):.)_
+        - [ ] *Rhododendron subcerinum* P.C.Tam, Bull. Bot. Res., Harbin 2(4): 88 (1982)
+        - [ ] *Rhododendron strigosum* R.L.Liu, Acta Phytotax. Sin. 39: 272 (2001)
+        - [ ] *Rhododendron kaempferi* Planch., Fl. Serres Jard. Eur. 9: 77 (1853)
+          - [ ] _(Rhododendron kaempferi var. macrogemma Nakai, Trees Shrubs Japan Ed. 1 103. (1922))_
+          - [ ] _(Rhododendron sieboldii Miq., Ann. Mus. Bot. Lugduno-Batavi 1: 33 (1863))_
+          - [ ] _(Rhododendron macrogemmum (Nakai) Nakai, Bot. Mag. (Tokyo) 45: 128 (1931))_
+          - [ ] *Rhododendron kaempferi var. iyoense* (Nakai) Sugim., J. Geobot. 22: 52 (1975)
+            - [ ] _(Rhododendron iyoense Nakai, Bot. Mag. (Tokyo) 43: 447 (1929))_
+          - [ ] *Rhododendron kaempferi var. lusidusculum* (Nakai) Sugim., J. Geobot. 22: 52 (1975)
+            - [ ] _(Rhododendron lusidusculum Nakai, Trees Shrubs Japan : 103 (1922))_
+          - [ ] *Rhododendron kaempferi var. kaempferi* , 
+          - [ ] *Rhododendron kaempferi var. saikaiense* (T.Yamaz) T.Yamaz, Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin : 61 (1996)
+            - [ ] _(Rhododendron obtusum var. saikaiense T.Yamaz, Fl. Jap. (Iwatsuki et al., eds.) 3a: 28. 1993)_
+        - [ ] *Rhododendron meridionale* P.C.Tam, Guihaia 2: 71 (1982)
+          - [ ] _(Rhododendron chrysocalyx subsp. meridionale (P.C.Tam) X.F.Jin & B.Y.Ding, Nordic J. Bot. 27(3): 199 (2009))_
+          - [ ] *Rhododendron meridionale var. minus* P.C.Tam, Survey Gen. Rhododendron S. China : 103 (1983)
+          - [ ] *Rhododendron meridionale var. meridionale* , 
+          - [ ] *Rhododendron meridionale var. setistylum* P.C.Tam, Surv. Genus Rhododendron S. China 103, 50. 1983 [Mar 1983]
+        - [ ] *Rhododendron pudingense* X.Y.Dai, C.H.Yang & Y.P.Ma, PhytoKeys 146: 54. 2020
+        - [ ] *Rhododendron tosaense* Makino, Bot. Mag. (Tokyo) 6: 53 (1892)
+          - [ ] _(Rhododendron miyazawae Nakai & H.Hara, J. Jap. Bot. 11: 825 (1935))_
+        - [ ] *Rhododendron taipaoense* T.C.Wu & P.C.Tam, Med. Mat. Guangdong 4: 36 (1978)
+          - [ ] _(Rhododendron piceum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 83 (1982))_
+          - [ ] _(Rhododendron rufulum P.C.Tam, Survey Gen. Rhododendron S. China : 100 (1983))_
+          - [ ] _(Rhododendron falcinellum P.C.Tam, Survey Gen. Rhododendron S. China : 98 (1983))_
+          - [ ] _(Rhododendron hepaticum P.C.Tam, Survey Gen. Rhododendron S. China : 98 (1983))_
+          - [ ] _(Rhododendron rufescens P.C.Tam, Bull. Bot. Res., Harbin 2 (4):86. (1982))_
+          - [ ] _(Rhododendron spadiceum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 87 (1982))_
+          - [ ] _(Rhododendron apricum var. falcinellum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 80 (1982))_
+          - [ ] _(Rhododendron florulentum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 80 (1982))_
+          - [ ] _(Rhododendron apricum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 79 (1982))_
+        - [ ] *Rhododendron pinetorum* P.C.Tam, Bull. Bot. Res., Harbin 2(1): 93 (1982)
+        - [ ] *Rhododendron guizhongense* G.Z.Li, Guihaia 15: 198 (1995)
+          - [ ] _(Rhododendron glandulostylum W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 84 (1982))_
+        - [ ] *Rhododendron stenopetalum* (R.Hogg) Mabb., Feddes Repert. 101: 270 (1990)
+          - [ ] _(Rhododendron dianthiflorum (Carrière) Millais, Rhododendrons : 155 (1917))_
+          - [ ] _(Azalea stenopetala R.Hogg, Gard. Year Book 1865: 39 (1865))_
+          - [ ] _(Rhododendron linearifolium Siebold & Zucc., Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(3): 131. 1846)_
+          - [ ] _(Rhododendron hortense Nakai, Trees Shrubs Japan : 112 (1922))_
+          - [ ] _(Azalea macrosepala (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Azalea dianthiflora Carrière, Rev. Hort. (Paris) 61: 391 (1889))_
+          - [ ] _(Azalea linearifolia (Siebold & Zucc.) Hook.f., Bot. Mag. 95: t. 5769 (1869))_
+          - [ ] _(Rhododendron macrosepalum Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 15: 228 (1870))_
+        - [ ] *Rhododendron lasiostylum* Hayata, Icon. Pl. Formosan. 3: 135 (1913)
+          - [ ] _(Rhododendron sasakii E.H.Wilson, J. Arnold Arbor. 6: 181 (1925))_
+        - [ ] *Rhododendron adenobracteum* X.F.Gao & Y.L.Peng, Acta Bot. Yunnan. 26(5): 493 (-494; fig.1) (2004)
+        - [ ] *Rhododendron eriocarpum* (Hayata) Nakai, Trees Shrubs Japan : 97 (1922)
+          - [ ] _(Rhododendron tamurae (Makino) Masam., Prelim. Rep. Veg. Yakus. : 106 (1929))_
+          - [ ] *Rhododendron eriocarpum var. tawadae* Ohwi, Unknown Publ. ()
+            - [ ] _(Rhododendron tawadae (Ohwi) Ohwi, J. Jap. Bot. 29: 369 (1954))_
+          - [ ] *Rhododendron eriocarpum var. eriocarpum* , 
+        - [ ] *Rhododendron seniavinii* Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 33 (1871)
+          - [ ] _(Azalea seniavinii (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron seniavinii var. crassifolium P.C.Tam, Surv. Genus Rhododendron S. China 111, 63. 1983 [Mar 1983])_
+          - [ ] *Rhododendron seniavinii var. seniavinii* , 
+          - [ ] *Rhododendron seniavinii var. shangyounicum* R.L.Liu & L.M.Cao, Guihaia 28: 574 (2008)
+        - [ ] *Rhododendron noriakianum* T.Suzuki, Trans. Nat. Hist. Soc. Formosa 25: 40 (1935)
+        - [ ] *Rhododendron hunanense* Chun & P.C.Tam, Bull. Bot. Res., Harbin 2(1): 92 (1982)
+          - [ ] _(Rhododendron hunanense var. mangshanicum P.C.Tam, Bull. Bot. Res., Harbin 2(1): 93. 1982)_
+        - [ ] *Rhododendron crassistylum* M.Y.He, J. Sichuan Univ., Nat. Sci. Ed. 24: 83 (1987)
+        - [ ] *Rhododendron subsessile* Rendle, J. Bot. 34: 357 (1896)
+          - [ ] _(Azalea subsessilis (Rendle) H.F.Copel., Amer. Midl. Naturalist 30: 597 (1943))_
+        - [ ] *Rhododendron flumineum* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 91 (1982)
+          - [ ] _(Rhododendron mariae subsp. flumineum (W.P.Fang & M.Y.He) X.F.Jin & B.Y.Ding, Nordic J. Bot. 27(3): 197 (2009))_
+        - [ ] *Rhododendron tashiroi* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 31: 64 (1886)
+          - [ ] _(Rhododendron tashiroi f. album Hatus. ex Minamit., J. Jap. Bot. 94(4): 207. 2019)_
+          - [ ] _(Azalea taschiroi (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron rhuyuenense* Chun ex P.C.Tam, Survey Gen. Rhododendron S. China : 96 (1983)
+        - [ ] *Rhododendron viscidum* C.Z.Guo & Z.H.Liu, Acta Bot. Yunnan. 10: 497 (1988)
+        - [ ] *Rhododendron arunachalense* D.F.Chamb. & Rae, Edinburgh J. Bot. 47: 197 (1990)
+        - [ ] *Rhododendron longiperulatum* Hayata, Icon. Pl. Formosan. 3: 138 (1913)
+        - [ ] *Rhododendron chrysocalyx* H.Lév. & Vaniot, Repert. Spec. Nov. Regni Veg. 2: 113 (1906)
+          - [ ] _(Rhododendron spinigerum H.Lév., Bull. Acad. Int. Géogr. Bot. 24: 251 (1914))_
+          - [ ] _(Rhododendron chrysocalyx var. chrysocalyx , )_
+          - [ ] *Rhododendron chrysocalyx var. xiushanense* (W.P.Fang) M.Y.He, Fl. Reipubl. Popularis Sin. [Fl. China Ed. Committee] 57(2): 407 (1994): (1994)
+            - [ ] _(Rhododendron xiushanense W.P.Fang, Acta Phytotax. Sin. 21(4): 461 (1983))_
+        - [ ] *Rhododendron sparsifolium* W.P.Fang, Nordic J. Bot. 27(5): 370 (-371; fig. 1) (2009)
+          - [ ] _(Rhododendron sparsifolium W.P.Fang, Acta Phytotax. Sin. 21(4): 462 (1983))_
+        - [ ] *Rhododendron jasminoides* M.Y.He, J. Sichuan Univ., Nat. Sci. Ed. 21: 93 (1984)
+        - [ ] *Rhododendron yakuinsulare* Masam., J. Soc. Trop. Agric. 2: 38 (1930)
+          - [ ] _(Rhododendron scabrum var. yakuinsulare (Masam.) T.Yamaz, Fl. Japan 3a: 23 (1993))_
+          - [ ] _(Rhododendron simsii var. yakuinsulare (Masam.) T.Yamaz, J. Jap. Bot. 49: 272 (1974))_
+        - [ ] *Rhododendron saisiuense* Nakai & H.Hara, Bot. Mag. (Tokyo) 49: 587 (1935)
+        - [ ] *Rhododendron scabrum* G.Don, Gen. Hist. 3: 846 (1834)
+          - [ ] _(Azalea sublanceolata (Miq.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron scabrum subsp. scabrum* , 
+            - [ ] _(Azalea bealii Fortune ex K.Koch, Dendrologie 2(2): 175. 1873 [Nov 1873])_
+            - [ ] _(Rhododendron sublanceolatum Miq., Ann. Mus. Bot. Lugduno-Batavi 2: 163 (1866))_
+          - [ ] *Rhododendron scabrum subsp. amanoi* (Ohwi) D.F.Chamb. & Rae, Edinburgh J. Bot. 47: 113 (1990)
+            - [ ] _(Rhododendron amanoi Ohwi, Bull. Natl. Sci. Mus. Tokyo , n.s., 1: 4 (1954))_
+        - [ ] *Rhododendron tsusiophyllum* Sugim., J. Jap. Bot. 31: 64 (1956)
+          - [ ] _(Tsusiophyllum tanakae Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 12 (1871))_
+        - [ ] *Rhododendron octandrum* M.Y.He, J. Sichuan Univ., Nat. Sci. Ed. 24: 84 (1987)
+        - [ ] *Rhododendron qianyangense* M.Y.He, Bull. Bot. Res., Harbin 5(4): 115 (1985)
+        - [ ] *Rhododendron nipponicum* Mastsum., Bot. Mag. (Tokyo) 13: 17 (1899)
+          - [ ] _(Azalea nipponica (Mastsum.) H.F.Copel., Amer. Midl. Naturalist 30: 595 (1943))_
+        - [ ] *Rhododendron tenuilaminare* P.C.Tam, Survey Gen. Rhododendron S. China : 102 (1983)
+        - [ ] *Rhododendron pulchroides* Chun & W.P.Fang, Acta Phytotax. Sin. 6: 171 (1957)
+        - [ ] *Rhododendron komiyamae* Makino, Three Pl. New Jap. : 1 (1925)
+        - [ ] *Rhododendron microphyton* Franch., Bull. Soc. Bot. France 33: 235 (1886)
+          - [ ] _(Azalea microphyta (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron microphyton var. trichanthum* A.L.Chang & R.C.Fang, Acta Bot. Yunnan. 4: 249 (1982)
+          - [ ] *Rhododendron microphyton var. microphyton* , 
+        - [ ] *Rhododendron boninense* Nakai, Bot. Mag. (Tokyo) 34: 324. 1920
+        - [ ] *Rhododendron rivulare* Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 58: 152 (1921)
+        - [ ] *Rhododendron ripense* Makino, Bot. Mag. (Tokyo) 22: 55 (1908)
+          - [ ] _(Azalea indica-alba Lindl., Bot. Reg. 10: t. 811 (1824))_
+          - [ ] _(Azalea pulchra Paxton, Paxton's Mag. Bot. 1: 126 (1841))_
+          - [ ] _(Rhododendron mucronatum var. ripense (Makino) E.H.Wilson, Monogr. Azaleas [E.H. Wilson & A. Rehder] 72. (1921))_
+          - [ ] _(Azalea ledifolia Hook., Bot. Mag. 56: t. 2901 (1829))_
+          - [ ] _(Azalea lilliflora Poit., Rev. Hort. (Paris) 41: 299 (1869))_
+        - [ ] *Rhododendron loniceriflorum* P.C.Tam, Bull. Bot. Res., Harbin 2(4): 81 (1982)
+        - [ ] *Rhododendron saxatile* B.Y.Ding & Y.Y.Fang, Bull. Bot. Res., Harbin 7(2): 29 (1987)
+        - [ ] *Rhododendron kwangtungense* Merr. & Chun, Sunyatsenia 1: 76 (1930)
+          - [ ] _(Rhododendron fongkaiense C.N.Wu & P.C.Tam, Med. Mat. Guangd. 4: 34 (1978);.)_
+        - [ ] *Rhododendron serpyllifolium* (A.Gray) Miq., Ann. Mus. Bot. Lugduno-Batavi 2: 165 (1866)
+          - [ ] _(Azalea serpyllifolia A.Gray, Narr. Exped. China Japan 2: 315 (1857))_
+        - [ ] *Rhododendron subflumineum* P.C.Tam, Bull. Bot. Res., Harbin 2(1): 94 (1982)
+        - [ ] *Rhododendron simsii* Planch., Fl. Serres Jard. Eur. 9: 78 (1853)
+          - [ ] _(Azalea vittatopunctata Lem., Ill. Hort. 1: t. 20 (1854))_
+          - [ ] _(Rhododendron simsii var. simsii , )_
+          - [ ] _(Rhododendron calleryi Planch., Fl. Serres Jard. Eur. 9: 81 (1853))_
+          - [ ] _(Azalea fimbriata Dum.Cours, Bot. Cult., ed. 2. 3: 337. 1811)_
+          - [ ] _(Rhododendron annamense Rehder, J. Arnold Arbor. 10: 182 (1929))_
+          - [ ] _(Azalea indica var. simsii (Planch.) L.H.Bailey, Cycl. Amer. Hort. 1: 122 1900)_
+          - [ ] _(Rhododendron simsii var. bellum (W.P.Fang & G.Z.Li) G.Z.Li, Fl. Guangxi 3: 612 (2011))_
+          - [ ] _(Azalea prolifera Poit., Ann. Inst. Roy. Hort. Fromont 1: 104 (1829))_
+          - [ ] _(Rhododendron indicum var. ignescens Sweet, Brit. Fl. Gard. 2: , pl. 128 1833)_
+          - [ ] _(Rhododendron viburnifolium W.P.Fang, Acta Phytotax. Sin. 21(4): 469 (1983))_
+          - [ ] _(Rhododendron indicum var. puniceum Sweet, Brit. Fl. Gard. 2: , pl. 128 1833)_
+          - [ ] _(Rhododendron bicolor P.C.Tam, Surv. Genus Rhododendron S. China 101, 46. 1983 [Mar 1983])_
+          - [ ] _(Rhododendron bellum W.P.Fang & G.Z.Li, Bull. Bot. Res., Harbin 4(1): 3 (1984))_
+          - [ ] _(Rhododendron simsii var. strigosistylum G.Z.Li, Guihaia 15: 298 (1995))_
+          - [ ] _(Rhododendron simsii subsp. mesembrinum Rehder, Journal of the Arnold Arboretum 10:183 (1928-1929))_
+          - [ ] _(Azalea vittata (Planch.) Dum.Cours, Bot. Cult., ed. 2. 3: 337. 1811)_
+          - [ ] _(Azalea simsii (Planch.) H.F.Copel., Amer. Midl. Naturalist 30: 597 (1943))_
+          - [ ] _(Rhododendron breynii Planch., Fl. Serres Jard. Eur. 9: 77 (1853))_
+          - [ ] _(Rhododendron indicum var. formosanum Hayata, Icon. Pl. Formosan. 3: 134 1913)_
+          - [ ] _(Rhododendron petilum P.C.Tam, Survey Gen. Rhododendron S. China : 101 (1983))_
+          - [ ] _(Rhododendron indicum var. simsii (Planch.) Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 16(9): 38 1870)_
+          - [ ] _(Azalea indica var. simsii (Planch.) Rehder, Stand. Cycl. Hort. 5:2944. (1916))_
+          - [ ] _(Rhododendron vittatum (Fortune) Planch., Rev. Hort. (Paris) , sér. 4, 3: 66 (1854))_
+          - [ ] *Rhododendron simsii var. albiflorum* R.L.Liu, Acta Bot. Yunnan. 15: 190 (1993)
+        - [ ] *Rhododendron kwangsiense* Hu ex W.P.Fang, Bull. Bot. Res., Harbin 3(4): 40 (1983)
+          - [ ] _(Rhododendron tiantangense G.Z.Li, Guihaia 15: 298 (1995))_
+          - [ ] _(Rhododendron kwangsiense var. obovatifolium P.C.Tam, Survey Gen. Rhododendron S. China : 106 (1983))_
+          - [ ] _(Rhododendron kwangsiense var. salicinum P.C.Tam, Guihaia 3(3): 178. 1983)_
+          - [ ] _(Rhododendron kwangsiense var. subfalcatum P.C.Tam, Guihaia 3(3): 178. 1983)_
+          - [ ] _(Rhododendron kwangsiense var. kwangsiense , )_
+          - [ ] _(Rhododendron mariae subsp. kwangsiense (Hu ex P.C.Tam) D.F.Chamb. & Rae, Edinburgh J. Bot. 47(2): 106. 1990)_
+        - [ ] *Rhododendron xiangganense* X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi : 169 (2009)
+        - [ ] *Rhododendron hejiangense* M.Y.He, Bull. Bot. Res., Harbin 5(4): 118 (1985)
+        - [ ] *Rhododendron gratiosum* P.C.Tam, Guihaia 3(3): 178, as 'gratiosun'. 1983
+        - [ ] *Rhododendron rubropilosum* Hayata, J. Coll. Sci. Imp. Univ. Tokyo 30(1): 173 (1911)
+          - [ ] _(Rhododendron caryophyllum Hayata, Icon. Pl. Formosan. 3: 130 (1913))_
+        - [ ] *Rhododendron jinxiuense* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 89 (1982)
+        - [ ] *Rhododendron unciferum* P.C.Tam, Guihaia 2: 73 (1982)
+        - [ ] *Rhododendron chunii* W.P.Fang, Sunyatsenia 7: 1 (1948)
+          - [ ] *Rhododendron chunii subsp. vietnamense* R.A.Baines & D.F.Chamb., Edinburgh J. Bot. 78-363: 4 (2021)
+          - [ ] *Rhododendron chunii subsp. chunii* , 
+        - [ ] *Rhododendron fuscipilum* M.Y.He, J. Sichuan Univ., Nat. Sci. Ed. 21: 94 (1984)
+        - [ ] *Rhododendron yedoense* Regel ex Maxim., Gartenflora 35: 565 (1886)
+          - [ ] _(Rhododendron hallaisanense H.Lév., Repert. Spec. Nov. Regni Veg. 12: 101 (1913))_
+          - [ ] _(Rhododendron matsumurai Komastsu, Bot. Mag. (Tokyo) 32:13. (1918))_
+          - [ ] _(Rhododendron yedoense f. poukhanense (H.Lév.) Sugim. ex T.Yamaz., Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin 44 (1996))_
+          - [ ] _(Azalea poukhanensis (H.Lév.) Olmsted, Standard. Pl. Names : 27 (1923))_
+          - [ ] _(Rhododendron coreanum Rehder, Mitt. Deutsch. Dendrol. Ges. 22: 259 (1913 publ. 1914))_
+          - [ ] _(Rhododendron yedoense var. hallaisanense (H.Lév.) T.Yamaz., Jap. Bot. 62(9): 260 (1987): (1987))_
+          - [ ] _(Rhododendron poukhanense H.Lév., Repert. Spec. Nov. Regni Veg. 5: 100 (1908))_
+        - [ ] *Rhododendron kanehirae* E.H.Wilson, Monogr. Azaleas : 25 (1921)
+        - [ ] *Rhododendron tschonoskii* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 15: 230 (1870)
+          - [ ] _(Azalea tschonoskii (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron tschonoskii var. trinerve* (Franch.) Makino, Bot. Mag. (Tokyo) 18:66. (1904)
+            - [ ] _(Rhododendron trinerve Franch., Bull. Herb. Boissier 5: 920 (1897))_
+          - [ ] *Rhododendron tschonoskii var. tschonoskii* , 
+            - [ ] _(Rhododendron tschonoskii f. tetramerum Makino, Bot. Mag. (Tokyo) 18:66. (1904))_
+            - [ ] _(Rhododendron tetramerum (Makino) Nakai, Bull. Natl. Sci. Mus. Tokyo 31: 82 (1952))_
+            - [ ] _(Rhododendron tschonoskii var. tetramerum (Makino) Komastsu, Bot. Mag. (Tokyo) 32:15. (1918))_
+            - [ ] _(Rhododendron tschonoskii var. typicum Makino, )_
+        - [ ] *Rhododendron oldhamii* Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 34 (1871)
+          - [ ] _(Rhododendron ovatosepalum Yamam., J. Soc. Trop. Agric. 5: 405 (1933))_
+          - [ ] _(Azalea oldhamii (Maxim.) Kuntze, Gard. Chron., n.s., 17: 524 1882)_
+          - [ ] _(Rhododendron oldhamii var. glandulosum Hayata, J. Coll. Agric. Imp. Univ. Tokyo 25(19): 153–154 1908)_
+          - [ ] _(Azalea oldhamii (Maxim.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+        - [ ] *Rhododendron hainanense* Merr., Philipp. J. Sci. 21: 350 (1922)
+        - [ ] *Rhododendron litchiifolium* T.C.Wu & P.C.Tam, Med. Mat. Guangdong 4: 35 (1978)
+        - [ ] *Rhododendron indicum* (L.) Sweet, Hort. Brit. , ed. 2. 343 (1830)
+          - [ ] _(Enkianthus biflorus Lour., Fl. Cochinch. : 277 (1790))_
+          - [ ] _(Azalea calycina Lem., Jard. FIeur. 3: t. 257 (1853))_
+          - [ ] _(Rhododendron sataense Nakai, Bull. Natl. Sci. Mus. Tokyo 27: 33 (1949))_
+          - [ ] _(Iposues obovata Raf., Autik. Bot. : 186 (1840))_
+          - [ ] _(Rhododendron macranthum (Bunge) G.Don, Gen. Hist. 3: 846 (1834))_
+          - [ ] _(Azalea indica L., Sp. Pl. : 150 (1753))_
+          - [ ] _(Rhododendron ramentaceum (Lindl.) Planch., Fl. Serres Jard. Eur. 9: 81 (1853))_
+          - [ ] _(Rhododendron hannoense Nakai, Trees Shrubs Japan : 98 (1922))_
+          - [ ] _(Rhododendron lateritium (Lindl.) Planch., Fl. Serres Jard. Eur. 9: 80 (1853))_
+          - [ ] _(Rhododendron thunbergii Planch., Fl. Serres Jard. Eur. 9: 78 (1853))_
+          - [ ] _(Azalea macrantha Bunge, Enum. Pl. China Bor. : 41 (1833))_
+          - [ ] _(Azalea crispiflora Hook., Bot. Mag. 79: t. 4726 (1853))_
+          - [ ] _(Rhododendron austrokiusianum Hatus., J. Jap. Bot. 24: 81 (1949))_
+          - [ ] _(Rhododendron danielsianum Planch., Fl. Serres Jard. Eur. 9: 79 (1853))_
+          - [ ] _(Loiseleria indica (L.) Rchb., Fl. Germ. Excurs. 1: 416 (1831))_
+          - [ ] _(Azalea lateritia (Lindl.) Lavallée, Énum. Arbres 154. 1877)_
+          - [ ] _(Azalea burgeri Miq., Ann. Mus. Bot. Lugduno-Batavi 1: 34 (1863))_
+          - [ ] _(Rhododendron hispidum D.Don, Edinburgh Philos. J. 6: 48 (1822))_
+          - [ ] _(Rhododendron decumbens D.Don ex G.Don, Gen. Hist. 3: 846 (1834))_
+          - [ ] _(Azalea rosiflora Dean, Fl. Mag. (London) , n.s., 1880: t. 418 (1880))_
+          - [ ] _(Rhododendron obtusum (Lindl.) Planch., Fl. Serres Jard. Eur. 9: 80 1853-1854)_
+          - [ ] _(Azalea obtusa Lindl., J. Hort. Soc. London 1: 152 (1846))_
+          - [ ] _(Azalea decumbens (D.Don ex G.Don) DC., Prodr. 7: 718 (1839))_
+          - [ ] _(Rhododendron kiusianum var. sataense (Nakai) D.F.Chamb. & Rae, Edinburgh J. Bot. 47(2): 122. 1990)_
+          - [ ] _(Rhododendron buergeri Miq., Ann. Mus. Bot. Lugduno-Batavi 1: 34 (1863))_
+          - [ ] _(Azalea danielsiana Paxton, Paxton's Mag. Bot. 1: 129 (1834))_
+          - [ ] _(Rhododendron crispiflorum Planch., Fl. Serres Jard. Eur. 9: 83 (1853))_
+          - [ ] *Rhododendron indicum var. tamurae* Makino, Bot. Mag. (Tokyo) 18:102. (1904)
+        - [ ] *Rhododendron flosculum* W.P.Fang & G.Z.Li, Bull. Bot. Res., Harbin 4(1): 4 (1984)
+        - [ ] *Rhododendron tenue* Ching ex W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 87 (1982)
+        - [ ] *Rhododendron chaoanense* D.C.Wu & P.C.Tam, Med. Mat. Guangdong 4: 35 (1978)
+        - [ ] *Rhododendron nanpingense* P.C.Tam, Bull. Bot. Res., Harbin 2(4): 82 (1982)
+        - [ ] *Rhododendron yaoshanicum* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 3(1): 3 (1983)
+        - [ ] *Rhododendron adenanthum* M.Y.He, J. Sichuan Univ., Nat. Sci. Ed. 21: 94 (1984)
+        - [ ] *Rhododendron bicorniculatum* P.C.Tam, Survey Gen. Rhododendron S. China : 104 (1983)
+        - [ ] *Rhododendron myrsinifolium* Ching ex W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 88 (1982)
+          - [ ] _(Rhododendron caespitulum P.C.Tam, Survey Gen. Rhododendron S. China : 110 (1983))_
+        - [ ] *Rhododendron tingwuense* P.C.Tam, Med. Mat. Guangdong 4: 36 (1978)
+        - [ ] *Rhododendron fuchsiifolium* H.Lév., Repert. Spec. Nov. Regni Veg. 13: 148 (1914)
+        - [ ] *Rhododendron longifalcatum* P.C.Tam, Guihaia 2: 73 (1982)
+        - [ ] *Rhododendron minutiflorum* Hu, J. Arnold Arbor. 12: 155 (1931)
+        - [ ] *Rhododendron lilacinum* Xiang Chen & X.Chen, Novon 20: 388 (2010)
+        - [ ] *Rhododendron rhodanthum* M.Y.He, Bull. Bot. Res., Harbin 5(4): 116 (1985)
+        - [ ] *Rhododendron sikayotaizanense* Masam., Trans. Nat. Hist. Soc. Formosa 29: 27 (1939)
+        - [ ] *Rhododendron nakaharae* Hayata, J. Coll. Sci. Imp. Univ. Tokyo 25(19): 153 (1908)
+        - [ ] *Rhododendron saxicola* Sleumer, Blumea, Suppl. 4: 49 (1958)
+        - [ ] *Rhododendron mariae* Hance, J. Bot. 20: 230 (1882)
+          - [ ] _(Rhododendron mariae subsp. microphyton (Franch.) X.F.Jin & B.Y.Ding, Nordic J. Bot. 27: 195 (2009))_
+          - [ ] _(Rhododendron papyrociliare P.C.Tam, Guihaia 3(3): 179. 1983)_
+          - [ ] _(Azalea mariae (Hance) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron mariae subsp. mariae , )_
+        - [ ] *Rhododendron malipoense* M.Y.He, J. Sichuan Univ., Nat. Sci. Ed. 21: 95 (1984)
+        - [ ] *Rhododendron sohayakiense* Y.Watan & T.Yukawa, PhytoKeys 134: 105. 2019
+          - [ ] *Rhododendron sohayakiense var. kiusianum* Y.Watan, T.Yukawa & Minamit., PhytoKeys 134: 108. 2019
+          - [ ] *Rhododendron sohayakiense var. koreanum* Y.Watan & T.Yukawa, PhytoKeys 134: 111. 2019
+          - [ ] *Rhododendron sohayakiense var. sohayakiense* , 
+        - [ ] *Rhododendron linguiense* G.Z.Li, Guihaia 15: 295 (1995)
+        - [ ] *Rhododendron subenerve* P.C.Tam, et in Survey Gen. Rhododendron S. China 108, 60 (1983).
+        - [ ] *Rhododendron yunyianum* X.F.Jin & B.Y.Ding, Ann. Bot. Fenn. 46: 231 (2009)
+        - [ ] *Rhododendron huiyangense* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 3(1): 4 (1983)
+        - [ ] *Rhododendron crassimedium* P.C.Tam, Bull. Bot. Res., Harbin 2(1): 96 (1982)
+        - [ ] *Rhododendron taiwanalpinum* Ohwi, J. Jap. Bot. 13: 339 (1937)
+          - [ ] _(Rhododendron rubropilosum subsp. taiwanalpinum (Ohwi) S.S.Ying, Coloured Ill. Fl. Taiwan 5: 130 (1995).)_
+          - [ ] _(Rhododendron rubropilosum var. taiwanalpinum (Ohwi) S.Y.Lu, Yuen P.Yang & Y.H.Tseng, Fl. Taiwan ed. 2, 4: 32. 1998)_
+        - [ ] *Rhododendron naamkwanense* Merr., Lingnan Sci. J. 13: 42 (1934)
+          - [ ] *Rhododendron naamkwanense var. cryptonerve* P.C.Tam, Bull. Bot. Res., Harbin 2(1): 94 (1982)
+          - [ ] *Rhododendron naamkwanense var. naamkwanense* , 
+            - [ ] _(Rhododendron ripaecola P.C.Tam, Survey Gen. Rhododendron S. China : 110 (1983))_
+            - [ ] _(Rhododendron riparium A.Wang & P.C.Tam, Med. Mat. Guangdong 4:33. (1978))_
+            - [ ] _(Rhododendron ripicola P.C.Tam, Survey Rhodod. South China 110, f. 21 1983)_
+        - [ ] *Rhododendron yangmingshanense* P.C.Tam, Bull. Bot. Res., Harbin 2(1): 97 (1982)
+        - [ ] *Rhododendron kiusianum* Makino, Bot. Mag. (Tokyo) 28: 174 (1914)
+          - [ ] _(Azalea amoena Lindl., Paxton's Fl. Gard. 3: t. 89 (1852))_
+        - [ ] *Rhododendron mucronatum* (Blume) G.Don, Gen. Hist. 3: 846 (1834)
+          - [ ] _(Rhododendron leucanthum Bunge, Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans 2: 115 (1835))_
+          - [ ] _(Azalea purpurea Dum.Cours, Bot. Cult., ed. 2. 3: 337. 1811)_
+          - [ ] _(Rhododendron rosmarinifolium (Burm.f) Dippel, Handb. Laubholzk. i. (1889) 421; Koehne. Deutsche Dendrol. (1893) 457.)_
+          - [ ] _(Rhododendron argyi H.Lév., Repert. Spec. Nov. Regni Veg. 12: 102 (1913))_
+          - [ ] _(Rhododendron ledifolium G.Don, Gen. Hist. 3: 846 (1834))_
+          - [ ] _(Rhododendron narcissiflorum Planch., Fl. Serres Jard. Eur. 9: 82 (1853))_
+          - [ ] _(Azalea rosmarinifolia Burm.f, Fl. Indica : 43 (1768))_
+          - [ ] _(Rhododendron burmanni G.Don, Gen. Hist. 3: 846 (1834))_
+          - [ ] _(Azalea narcissiflora Fortune ex Planch., Rev. Hort. [Paris]. ser. 4, 3: 67. 1854 [16 Feb 1854])_
+          - [ ] _(Rhododendron sekidera Komastsu, Bot. Mag. (Tokyo) 32: (46) (1918))_
+          - [ ] _(Azalea alba Sweet, Ann. Inst. Roy. Hort. Fromont 1: 104 (1829))_
+          - [ ] _(Azalea mucronata Blume, Catalogus : 44 (1823))_
+      - [ ] *Rhododendron tsoi* Merr., Lingnan Sci. J. 13: 42 (1934)
+        - [ ] _(Rhododendron subenerve var. nudistylum P.C.Tam, Surv. Genus Rhododendron S. China 108, 60. 1983 [Mar 1983])_
+        - [ ] _(Rhododendron hypoblematosum P.C.Tam, Bull. Bot. Res., Harbin 2(1): 90 (1982))_
+        - [ ] *Rhododendron tsoi var. polyraphidoideum* (P.C.Tam) X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi : 203 (2009)
+          - [ ] _(Rhododendron polyraphidoideum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 84 (1982))_
+          - [ ] _(Rhododendron polyraphidoideum var. polyraphidoideum , )_
+        - [ ] *Rhododendron tsoi var. hypoblematosum* X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi : 200 (2009)
+        - [ ] *Rhododendron tsoi var. tsoi* , 
+      - [ ] *Rhododendron subsect. Brachycalyces* (Sweet) Spethmann, Pl. Syst. Evol. 157(1-2): 28, nom. nov. 1987
+        - [ ] *Rhododendron hyugaense* (T.Yamaz.) T.Yamaz, J. Jap. Bot. 62: 72 (1987)
+          - [ ] _(Rhododendron hyugaense f. albiflorum Hatus. ex Minamit., J. Jap. Bot. 94(4): 220. 2019)_
+          - [ ] _(Rhododendron viscistylum var. hyugaense T.Yamaz, J. Jap. Bot. 59: 208 (1984))_
+        - [ ] *Rhododendron weyrichii* Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 26 (1871)
+          - [ ] _(Azalea weyrichii (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron weyrichii f. purpuriflorum T.Yamaz, Fl. Jap. (Iwatsuki et al., eds.) 3a: 31. 1993)_
+          - [ ] _(Rhododendron weyrichii var. psilostylum Nakai, Bot. Mag. Tokyo 40:487 (1926))_
+          - [ ] _(Rhododendron weyrichii var. purpuriflorum (T.Yamaz) Minamit., J. Jap. Bot. 94(4): 211. 2019)_
+        - [ ] *Rhododendron nudipes* Nakai, Bot. Mag. (Tokyo) 40: 484 (1926)
+          - [ ] _(Rhododendron yakumontanum Masam., Prelim. Rep. Veg. Yakus. : 106 (1929))_
+          - [ ] *Rhododendron nudipes var. kyushumontanum* Minamit., J. Jap. Bot. 93(2): 96. 2018
+          - [ ] *Rhododendron nudipes f. gokanosyoense* Minamit., J. Jap. Bot. 93(2): 96. 2018
+          - [ ] *Rhododendron nudipes f. fugensense* Minamit., J. Jap. Bot. 94 (4):229. (2019)
+          - [ ] *Rhododendron nudipes f. gracilescens* (Nakai) Minamit., J. Jap. Bot. 94(4): 229. 2019
+            - [ ] _(Rhododendron gracilescens (Nakai) F.Maek., J. Jap. Bot. 27: 329 (1952))_
+            - [ ] _(Rhododendron nagasakianum var. gracilesscens Nakai, Trees & Shrubs Japan Ed. 1 1:102. fig.47. (1927))_
+          - [ ] *Rhododendron nudipes f. lobatum* Minamit., J. Jap. Bot. 94(4): 229. 2019
+          - [ ] *Rhododendron nudipes var. nagasakianum* (Nakai) T.Yamaz, Fl. Japan 3a: 36 (1993)
+            - [ ] _(Rhododendron nagasakianum Nakai, Bot. Mag. (Tokyo) 40: 484 (1926))_
+          - [ ] *Rhododendron nudipes var. sumikoyamadae* Minamit., J. Jap. Bot. 93(2): 98. 2018
+        - [ ] *Rhododendron mayebarae* Nakai & Hara, J. Jap. Bot. 11: 825 (1935)
+          - [ ] _(Rhododendron nudipes var. mayebarae (Nakai & H.Hara) Nakai & H.Hara, Acta Phytotax. Geobot. 25: 37 (1972))_
+          - [ ] *Rhododendron mayebarae var. ohsumiense* T.Yamaz, J. Jap. Bot. 59: 209 (1984)
+          - [ ] *Rhododendron mayebarae var. mayebarae* , 
+        - [ ] *Rhododendron farrerae* Tate ex Sweet, Brit. Fl. Gard. 4: t. 95 (1831)
+          - [ ] _(Azalea squamata Lindl., J. Hort. Soc. London 1: 152 (1849))_
+          - [ ] _(Azalea farrerae (Sweet) K.Koch, Dendrologie 2(2): 178 (1873))_
+          - [ ] _(Rhododendron cinereoserratum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 77. 1982)_
+          - [ ] _(Rhododendron farrerae var. leucotrichum Franch., J. Bot. (Morot) 9(21): 394 1895)_
+        - [ ] *Rhododendron dilatatum* Miq., Ann. Mus. Bot. Lugduno-Batavi 1: 34 (1863)
+          - [ ] _(Azalea dilatata (Miq.) Hook.f., Bot. Mag. 125: t. 7681 (1899))_
+          - [ ] *Rhododendron dilatatum var. ookuemontanum* Minamit., J. Jap. Bot. 93(2): 89. 2018
+          - [ ] *Rhododendron dilatatum f. niveum* Minamit., J. Jap. Bot. 93(2): 91. 2018
+          - [ ] *Rhododendron dilatatum f. decandrum* (Makino) Minamit., J. Jap. Bot. 94(4): 216. 2019
+            - [ ] _(Rhododendron dilatatum subsp. decandrum (Makino) X.F.Jin & B.Y.Ding, Ann. Missouri Bot. Gard. 97: 174 (2010))_
+            - [ ] _(Rhododendron dilatatum var. decandrum Makino, Bot. Mag. (Tokyo) 7: 134 (1893))_
+            - [ ] _(Rhododendron decandrum (Makino) Makino, J. Jap. Bot. 1: 21 (1917))_
+          - [ ] *Rhododendron dilatatum subsp. satsumense* (T.Yamaz) Minamit., J. Jap. Bot. 93(2): 88. 2018
+            - [ ] _(Rhododendron dilatatum var. satsumense T.Yamaz, J. Jap. Bot. 56: 363 (1981))_
+          - [ ] *Rhododendron dilatatum f. inobeanum* (Honda) Minamit., J. Jap. Bot. 94(4): 216. 2019
+            - [ ] _(Rhododendron inobeanum Honda, Bot. Mag. (Tokyo) 53: 383 (1939))_
+          - [ ] *Rhododendron dilatatum var. occidentalitosaense* Minamit., J. Jap. Bot. 93(2): 92. 2018
+          - [ ] *Rhododendron dilatatum subsp. arborescens* Minamit., J. Jap. Bot. 93(2): 92. 2018
+          - [ ] *Rhododendron dilatatum f. pilosum* (H.Hara) Minamit., J. Jap. Bot. 94(4): 216. 2019
+            - [ ] _(Rhododendron decandrum var. pilosum H.Hara, Enum. Spermatophytarum Japon. 1: 29. 1949)_
+          - [ ] *Rhododendron dilatatum var. nipponense* Minamit., J. Jap. Bot. 94 (4):216. (2019)
+        - [ ] *Rhododendron yakumontanum* (T.Yamaz) T.Yamaz, J. Jap. Bot. 62: 72 (1987)
+          - [ ] _(Rhododendron nudipes subsp. yakumontanum T.Yamaz, J. Jap. Bot. 56(11): 364 (1981).)_
+          - [ ] *Rhododendron yakumontanum var. yakumontanum* , 
+          - [ ] *Rhododendron yakumontanum var. katsumarunoanum* Minamit., J. Jap. Bot. 93(2): 98. 2018
+        - [ ] *Rhododendron amagianum* (Makino) Makino ex H.Hara, Enum. Spermatophytarum Japon. 1: 27 (1948)
+          - [ ] _(Rhododendron weyrichii var. amagianum (Makino) H.Hara, J. Jap. Bot. 61 (8):246. (1986))_
+          - [ ] _(Azalea amagiana Makino, J. Jap. Bot. 7: 21 (1931))_
+        - [ ] *Rhododendron lagopus* Nakai, Bot. Mag. (Tokyo) 40: 483 (1926)
+          - [ ] _(Rhododendron lagopus f. albiflorum (Satomi & Fukush.) T.Yamaz, Fl. Jap. (Iwatsuki et al., eds.) 3a: 35. 1993)_
+          - [ ] _(Rhododendron lagopus f. niphophilum (T.Yamaz) Minamit., J. Jap. Bot. 94(4): 226. 2019)_
+          - [ ] _(Rhododendron nudipes f. albiflorum Satomi & Fukush., )_
+          - [ ] _(Rhododendron lagopus var. niphophilum (T.Yamaz) T.Yamaz, J. Jap. Bot. 63(12): 410 (1988):.)_
+          - [ ] _(Rhododendron nudipes subsp. niphophilum T.Yamaz, J. Jap. Bot. 56(11): 363 (1981).)_
+        - [ ] *Rhododendron sanctum* Nakai, Bot. Mag. (Tokyo) 46: 630 (1932)
+          - [ ] _(Rhododendron sanctum f. albiflorum T.Yamaz, Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin 90 (1996).)_
+          - [ ] _(Rhododendron sanctum var. lasigema Nakai ex Sugim., Key Trees Shrubs Japan 304. (1936))_
+        - [ ] *Rhododendron kiyosumense* (Makino) Makino, Fl. Japan , ed. 2: 880 (1931)
+          - [ ] _(Rhododendron shimidzuanum Honda ex Makino, Fl. Japan , ed. 2: 890 (1931))_
+          - [ ] _(Rhododendron kiyosumense f. glabrescens Minamit., J. Jap. Bot. 94(4): 239. 2019)_
+          - [ ] _(Azalea kiyosumensis Makino, J. Jap. Bot. 6: 18 (1929))_
+        - [ ] *Rhododendron kyushuense* Minamit., J. Jap. Bot. 93(2): 101. 2018
+          - [ ] _(Rhododendron kyushuense f. glabrescens (Nakai & H.Hara) Minamit., J. Jap. Bot. 94(4): 238. 2019)_
+          - [ ] _(Rhododendron kyushuense subsp. albiflorum Minamit., J. Jap. Bot. 93(2): 102. 2018)_
+          - [ ] _(Rhododendron reticulatum f. glabrescens (Nakai & H.Hara) T.Yamaz, Fl. Jap. (Iwatsuki et al., eds.) 3a: 37. 1993)_
+          - [ ] _(Rhododendron reticulatum var. glabrescens Nakai & H.Hara, J. Jap. Bot. 11: 824. 1935)_
+        - [ ] *Rhododendron huadingense* B.Y.Ding & Y.Y.Fang, Taxon 54(3): 804 (2005)
+          - [ ] _(Rhododendron huadingense B.Y.Ding & Y.Y.Fang, Bull. Bot. Res., Harbin 10(1): 31, with two types cited (1990))_
+        - [ ] *Rhododendron amakusaense* (T.Yamaz) T.Yamaz, J. Jap. Bot. 62: 72 (1987)
+          - [ ] _(Rhododendron viscistylum var. amakusaense T.Yamaz, J. Jap. Bot. 59(7): 205. 1984 [Jul 1984])_
+        - [ ] *Rhododendron wadanum* Makino, J. Jap. Bot. 1: 21 (1917)
+        - [ ] *Rhododendron osuzuyamense* T.Yamaz, J. Jap. Bot. 94(4): 219. 2019
+        - [ ] *Rhododendron viscistylum* Nakai, Bot. Mag. (Tokyo) 49: 498 (1935)
+        - [ ] *Rhododendron chilanshanense* Kurash., Edinburgh J. Bot. 56: 75 (1999)
+        - [ ] *Rhododendron mariesii* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1907: 44 (1907)
+          - [ ] _(Rhododendron umbelliferum H.Lév., Repert. Spec. Nov. Regni Veg. 12: 102 (1913))_
+          - [ ] _(Rhododendron farrerae var. mediocre Diels, Bot. Jahrb. Syst. 29(3–4): 514 1900)_
+          - [ ] _(Rhododendron daiyunicum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 78 (1982))_
+          - [ ] _(Azalea mariesii (Hemsl. & E.H.Wilson) H.F.Copel., Amer. Midl. Naturalist 30: 597 (1943))_
+          - [ ] _(Rhododendron gnaphalocarpum Hayata, Icon. Pl. Formosan. 3: 132 (1913))_
+          - [ ] _(Rhododendron daiyuenshanicum P.C.Tam, Survey Gen. Rhododendron S. China : 96 (1983))_
+          - [ ] _(Rhododendron shojoense Hayata, J. Coll. Sci. Imp. Univ. Tokyo 30(1): 174 (1911))_
+        - [ ] *Rhododendron hidakanum* H.Hara, J. Jap. Bot. 49: 353 (1974)
+        - [ ] *Rhododendron awatosaense* Minamit. & Yonek., J. Jap. Bot. 93(2): 93. 2018
+          - [ ] *Rhododendron awatosaense var. awatosaense* , 
+          - [ ] *Rhododendron awatosaense var. sizukaobarae* Minamit., J. Jap. Bot. 93(2): 95. 2018
+          - [ ] *Rhododendron awatosaense var. miyabiense* Minamit., J. Jap. Bot. 93(2): 95. 2018
+        - [ ] *Rhododendron reticulatum* D.Don ex G.Don, Gen. Hist. 3: 846 (1834)
+          - [ ] _(Rhododendron rhombicum Miq., Ann. Mus. Bot. Lugduno-Batavi 2: 164 (1866))_
+          - [ ] _(Azalea rhombica (Miq.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron sakawanum Makino, J. Jap. Bot. 3: 11 (1926))_
+          - [ ] *Rhododendron reticulatum var. ciiatum* Nakai, Bot. Mag. (Tokyo) 40:486. (1926)
+            - [ ] _(Rhododendron reticulatum subsp. ciliatum (Nakai) Minamit., J. Jap. Bot. 93(2): 88. 2018)_
+          - [ ] *Rhododendron reticulatum var. shimanum* Minamit. & K.Yamawaki, J. Jap. Bot. 93(2): 99. 2018
+          - [ ] *Rhododendron reticulatum var. reticulatum* , 
+            - [ ] _(Rhododendron reticulatum subsp. reticulatum , )_
+          - [ ] *Rhododendron reticulatum var. hidekokubuanum* Minamit., J. Jap. Bot. 93(2): 99. 2018
+        - [ ] *Rhododendron tsurugisanense* (T.Yamaz.) T.Yamaz, J. Jap. Bot. 66: 125 (1991)
+          - [ ] _(Rhododendron nudipes var. tokushimense T.Yamaz, J. Jap. Bot. 56(11): 364 (1981).)_
+          - [ ] _(Rhododendron lagopus var. tsurugisanense (T.Yamaz.) T.Yamaz, J. Jap. Bot. 63: 410 (1988))_
+          - [ ] _(Rhododendron nudipes var. tsurugisanense T.Yamaz., J. Jap. Bot. 59: 210 (1984))_
+          - [ ] _(Rhododendron lagopus var. tokushimense (T.Yamaz) T.Yamaz, J. Jap. Bot. 63(12): 410 (1988):.)_
+          - [ ] *Rhododendron tsurugisanense var. tsurugisanense* , 
+          - [ ] *Rhododendron tsurugisanense var. nudipetiolatum* T.Yamaz, J. Jap. Bot. 66: 125 (1991)
+    - [ ] *Rhododendron microcarpum* R.L.Liu & L.M.Gao, Phytotaxa 356(4): 271. 2018
+    - [ ] *Rhododendron sect. Sciadorhodion* Rehder & E.H.Wilson, Monogr. Azaleas [E.H. Wilson & A. Rehder] 79 (1921)
+      - [ ] *Rhododendron albrechtii* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 15: 227 (1870)
+        - [ ] _(Azalea albrechtii (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] *Rhododendron albiflorum* Hook., Fl. Bor.-Amer. 2: 43 (1834)
+        - [ ] _(Rhododendron album (Pursh) Hoffmanns., Verz. Pfl.-Kult. 192. 1824)_
+        - [ ] _(Azaleastrum warrenii A.Nelson, Bot. Gaz. 56: 67 (1913))_
+        - [ ] _(Azaleastrum albiflorum (Hook.) Rydb., Mem. New York Bot. Gard. 1: 297 (1900))_
+        - [ ] _(Azalea albiflora (Hook.) Hook., Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] _(Azaleastrum albiflorum subsp. warrenii (A.Nelson) W.A.Weber, Phytologia 79: 65 (1995 publ. 1996))_
+        - [ ] _(Rhododendron albiflorum var. albiflorum , )_
+        - [ ] _(Rhododendron warrenii (A.Nelson) J.F.Macbr., Contr. Gray Herb. 56: 55 (1918))_
+        - [ ] _(Rhododendron albiflorum var. warrenii (A.Nelson) M.A.Lane, Rhodora 95(881): 18 (1993), without basionym ref.)_
+        - [ ] _(Cladothamnus campanulatus Greene, Erythea 3: 65 (1895))_
+      - [ ] *Rhododendron menziesii* Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia ferruginea subsp. glabella (A.Gray) Calder & Roy L.Taylor, Canad. J. Bot. 43: 1398 (1965))_
+        - [ ] _(Menziesia urceolaris (Sm.) Salisb., Parad. Lond. 1: t. 44 (1806))_
+        - [ ] _(Menziesia ferruginea var. ferruginea , )_
+        - [ ] _(Menziesia ferruginea var. glabella (A.Gray) M.Peck, Man. Pl. Oregon : 542 (1941))_
+        - [ ] _(Rhododendron menziesii subsp. glabellum (A.Gray) Craven, Blumea 56: 34 (2011))_
+        - [ ] _(Menziesia ferruginea Sm., Pl. Icon. Ined. : t. 56 (1791))_
+        - [ ] _(Menziesia glabella A.Gray, Syn. Fl. N. Amer. 2(1): 39 (1878))_
+      - [ ] *Rhododendron pentaphyllum* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 31: 64 (1886)
+        - [ ] _(Azalea pentaphylla (Maxim.) H.F.Copel., Amer. Midl. Naturalist 30: 595 (1943))_
+        - [ ] _(Rhododendron pentaphyllum var. nikoense Komastsu, Icon. Pl. Koisikav. 3:45. (1916))_
+        - [ ] _(Rhododendron nikoense (Komastsu) Nakai, Trees Shrubs Japan : 68 (1922))_
+        - [ ] _(Rhododendron pentaphyllum var. pentaphyllum , )_
+        - [ ] _(Rhododendron pentaphyllum var. shikokianum T.Yamaz, J. Jap. Bot. 63: 312 (1988))_
+      - [ ] *Rhododendron kroniae* Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia lasiophylla Nakai, Trees Shrubs Japan : 36 (1922))_
+        - [ ] _(Rhododendron multiflorum var. purpureum (Maxim.) Craven, Blumea 56: 34 (2011))_
+        - [ ] _(Menziesia ciliicalyx var. purpurea (Maxim.) Makino, J. Jap. Bot. 1: 10. 1916)_
+        - [ ] _(Menziesia purpurea Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 11: 431 (1867))_
+      - [ ] *Rhododendron multiflorum* (Maxim.) Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia lasiophylla f. bicolor (Makino) Hiyama, J. Jap. Bot. 39(4): 126. 1964)_
+        - [ ] _(Rhododendron multiflorum f. brevicalyx (Hiyama) Craven, Blumea 56(1): 34. 2011 [16 Mar 2011] Preprint distributed 16 Mar 2011)_
+        - [ ] _(Menziesia multiflora f. bicolor (Makino) T.Yamaz, Fl. Japan 3a: 13 (1993))_
+        - [ ] _(Menziesia multiflora Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 11 (1871))_
+        - [ ] _(Rhododendron multiflorum f. bicolor (Makino) Craven, Blumea 56(1): 34 (2011))_
+        - [ ] _(Menziesia multiflora f. brevicalyx Hiyama, J. Jap. Bot. 39: 127. 1964)_
+        - [ ] _(Menziesia multiflora var. longicalyx Kitam., Acta Phytotax. Geobot. 25: 38 (1972))_
+        - [ ] _(Menziesia ciliicalyx unranked bicolor Makino, J. Jap. Bot. 1 (3): E10 (1916))_
+      - [ ] *Rhododendron quinquefolium* Bisset & S.Moore, J. Bot. 15: 292 (1877)
+        - [ ] _(Rhododendron quinquefolium f. quinquefolium , )_
+        - [ ] _(Rhododendron quinquefolium f. speciosum N.Yonez., J. Phytogeogr. Taxon. 35(2): 101 (1987).)_
+        - [ ] _(Azalea quinquefolia (Bisset  & S.Moore) Olmsted,  Coville, & Kelsey, Stand. PI. Names  27  (1923))_
+      - [ ] *Rhododendron katsumatae* (M.Tash. & H.Hatta) Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia katsumatae f. duplex (Satomi & H.Hashimoto) Satomi, J. Phytogeogr. Taxon. 36(2): 112 (1988):.)_
+        - [ ] _(Menziesia katsumatae M.Tash. & H.Hatta, Bot. Mag. (Tokyo) 99: 29 (1986))_
+        - [ ] _(Menziesia multiflora f. duplex Satomi & H.Hashimoto, )_
+      - [ ] *Rhododendron pilosum* (Michx.) Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia pilosa (Michx.) Juss., Ann. Mus. Natl. Hist. Nat. 1: 56 (1802))_
+        - [ ] _(Menziesia ferruginea var. globularis A.Gray, Manual , ed. 2: 256 (1856))_
+        - [ ] _(Menziesia smithii Michx., Fl. Bor.-Amer. 1: 235 (1803))_
+        - [ ] _(Menziesia globularis Salisb., Parad. Lond. 1(2): t. 44. 1806)_
+        - [ ] _(Candollea azaleoides Baumg., Cat. Hort. Bollw. : s.p. (1810))_
+        - [ ] _(Menziesia globularis Hook., Fl. Bor.-Amer. 2: 41 1834)_
+        - [ ] _(Azalea pilosa Michx., in Lam. Journ. Hist. Nat. i. (1792) 410.)_
+      - [ ] *Rhododendron goyozanense* (M.Kikuchi) Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia goyozanensis M.Kikuchi, J. Jap. Bot. 37: 355 (1962))_
+      - [ ] *Rhododendron benhallii* Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia tubiflora Koidz., Bot. Mag. (Tokyo) 37: 37 (1923))_
+        - [ ] _(Menziesia ciliicalyx var. akiensis Hiyama, J. Jap. Bot. 39(4): 127. 1964)_
+        - [ ] _(Menziesia ciliicalyx (Miq.) Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 10 (1871))_
+        - [ ] _(Andromeda ciliicalyx Miq., Ann. Mus. Bot. Lugduno-Batavi 1: 30 (1863))_
+      - [ ] *Rhododendron schlippenbachii* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 15: 226 (1870)
+        - [ ] _(Azalea schlippenbachii (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] *Rhododendron pentandrum* (Maxim.) Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia pentandra Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 11: 431 (1867))_
+      - [ ] *Rhododendron × kamatae* (Mochizuki) Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia kamatae Mochizuki, J. Phytogeogr. Taxon. 29: 108 (1981))_
+      - [ ] *Rhododendron yakushimense* (M.Tash. & H.Hatta) Craven, Blumea 56: 34 (2011)
+        - [ ] _(Menziesia yakushimensis M.Tash. & H.Hatta, Bot. Mag. (Tokyo) 99: 33 (1986))_
+      - [ ] *Rhododendron vaseyi* A.Gray, Proc. Amer. Acad. Arts 15: 48 (1880)
+        - [ ] _(Biltia vaseyi (A. Gray) Small, Fl. S.E. U.S. : 884 (1903))_
+        - [ ] _(Rhododendron vaseyi var. album Bean, Trees & Shrubs Brit. Isles 2: 384 (1914))_
+        - [ ] _(Rhododendron vaseyi f. album (Bean) Rehder, Mitt. Deutsch. Dendrol. Ges. 24: 225 (1915))_
+        - [ ] _(Azalea vaseyi (A.Gray) Rehder, Möller's Deutsche Gärtn.-Zeitung 14: 332 (1899))_
+    - [ ] *Rhododendron sect. Azaleastrum* Planch. ex Maxim., Mém. Acad. Imp. Sci. St.-Pétersbourg, Sér. 7. 16(9): 45. 1870 [Dec 1870]
+      - [ ] *Rhododendron hangzhouense* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 81 (1982)
+      - [ ] *Rhododendron vialii* Delavay & Franch., J. Bot. (Morot) 9: 398 (1895)
+      - [ ] *Rhododendron hongkongense* Hutch., Spec. Rhododendron : 562 (1930)
+        - [ ] _(Azalea myrtifolia Champ., Bot. Mag. 77: t. 4609 (1851))_
+      - [ ] *Rhododendron uwaense* H.Hara & T.Yamanaka, J. Jap. Bot. 59: 290 (1984)
+      - [ ] *Rhododendron tianlinense* P.C.Tam, Survey Gen. Rhododendron S. China : 112 (1983)
+      - [ ] *Rhododendron bachii* H.Lév., Repert. Spec. Nov. Regni Veg. 12: 103 (1913)
+      - [ ] *Rhododendron ovatum* (Lindl.) Maxim. ex Planch., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 15: 230 (1870)
+        - [ ] _(Rhododendron ovatum var. lamprophyllum (Hayata) Y.C.Lui, )_
+        - [ ] _(Rhododendron lamprophyllum Hayata, Icon. Pl. Formosan. 3: 135 (1913))_
+        - [ ] _(Rhododendron ovatum var. prismatum P.C.Tam, Bull. Bot. Res., Harbin 2(1): 99. 1982)_
+        - [ ] _(Rhododendron ovatum var. setuliferum M.Y.He, J. Sichuan Univ., Nat. Sci. Ed. 1984(1): 96 (1984).)_
+        - [ ] _(Azalea ovata Lindl., J. Hort. Soc. London 1: 149 (1846))_
+        - [ ] _(Rhododendron ovatum var. ovatum , )_
+      - [ ] *Rhododendron leptothrium* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 84 (1919)
+        - [ ] _(Rhododendron australe Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 93 (1920))_
+      - [ ] *Rhododendron medoense* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 3(1): 1 (1983)
+        - [ ] _(Rhododendron medoense var. medoense , 2005)_
+      - [ ] *Rhododendron ngawchangensis* M.N.Philipson & Philipson, Notes Roy. Bot. Gard. Edinburgh 40: 228 (1982)
+  - [ ] *Rhododendron × russelianum* Sweet, Brit. Fl. Gard. 4: t. 9 (1829)
+    - [ ] _(Rhododendron clivianum J.Sm., Bot. Mag. 75: t. 4478 (1849))_
+    - [ ] _(Rhododendron clivianum Hort., Ung. Rosenzeitung 7(6): 24 1904)_
+  - [ ] *Rhododendron × hasegawae* S.Watan., J. Jap. Bot. 80: 174 (2005)
+  - [ ] *Rhododendron pangeanum* A.A.Mao & Bhaumik, Rhododendron Species [RSF Yearbook] 7:29. (2012)
+  - [ ] *Rhododendron × fastigifolium* (W.P.Lemmon) H.H.Hume, Azaleas: Kinds Cult. 28 (1948)
+    - [ ] _(Azalea fastigifolia W.P.Lemmon, Bartonia 19: 15 (1938))_
+  - [ ] *Rhododendron × vanhoeffenii* Abrom., Biblioth. Bot. 8(42, 2): 51 (1899)
+    - [ ] _(Ledodendron vanhoeffenii (Abrom.) Dalgaard & Fredskild, Nordic J. Bot. 13: 255 (1993))_
+  - [ ] *Rhododendron × victorianum* (Cuvelier) Cuvelier, Gard. Chron. , ser. 3, 1: 387 (1887)
+  - [ ] *Rhododendron × sinosimulans* D.F.Chamb., Fl. China 14: 384 (2005)
+    - [ ] _(Rhododendron mimetes var. simulans Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 316. 1927)_
+    - [ ] _(Rhododendron simulans (Tagg & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 39(2): 343. 1982)_
+  - [ ] *Rhododendron taitungalpinum* S.S.Ying, Mem. Coll. Agric. Natl. Taiwan Univ. 29(1): 87 (1989).
+  - [ ] *Rhododendron × pulchrum* Sweet, Brit. Fl. Gard. 5: t. 117 (1831)
+    - [ ] _(Rhododendron o-murasaki Makino, J. Jap. Bot. 1: 18 (1917))_
+    - [ ] _(Rhododendron indicum var. smithii Sweet, Hort. Brit. (ed. 2) 343 1830)_
+    - [ ] _(Rhododendron phoeniceum f. smithii (Sweet) E.H.Wilson, Monogr. Azaleas 62 1921)_
+    - [ ] _(Azalea punicea Sweet ex Poit., Rev. Hort. (Paris) 1: 66 1829)_
+    - [ ] _(Azalea phaenicea Planch., Fl. Serres Jard. Eur. 9: 79 (1853))_
+    - [ ] _(Azalea rawsonii Paxton, Paxton's Mag. Bot. 3: 123 (1837))_
+    - [ ] _(Rhododendron tebotan Komatsu, Bot. Mag. (Tokyo) 32: (46) (1918))_
+    - [ ] _(Rhododendron puniceum Planch., Fl. des Serres ix. (1853-54) 79.)_
+    - [ ] _(Rhododendron indicum var. pulchrum (Sweet) G.Don, Gen. Hist. 3: 845 (1834))_
+    - [ ] _(Rhododendron calycinum Planch., Fl. Serres Jard. Eur. 9: 81 (1853))_
+    - [ ] _(Azalea punicea Sweet, Ann. Fromont i. (1829) 104. (1829))_
+    - [ ] _(Rhododendron phoeniceum G.Don, Gen. Hist. 3: 846 (1834))_
+  - [ ] *Rhododendron × enneandrum* DC., Prodr. 7: 728 (1839)
+  - [ ] *Rhododendron × spinulosum* Hadden, Gard. Chron. ser. 3, 101: 190. 1937
+  - [ ] *Rhododendron × tricolor* Sweet, Hort. Brit. [Sweet], ed. 2. 343. 1830
+  - [ ] *Rhododendron lohitense* D.Bhattach., Fasc. Fl. India 25:65. (2014)
+  - [ ] *Rhododendron rimicola* X.L.Tian, Y.P.Ma & J.Nielsen, Phytotaxa 395(2): 66. 2019
+  - [ ] *Rhododendron nantauense* S.S.Ying, New Taxa and New Names 4:133. (2021)
+  - [ ] *Rhododendron shaoakouense* S.S.Ying, New Taxa New Names 4: 142. 2021
+  - [ ] *Rhododendron × chamaezelum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 241 (1922)
+  - [ ] *Rhododendron × hybridum* Ker Gawler, Bot. Reg. 3: 195 (1817)
+    - [ ] _(Rhodazalea crouxii Croux, J. Soc. Natl. Hort. France IV, 9: 328 1908)_
+    - [ ] _(Rhododendron crouxii (Croux) Rehder, Monogr. Azaleas : 194 (1921))_
+  - [ ] *Rhododendron zekoense* Y.D.Sun & Z.J.Zhao, Fl. Lign. Qinghaica, Add. 3. 1987
+  - [ ] *Rhododendron × cilipinense* S.Bowler, Gard. Chron. , ser. 3, 99: 246 (1936)
+  - [ ] *Rhododendron × fulvastrum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 45 (1920)
+    - [ ] _(Rhododendron fulvastrum subsp. fulvastrum , )_
+  - [ ] *Rhododendron × arbutifolium* Rehder, Man. Cult. Trees : 689 (1927)
+  - [ ] *Rhododendron × furbishii* (W.P.Lemmon & McKay) H.H.Hume, Azaleas: Kinds Cult. 28 (1948)
+  - [ ] *Rhododendron × lochmium* Balf.f., Notes Roy. Bot. Gard. Edinburgh 11: 90 (1919)
+  - [ ] *Rhododendron × trichophorum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 173 (1920)
+  - [ ] *Rhododendron × watereri* E.H.Wilson, J. Arnold Arbor. 4(1): 37–38 1923
+  - [ ] *Rhododendron × kuratanum* S.Watan., J. Jap. Bot. 80: 172 (2005)
+  - [ ] *Rhododendron × altaclerense* Lindl., Edwards's Bot. Reg. 17: t. 1414 (1831)
+    - [ ] _(Rhododendron blandinianum Matin-Donos, Hort. Franç. 1859: 152 (1859))_
+  - [ ] *Rhododendron zhangjiajieense* C.L.Peng & L.H.Yan, Bull. Bot. Res., Harbin 27: 385 (2007)
+  - [ ] *Rhododendron × sochadzeae* Kharadze & Davlian., Zametki Sist. Geogr. Rast. 27: 84 (1969)
+  - [ ] *Rhododendron xishuiense* C.H.Yang & C.D.Yang, Phytotaxa 429(3): 248. 2020
+  - [ ] *Rhododendron × burjaticum* Malyschev, Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 21: 455 (1961)
+  - [ ] *Rhododendron × kewense* W.Watson, Gard. Chron. , ser. 3, 3: 620 (1888)
+  - [ ] *Rhododendron × cartonianum* DC., Prodr. 7: 727 (1839)
+  - [ ] *Rhododendron ungeonticum* A.P.Khokhr. & Mazurenko, Byull. Glavn. Bot. Sada 172: 24 (1995)
+  - [ ] *Rhododendron × albescens* W.Bull, Nursery Cat. (William Bull) 1887: 11 (1887)
+  - [ ] *Rhododendron taichungianum* S.S.Ying, Mem. Coll. Agric. Natl. Taiwan Univ. 31(1): 29 (1991), contrary to Art. 37.5 ICBN (1994).
+  - [ ] *Rhododendron yakushimanum* Nakai, Bot. Mag. (Tokyo) 35: 135 (1921)
+    - [ ] _(Rhododendron metternichii var. yakushimanum (Nakai) Ohwi, Bull. Natl. Sci. Mus. Tokyo 33:81. (1953))_
+    - [ ] _(Rhododendron metternichii subsp. yakushimanum (Nakai) Sugim., New Keys Jap. Trees 470. (1961))_
+    - [ ] _(Rhododendron degronianum var. yakushimanum (Nakai) Kitam., Acta Phytotax. Geobot. 25(2-3): 38. 1972 [25 Jul 1972])_
+    - [ ] _(Rhododendron degronianum subsp. yakushimanum (Nakai) H.Hara & T.Yamanaka, J. Jap. Bot. 61(8): 246 (1986):.)_
+    - [ ] *Rhododendron yakushimanum var. yakushimanum* , 
+    - [ ] *Rhododendron yakushimanum var. kyomaruense* (T.Yamaz) T.Yamaz, Fl. Jap. (Iwatsuki et al., eds.) 3a:41. (1993)
+      - [ ] _(Rhododendron degronianum var. kyomaruense (T.Yamaz) H.Hara, J. Jap. Bot. 61: 246 (1986))_
+      - [ ] _(Rhododendron metternichii var. kyomaruense T.Yamaz, J. Jap. Bot. 39:17. (1964))_
+    - [ ] *Rhododendron yakushimanum var. intermedium* (Sugim.) T.Yamaz, Fl. Jap. (Iwatsuki et al., eds.) 3a:41. (1993)
+      - [ ] _(Rhododendron metternichii var. intermedium Sugim., New Keys Jap. Trees 470. (1961))_
+      - [ ] _(Rhododendron degronianum var. intermedium (Sugim.) H.Hara, J. Jap. Bot. 61(8): 247 (1986):.)_
+  - [ ] *Rhododendron × mizumotoi* S.Watan., J. Jap. Bot. 80: 174 (2005)
+  - [ ] *Rhododendron × kesselringii* E.L.Wolf, Mitt. Deutsch. Dendrol. Ges. 19: 286 (1910 publ. 1911)
+  - [ ] *Rhododendron × komatsui* T.Yamaz, J. Jap. Bot. 51: 31 (1976)
+  - [ ] *Rhododendron viscigemmatum* P.C.Tam, Survey Gen. Rhododendron S. China : 107 (1983)
+  - [ ] *Rhododendron × tatuoi* Nakai ex H.Hara, Enum. Spermatophytarum Japon. 1: 54 (1948)
+  - [ ] *Rhododendron bellissimum* D.F.Chamb., Fl. China 14: 313 (2005)
+    - [ ] _(Rhododendron bellum H.P.Yang, Bull. Bot. Res., Harbin 9 (1):18. (1989))_
+  - [ ] *Rhododendron subg. Choniastrum* (Franch.) Drude, Nat. Pflanzenfam. [Engler & Prantl] 4(1): 37 (1889)
+    - [ ] *Rhododendron latoucheae* Franch., Bull. Soc. Bot. France 46: 210 (1899)
+      - [ ] _(Rhododendron ellipticum var. tanakae (Hayata) S.S.Ying, Coloured Ill. Fl. Taiwan 5: 122. 1995 [15 Sep 1995] , as 'tanakai')_
+      - [ ] _(Rhododendron ellipticum Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg xxxii, 497. 1888)_
+      - [ ] _(Rhododendron leptanthum Hayata, Icon. Pl. Koisikav. 2: 93, t. 131. 1915)_
+      - [ ] _(Azalea elliptica (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] _(Rhododendron tanakae Hayata, Icon. Pl. Formosan. 4: 15 (1914))_
+      - [ ] _(Rhododendron amamiense Ohwi, Acta Phytotax. Geobot. 6: 49 (1937))_
+      - [ ] _(Rhododendron wilsoniae Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 116 (1910))_
+      - [ ] _(Rhododendron leiopodum Hayata, Icon. Pl. Formosan. 3: 136 (1913))_
+      - [ ] _(Rhododendron wilsoniae var. ionanthum W.P.Fang, Acta Phytotax. Sin. 21(4): 463 (1983))_
+      - [ ] _(Rhododendron latoucheae var. amamiense (Ohwi) T.Yamaz., Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin : 25 (1996))_
+      - [ ] _(Rhododendron leptosanthum Hayata, Icon. Pl. Formosan. 3: 137 (1913))_
+      - [ ] _(Rhododendron latoucheae var. latoucheae , )_
+      - [ ] _(Rhododendron latoucheae var. ionanthum (W.P.Fang) G.Z.Li, Guihaia 15(3): 205 (1995))_
+      - [ ] _(Rhododendron ellipticum var. leptosanthum (Hayata) S.S.Ying, Quart. J. Chin. Forest. 9(4): 122 (1976))_
+    - [ ] *Rhododendron championiae* Hook., Bot. Mag. 77: t. 4609 (1851)
+      - [ ] _(Rhododendron championiae var. ovatifolium P.C.Tam, Surv. Genus Rhododendron S. China 112, 73. 1983 [Mar 1983])_
+      - [ ] _(Azalea championae (Hook.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] _(Rhododendron championiae var. championiae , )_
+    - [ ] *Rhododendron hancockii* Hemsl., Bull. Misc. Inform. Kew 1895: 107 (1895)
+      - [ ] _(Rhododendron hancockii var. hancockii , )_
+      - [ ] *Rhododendron hancockii var. longisepalum* R.C.Fang & C.H.Yang ex L.M.Gao & D.Z.Li, Acta Bot. Yunnan. 23(3): 294 (2001) (2001)
+    - [ ] *Rhododendron taiense* Hutch., Bull. Misc. Inform. Kew 1938: 24 (1938)
+    - [ ] *Rhododendron subestipitatum* Chun ex P.C.Tam, Bull. Bot. Res., Harbin 2(4): 90 (1982)
+    - [ ] *Rhododendron longilobum* L.M.Gao & D.Z.Li, Novon 13: 192 (2003)
+    - [ ] *Rhododendron mitriforme* P.C.Tam, Bull. Bot. Res., Harbin 2(4): 91 (1982)
+      - [ ] *Rhododendron mitriforme var. setaceum* P.C.Tam, Bull. Bot. Res., Harbin 2(4): 91 (1982)
+        - [ ] _(Rhododendron xinganense G.Z.Li, Guihaia 3: 84 (1983))_
+      - [ ] *Rhododendron mitriforme var. mitriforme* , 1982
+    - [ ] *Rhododendron feddei* H.Lév., Repert. Spec. Nov. Regni Veg. 12: 102 (1913)
+    - [ ] *Rhododendron dayaoshanense* L.M.Gao & D.Z.Li, Novon 13: 189 (2003)
+    - [ ] *Rhododendron stamineum* Franch., Bull. Soc. Bot. France 33: 236 (1886)
+      - [ ] _(Rhododendron pittosporifolium Hemsl., J. Linn. Soc., Bot. 26: 29 (1889))_
+      - [ ] _(Azalea staminea (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] _(Rhododendron esquirolii H.Lév., Repert. Spec. Nov. Regni Veg. 12: 102 (1913))_
+      - [ ] _(Rhododendron cavaleriei var. chaffanjonii H.Lév., Bull. Soc. Agric. Sarthe 39: 49 1914)_
+      - [ ] _(Azalea pittosporifolia (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] _(Rhododendron chaffanjonii H.Lév. ex Hutch., Sp. Rhodod. 623 (1930), in syn.)_
+      - [ ] *Rhododendron stamineum var. lasiocarpum* R.C.Fang & C.H.Yang, Acta Bot. Yunnan. 4(3): 256 (1982)
+      - [ ] *Rhododendron stamineum var. stamineum* , 
+        - [ ] _(Rhododendron aucubifolium Hemsl., J. Linn. Soc., Bot. 26: 19 (1889))_
+        - [ ] _(Azalea aucubifolia (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] *Rhododendron stamineum var. gaozhaiense* L.M.Gao, Acta Bot. Yunnan. 24: 611 (2002)
+    - [ ] *Rhododendron mackenzianum* Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 132 (1920)
+    - [ ] *Rhododendron taishunense* B.Y.Ding & Y.Y.Fang, Bull. Bot. Res., Harbin 7(2): 27 (1987)
+    - [ ] *Rhododendron henryi* Hance, J. Bot. 19: 241 (1881)
+      - [ ] _(Rhododendron ciliatopedicellatum Hayata, Icon. Pl. Formosan. 3: 131 (1913))_
+      - [ ] _(Azalea henryi (Hance) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] *Rhododendron henryi var. henryi* , 
+        - [ ] _(Rhododendron shiwandashanense P.C.Tam, Guihaia 3(3): 184. 1983)_
+      - [ ] *Rhododendron henryi var. dunnii* (E.H.Wilson) M.Y.He, Fl. Reipubl. Popularis Sin. 57(2): 365 (1994)
+        - [ ] _(Rhododendron dunnii E.H.Wilson, J. Arnold Arbor. 6: 170 (1925))_
+    - [ ] *Rhododendron vaniotii* H.Lév., Repert. Spec. Nov. Regni Veg. 13: 148 (1914)
+    - [ ] *Rhododendron moulmainense* Hook., Bot. Mag. 82: t. 4904 (1856)
+      - [ ] _(Rhododendron stenaulum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 157 (1917))_
+      - [ ] _(Rhododendron klossii Ridl., J. Fed. Malay States Mus. 4: 43 (1909))_
+      - [ ] _(Rhododendron nematocalyx Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 124 (1917))_
+      - [ ] _(Azalea moulmeinensis (Hook.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] _(Rhododendron pectinatum Hutch., Gard. Chron. , ser. 3, 101: 119 (1937))_
+      - [ ] _(Rhododendron siamensis Diels, Repert. Spec. Nov. Regni Veg. 4: 289 1907)_
+      - [ ] _(Rhododendron oxyphyllum Franch., J. Bot. (Morot) 12: 264 (1898))_
+      - [ ] _(Rhododendron siamense Diels, Repert. Spec. Nov. Regni Veg. 4: 289 (1907))_
+      - [ ] _(Rhododendron laoticum Dop, Fl. Indo-Chine 3: 735 (1930))_
+      - [ ] _(Rhododendron leucobotrys Ridl., J. Fed. Malay States Mus. 4: 43 (1909))_
+    - [ ] *Rhododendron truncatovarium* L.M.Gao & D.Z.Li, Edinburgh J. Bot. 61: 1 (2004 publ. 2005)
+    - [ ] *Rhododendron cavaleriei* H.Lév., Bull. Soc. Agric. Sarthe , sér. 2, 38: 48 (1903)
+      - [ ] _(Rhododendron dentampullum Chun ex P.C.Tam, Survey Gen. Rhododendron S. China : 113 (1983))_
+      - [ ] _(Rhododendron henryi var. pubescens K.M.Feng & A.L.Chang, Acta Bot. Yunnan. 4(3): 257. 1982)_
+    - [ ] *Rhododendron westlandii* Hemsl., J. Linn. Soc., Bot. 26: 31 (1889)
+      - [ ] _(Rhododendron kaliense W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2 (2):83. (1982))_
+      - [ ] _(Azalea westlandii (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] _(Rhododendron linearicupulare P.C.Tam, Guihaia 3(3): 183. 1983)_
+      - [ ] _(Rhododendron kaliense W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 83 (1982))_
+      - [ ] _(Rhododendron moulmainense var. calcaratum G.Z.Li, Acta Bot. Yunnan. 23(3): 290 (2001).)_
+    - [ ] *Rhododendron huguangense* P.C.Tam, Bull. Bot. Res., Harbin 2(1): 98 (1982)
+      - [ ] _(Rhododendron hukwangense P.C.Tam, Survey Rhodod. South China 76, f. 12 1983)_
+    - [ ] *Rhododendron tutcherae* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 116 (1910)
+      - [ ] *Rhododendron tutcherae var. tutcherae* , 
+      - [ ] *Rhododendron tutcherae var. gymnocarpum* A.L.Chang, Acta Bot. Yunnan. 4: 257 (1982)
+      - [ ] *Rhododendron tutcherae var. glabrifolium* L.M.Gao & D.Z.Li, Acta Bot. Yunnan. 23: 293 (2001)
+  - [ ] *Rhododendron × takanashianum* Sugim., J. Geobot. 22: 53 (1975)
+  - [ ] *Rhododendron × smithii* Sweet, Brit. Fl. Gard. , ser. 2, 1: t. 50 (1831)
+    - [ ] _(Rhododendron ponticum var. smithii (Sweet) G.Don, Gen. Hist. 3: 843. 1834 [8-15 Nov 1834])_
+  - [ ] *Rhododendron × hidaense* Makino ex H.Hara, Enum. Spermatophytarum Japon. 1: 32 (1941)
+  - [ ] *Rhododendron bamaense* Z.J.Zhao, Fl. Lign. Qinghaica, Add. 4. 1987
+  - [ ] *Rhododendron atjehense* Sleumer, Reinwardtia 5: 226 (1960)
+  - [ ] *Rhododendron × ashitakayamense* Sugim., J. Geobot. 22(4): 53. 1975
+  - [ ] *Rhododendron × hemigymnum* (Tagg & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 333 (1979)
+    - [ ] _(Rhododendron hemigynum (Tagg & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 333. 1979 : use R. hemigymnum)_
+    - [ ] _(Rhododendron chaetomallum var. hemigymnum Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 16(79): 189. 1931 [Oct 1931])_
+  - [ ] *Rhododendron × magorianum* Millais, Rhododendrons Ser. II. 182 (1924).
+    - [ ] _(Rhododendron magorianum Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 111. 1926)_
+  - [ ] *Rhododendron chamberlainii* Craven, Blumea 56: 34 (2011)
+    - [ ] _(Diplarche multiflora Hook.f. & Thomson, Hooker's J. Bot. Kew Gard. Misc. 6: 383. 1854)_
+  - [ ] *Rhododendron × cavronii* André, Rev. Hort. (Paris) 57: 60 (1885)
+  - [ ] *Rhododendron × alstroemerioides* Lem., Jard. FIeur. 4: t. 384 (1854)
+  - [ ] *Rhododendron × gandavense* (K.Koch) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 178 (1921).
+    - [ ] _(Azalea gandavensis K.Koch, Dendrologie 2(2): 185 (1873))_
+    - [ ] _(Azalea mortieriana Spae, Ann. Soc. Roy. Agric. Gand 2: 325 (1846))_
+  - [ ] *Rhododendron subg. Hymenanthes* (Blume) K.Koch, Dendrologie 2(1): 170 (1872)
+    - [ ] _(Hymenanthes Blume, Bijdr. Fl. Ned. Ind. : 882 (1826))_
+    - [ ] *Rhododendron × perigrinum* Tagg, Spec. Rhododendron : 312 (1930)
+    - [ ] *Rhododendron dimitrum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 50 (1919)
+    - [ ] *Rhododendron sect. Rhodora* G.Don, Gen. Hist. 3: 848 (1834)
+      - [ ] _(Rhodora L., Sp. Pl. (ed. 2) 1: 561. 1762.)_
+      - [ ] *Rhododendron canadense* (L.) Torr., Rep. Bot. Dep. Surv. New York, no. 50, Assembly : 151 (1841)
+        - [ ] _(Hochenwartia canadensis (L.) Crantz, Inst. Rei Herb. 2: 469 (1766))_
+        - [ ] _(Rhodora congesta Moench, Methodus (Moench) 68 (1794))_
+        - [ ] _(Rhododendron pulchellum Salisb., Prodr. Stirp. Chap. Allerton 287 (1796))_
+        - [ ] _(Rhododendron rhodora J.F.Gmel., Syst. Nat., ed. 13[bis]. 2(1): 694 (1791))_
+        - [ ] _(Rhododendron canadense f. album Voss., Fl. Mt Destert Isl. 127 (1894))_
+        - [ ] _(Rhododendron canadense f. viridifolium Fernald, Monogr. Azaleas [E.H. Wilson & A. Rehder] 122. 1921)_
+        - [ ] _(Rhodora canadensis L., Sp. Pl., ed. 2. 1: 561. 1762 [Sep 1762])_
+        - [ ] _(Azalea canadensis (L.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+        - [ ] _(Rhododendron rhodora f. albiflorum E.L.Rand & Redfield, Fl. Mt. Desert Isl. 127. 1894)_
+        - [ ] _(Azalea bicolor (Aiton) Pursh, Fl. Amer. Sept. 1: 153 (1813))_
+        - [ ] _(Rhododendron canadense f. canadense , )_
+        - [ ] _(Rhododendron canadense f. albiflorum (E.L.Rand & Redf.) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 122. 1921)_
+    - [ ] *Rhododendron × agastum* Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 178 (1917)
+      - [ ] *Rhododendron × agastum nothovar. pennivenium* (Balf.f. & Forrest) T.L.Ming, Acta Bot. Yunnan. 6: 152 (1984)
+        - [ ] _(Rhododendron tanastylum var. pennivenium (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36(1): 117 (1978))_
+        - [ ] _(Rhododendron pennivenium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 55 (1920))_
+      - [ ] *Rhododendron × agastum nothovar. agastum* , 
+    - [ ] *Rhododendron × planetum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 115 (1920)
+    - [ ] *Rhododendron × paradoxum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 15: 114 (1926)
+    - [ ] *Rhododendron × pyrrhoanthum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 154 (1920)
+    - [ ] *Rhododendron × inopinum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 15: 109 (1926)
+    - [ ] *Rhododendron purdomii* Rehder & E.H.Wilson, Pl. Wilson. 1: 538 (1913)
+      - [ ] *Rhododendron purdomii var. purdomii* , 
+      - [ ] *Rhododendron purdomii var. villosum* L.H.Wu, J. Wuhan Bot. Res. 17: 21 (1999)
+    - [ ] *Rhododendron sect. Pentanthera* G.Don, Gen. Hist. 3: 846 (1834)
+      - [ ] _(Rhododendron subg. Pentanthera (G.Don) Pojark., )_
+      - [ ] *Rhododendron subsect. Sinensia* (Nakai) Kron, Edinburgh J. Bot. 50(3): 276. 1993
+        - [ ] *Rhododendron molle* (Blume) G.Don, Gen. Hist. 3: 846 (1834)
+          - [ ] _(Azalea mollis Blume, Catalogus : 44 (1823))_
+          - [ ] *Rhododendron molle subsp. japonicum* (A.Gray) Kron, Edinburgh J. Bot. 50: 279 (1993)
+            - [ ] _(Azalea macrostemon (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+            - [ ] _(Rhododendron japonicum f. canescens Sugim., J. Geobot. 22(4): 52. 1975)_
+            - [ ] _(Rhododendron japonicum f. multifidum Nakai, Trees Shrubs Japan, Revis. Ed. 1: 82. 1927 [25 Apr 1927])_
+            - [ ] _(Rhododendron japonicum (A.Gray) Suringar, Gartenflora 57: 517 (1908))_
+            - [ ] _(Rhododendron molle f. flavum (Miyoshi) Yonek., J. Jap. Bot. 80(6): 327. 2005 [Dec 2005])_
+            - [ ] _(Rhododendron molle f. glaucophyllum (Nakai) Yonek., J. Jap. Bot. 80(6): 327. 2005 [Dec 2005])_
+            - [ ] _(Rhododendron molle f. canescens (Sugim.) Yonek., J. Jap. Bot. 80(6): 327. 2005 [Dec 2005])_
+            - [ ] _(Azalea japonica A.Gray, Mem. Amer. Acad. Arts , n.s., 6: 400 (1859))_
+            - [ ] _(Rhododendron sinense f. flavum Miyoshi, Saishin Shokubutsugaku Kôgi 3: t. 32. 1921 [Jan 1921])_
+            - [ ] _(Rhododendron japonicum var. glaucophyllum Nakai, Trees Shrubs Japan, Revis. Ed. 1: 82. 1927 [25 Apr 1927])_
+            - [ ] _(Rhododendron molle f. multifidum (Nakai) Yonek., J. Jap. Bot. 80(6): 327. 2005 [Dec 2005])_
+            - [ ] _(Rhododendron macrostemon Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 , 16(9): 41 (1871))_
+          - [ ] *Rhododendron molle subsp. molle* , 
+            - [ ] _(Rhododendron sinense Sweet, Brit. Fl. Gard. 3: t. 290 (1829))_
+            - [ ] _(Azalea sinensis G.Lodd., Bot. Cab. 9: t. 885 (1824))_
+            - [ ] _(Rhododendron davisii Koehne, Deut. Dendrol. : 458 (1893))_
+      - [ ] *Rhododendron subsect. Pentanthera* (G.Don) Kron, Edinburgh J. Bot. 50 (3):276. (1993)
+        - [ ] *Rhododendron flammeum* (Michx.) Sarg., Rhododendron Soc. Notes 1: 120 (1917)
+          - [ ] _(Azalea calendulacea var. flammea Michx., Fl. Bor.-Amer. 1: 151 (1803))_
+          - [ ] _(Azalea nudiflora var. coccinea Aiton, Hort. Kew. 1: 202 (1789))_
+          - [ ] _(Rhododendron calendulaceum var. flammeum (Michx.) Sweet, Hort. Brit. , ed. 2: 343 (1830))_
+          - [ ] _(Rhododendron nudiflorum var. conncineum (Aiton) Sweet, Hort. Brit. [Sweet] Ed. 2 343. (1830))_
+          - [ ] _(Rhododendron luteum var. flammeum (Michx.) C.K.Schneid., Ill. Handb. Laubholzk. 2: 500 (1911))_
+          - [ ] _(Azalea periclymenoides var. coccinea (Aiton) Prush, Fl. Amer. Sept. 1: 202 (1813))_
+        - [ ] *Rhododendron calendulaceum* (Michx.) Torr., Fl. N. Middle United States 1: 425 (1824)
+          - [ ] _(Rhododendron calendulaceum f. calendulaceum , )_
+          - [ ] _(Azalea calendulacea var. crocea Michx., Fl. Bor.-Amer. (Michaux) 1: 151. 1803 [19 Mar 1803])_
+          - [ ] _(Azalea speciosa Willd., Enum. Pl. Hort. Berol. , Suppl.: 10 (1814))_
+          - [ ] _(Rhododendron speciosum (Willd.) Sweet, Hort. Brit. [Sweet], ed. 2. 343. 1830)_
+          - [ ] _(Azalea aurantiaca F.Dietr., Darst. Vorz. Zierpfl. Hefl. 1: 5 (1803))_
+          - [ ] _(Azalea jammea Pritz., Icon. Bot. Index 1: 131 (1854))_
+          - [ ] _(Azalea speciosa var. aurantia (G.Lodd.) DC., Prodr. 7: 717 (1839))_
+          - [ ] _(Azalea speciosa var. coccinea (Aiton) DC., Prodr. 7: 717 (1839))_
+          - [ ] _(Azalea conccinea Lodd., Bot. Cab. 7:624. (1822))_
+          - [ ] _(Rhododendron luteum var. croceum (Michx.) C.K.Schneid., Ill. Handb. Laubholzk. [C.K.Schneider] 2: 500. 1911)_
+          - [ ] _(Rhododendron calendulaceum f. aurantium (F.Dietr.) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 130. 1921)_
+          - [ ] _(Azalea crocea (Michx.) Hoffmanns., Verz. Pfl.-Kult. , Nachtr. 3: 22 (1828))_
+          - [ ] _(Azalea calendulacea Michx., Fl. Bor.-Amer. 1: 151 (1803))_
+          - [ ] _(Rhododendron calendulaceum var. croceum (Michx.) Sweet, Hort. Brit. , ed. 2: 343 (1830))_
+        - [ ] *Rhododendron cumberlandense* E.L.Braun, Rhodora 43: 33 (1941)
+          - [ ] _(Azalea cumberlandensis (E.L.Braun) H.F.Copel., Amer. Midl. Naturalist 30: 595 (1943))_
+        - [ ] *Rhododendron prinophyllum* (Small) Millais, Rhododendrons : 229 (1917)
+          - [ ] _(Rhododendron roseum (Loisel.) Rehder, Monogr. Azaleas : 138 (1921))_
+          - [ ] _(Azalea prinophylla Small, N. Amer. Fl. 29: 42 (1914))_
+          - [ ] _(Azalea rosea Loisel., Traité Arbr. Arbust. , nouv. ed., 5: 224 (1812))_
+        - [ ] *Rhododendron atlanticum* (Ashe) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 147 (1921).
+          - [ ] _(Rhododendron atlanticum f. luteoalbum (Coker) Fernald, Rhodora 43: 622 (1941))_
+          - [ ] _(Rhododendron atlanticum f. tomolobum Fernald, Rhodora 43: 622, tab. 692. 1941)_
+          - [ ] _(Rhododendron atlanticum var. luteo-album (Coker) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 150. (1921))_
+          - [ ] _(Rhododendron atlanticum f. confusum Fernald, Rhodora 43: 622. 1941)_
+          - [ ] _(Azalea atlantica var. luteoalba Coker, J. Elisha Mitchell Sci. Soc. 36: 98, tab. 1 (1920))_
+          - [ ] _(Azalea atlantica Ashe, Bull. Charleston Mus. 13: 26 (1917))_
+          - [ ] _(Rhododendron atlanticum f. neglectum (Ashe) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 149. 1921)_
+          - [ ] _(Rhododendron neglectum (Ashe) Ashe, Rhodora 23: 179 (1921))_
+          - [ ] _(Rhododendron atlanticum f. atlanticum , )_
+          - [ ] _(Azalea neglecta Ashe, Bull. Torrey Bot. Club 47: 581 (1920))_
+        - [ ] *Rhododendron viscosum* (L.) Torr., Fl. N. Middle United States 1: 424 (1824)
+          - [ ] _(Rhododendron glaucum G.Don, Gen. Hist. 3: 848. 1834 [8-15 Nov 1834])_
+          - [ ] _(Azalea viscosa L., Sp. Pl. : 151 (1753))_
+          - [ ] _(Anthodendron viscosum (L.) Rchb., Handb. Gewächsk. ed. 2 , 1: 424 (1827))_
+          - [ ] _(Rhododendron viscosum var. montanum Rehder, Monogr. Azaleas : 164 (1921))_
+          - [ ] _(Azalea viscosa var. virens Michx., Fl. Bor.-Amer. 1: 151 (1803))_
+          - [ ] _(Azalea scabra Lodd. ex A.Gray, Syn. Fl. N. Amer. 1(2): 41 (1884))_
+          - [ ] _(Rhododendron coryi Shinners, Castanea 26: 156 (1962))_
+          - [ ] _(Rhododendron viscosum var. viscosum , )_
+          - [ ] _(Rhododendron ornatum Sweet, Brit. Fl. Gard. 5: t. 137 1832)_
+          - [ ] _(Rhododendron serrulatum (Small) Millais, Rhododendrons : 241 (1917))_
+          - [ ] _(Rhododendron oblongifolium (Small) Millais, Rhododendrons : 219 (1917))_
+          - [ ] _(Azalea serrulata Small, Fl. S.E. U.S. : 883 (1903))_
+          - [ ] _(Azalea viscosa var. aemulans (Rehder) Ashe, J. Elisha Mitchell Sci. Soc. 38: 91 (1922))_
+          - [ ] _(Azalea viscosa var. montana (Rehder) Ashe, J. Elisha Mitchell Sci. Soc. 38: 91 (1922))_
+          - [ ] _(Azalea oblongifolia Small, Fl. S.E. U.S. : 883 (1903))_
+          - [ ] _(Rhododendron viscosum var. serrulatum (Small) H.E.Ahles, J. Elisha Mitchell Sci. Soc. 80: 173 (1964))_
+          - [ ] _(Azalea viscosa var. nitida (Pursh) A.Gray, Manual , ed. 2: 257 (1856))_
+          - [ ] _(Azalea nitida Pursh, Fl. Amer. Sept. 1: 153 (1813))_
+          - [ ] _(Azalea viscida Christm., Vollst. Pflanzensyst. 3: 156 (1778))_
+          - [ ] _(Rhododendron viscosum f. viscosum , )_
+          - [ ] _(Rhododendron viscosum var. hispidum (Pursh) C.K.Schneid., Ill. Handb. Laubholzk. 2: 502 (1911))_
+          - [ ] _(Rhododendron viscosum var. aemulans Rehder, Monogr. Azaleas : 165 (1921))_
+          - [ ] _(Rhododendron viscosum var. ornatum (Sweet) G.Don, Gen. Hist. 3: 847. 1834 [8-15 Nov 1834])_
+          - [ ] _(Azalea glauca Lam., Encycl. 1: 340 (1783))_
+          - [ ] _(Rhododendron glaucum (Lam.) Sweet, Hort. Brit. , ed. 2: 344 (1830))_
+          - [ ] _(Rhododendron nitidum (Pursh) Torr., Fl. N. Middle United States 1: 425 (1824))_
+          - [ ] _(Azalea hispida Pursh, Fl. Amer. Sept. 1: 154 (1813))_
+          - [ ] _(Azalea virens (Michx.) Dum.Cours., Bot. Cult. , ed. 2, 3: 335 (1811))_
+          - [ ] _(Azalea tomentosa Dum.Cours, Nomencl. Bot. [Steudel] 97. 1821)_
+          - [ ] _(Rhododendron hispidum (Pursh) Torr., Fl. N. Middle United States i. 425. 1824)_
+          - [ ] _(Azalea viscosa var. hispida (Pursh) Hook., Compan. Bot. Mag. 1: 100 (1835))_
+        - [ ] *Rhododendron luteum* Sweet, Hort. Brit. , ed. 2: 343 (1830)
+          - [ ] _(Rhododendron flavum (Hoffmanns.) G.Don, Gen. Hist. 3: 847. 1834 [8-15 Nov 1834])_
+          - [ ] _(Rhododendron ponticum (L.) Schreb. ex DC., Prodr. [A. P. de Candolle] 7:718. (1839))_
+          - [ ] _(Azalea nudiflora L., Sp. Pl., ed. 2. 1: 214. 1762 [Sep 1762])_
+          - [ ] _(Azalea fulva Michx. ex Lam., Journ. Hist. Nat. i. (1792) 410.)_
+          - [ ] _(Rhododendron luteum var. macranthum (Bean) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 105. (1921))_
+          - [ ] _(Azalea pontica L., Sp. Pl. : 150 (1753))_
+          - [ ] _(Azalea pontica var. autumnalis K.Koch, Linnaea 17:281. (1843))_
+          - [ ] _(Rhododendron indicum var. luteum (Sweet) G.Don, Gen. Hist. 3: 846 (1834))_
+          - [ ] _(Anthodendron ponticum (L.) Rchb., Handb. Gewächsk. 1(40): 308 (1827))_
+          - [ ] _(Azalea flava Hoffmanns., Verz. Pfl.-Kult. , Nachtr. 2: 62 (1828))_
+          - [ ] _(Anthodendron flavum (Hoffmanns.) Rchb., Handb. Gewächsk. 1(40): 309 (1827))_
+          - [ ] _(Azalea nudiflora var. mixta DC., Prodr. 7: 717 (1839))_
+          - [ ] _(Rhododendron flavum var. macranthum Bean, Trees Shrubs Brit. Isl. 2:357. (1914))_
+        - [ ] *Rhododendron periclymenoides* (Michx.) Shinners, Castanea 27: 95 (1962)
+          - [ ] _(Azalea nudiflora var. partita Aiton, Hort. Kew. 1: 203 (1789))_
+          - [ ] _(Rhododendron nudiflorum (L.) Torr., Fl. N. Middle United States i:424. (1824))_
+          - [ ] _(Rhododendron periclymenoides f. album (Aiton) C.F.Reed, Phytologia 63: 411. 1987)_
+          - [ ] _(Azalea periclymenoides var. polyandra Pursh, Fl. Amer. Sept. 1: 152 (1813))_
+          - [ ] _(Azalea nudiflora var. polyandra (Pursh) DC., Prodr. 7: 717 (1839))_
+          - [ ] _(Azalea periclymenoides var. carnea (Aiton) Pursh, Fl. Amer. Sept. 1: 152 (1813))_
+          - [ ] _(Azalea periclymena Pers., Syn. Pl. 1: 213 (1805))_
+          - [ ] _(Azalea periclymenoides var. alba (Aiton) Pursh, Fl. Amer. Sept. 1: 152 (1813))_
+          - [ ] _(Azalea lutea L., Sp. Pl. : 150 (1753))_
+          - [ ] _(Rhododendron nudiflorum f. nudiflorum , )_
+          - [ ] _(Azalea periclymenoides Michx., Fl. Bor.-Amer. 1: 151 (1803))_
+          - [ ] _(Azalea periclymenoides var. rutilans (Aiton) Pursh, Fl. Amer. Sept. 1: 152 (1813))_
+          - [ ] _(Azalea nudiflora var. carnea Aiton, Hort. Kew. 1: 203 (1789))_
+          - [ ] _(Anthodendron nudiflorum Rchb., in Moessl. Handb. i. p. xl. 309 (1827).)_
+          - [ ] _(Azalea nudiflora var. rutilans Aiton, Hort. Kew. 1: 203 (1789))_
+          - [ ] _(Azalea periclymenoides var. partita (Aiton) Pursh, Fl. Amer. Sept. 1: 153 (1813))_
+          - [ ] _(Azalea nudiflora var. alba Aiton, Hort. Kew. 1: 203 (1789))_
+          - [ ] _(Azalea nudiflora f. alba Aiton, Hort. Kew. [W. Aiton] 1: 203. 1789)_
+        - [ ] *Rhododendron × bakeri* (W.P.Lemmon & McKay) H.H.Hume, Azaleas: Kinds Cult. 28 (1948)
+          - [ ] _(Azalea bakeri W.P.Lemmon & Mckay, Bartonia 19: 16 (1938))_
+        - [ ] *Rhododendron austrinum* (Small) Rehder, Stand. Cycl. Hort. 6: 3571 (1917)
+          - [ ] _(Azalea austrina Small, Fl. S.E. U.S. , ed. 2: 1356 (1913))_
+        - [ ] *Rhododendron colemanii* R.F.Mill., J. Amer. Rhododendron Soc. 62: 76 (2008)
+        - [ ] *Rhododendron arborescens* (Prush) Torr., Fl. N. Middle United States 1: 425 (1824)
+          - [ ] _(Azalea arborescens Prush, Fl. Amer. Sept. 1: 153 (1813))_
+          - [ ] _(Azalea arborea J.Bartram ex Pursh, Fl. Amer. Sept. (Pursh) 1: 153. 1813 [Dec 1813])_
+          - [ ] _(Rhododendron arborescens f. rubescens Rehder & E.H.Wilson, J. Arnold Arbor. 7: 244 (1926))_
+          - [ ] _(Rhododendron arborescens var. richardsonii Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 168. 1921)_
+          - [ ] _(Azalea verticillata W.Bartram ex Lodd., Cab. I. 1632.)_
+          - [ ] _(Rhododendron arborescens f. flavescens Rehder, J. Arnold Arbor. 7: 244 (1926))_
+          - [ ] _(Azalea fragrans Raf., Ann. Nat. 12. 1820 [Mar-Jul 1820])_
+          - [ ] _(Azalea arborescens var. richardsonii (Rehder) Ashe, J. Elisha Mitchell Sci. Soc. 38: 91 (1922))_
+        - [ ] *Rhododendron canescens* (Michx.) Sweet, Hort. Brit. , ed. 2. 343 (1830)
+          - [ ] _(Rhododendron bicolor (Aiton) Sweet, Hort. Brit. [Sweet], ed. 2. 344. 1830)_
+          - [ ] _(Azalea candida Small, Bull. Torrey Bot. Club 28: 360 (1901))_
+          - [ ] _(Azalea nudiflora var. bicolor Aiton, Hort. Kew. 1: 203 (1789))_
+          - [ ] _(Rhododendron candidum (Small) Rehder, Stand. Cycl. Hort. 5: 2945. 1916)_
+          - [ ] _(Rhododendron canescens f. subglabrum Rehder, Monogr. Azaleas : 145 (1921))_
+          - [ ] _(Rhododendron canescens var. candidum (Small) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 146. 1921)_
+          - [ ] _(Azalea canescens var. candida (Small) Ashe, J. Elisha Mitchell Sci. Soc. 38: 91 (1922))_
+          - [ ] _(Azalea nudiflora var. canescens (Michx.) Rehder, Cycl. Amer. Hort. 1: 121 (1900))_
+          - [ ] _(Rhododendron nudiflorum var. roseum (Loisel.) Wiegand, Rhodora 26:1. (1924))_
+          - [ ] _(Azalea canescens Michx., Fl. Bor.-Amer. 1: 150 (1803))_
+        - [ ] *Rhododendron occidentale* (Torr. & A.Gray) A.Gray, Bot. California 1: 458 (1876)
+          - [ ] _(Rhododendron occidentale var. californicum (Torr. & A.Gray ex Durand) Hrusa, Madroño 59(3): 140. 2012 [27 Aug 2012])_
+          - [ ] _(Rhododendron occidentale var. paludosum Jeps., Man. Fl. Pl. Calif. : 741 (1925))_
+          - [ ] _(Rhododendron occidentale var. sonomense (Greene) Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 127. 1921)_
+          - [ ] _(Azalea occidentalis Torr. & A.Gray, Pacif. Railr. Rep. Whipple, Bot. 4(5; 4): 116 (1857))_
+          - [ ] _(Rhododendron sonomense Greene, Pittonia 2(10): 172. 1891 [15 Sep 1891])_
+          - [ ] _(Azalea californica Torr. & A.Gray ex Durand, J. Acad. Nat. Sci. Philadelphia , ser. 2, 3: 94 (1855))_
+        - [ ] *Rhododendron eastmanii* Kron & Creel, Novon 9(3): 377 (1999)
+        - [ ] *Rhododendron alabamense* Rehder, Monogr. Azaleas : 141 (1921)
+          - [ ] _(Azalea alabamensis (Rehder) Ashe, J. Elisha Mitchell Sci. Soc. 38: 90 (1922))_
+        - [ ] *Rhododendron prunifolium* (Small) Millais, Rhododendrons : 230 (1917)
+          - [ ] _(Azalea prunifolia Small, Fl. S.E. U.S. , ed. 2: 1356 (1913))_
+    - [ ] *Rhododendron chrysolepis* Hutch. & Kingdon-Ward, Hutchinson in Notes Bot. Gard. Edinb. xvi. 172 (1931), latine.
+    - [ ] *Rhododendron sect. Pontica* G.Don, Gen. Hist. 3: 843 (1834)
+      - [ ] *Rhododendron × apradae* U.Rai & Lama, Pleione 10(2): 371. 2016 [31 Dec 2016]
+      - [ ] *Rhododendron subsect. Selensia* Sleumer, Bot. Jahrb. Syst. 74:547. (1949)
+        - [ ] *Rhododendron martinianum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 96 (1919)
+        - [ ] *Rhododendron bainbridgeanum* Tagg & Forrest, Sp. Rhodod. 133 (1930)
+        - [ ] *Rhododendron × erythrocalyx* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 110 (1920)
+          - [ ] _(Rhododendron erythrocalyx subsp. truncatulum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 716 1930)_
+          - [ ] _(Rhododendron erythrocalyx subsp. eucallum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 716 1930)_
+          - [ ] _(Rhododendron beimaense Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 32 (1920))_
+          - [ ] _(Rhododendron erythrocalyx subsp. beimaense (Balf.f. & Forrest) Tagg, Sp. Rhodod. 716 1930)_
+          - [ ] _(Rhododendron docimum Balf.f. ex Tagg, Sp. Rhodod. 711, in clavi, 716 (1930).)_
+          - [ ] _(Rhododendron truncatulum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 63 (1920))_
+          - [ ] _(Rhododendron cymbomorphum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 102 (1920))_
+          - [ ] _(Rhododendron erythrocalyx subsp. docimum Balf.f. ex Tagg, Sp. Rhodod. 711, 716. 1930)_
+          - [ ] _(Rhododendron panteumorphum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 257 (1916))_
+          - [ ] _(Rhododendron eucallum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 43 (1920))_
+        - [ ] *Rhododendron setiferum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 137 (1919)
+          - [ ] _(Rhododendron vestitum Tagg & Forrest, Tagg in Notes Bot. Gard. Edinb. xvi. 210 (1931), latine.)_
+          - [ ] _(Rhododendron selense subsp. setiferum (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36(1): 118. 1978)_
+        - [ ] *Rhododendron hirtipes* Tagg ex Kingdon-Ward, Gard. Chron. ser. 3, 87: 330 1930
+          - [ ] _(Rhododendron xizangense W.P.Fang & W.K.Hu ex Q.Z.Yu, Bull. Bot. Res., Harbin 6(1): 167 (1986))_
+        - [ ] *Rhododendron selense* Franch., J. Bot. (Morot) 12: 257 (1898)
+          - [ ] _(Rhododendron axium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 30 (1920))_
+          - [ ] _(Rhododendron selense var. pagophilum (Balf.f. & Kingdon-Ward) Cowan & Davidian, Rhododendron Year Book 6: 158 1952)_
+          - [ ] _(Rhododendron selense var. probum (Balf.f. & Forrest) Cowan & Davidian, Rhododendron Year Book 6: 158 1952)_
+          - [ ] _(Rhododendron metrium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 52 (1920))_
+          - [ ] _(Rhododendron nanothamnum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 53 (1920))_
+          - [ ] _(Rhododendron pagophilum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 256 (1916))_
+          - [ ] _(Rhododendron probum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 288 (1922))_
+          - [ ] _(Rhododendron chalarocladum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 240 (1922))_
+          - [ ] *Rhododendron selense subsp. jucundum* (Balf.f. & W.W.Sm.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 118 (1978)
+            - [ ] _(Rhododendron jucundum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 242 (1916))_
+            - [ ] _(Rhododendron blandulum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 87 (1917))_
+            - [ ] _(Rhododendron hedythamnum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 261 (1922))_
+            - [ ] _(Rhododendron selense var. jucundum (Balf.f. & W.W.Sm.) T.L.Ming, Acta Bot. Yunnan. 6: 157 (1984))_
+          - [ ] *Rhododendron selense subsp. selense* , 
+          - [ ] *Rhododendron selense subsp. dasycladum* (Balf.f. & W.W.Sm.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 118 (1978)
+            - [ ] _(Rhododendron dolerum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 40 (1920))_
+            - [ ] _(Rhododendron rhaibocarpum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 142 (1917))_
+            - [ ] _(Rhododendron selense var. dasycladum (Balf.f. & W.W.Sm.) T.L.Ming, Acta Bot. Yunnan. 6: 157 (1984))_
+            - [ ] _(Rhododendron dasycladum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 98 (1917))_
+        - [ ] *Rhododendron calvescens* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 29 (1919)
+          - [ ] *Rhododendron calvescens var. calvescens* , 
+          - [ ] *Rhododendron calvescens var. duseimatum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 119 (1978)
+            - [ ] _(Rhododendron duseimatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 41 (1920))_
+            - [ ] _(Rhododendron selense subsp. duseimatum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 722 1930)_
+            - [ ] _(Rhododendron selense var. duseimatum (Balf.f. & Forrest) Cowan & Davidian, Rhododendron Year Book 6: 152 1952)_
+        - [ ] *Rhododendron esetulosum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 42 (1920)
+          - [ ] _(Rhododendron manopeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 275 (1922))_
+        - [ ] *Rhododendron dasycladoides* Hand.-Mazz., Symb. Sin. 7: 781 (1936)
+      - [ ] *Rhododendron subsect. Maculifera* Sleumer, Bot. Jahrb. Syst. 74:344. (1949)
+        - [ ] *Rhododendron pseudochrysanthum* Hayata, J. Coll. Sci. Imp. Univ. Tokyo 25(19): 154 (1908)
+          - [ ] _(Rhododendron pseudochrysanthum var. nankotaisanense (Hayata) T.Yamaz, J. Jap. Bot. 56(11): 366 (1981):.)_
+          - [ ] _(Rhododendron nankotaisanense Hayata, Icon. Pl. Formosan. 9: 66 (1920))_
+        - [ ] *Rhododendron pachysanthum* Hayata, Icon. Pl. Formosan. 3: 140 (1913)
+          - [ ] _(Rhododendron pseudochrysanthum f. rufovelutinum T.Yamaz, J. Jap. Bot. 56(11): 365 (1981).)_
+          - [ ] _(Rhododendron rufum subsp. pachysanthum (Hayata) S.S.Ying, Coloured Ill. Fl. Taiwan 5: 117. 1995 [15 Sep 1995])_
+          - [ ] _(Rhododendron rufum var. pachysanthum (Hayata) S.S.Ying, Quart. J. Chin. Forest. 9(4): 118 (1976))_
+          - [ ] _(Rhododendron pseudochrysanthum var. rufovelutinum (T.Yamaz) T.Yamaz, Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin 127 (1996):.)_
+        - [ ] *Rhododendron ziyuanense* P.C.Tam, Guihaia 2: 70 (1982)
+          - [ ] _(Rhododendron ziyuanense var. ziyuanense , )_
+        - [ ] *Rhododendron strigillosum* Franch., Bull. Soc. Bot. France 33: 232 (1886)
+          - [ ] *Rhododendron strigillosum var. strigillosum* , 
+          - [ ] *Rhododendron strigillosum var. monosematum* (Hutch.) T.L.Ming, Acta Bot. Yunnan. 6: 155 (1984)
+            - [ ] _(Rhododendron monosematum Hutch., Bot. Mag. 142: t. 8675 (1916))_
+            - [ ] _(Rhododendron pachytrichum var. monosematum (Hutch.) D.F.Chamb., R.H.S. Rhododendron Handb. : 350 (1998))_
+        - [ ] *Rhododendron sikangense* W.P.Fang, Acta Phytotax. Sin. 2: 81 (1952)
+          - [ ] _(Rhododendron cookeanum Davidian, Rhododendron Year Book 16: 105 (1961))_
+          - [ ] *Rhododendron sikangense var. exquisitum* (T.L.Ming) T.L.Ming, Acta Bot. Yunnan. 6: 165 (1984)
+            - [ ] _(Rhododendron exquisitum T.L.Ming, Acta Bot. Yunnan. 3 (1):121. (1981))_
+          - [ ] *Rhododendron sikangense var. sikangense* , 
+        - [ ] *Rhododendron morii* Hayata, J. Coll. Sci. Imp. Univ. Tokyo 30(1): 173 (1911)
+          - [ ] _(Rhododendron morii var. taitunense (T.Yamaz) D.F.Chamb., in R.H.S. Rhododendron Handb. 1998 350 (1998):.)_
+          - [ ] _(Rhododendron pseudochrysanthum var. taitunense T.Yamaz, J. Jap. Bot. 56(11): 366 (1981).)_
+          - [ ] _(Rhododendron pseudochrysanthum subsp. morii (Hayata) T.Yamaz, J. Jap. Bot. 56: 366 (1981))_
+        - [ ] *Rhododendron ochraceum* Rehder & E.H.Wilson, Pl. Wilson. 1: 531 (1913)
+          - [ ] *Rhododendron ochraceum var. brevicarpum* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 56 (1988)
+          - [ ] *Rhododendron ochraceum var. ochraceum* , 
+        - [ ] *Rhododendron polytrichum* W.P.Fang, Acta Phytotax. Sin. 21(4): 459 (1983)
+        - [ ] *Rhododendron anwheiense* E.H.Wilson, J. Arnold Arbor. 6: 163 (1925)
+          - [ ] _(Rhododendron anhweiense E.H.Wilson, J. Arnold Arbor. 6(3): 163 1925)_
+          - [ ] _(Rhododendron maculiferum subsp. anwheiense (E.H.Wilson) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36(1): 118 1978)_
+        - [ ] *Rhododendron longesquamatum* C.K.Schneid., Ill. Handb. Laubholzk. 2: 483 (1909)
+          - [ ] _(Rhododendron brettii Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 106 (1910))_
+          - [ ] _(Rhododendron longesquamatum var. glabristylum Y.Y.Geng & Z.L.Zhang, Acta Phytotax. Sin. 41(2): 197. 2003 [10 Mar 2003])_
+        - [ ] *Rhododendron pilostylum* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 49 (1988)
+        - [ ] *Rhododendron pachytrichum* Franch., Bull. Soc. Bot. France 33: 231 (1886)
+          - [ ] *Rhododendron pachytrichum var. tenuistylosum* W.K.Hu, Acta Phytotax. Sin. 26: 304 (1988)
+          - [ ] *Rhododendron pachytrichum var. pachytrichum* , 
+        - [ ] *Rhododendron subroseum* Xiang Chen & Jia Y.Huang, Nordic J. Bot. 28: 496 (2010)
+        - [ ] *Rhododendron maculiferum* Franch., J. Bot. (Morot) 9: 393 (1895)
+          - [ ] _(Rhododendron maculiferum subsp. maculiferum , )_
+        - [ ] *Rhododendron pachyphyllum* W.P.Fang, Acta Phytotax. Sin. 21(4): 460 (1983)
+          - [ ] _(Rhododendron ziyuanense var. pachyphyllum (W.P.Fang) G.Z.Li, Guihaia 15(3): 196 (1995))_
+      - [ ] *Rhododendron subsect. Campylocarpa* Sleumer, Bot. Jahrb. Syst. 74 (547). (1949)
+        - [ ] *Rhododendron longicalyx* M.Y.Fang, Acta Phytotax. Sin. 26: 67 (1988)
+        - [ ] *Rhododendron wardii* W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 205 (1914)
+          - [ ] *Rhododendron wardii var. wardii* , 
+            - [ ] _(Rhododendron oresterum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 55 (1920))_
+            - [ ] _(Rhododendron astrocalyx Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 30 (1920))_
+            - [ ] _(Rhododendron prasinocalyx Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 57 (1920))_
+            - [ ] _(Rhododendron croceum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 93 (1917))_
+            - [ ] _(Rhododendron litiense Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 126 (1920))_
+            - [ ] _(Rhododendron gloeoblastum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 260 (1922))_
+          - [ ] *Rhododendron wardii var. puralbum* (Balf.f. & W.W.Sm.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 116 (1978)
+            - [ ] _(Rhododendron puralbum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 266 (1916))_
+        - [ ] *Rhododendron campylocarpum* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 30 (1851)
+          - [ ] _(Azalea campylocarpa (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron campylocarpum subsp. campylocarpum* , 
+          - [ ] *Rhododendron campylocarpum subsp. caloxanthum* (Balf.f. & Farrer) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 116 (1978)
+            - [ ] _(Rhododendron caloxanthum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 238 (1922))_
+            - [ ] _(Rhododendron telopeum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 61 (1920))_
+            - [ ] _(Rhododendron campylocarpum var. orbiculare Demoly, Bull. Assoc. Parcs Bot. France 13: 10, nom. nov. 1990)_
+            - [ ] _(Rhododendron campylocarpum subsp. telopeum (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36(1): 116. 1978)_
+        - [ ] *Rhododendron callimorphum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 89 (1917)
+          - [ ] *Rhododendron callimorphum var. callimorphum* , 
+            - [ ] _(Rhododendron cyclium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 39 (1920))_
+          - [ ] *Rhododendron callimorphum var. myiagrum* (Balf.f. & Forrest) D.F.Chamb. ex D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 116 (1978)
+            - [ ] _(Rhododendron myiagrum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 52 (1920))_
+        - [ ] *Rhododendron souliei* Franch., J. Bot. (Morot) 9: 393 (1895)
+          - [ ] _(Rhododendron cordatum H.Lév., Bull. Acad. Int. Géogr. Bot. 24: 282 (1914))_
+        - [ ] *Rhododendron henanense* W.P.Fang, Acta Phytotax. Sin. 21(4): 457 (1983)
+          - [ ] *Rhododendron henanense subsp. lingbaoense* W.P.Fang, Acta Phytotax. Sin. 21(4): 459 (1983)
+          - [ ] *Rhododendron henanense subsp. henanense* , 1983
+      - [ ] *Rhododendron subsect. Arborea* Sleumer, Bot. Jahrb. Syst. 74:54. (1949)
+        - [ ] *Rhododendron niveum* Hook.f., J. Hort. Soc. London 7: 78 (1852)
+          - [ ] _(Azalea nivea (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+          - [ ] _(Rhododendron blumei Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 366 (1853))_
+        - [ ] *Rhododendron delavayi* Franch., Bull. Soc. Bot. France 33: 231 (1886)
+          - [ ] _(Rhododendron arboreum subsp. delavayi (Franch.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 328. 1979)_
+          - [ ] _(Azalea delavayi (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron pilovittatum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 134 (1917))_
+          - [ ] *Rhododendron delavayi var. adenostylum* Xiang Chen & Jia Y.Huang, Ann. Bot. Fenn. 47: 401 (2010)
+          - [ ] *Rhododendron delavayi var. delavayi* , 
+          - [ ] *Rhododendron delavayi var. pilostylum* K.M.Feng, Acta Bot. Yunnan. 5: 265 (1983)
+          - [ ] *Rhododendron delavayi var. peramoenum* (Balf.f. & Forrest) T.L.Ming, Acta Bot. Yunnan. 6: 148 (1984)
+            - [ ] _(Rhododendron peramoenum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 56 (1920))_
+            - [ ] _(Rhododendron arboreum var. peramoenum (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 328. 1979)_
+        - [ ] *Rhododendron arboreum* Sm., Exot. Bot. 1: 9 (1804)
+          - [ ] _(Rhododendron windsorii Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 357 (1853))_
+          - [ ] _(Rhododendron undulatum Steud., Nomencl. Bot. [Steudel], ed. 2. 2: 451. 1841)_
+          - [ ] _(Stemotis album (Blume) Raf., Sylva Tellur. : 153 (1838))_
+          - [ ] _(Rhododendron cordifolium Dehnh., Cat. Horti Camald. , ed. 2: 23 (1832))_
+          - [ ] _(Stemotis coccineum Raf., Sylva Tellur. : 153 (1838))_
+          - [ ] _(Stemotis roseum (Lindl.) Raf., Sylva Tellur. : 153 (1838))_
+          - [ ] _(Rhododendron knightianum J.Forbes, Hort. Woburn. 90. 1833 [Oct-Nov 1833])_
+          - [ ] _(Rhododendron arboreum var. roseum Lindl., Edwards's Bot. Reg. 15: t. 1240 (1829))_
+          - [ ] _(Rhododendron gloxiniiflorum Millais, Rhododendrons : 174 (1917))_
+          - [ ] _(Rhododendron venustum Salisb., Prodr. Stirp. Chap. Allerton 287. 1796 [Nov-Dec 1796])_
+          - [ ] _(Rhododendron puniceum Roxb., Fl. Ind. ed. 1832 , 2: 409 (1832))_
+          - [ ] _(Rhododendron purpureum Buch.-Ham. ex D.Don, Prodr. Fl. Nepal. : 154 (1825))_
+          - [ ] _(Azalea arborea (Sm.) Kuntze, Revis. Gen. Pl. 2: 386. 1891 [5 Nov 1891])_
+          - [ ] _(Rhododendron nepalense Voss, Vilm. Blumengärtn., ed. 3. 1: 583, in syn. 1894)_
+          - [ ] *Rhododendron arboreum subsp. arboreum* , 
+            - [ ] _(Rhododendron album Buch.-Ham. ex D.Don, Prodr. Fl. Nepal. 154. 1825 [26 Jan-1 Feb 1825])_
+            - [ ] _(Rhododendron arboreum var. album Wall., Pl. Asiat. Rar. 2: 23 (1831))_
+            - [ ] _(Rhododendron arboreum var. arboreum , )_
+          - [ ] *Rhododendron arboreum subsp. albotomentosum* (Davidian) D.F.Chamb., R.H.S. Rhododendron Handb. : 350 (1998)
+            - [ ] _(Rhododendron delavayi var. albotomentosum Davidian, Rhododendron Sp. 2: 308, 75 1989)_
+          - [ ] *Rhododendron arboreum subsp. nilagiricum* (Zenker) Tagg, Spec. Rhododendron 15 (1930)
+            - [ ] _(Rhododendron nilagiricum Zenker, Ann. Sci. Nat., Bot. , sér. 2, 6: 150 (1836))_
+          - [ ] *Rhododendron arboreum subsp. cinnamomeum* (Wall. ex G.Don) Tagg, Spec. Rhododendron : 15 (1930)
+            - [ ] _(Rhododendron cinnamomeum Wall. ex G.Don, Gen. Hist. 3: 844 (1834))_
+            - [ ] _(Rhododendron arboreum subsp. campbelliae (Hook.f.) Tagg, Sp. Rhodod. 15 1930)_
+            - [ ] _(Rhododendron campbelliae Hook.f., Rhododendr. Sikkim-Himalaya 1: t. 6 (1849))_
+            - [ ] _(Rhododendron arboreum var. cinnamomeum (Wall. ex G.Don) Lindl., Edwards's Bot. Reg. 23: t. 1982 (1837))_
+          - [ ] *Rhododendron arboreum subsp. zeylanicum* (Booth) Tagg, Spec. Rhododendron 16 (1930)
+            - [ ] _(Rhododendron zeylanicum Loudon, Encyc. Pl. Suppl. ii. 1364. (1855))_
+            - [ ] _(Rhododendron zeylanicum Booth, Gard. Chron. 1850: 150 (1850))_
+            - [ ] _(Rhododendron rollissonii Lindl., Edwards's Bot. Reg. 29: t. 25 (1843))_
+        - [ ] *Rhododendron gannanense* Z.C.Feng & X.G.Sun, Bull. Bot. Res., Harbin 12: 145 (1992)
+        - [ ] *Rhododendron lanigerum* Tagg, Spec. Rhododendron : 248 (1930)
+          - [ ] _(Rhododendron silvaticum Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 185 (1936))_
+          - [ ] _(Rhododendron lanigerum var. silvaticum (Cowan) Davidian, Rhododendron Sp. 2: 77 1989)_
+      - [ ] *Rhododendron subsect. Campanulata* Sleumer, Bot. Jahrb. Syst. 74:550. (1949)
+        - [ ] *Rhododendron wallichii* Hook.f., Rhododendr. Sikkim-Himalaya t. 6 (1849)
+          - [ ] _(Rhododendron heftii Davidian, Rhododendron Sp. 2: 307, 149 1989)_
+          - [ ] _(Rhododendron campanulatum var. wallichii (Hook.f.) Hook.f., Bot. Mag. 82: t. 4928 (1856))_
+        - [ ] *Rhododendron campanulatum* D.Don, Mem. Wern. Nat. Hist. Soc. 3: 410 (1821)
+          - [ ] _(Azalea campanulata (D.Don) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron mutabile Webb ex Royle, Ill. Bot. Himal. Mts. : 259 (1835))_
+          - [ ] _(Rhododendron nobile Wall., Numer. List [Wallich] n. 1521. 1829)_
+          - [ ] _(Rhododendron edgarii Gamble, List Trees Darjeeling Dist. : 52 (1878))_
+          - [ ] _(Rhododendron batemanii Hook.f., Bot. Mag. 89: t. 5387 (1863))_
+          - [ ] _(Rhododendron planifolium Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 365 (1853))_
+          - [ ] _(Rhododendron campanulatum subsp. campanulatum , )_
+        - [ ] *Rhododendron aeruginosum* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 22 (1851)
+          - [ ] _(Rhododendron campanulatum subsp. aeruginosum (Hook.f.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 329 (1979))_
+          - [ ] _(Rhododendron campanulatum var. aeruginosum (Hook.f.) Cowan & Davidian, Rhododendron Year Book 4: 168 1949)_
+      - [ ] *Rhododendron subsect. Thomsonia* Sleumer, Bot. Jahrb. Syst. 74:545. (1949)
+        - [ ] *Rhododendron populare* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 251 (1937)
+        - [ ] *Rhododendron × candelabrum* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 29 (1851)
+          - [ ] _(Rhododendron thomsonii var. candelabrum (Hook.f.) C.B.Clarke, Fl. Brit. India [J. D. Hooker] 3:468. (1882))_
+          - [ ] _(Rhododendron thomsonii var. pallidium (Hook.f.) Cowan, Notes Roy. Bot. Gard. Edinburgh 19:253. (1937))_
+          - [ ] _(Rhododendron thomsonii subsp. candelabrum (Hook.f.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 121 (1978))_
+        - [ ] *Rhododendron viscidifolium* Davidian, Rhododendron Camellia Year Book 21: 104 (1966)
+        - [ ] *Rhododendron thomsonii* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 12 (1851)
+          - [ ] _(Azalea thomsonii (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron thomsonii subsp. lopsangianum* (Cowan) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 29: 420 (1982)
+            - [ ] _(Rhododendron thomsonii var. lopsangianum (Cowan) T.L.Ming, Acta Bot. Yunnan. 6: 160 (1984))_
+            - [ ] _(Rhododendron lopsangianum Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 250 (1937))_
+          - [ ] *Rhododendron thomsonii subsp. thomsonii* , 
+        - [ ] *Rhododendron faucium* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 124 (1978)
+        - [ ] *Rhododendron cyanocarpum* (Franch.) Franch. ex W.W.Sm., Trans. Bot. Soc. Edinburgh 26: 274 (1914)
+          - [ ] _(Rhododendron cyanocarpum var. eriphyllum Balf.f. & W.W.Sm. ex Tagg, Sp. Rhodod. 738 1930)_
+          - [ ] _(Rhododendron hedythamnum var. eglandulosum Hand.-Mazz., Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz. 19: 3 1923)_
+          - [ ] _(Rhododendron thomsonii var. cyanocarpum Franch., J. Bot. (Morot) 9(21): 389 1895)_
+        - [ ] *Rhododendron subansiriense* D.F.Chamb. & Pet.A.Cox, Notes Roy. Bot. Gard. Edinburgh 36: 124 (1978)
+        - [ ] *Rhododendron cerasinum* Tagg ex Kingdon-Ward, Gard. Chron. ser. 3, 87: 330 1930
+        - [ ] *Rhododendron hylaeum* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 265 (1922)
+        - [ ] *Rhododendron ramipilosum* T.L.Ming, Acta Bot. Yunnan. 6: 159 (1984)
+        - [ ] *Rhododendron eclecteum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 105 (1920)
+          - [ ] *Rhododendron eclecteum var. bellatulum* Balf.f. ex Tagg, Spec. Rhododendron 739 (1930)
+          - [ ] *Rhododendron eclecteum var. eclecteum* , 
+            - [ ] _(Rhododendron eclecteum var. brachyandrum (Balf.f. & Forrest) Cowan & Davidian, Rhododendron Year Book 6: 169 1951)_
+            - [ ] _(Rhododendron brachyandrum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 32 (1920))_
+        - [ ] *Rhododendron bonvalotii* Bureau & Franch., J. Bot. (Morot) 5: 94 (1891)
+        - [ ] *Rhododendron eurysiphon* Tagg & Forrest, Spec. Rhododendron : 708 (1930)
+        - [ ] *Rhododendron hookeri* Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 359 (1853)
+          - [ ] _(Azalea hookeri (Nutt.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron sherriffii* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 231 (1937)
+        - [ ] *Rhododendron meddianum* Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 136 (1920)
+          - [ ] *Rhododendron meddianum var. meddianum* , 
+          - [ ] *Rhododendron meddianum var. atrokermesinum* Tagg, Notes Roy. Bot. Gard. Edinburgh 16: 202 (1931)
+        - [ ] *Rhododendron stewartianum* Diels, Notes Roy. Bot. Gard. Edinburgh 5: 211 (1912)
+          - [ ] _(Rhododendron niphobolum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 277 (1922))_
+          - [ ] _(Rhododendron aiolosalpinx Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 227 (1922))_
+          - [ ] _(Rhododendron stewartianum var. tantulum Cowan & Davidian, Rhododendron Year Book 6: 177 1951)_
+          - [ ] _(Rhododendron stewartianum var. aiolosalpinx (Balf.f. & Farrer) Cowan & Davidian, Rhododendron Year Book 6: 177 1951)_
+        - [ ] *Rhododendron megalanthum* M.Y.Fang, Acta Phytotax. Sin. 26: 66 (1988)
+      - [ ] *Rhododendron × chlorops* Cowan, Notes Roy. Bot. Gard. Edinburgh 21: 143. 1953
+      - [ ] *Rhododendron subsect. Neriiflora* Sleumer, Bot. Jahrb. Syst. 74:545. (1949)
+        - [ ] *Rhododendron sanguineum* Franch., J. Bot. (Morot) 12: 259 (1898)
+          - [ ] *Rhododendron sanguineum var. haemaleum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 334 (1979)
+            - [ ] _(Rhododendron sanguineum subsp. mesaeum Balf.f. ex Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 70 1940)_
+            - [ ] _(Rhododendron haemaleum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 71 (1919))_
+            - [ ] _(Rhododendron haemaleum var. mesaeum (Balf.f. ex Cowan) Davidian, Rhododendron Sp. 3: 124 1992)_
+            - [ ] _(Rhododendron sanguineum subsp. haemaleum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 69 1940)_
+            - [ ] _(Rhododendron sanguineum subsp. atrorubrum Cowan, Notes from the Royal Botanic Garden Edinburgh 20: p.69)_
+            - [ ] _(Rhododendron sanguineum var. mesaeum Davidian, Rhododendron Spec. 3:124. (1992))_
+            - [ ] _(Rhododendron haemaleum var. atrorubrum (Cowan) Davidian, Rhododendron Sp. 3: 124 1992)_
+          - [ ] *Rhododendron sanguineum var. himertum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 334 (1979)
+            - [ ] _(Rhododendron sanguineum subsp. melleum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 73 1940)_
+            - [ ] _(Rhododendron himertum subsp. nebrites (Balf.f. & Forrest) Tagg, Sp. Rhodod. 533 1930)_
+            - [ ] _(Rhododendron sanguineum subsp. himertum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 72 1940)_
+            - [ ] _(Rhododendron poliopeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 56 (1920))_
+            - [ ] _(Rhododendron sanguineum subsp. aizoides Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 73 1940)_
+            - [ ] _(Rhododendron nebrites Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 53 (1920))_
+            - [ ] _(Rhododendron himertum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 48 (1920))_
+            - [ ] _(Rhododendron himertum subsp. poliopeplum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 533 1930)_
+          - [ ] *Rhododendron sanguineum var. cloiophorum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 334 (1979)
+            - [ ] _(Rhododendron cloiophorum subsp. leucopetalum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 545 1930)_
+            - [ ] _(Rhododendron sanguineum subsp. cloiophorum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 71 1940)_
+            - [ ] _(Rhododendron leucopetalum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 86 1919)_
+            - [ ] _(Rhododendron cloiophorum var. leucopetalum (Balf.f. & Forrest) Davidian, Rhododendron Sp. 3: 115 1992)_
+            - [ ] _(Rhododendron sanguineum subsp. leucopetalum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 73 1940)_
+            - [ ] _(Rhododendron asmenistum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 29 (1920))_
+            - [ ] _(Rhododendron cloiophorum subsp. asmenistum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 545 1930)_
+            - [ ] _(Rhododendron cloiophorum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 37 (1919))_
+          - [ ] *Rhododendron sanguineum var. didymum* (Balf.f. & Forrest) T.L.Ming, Acta Bot. Yunnan. 6: 171 (1984)
+            - [ ] _(Rhododendron sanguineum subsp. didymum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 70 1940)_
+            - [ ] _(Rhododendron didymum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 256 (1922))_
+          - [ ] *Rhododendron sanguineum var. sanguineum* , 
+            - [ ] _(Rhododendron sanguineum subsp. sanguineoides Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 69 1940)_
+            - [ ] _(Rhododendron sanguineum subsp. sanguineum , )_
+            - [ ] _(Rhododendron sanguineum var. sanguineoides (Cowan) Davidian, Rhododendron Sp. 3: 134 1992)_
+          - [ ] *Rhododendron sanguineum var. didymoides* Tagg & Forrest, Spec. Rhododendron : 555 (1930)
+            - [ ] _(Rhododendron sanguineum subsp. didymoides (Tagg & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 72 1940)_
+            - [ ] _(Rhododendron sanguineum var. consanguineum (Cowan) Davidian, Rhododendron Sp. 3: 133 1992)_
+            - [ ] _(Rhododendron sanguineum var. consanguinem (Cowan) Davidian, Rhododendron Spec. 3:133. (1992))_
+            - [ ] _(Rhododendron cloiophorum subsp. roseotinctum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 545 1930)_
+            - [ ] _(Rhododendron sanguineum subsp. consanguineum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 68 1940)_
+            - [ ] _(Rhododendron cloiophorum subsp. mannophorum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 545 1930)_
+            - [ ] _(Rhododendron cloiophorum var. roseotinctum (Balf.f. & Forrest) Davidian, Rhododendron Sp. 3: 115 1992)_
+            - [ ] _(Rhododendron cloiophorum var. mannophorum (Balf.f. & Forrest) Davidian, Rhododendron Sp. 3: 115 1992)_
+            - [ ] _(Rhododendron roseotinctum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 121 (1919))_
+            - [ ] _(Rhododendron sanguineum subsp. roseotinctum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 71 1940)_
+            - [ ] _(Rhododendron mannophorum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 51 (1920))_
+        - [ ] *Rhododendron beanianum* Cowan, New Fl. & Silva 10: 246 (1938)
+        - [ ] *Rhododendron erastum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 60 (1919)
+          - [ ] _(Rhododendron serpens Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 135 (1919))_
+          - [ ] _(Rhododendron porphyrophyllum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 108 (1919))_
+        - [ ] *Rhododendron × xanthanthum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 335 (1979)
+          - [ ] _(Rhododendron chaetomallum var. xanthanthum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 15:308. (1927))_
+        - [ ] *Rhododendron coelicum* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 250 (1922)
+        - [ ] *Rhododendron aperantum* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 13: 231 (1922)
+        - [ ] *Rhododendron sperabile* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 297 (1922)
+          - [ ] *Rhododendron sperabile var. weihsiense* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 319 (1927)
+          - [ ] *Rhododendron sperabile var. sperabile* , 
+        - [ ] *Rhododendron floccigerum* Franch., J. Bot. (Morot) 12: 259 (1898)
+        - [ ] *Rhododendron euchroum* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 228 (1916)
+        - [ ] *Rhododendron temenium* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 146 (1919)
+          - [ ] *Rhododendron temenium var. dealbatum* (Cowan) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 334 (1979)
+            - [ ] _(Rhododendron temenium subsp. dealbatum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 83 1940)_
+            - [ ] _(Rhododendron glaphyrum var. dealbatum (Cowan) Davidian, Rhododendron Sp. 3: 121 1992)_
+            - [ ] _(Rhododendron temenium subsp. glaphyrum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 82 1940)_
+            - [ ] _(Rhododendron eudoxum subsp. glaphyrum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 549 1930)_
+            - [ ] _(Rhododendron glaphyrum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 45 (1920))_
+          - [ ] *Rhododendron temenium var. gilvum* (Cowan) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 334 (1979)
+            - [ ] _(Rhododendron temenium subsp. gilvum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 82 1940)_
+            - [ ] _(Rhododendron temenium subsp. chrysanthemum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 82–83 1940)_
+            - [ ] _(Rhododendron fulvastrum var. gilvum (Cowan) Davidian, Rhododendron Sp. 3: 120 1992)_
+          - [ ] *Rhododendron temenium var. temenium* , 
+            - [ ] _(Rhododendron pothinum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 147 (1920))_
+            - [ ] _(Rhododendron temenium subsp. temenium , )_
+            - [ ] _(Rhododendron temenium subsp. pothinum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 81 1940)_
+            - [ ] _(Rhododendron eudoxum subsp. temenium (Balf.f. & Forrest) Tagg, Sp. Rhodod. 549 1930)_
+            - [ ] _(Rhododendron eudoxum subsp. pothinum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 539 1930)_
+        - [ ] *Rhododendron chionanthum* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 309 (1927)
+        - [ ] *Rhododendron mallotum* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 10: 118 (1917)
+          - [ ] _(Rhododendron aemulorum Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 86 (1920))_
+        - [ ] *Rhododendron × hillieri* Davidian, Rhododendrons Magnolias Camellias 1974: 47 (1974)
+        - [ ] *Rhododendron pocophorum* Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 316 (1926)
+          - [ ] *Rhododendron pocophorum var. pocophorum* , 
+          - [ ] *Rhododendron pocophorum var. hemidartum* (Balf.f. ex Tagg) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 334. 1979
+            - [ ] _(Rhododendron hemidartum Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 315 (1926))_
+        - [ ] *Rhododendron albertsenianum* Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 21 (1919)
+        - [ ] *Rhododendron dichroanthum* Diels, Notes Roy. Bot. Gard. Edinburgh 5: 212 (1912)
+          - [ ] *Rhododendron dichroanthum subsp. dichroanthum* , 
+          - [ ] *Rhododendron dichroanthum subsp. scyphocalyx* (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20: 88 (1940)
+            - [ ] _(Rhododendron dichroanthum subsp. herpesticum (Balf.f. & Kingdon-Ward) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 87–88 1940)_
+            - [ ] _(Rhododendron dichroanthum var. scyphocalyx (Balf.f. & Forrest) T.L.Ming, Acta Bot. Yunnan. 6: 170 (1984))_
+            - [ ] _(Rhododendron torquatum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 303 (1922))_
+            - [ ] _(Rhododendron herpesticum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 10: 114 (1917))_
+            - [ ] _(Rhododendron scyphocalyx Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 291 (1922))_
+          - [ ] *Rhododendron dichroanthum subsp. septentrionale* (Tagg) Cowan, Notes Roy. Bot. Gard. Edinburgh 20: 87 1940
+            - [ ] _(Rhododendron dichroanthum var. septentrionale (Cowan) T.L.Ming, Acta Bot. Yunnan. 6: 170 (1984))_
+          - [ ] *Rhododendron dichroanthum subsp. apodectum* (Balf.f. & W.W.Sm.) Cowan, Notes Roy. Bot. Gard. Edinburgh 20: 86 (1940)
+            - [ ] _(Rhododendron liratum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 274 (1922))_
+            - [ ] _(Rhododendron apodectum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 83 (1917))_
+            - [ ] _(Rhododendron jangtzowense Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 271 (1922))_
+            - [ ] _(Rhododendron dichroanthum var. apodectum (Balf.f. & W.W.Sm.) T.L.Ming, Acta Bot. Yunnan. 6: 170 (1984))_
+        - [ ] *Rhododendron bijiangense* T.L.Ming, Acta Bot. Yunnan. 3: 116 (1981)
+        - [ ] *Rhododendron neriiflorum* Franch., Bull. Soc. Bot. France 33: 230 (1886)
+          - [ ] _(Azalea neriiflora (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron euchaites Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 43 (1920))_
+          - [ ] _(Rhododendron phoenicodum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 285 (1922))_
+          - [ ] *Rhododendron neriiflorum var. neriiflorum* , 
+            - [ ] _(Rhododendron neriiflorum var. euchaites (Balf.f. & Forrest) Davidian, Rhododendron Sp. 3: 99 1992)_
+            - [ ] _(Rhododendron neriiflorum subsp. phoenicodum (Balf.f. & Farrer) Tagg, Sp. Rhodod. 533 1930)_
+            - [ ] _(Rhododendron neriiflorum subsp. euchaites (Balf.f. & Forrest) Tagg, Sp. Rhodod. 523 1930)_
+            - [ ] _(Rhododendron neriiflorum subsp. neriiflorum , )_
+          - [ ] *Rhododendron neriiflorum var. appropinquans* (Tagg & Forrest) W.K.Hu, Fl. Reipubl. Popularis Sin. 57(2): 290 (1994)
+            - [ ] _(Rhododendron floccigerum var. appropinquans Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15(75): 312–313 1927)_
+            - [ ] _(Rhododendron tawangense K.C.Sahni & H.B.Naithani, Indian Forester 105: 685 (1979))_
+            - [ ] _(Rhododendron neriiflorum var. phaedropum (Balf.f. & Farrer) T.L.Ming, Acta Bot. Yunnan. 6: 169 (1984))_
+            - [ ] _(Rhododendron floccigerum subsp. appropinquans (Tagg & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 333 (1979))_
+            - [ ] _(Rhododendron phaedropum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 283 (1922))_
+            - [ ] _(Rhododendron neriiflorum subsp. phaedropum (Balf.f. & Farrer) Tagg, Spec. Rhododendron 533 (1930))_
+          - [ ] *Rhododendron neriiflorum var. agetum* (Balf.f. & Forrest) T.L.Ming, Acta Bot. Yunnan. 6: 169 (1984)
+            - [ ] _(Rhododendron agetum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 29 (1920))_
+            - [ ] _(Rhododendron neriiflorum var. agetum (Balf.f. & Forrest) Davidian, Rhododendron Sp. 3: 99 (1992))_
+            - [ ] _(Rhododendron neriiflorum subsp. agetum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 533 1930)_
+        - [ ] *Rhododendron piercei* Davidian, Quart. Bull. Amer. Rhododendron Soc. 30(4): 211 (1976)
+          - [ ] _(Rhododendron beanianum var. compactum Cowan, Notes Roy. Bot. Gard. Edinburgh 21(3): 148 1953)_
+        - [ ] *Rhododendron citriniflorum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 35 (1919)
+          - [ ] _(Rhododendron chlanidotum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 38 (1920))_
+          - [ ] *Rhododendron citriniflorum var. horaeum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 332 (1979)
+            - [ ] _(Rhododendron citriniflorum subsp. aureolum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 75 1940)_
+            - [ ] _(Rhododendron citriniflorum subsp. horaeum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 76 1940)_
+            - [ ] _(Rhododendron horaeum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 264 (1922))_
+          - [ ] *Rhododendron citriniflorum var. citriniflorum* , 
+            - [ ] _(Rhododendron citriniflorum subsp. citriniflorum , 1940)_
+        - [ ] *Rhododendron chamaethomsonii* (Tagg) Cowan & Davidian, Rhododendron Year Book 6: 70 (1951)
+          - [ ] _(Rhododendron repens var. chamaethomsonii Tagg, Spec. Rhododendron : 514 (1930))_
+          - [ ] *Rhododendron chamaethomsonii var. chamaethomsonii* , 
+          - [ ] *Rhododendron chamaethomsonii var. chamaedoron* (Tagg) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 332 (1979)
+            - [ ] _(Rhododendron repens var. chamaedoron Tagg, Notes Roy. Bot. Gard. Edinburgh 16: 206 (1931))_
+          - [ ] *Rhododendron chamaethomsonii var. chamaethauma* (Tagg) Cowan & Davidian, Rhododendron Year Book 6: 71 (1951)
+            - [ ] _(Rhododendron repens var. chamaethauma Tagg, Spec. Rhododendron : 514 (1930))_
+        - [ ] *Rhododendron eudoxum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 62 (1919)
+          - [ ] _(Rhododendron eudoxum subsp. trichomiscum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 549 1930)_
+          - [ ] _(Rhododendron trichomiscum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 169 (1920))_
+          - [ ] _(Rhododendron trichophlebium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 62 (1920))_
+          - [ ] _(Rhododendron eudoxum subsp. eudoxum , )_
+          - [ ] _(Rhododendron fulvastrum subsp. trichophlebium (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 79 1940)_
+          - [ ] _(Rhododendron fulvastrum subsp. trichomiscum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 79 1940)_
+          - [ ] *Rhododendron eudoxum var. brunneifolium* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 333 (1979)
+            - [ ] _(Rhododendron brunneifolium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 33 (1920))_
+            - [ ] _(Rhododendron eudoxum subsp. brunneifolium (Balf.f. & Forrest) Tagg, Sp. Rhodod. 549 1930)_
+          - [ ] *Rhododendron eudoxum var. eudoxum* , 
+            - [ ] _(Rhododendron temenium subsp. albipetalum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 83 1940)_
+            - [ ] _(Rhododendron temenium subsp. rhodanthum Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 81–82 1940)_
+          - [ ] *Rhododendron eudoxum var. mesopolium* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 333 (1979)
+            - [ ] _(Rhododendron eudoxum subsp. mesopolium (Balf.f. & Forrest) Tagg, Sp. Rhodod. 549 1930)_
+            - [ ] _(Rhododendron fulvastrum subsp. mesopolium (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 79 1940)_
+            - [ ] _(Rhododendron asteium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 235 (1922))_
+            - [ ] _(Rhododendron epipastum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 258 (1922))_
+            - [ ] _(Rhododendron fulvastrum subsp. epipastum (Balf.f. & Forrest) Cowan, Notes Roy. Bot. Gard. Edinburgh 20(97): 80 1940)_
+            - [ ] _(Rhododendron eudoxum subsp. epipastum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 549 1930)_
+            - [ ] _(Rhododendron eudoxum subsp. asteium (Balf.f. & Forrest) Tagg, Sp. Rhodod. 549 1930)_
+            - [ ] _(Rhododendron mesopolium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 51 (1920))_
+        - [ ] *Rhododendron haematodes* Franch., Bull. Soc. Bot. France 33: 232 (1886)
+          - [ ] _(Azalea haematodes (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron haematodes subsp. chaetomallum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 333 (1979)
+            - [ ] _(Rhododendron chaetomallum var. glaucescens Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 16: 189 (1931))_
+            - [ ] _(Rhododendron chaetomallum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 95 (1920))_
+          - [ ] *Rhododendron haematodes subsp. haematodes* , 
+            - [ ] _(Rhododendron haematodes var. hypoleucum Franch., Bull. Soc. Bot. France 34: 280–281 1887)_
+            - [ ] _(Rhododendron haematodes var. calycinum Franch., Bull. Soc. Bot. France 34: 280 1887)_
+        - [ ] *Rhododendron microgynum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 99 (1919)
+          - [ ] _(Rhododendron gymnocarpum Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 313 (1927))_
+          - [ ] _(Rhododendron perulatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 106 (1919))_
+        - [ ] *Rhododendron trilectorum* Cowan, Notes Roy. Bot. Gard. Edinburgh 21: 144 (1953)
+        - [ ] *Rhododendron parmulatum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 182 (1936)
+        - [ ] *Rhododendron catacosmum* Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 307 (1926)
+        - [ ] *Rhododendron forrestii* Balf.f. ex Diels, Notes Roy. Bot. Gard. Edinburgh 5: 211 (1912)
+          - [ ] _(Rhododendron forrestii var. repens (Balf.f. & Forrest) Cowan & Davidian, Rhododendron Year Book 6: 69 1951)_
+          - [ ] _(Rhododendron repens Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 115 (1919))_
+          - [ ] *Rhododendron forrestii subsp. forrestii* , 
+            - [ ] _(Rhododendron forrestii var. tumescens Cowan & Davidian, Rhododendron Year Book 1951-52:71. (1952))_
+          - [ ] *Rhododendron forrestii subsp. papillatum* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 338 (1979)
+        - [ ] *Rhododendron sperabiloides* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 319 (1927)
+      - [ ] *Rhododendron subsect. Argyrophylla* Sleumer, Bot. Jahrb. Syst. 74:548. (1949)
+        - [ ] *Rhododendron eriobotryoides* Xiang Chen & Jia Y.Huang, J. Trop. Subtrop. Bot. 18: 260 (2010)
+        - [ ] *Rhododendron adenopodum* Franch., J. Bot. (Morot) 9: 391 (1895)
+          - [ ] _(Rhododendron simiarum subsp. youngiae (W.P.Fang) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 329 (1979))_
+          - [ ] _(Rhododendron youngiae W.P.Fang, Contr. Biol. Lab. Chin. Assoc. Advancem. Sci., Sect. Bot. 12: 24 1939)_
+        - [ ] *Rhododendron pingianum* W.P.Fang, Contr. Biol. Lab. Sci. Soc. China, Bot. Ser. 12: 20 (1939)
+        - [ ] *Rhododendron ririei* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 111 (1910)
+          - [ ] *Rhododendron ririei subsp. leiboense* M.Y.Fang, Acta Phytotax. Sin. 30(6): 556. 1992 [10 Nov 1992]
+          - [ ] *Rhododendron ririei subsp. ririei* , 
+        - [ ] *Rhododendron pudiense* Xiang Chen & Jia Y.Huang, Ann. Bot. Fenn. 47: 398 (2010)
+        - [ ] *Rhododendron haofui* Chun & W.P.Fang, Acta Phytotax. Sin. 6: 169 (1957)
+        - [ ] *Rhododendron coryanum* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 99 (1926)
+        - [ ] *Rhododendron simiarum* Hance, J. Bot. 19: 243 (1881)
+          - [ ] _(Azalea lugens Dum.Cours, Bot. Cult., ed. 2. 3: 337. 1811)_
+          - [ ] _(Rhododendron fordii Hemsl., Bull. Misc. Inform. Kew 1894: 5 (1894))_
+          - [ ] _(Rhododendron fokienense Franch., Bull. Soc. Bot. France 46: 210 (1899))_
+          - [ ] _(Azalea simiarum (Hance) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron simiarum var. versicolor* (Chun & W.P.Fang) M.Y.Fang, Bull. Bot. Res., Harbin 12: 218 (1992)
+            - [ ] _(Rhododendron versicolor Chun & W.P.Fang, Acta Phytotax. Sin. 6: 172 (1957))_
+          - [ ] *Rhododendron simiarum var. simiarum* , 
+            - [ ] _(Rhododendron simiarum var. deltoideum P.C.Tam, Surv. Genus Rhododendron S. China 95, 21. 1983 [Mar 1983])_
+        - [ ] *Rhododendron ebianense* M.Y.Fang, Rhododendron Notes Rec. 2: 23 (1988)
+        - [ ] *Rhododendron shimenense* Q.X.Liu & C.M.Zhang, Acta Phytotax. Sin. 29: 270 (1991)
+        - [ ] *Rhododendron floribundum* Franch., Bull. Soc. Bot. France 33: 232 (1886)
+        - [ ] *Rhododendron hypoglaucum* Hemsl., J. Linn. Soc., Bot. 26: 25 (1889)
+          - [ ] _(Rhododendron gracilipes Franch., J. Bot. (Morot) 9: 391 (1895))_
+          - [ ] _(Azalea hypoglauca (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron argyrophyllum subsp. hypoglaucum (Hemsl.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 329 (1979))_
+        - [ ] *Rhododendron brevipetiolatum* M.Y.Fang, Acta Phytotax. Sin. 22: 420 (1984)
+        - [ ] *Rhododendron oblancifolium* M.Y.Fang, Rhododendron Notes Rec. 2: 25 (1988)
+        - [ ] *Rhododendron argyrophyllum* Franch., Bull. Soc. Bot. France 33: 231 (1886)
+          - [ ] *Rhododendron argyrophyllum subsp. nankingense* (Cowan) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 329 (1979)
+            - [ ] _(Rhododendron argyrophyllum var. leiandrum Hutch., Bot. Mag. 144: , pl. 8767 1918)_
+            - [ ] _(Rhododendron argyrophyllum var. nankingense Cowan, Notes Roy. Bot. Gard. Edinburgh 21(3): 148 1953)_
+          - [ ] *Rhododendron argyrophyllum var. glabriovarium* M.Y.He, Acta Phytotax. Sin. 35: 66 (1997)
+          - [ ] *Rhododendron argyrophyllum subsp. omeiense* (Rehder & E.H.Wilson) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 329 (1979)
+            - [ ] _(Rhododendron argyrophyllum var. omeiense Rehder & E.H.Wilson, Pl. Wilson. 1(3): 527 1913)_
+          - [ ] *Rhododendron argyrophyllum subsp. argyrophyllum* , 
+            - [ ] _(Rhododendron chionophyllum Diels, Bot. Jahrb. Syst. 29: 512 (1900))_
+            - [ ] _(Rhododendron argyrophyllum var. cupulare Rehder & E.H.Wilson, Pl. Wilson. 1(3): 526–527 1913)_
+        - [ ] *Rhododendron insigne* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 113 (1910)
+          - [ ] *Rhododendron insigne var. insigne* , 
+          - [ ] *Rhododendron insigne var. hejiangense* (W.P.Fang) M.Y.Fang, Bull. Bot. Res., Harbin 12(3): 219 (1992)
+            - [ ] _(Rhododendron argyrophyllum subsp. hejiangense W.P.Fang, Acta Phytotax. Sin. 21(4): 457 (1983))_
+        - [ ] *Rhododendron thayerianum* Rehder & E.H.Wilson, Pl. Wilson. 1: 529 (1913)
+        - [ ] *Rhododendron longipes* Rehder & E.H.Wilson, Pl. Wilson. 1: 528 (1913)
+          - [ ] *Rhododendron longipes var. chienianum* (W.P.Fang) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 329 (1979)
+            - [ ] _(Rhododendron chienianum W.P.Fang, Contr. Biol. Lab. Sci. Soc. China, Bot. Ser. 12: 28 (1939))_
+          - [ ] *Rhododendron longipes var. longipes* , 
+        - [ ] *Rhododendron hunnewellianum* Rehder & E.H.Wilson, Pl. Wilson. 1: 535 (1913)
+          - [ ] *Rhododendron hunnewellianum subsp. rockii* (E.H.Wilson) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 329 (1979)
+            - [ ] _(Rhododendron rockii E.H.Wilson, J. Arnold Arbor. 9: 103 (1928))_
+          - [ ] *Rhododendron hunnewellianum subsp. hunnewellianum* , 
+            - [ ] _(Rhododendron leucolasium Diels, Repert. Spec. Nov. Regni Veg. 17: 196 (1921))_
+        - [ ] *Rhododendron denudatum* H.Lév., Repert. Spec. Nov. Regni Veg. 13: 339 (1914)
+          - [ ] _(Rhododendron xanthoneuron H.Lév., Repert. Spec. Nov. Regni Veg. 13: 340 (1914))_
+          - [ ] *Rhododendron denudatum var. glabriovarium* Xiang Chen & X.Chen, Nordic J. Bot. 28: 498 (2010)
+          - [ ] *Rhododendron denudatum var. denudatum* , 
+        - [ ] *Rhododendron formosanum* Hemsl., Bull. Misc. Inform. Kew 1894: 183 (1894)
+        - [ ] *Rhododendron fangchengense* P.C.Tam, Guihaia 2: 71 (1982)
+        - [ ] *Rhododendron farinosum* H.Lév., Repert. Spec. Nov. Regni Veg. 13: 340 (1914)
+      - [ ] *Rhododendron subsect. Pontica* Sleumer, Bot. Jahrb. Syst. 74:546. (1949)
+        - [ ] *Rhododendron japonoheptamerum* Kitam., Acta Phytotax. Geobot. 38: 382 (1987)
+          - [ ] _(Rhododendron japonicum (Blume) C.K.Schneid., Ill. Handb. Laubholzk. [C.K.Schneider] 2(9): 490. 1909 [25 Aug 1909])_
+          - [ ] _(Rhododendron hymenanthes Makino, Bot. Mag. (Tokyo) 16: 33 (1902))_
+          - [ ] _(Rhododendron degronianum subsp. heptamerum (Maxim.) H.Hara, J. Jap. Bot. 61(8): 246 (1986):.)_
+          - [ ] *Rhododendron japonoheptamerum var. okiense* T.Yamaz, Fl. Japan 3a: 42 (1993)
+          - [ ] *Rhododendron japonoheptamerum var. hondoense* (Nakai) Kitam., Acta Phytotax. Geobot. 38: 382 (1987)
+            - [ ] _(Rhododendron degronianum var. hondoense (Nakai) H.Hara, J. Jap. Bot. 61(8): 246 (1986):.)_
+            - [ ] _(Hymenanthes japonica Blume, Bijdr. Fl. Ned. Ind. : 882 (1826))_
+            - [ ] _(Rhododendron metternichii var. hondoense Nakai, Bot. Mag. (Tokyo) 38:26. (1924))_
+          - [ ] *Rhododendron japonoheptamerum var. japonoheptamerum* , 
+            - [ ] _(Rhododendron metternichii f. latifolium Sugim., J. Geobot. 22(4): 53. 1975)_
+            - [ ] _(Rhododendron metternichii Siebold & Zucc., Fl. Jap. (Siebold) 1: 23, t. 9. 1835)_
+            - [ ] _(Azalea japonica (Blume) Kuntze, Revis. Gen. Pl. 2: 386. 1891 [5 Nov 1891])_
+            - [ ] _(Rhododendron metternichii var. heptamerum Maxim., Mém. Acad. Imp. Sci. St.-Pétersbourg, Sér. 7. 16 (9). (1871))_
+            - [ ] _(Rhododendron degronianum var. heptamerum (Maxim.) Sealy ex Davidian, Rhododendron Sp. 3: 161 1992)_
+        - [ ] *Rhododendron × filidactylis* R.I.Milne, Fl. Turkey 11: 322 (2000 publ. 2001)
+        - [ ] *Rhododendron maximum* L., Sp. Pl. 1: 392 (1753)
+          - [ ] _(Rhododendron maximum f. album (Pursh) Fernald, Rhodora 43: 336 (1941))_
+          - [ ] _(Rhododendron latifolium Hoffmanns., Verz. Pfl.-Kult. , Nachtr. 2: 195 (1828))_
+          - [ ] _(Rhododendron fragrans DC., Prodr. [A. P. de Candolle] 7(2): 722 (1839))_
+          - [ ] _(Rhododendron ashleyi Coker, J. Elisha Mitchell Sci. Soc. 51: 189 (1935))_
+          - [ ] _(Rhododendron maximum f. maximum , )_
+          - [ ] _(Rhododendron maximum f. apetalum V.V.Byalt & Firsov, Hortus Botanicus 11: 27 (2015))_
+          - [ ] _(Rhododendron tigrinum Steud., Nomencl. Bot. [Steudel], ed. 2. 2: 451. 1841)_
+          - [ ] _(Rhododendron purshii G.Don, Gen. Hist. 3: 843 (1834))_
+          - [ ] _(Rhododendron procerum Salisb., Prodr. Stirp. Chap. Allerton 287. 1796 [Nov-Dec 1796])_
+          - [ ] _(Rhododendron maximum f. purpureum (Pursh) Fernald, Rhodora 43: 336 (1941))_
+          - [ ] _(Hymenanthes maxima (L.) H.F.Copel., Amer. Midl. Naturalist 30: 614 (1943))_
+          - [ ] _(Rhododendron maximum var. purpureum Pursh, Fl. Amer. Sept. 1: 297 (1813))_
+          - [ ] _(Rhododendron bigener Steud., Nomencl. Bot. [Steudel], ed. 2. 2: 450. 1841)_
+          - [ ] _(Rhododendron maximum var. album Pursh, Fl. Amer. Sept. 1: 297 (1813))_
+          - [ ] _(Rhododendron purpureum (Pursh) G.Don, Gen. Hist. 3:843. (1834))_
+        - [ ] *Rhododendron caucasicum* Pall., Fl. Ross. 1(1): 46 (1784)
+          - [ ] _(Rhododendron caucaseum Sims, Bot. Mag. 28: t. 1145. 1808)_
+          - [ ] _(Azalea caucasica (Pall.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron × charadzeae* A.P.Khokhr. & Mazurenko, Byull. Glavn. Bot. Sada 152: 58 (1989)
+        - [ ] *Rhododendron aureum* Georgi, Bemerk. Reise Russ. Reich 1: 214 (1775)
+          - [ ] _(Azalea chrysantha (Pall.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron chrysanthum Pall., Reise Russ. Reich. 3: 729 (1776))_
+          - [ ] _(Rhododendron officinale Salisb., Parad. Lond. 2: t. 80 (1807))_
+          - [ ] *Rhododendron aureum var. hypopitys* (Pojark.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 335. 1979
+            - [ ] _(Rhododendron hypopitys Pojark., Fl. URSS 18: 721 (1952))_
+            - [ ] _(Rhododendron aureum var. hypopitys (Pojark.) P.A.Schmidt, Beitr. Gehölzk. 61. 1982 [1981 publ. 1982] isonym)_
+            - [ ] _(Rhododendron aureum subsp. hypopitys (Pojark.) Vorosch., Florist. Issl. Razn. Raionakh SSSR : 185 (1985))_
+          - [ ] *Rhododendron aureum var. aureum* , 
+        - [ ] *Rhododendron ponticum* L., Sp. Pl. ed. 2 : 562 (1762)
+          - [ ] _(Rhododendron obtusum P.Watson, Dendrol. Brit. 2:t.162. (1825))_
+          - [ ] _(Azalea lancifolia (Moench) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron adansonii E.-A.Baumann, Ann. Fl. Pomone 1838-1839: 304 (1839))_
+          - [ ] _(Rhododendron lancifolium Moench, Rhododendr. Sikkim-Himalaya t. 4. 1849 [after 15 Mar 1849])_
+          - [ ] _(Rhododendron speciosum Salisb., Prodr. Stirp. Chap. Allerton 287. 1796 [Nov-Dec 1796])_
+          - [ ] _(Azalea arborea L., Sp. Pl. : 150 (1753))_
+          - [ ] _(Rhododendron deciduum Andrews ex Steud., Nomencl. Bot. [Steudel], ed. 2. 2: 450. 1841)_
+          - [ ] _(Hymenanthes pontica (L.) H.F.Copel., Amer. Midl. Naturalist 30: 614 (1943))_
+          - [ ] _(Rhododendron ponticum var. obtusum (P.Watson) G.Don, Gen. Hist. 3: 843. 1834 [8-15 Nov 1834])_
+          - [ ] _(Rhododendron lowei Loudon, Gard. Mag. & Reg. Rural Domest. Improv. 11: 79, 190 (1835))_
+          - [ ] _(Rhododendron catesbaeum Dum.Cours, Bot. Cult. , ed. 2, 7: 165 (1814))_
+          - [ ] _(Rhododendron parviflorum Dum.Cours, Mém. Acad. Imp. Sci. St.-Pétersbourg, Sér. 7. xii. (1868) n. II. (Reisen Amurl.) 158, sphalm.)_
+          - [ ] _(Rhododendron odoratum Lodd. ex Steud., Nomencl. Bot. [Steudel], ed. 2. 2: 450. 1841)_
+          - [ ] _(Rhododendron hyacinthiflorum Steud., Nomencl. Bot. [Steudel], ed. 2. 2: 450. 1841)_
+          - [ ] *Rhododendron ponticum subsp. ponticum* , 
+            - [ ] _(Rhododendron ponticum f. aurantiaco-maculatum Rukhadze & Pachulia, Trudy Sukhumsk. Bot. Sada 11: 465. 1958 , as 'aurantiaco-maculata')_
+            - [ ] _(Rhododendron ponticum f. angustilobum Rukhadze & Pachulia, Trudy Sukhumsk. Bot. Sada 11: 465. 1958 , as 'angustiloba')_
+            - [ ] _(Rhododendron ponticum f. album Rukhadze & Pachulia, Trudy Sukhumsk. Bot. Sada 11: 465. 1958 , as 'alba')_
+            - [ ] _(Rhododendron ponticum f. parviflorum Rukhadze & Pachulia, Trudy Sukhumsk. Bot. Sada 11: 465. 1958 , as 'parviflora')_
+            - [ ] _(Rhododendron ponticum f. luteomaculatum Rukhadze & Pachulia, Trudy Sukhumsk. Bot. Sada 11: 464 (1958))_
+            - [ ] _(Rhododendron ponticum var. brachycarpum Boiss., Fl. Orient. 3:972. (1875))_
+            - [ ] _(Rhododendron ponticum f. brachystamineum Rukhadze & Pachulia, Trudy Sukhumsk. Bot. Sada 11: 464. 1958 , as 'brachystaminea')_
+            - [ ] _(Rhododendron ponticum f. crispatum Rukhadze & Pachulia, Trudy Sukhumsk. Bot. Sada 11: 465. 1958 , as 'crispata')_
+          - [ ] *Rhododendron ponticum subsp. baeticum* (Boiss. & Reut.) Hand.-Mazz., Ann. Naturhist. Mus. Wien 23: 53 (1909)
+            - [ ] _(Rhododendron superponticum Cullen, Hanburyana 5: 25 (2011))_
+            - [ ] _(Azalea baetica (Boiss. & Reut.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+            - [ ] _(Rhododendron ponticum var. myrtifolium G.Don, Gen. Hist. 3: 843 (1834))_
+            - [ ] _(Rhododendron myrtifolium G.Lodd., Bot. Cab. 10(1): t. 908. 1824 [Nov 1824])_
+            - [ ] _(Rhododendron baeticum Boiss. & Reut., Diagn. Pl. Orient. , ser. 2, 3: 118 (1856))_
+            - [ ] _(Rhododendron myrtifolium G.Lodd. ex J.Forbes, Hort. Woburn. 90. 1833)_
+            - [ ] _(Rhododendron algarvense Page, Page's Prodr. : 38 (1818))_
+        - [ ] *Rhododendron makinoi* Tagg ex Nakai, Trees Shrubs Japan , ed. 2: 61 (1927)
+          - [ ] _(Azalea makinoi var. muranoana Makino, J. Jap. Bot. 6: 4 1929)_
+          - [ ] _(Rhododendron stenophyllum Makino, Bot. Mag. (Tokyo) 24: 99. 1910)_
+          - [ ] _(Rhododendron yakusimanum subsp. makinoi (Tagg ex Nakai) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 336 (1979))_
+          - [ ] _(Rhododendron makinoi Tagg, Notes Roy. Bot. Gard. Edinburgh 16: 201, cum descr. latina. 1931)_
+          - [ ] _(Azalea makinoi (Tagg ex Nakai) Makino, J. Jap. Bot. 6: 3 (1929))_
+          - [ ] _(Rhododendron metternichii f. angustifolium Makino, Bot. Mag. (Tokyo) 10:211. (1896))_
+        - [ ] *Rhododendron catawbiense* Michx., Fl. Bor.-Amer. 1: 258 (1803)
+          - [ ] _(Rhododendron catawbiense f. catawbiense , )_
+          - [ ] _(Azalea catawbiensis (Michx.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Hymenanthes catawbiensis (Michx.) H.F.Copel., Amer. Midl. Naturalist 30: 614 (1943))_
+          - [ ] _(Rhododendron catesbaei J.Forbes, Hort. Woburn. 90. 1833 [Oct-Nov 1833])_
+        - [ ] *Rhododendron brachycarpum* D.Don ex G.Don, Gen. Hist. 3: 843 (1834)
+          - [ ] _(Azalea brachycarpa (D.Don ex G.Don) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron brachycarpum var. tigerstedtii (Nitz.) Davidian, Rhododendron Sp. 3: 157 1992)_
+          - [ ] _(Rhododendron brachycarpum subsp. tigerstedtii Nitz., Deutsche Baumschule 1970(7): 207. [Jul 1970])_
+          - [ ] _(Rhododendron brachycarpum f. normale (H.Hara) Kitam., Acta Phytotax. Geobot. 25(2-3): 38. 1972 [25 Jul 1972])_
+          - [ ] *Rhododendron brachycarpum subsp. fauriei* (Franch.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 335 (1979)
+            - [ ] _(Rhododendron brachycarpum f. fauriei (Franch.) Murata, Acta Phytotax. Geobot. 38: 56 (1987))_
+            - [ ] _(Rhododendron fauriei Franch., Bull. Annuel Soc. Philom. Paris , sér. 7, 10: 145 (1886))_
+            - [ ] _(Rhododendron fauriae Franch., Bull. Annuel Soc. Philom. Paris VII, 10: 145 1886)_
+          - [ ] *Rhododendron brachycarpum subsp. brachycarpum* , 
+            - [ ] _(Rhododendron brachycarpum subsp. tigerstedtii Nitz. ex D.H.Voss, J. Amer. Rhododendron Soc. 55: 157 (2001))_
+            - [ ] _(Rhododendron brachycarpum f. nematoanum (Makino) H.Hara, Enum. Spermatophytarum Japon. 1: 31 (1948))_
+        - [ ] *Rhododendron degronianum* Carrière, Rev. Hort. (Paris) 41: 368 (1869)
+          - [ ] _(Rhododendron metternichii var. degronianum (Carrière) Makino, Ill. Fl. Nippon 250. 1940 [2 Oct 1940])_
+          - [ ] _(Rhododendron pentamerum (Maxim.) Nakai & Mastsum., Index Seminum (TI, Tokyo) 1915-1916: 24 (1916))_
+          - [ ] _(Azalea degroniana (Carrière) Makino, J. Jap. Bot. 5: 8 (1928))_
+          - [ ] _(Rhododendron nakaii Komastsu, Icon. Pl. Koisikav. 1: 145 (1913))_
+          - [ ] _(Rhododendron metternichii var. pentamerum Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 16(9): 22 1870)_
+          - [ ] _(Rhododendron japonicum var. pentamerum (Maxim.) Hutch., Bot. Mag. 137: t. 8403 1911)_
+          - [ ] *Rhododendron degronianum var. degronianum* , 
+          - [ ] *Rhododendron degronianum var. amagianum* (T.Yamaz) T.Yamaz, Fl. Japan 3a: 42 (1993)
+            - [ ] _(Rhododendron metternichii f. amagianum T.Yamaz, J. Jap. Bot. 56(11): 365 (1981).)_
+            - [ ] _(Rhododendron degronianum f. amagianum (T.Yamaz) H.Hara, J. Jap. Bot. 61(8): 246 (1986):.)_
+        - [ ] *Rhododendron macrophyllum* D.Don ex G.Don, Gen. Hist. 3: 843 (1834)
+          - [ ] _(Rhododendron washingtonianum Millais, Rhododendrons : 260 (1917))_
+          - [ ] _(Rhododendron californicum Hook., Bot. Mag. 81: t. 4863. 1855 [1 Jul 1855])_
+          - [ ] _(Rhododendron californicum var. washingtonianum Zabel ex Rehder, Cycl. Amer. Hort. [L.H.Bailey] 4: 1522. 1902)_
+          - [ ] _(Hymenanthes californica (Hook.) H.F.Copel., Amer. Midl. Naturalist 30: 614 (1943))_
+          - [ ] _(Rhododendron macrophyllum f. album Rehder, J. Arnold Arbor. 28: 254. 1947)_
+          - [ ] _(Hymenanthes macrophylla (D.Don ex G.Don) H.F.Copel., Leafl. W. Bot. 5: 140 (1948))_
+          - [ ] _(Azalea macrophylla (D.Don ex G.Don) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Hymenanthes macrophylla f. alba (Rehder) H.F.Copel., Leafl. W. Bot. 5(8): 140 1948)_
+          - [ ] _(Azalea californica (Hook.) Kuntze, Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+        - [ ] *Rhododendron smirnowii* Trautv. ex Regel, Gartenflora 34: 335 (1885)
+          - [ ] _(Rhododendron smirnowii Trautv., Trudy Imp. S.-Peterburgsk. Bot. Sada 9(pt. 2): 513. 1886)_
+        - [ ] *Rhododendron × kurohimense* Arakawa, Acta Phytotax. Geobot. 26: 29 (1974)
+        - [ ] *Rhododendron × niko-montanum* Nakai, Bot. Mag. (Tokyo) 31: 242 (1917)
+          - [ ] _(Rhododendron brachycarpum var. lutescens Koidz., Bot. Mag. (Tokyo) 30(350): 77 (1916))_
+          - [ ] _(Rhododendron chrysanthum var. nikomontanum Komastsu, Icon. Pl. Koisikav. 3:t.195. (1917))_
+        - [ ] *Rhododendron hyperythrum* Hayata, Icon. Pl. Formosan. 3: 133 (1913)
+          - [ ] _(Rhododendron rubropunctatum Hayata, Icon. Pl. Formosan. 3:141. (1913))_
+        - [ ] *Rhododendron ungernii* Trautv. ex Regel, Gartenflora 34: 335 (1885)
+          - [ ] _(Rhododendron ungernii Trautv., Trudy Imp. S.-Peterburgsk. Bot. Sada ix. (1886) 514; Regel, in Gartenfl. xxxv. (1886) 278. fig.1.)_
+      - [ ] *Rhododendron subsect. Taliensia* Sleumer, Bot. Jahrb. Syst. 74:550. (1949)
+        - [ ] *Rhododendron nakotiltum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 143 (1920)
+        - [ ] *Rhododendron dignabile* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 241 (1937)
+        - [ ] *Rhododendron pubicostatum* T.L.Ming, Acta Bot. Yunnan. 3: 119 (1981)
+        - [ ] *Rhododendron pronum* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 318 (1927)
+        - [ ] *Rhododendron danbaense* L.C.Hu, Bull. Bot. Res., Harbin 5(4): 155 (1986)
+        - [ ] *Rhododendron coeloneurum* Diels, Bot. Jahrb. Syst. 29: 513 (1900)
+        - [ ] *Rhododendron potaninii* Batalin, Trudy Imp. S.-Peterburgsk. Bot. Sada 11: 489 (1891)
+        - [ ] *Rhododendron pugeense* L.C.Hu, Acta Phytotax. Sin. 30: 543 (1992)
+        - [ ] *Rhododendron pomense* Cowan & Davidian, Notes Roy. Bot. Gard. Edinburgh 21: 146 (1953)
+        - [ ] *Rhododendron montiganum* T.L.Ming, Acta Bot. Yunnan. 6: 164 (1984)
+        - [ ] *Rhododendron detersile* Franch., J. Bot. (Morot) 12: 260 (1898)
+        - [ ] *Rhododendron vellereum* Hutch. ex Tagg, Spec. Rhododendron : 688 (1930)
+          - [ ] _(Rhododendron principis var. vellereum (Hutch. ex Tagg) T.L.Ming, Fl. Xizang. 3: 621 (1986))_
+        - [ ] *Rhododendron shanii* W.P.Fang, Bull. Bot. Res., Harbin 3(4): 38 (1983)
+        - [ ] *Rhododendron rufum* Batalin, Trudy Imp. S.-Peterburgsk. Bot. Sada 11: 490 (1890)
+          - [ ] _(Rhododendron weldianum Rehder & E.H.Wilson, Pl. Wilson. 1: 532 (1913))_
+        - [ ] *Rhododendron sphaeroblastum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 60 (1920)
+          - [ ] *Rhododendron sphaeroblastum var. sphaeroblastum* , 
+          - [ ] *Rhododendron sphaeroblastum var. wumungense* K.M.Feng, Acta Bot. Yunnan. 5:265. (1983)
+        - [ ] *Rhododendron codonanthum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 249 (1922)
+        - [ ] *Rhododendron phaeochrysum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 10: 131 (1917)
+          - [ ] *Rhododendron phaeochrysum var. phaeochrysum* , 
+            - [ ] _(Rhododendron dryophyllum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 58 1919)_
+            - [ ] _(Rhododendron cuprescens Nitz., Acta Horti Gothob. 26: 117. 1963)_
+          - [ ] *Rhododendron phaeochrysum var. levistratum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 120 (1978)
+            - [ ] _(Rhododendron helvolum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 262 (1922))_
+            - [ ] _(Rhododendron dichropeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 40 (1920))_
+            - [ ] _(Rhododendron theiophyllum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 61 (1920))_
+            - [ ] _(Rhododendron levistratum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 88 (1919))_
+            - [ ] _(Rhododendron vicinum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 305 (1922))_
+            - [ ] _(Rhododendron aiolopeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 226 (1922))_
+            - [ ] _(Rhododendron sigillatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 294 (1922))_
+            - [ ] _(Rhododendron intortum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 269 (1922))_
+          - [ ] *Rhododendron phaeochrysum var. agglutinatum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 120 (1978)
+            - [ ] _(Rhododendron agglutinatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 88 (1920))_
+            - [ ] _(Rhododendron lophophorum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 95 (1919))_
+            - [ ] _(Rhododendron syncollum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 142 (1919))_
+            - [ ] _(Rhododendron dumosulum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 41 (1920))_
+        - [ ] *Rhododendron dayiense* M.Y.He, Acta Phytotax. Sin. 35: 63 (1997)
+        - [ ] *Rhododendron aganniphum* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 10: 80 (1917)
+          - [ ] *Rhododendron aganniphum var. aganniphum* , 
+            - [ ] _(Rhododendron aganniphum var. glaucopeplum T.L.Ming, Acta Bot. Yunnan. 6: 165, 162 (1984))_
+            - [ ] _(Rhododendron glaucopeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 46 (1920))_
+          - [ ] *Rhododendron aganniphum var. schizopeplum* (Balf.f. & Forrest) T.L.Ming, Acta Bot. Yunnan. 6: 165 (1984)
+            - [ ] _(Rhododendron schizopeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 131 (1919))_
+            - [ ] _(Rhododendron fissotectum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 44 (1920))_
+            - [ ] _(Rhododendron doshongense Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 310 (1927))_
+          - [ ] *Rhododendron aganniphum var. flavorufum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 119 (1978)
+            - [ ] _(Rhododendron flavorufum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 65 (1919))_
+        - [ ] *Rhododendron bureavii* Franch., Bull. Soc. Bot. France 34: 281 (1887)
+          - [ ] _(Azalea bureaui (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron bureavioides Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 33 (1920))_
+          - [ ] _(Rhododendron cruentum H.Lév., Repert. Spec. Nov. Regni Veg. 12: 284 (1913))_
+        - [ ] *Rhododendron mimetes* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 315 (1927)
+        - [ ] *Rhododendron faberi* Hemsl., J. Linn. Soc., Bot. 26: 22 (1889)
+          - [ ] _(Rhododendron ochrocalyx Delavay ex Millais, Rhododendrons : 160 (1917))_
+          - [ ] _(Rhododendron faberi subsp. faberi , )_
+          - [ ] _(Azalea faberi (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+          - [ ] _(Rhododendron faberioides Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 44 (1920))_
+          - [ ] _(Rhododendron wuense Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 64 (1920))_
+        - [ ] *Rhododendron principis* Bureau & Franch., J. Bot. (Morot) 5: 92 (1891)
+        - [ ] *Rhododendron torquescens* D.F.Chamb., Fl. China 14: 389 (2005)
+          - [ ] _(Rhododendron torquatum L.C.Hu, Acta Phytotax. Sin. 30:549. (1992))_
+        - [ ] *Rhododendron taliense* Franch., Bull. Soc. Bot. France 33: 232 (1886)
+          - [ ] _(Azalea taliensis (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron × detonsum* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 11: 48 (1919)
+        - [ ] *Rhododendron wasonii* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910:105. (1910)
+          - [ ] *Rhododendron wasonii var. wasonii* , 
+            - [ ] _(Rhododendron rhododactylum Millais, Rhododendrons , ser. 2: 224 (1924))_
+            - [ ] _(Rhododendron wasonii var. rhododactylum (Millais) Davidian, Rhododendron Sp. 3: 238 1992)_
+          - [ ] *Rhododendron wasonii var. wenchuanense* L.C.Hu, Bull. Bot. Res., Harbin 5(4): 156 (1986)
+        - [ ] *Rhododendron tianmenshanense* C.L.Peng & L.H.Yan, Acta Phytotax. Sin. 45: 304 (2007)
+        - [ ] *Rhododendron traillianum* Forrest & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 204 (1914)
+          - [ ] *Rhododendron traillianum var. dictyotum* (Balf.f. ex Tagg) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 120 (1978)
+            - [ ] _(Rhododendron dictyotum Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 309 (1927))_
+          - [ ] *Rhododendron traillianum var. traillianum* , 
+            - [ ] _(Rhododendron aberrans Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 305 (1927))_
+        - [ ] *Rhododendron beesianum* Diels, Notes Roy. Bot. Gard. Edinburgh 5: 214 (1912)
+          - [ ] _(Rhododendron emaculatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 42 (1920))_
+          - [ ] _(Rhododendron colletum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 39 (1919))_
+        - [ ] *Rhododendron lulangense* L.C.Hu & Tateishi, Acta Phytotax. Sin. 30(6): 545. 1992 [10 Nov 1992]
+        - [ ] *Rhododendron nigroglandulosum* Nitz., Rhododendrons Magnolias Camellias 1975: 27 (1975)
+        - [ ] *Rhododendron wightii* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 27 (1851)
+          - [ ] _(Azalea wightii (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 386 1891)_
+        - [ ] *Rhododendron clementinae* Forrest ex W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 343 (1915)
+          - [ ] _(Rhododendron clementinae subsp. clementinae , )_
+        - [ ] *Rhododendron roxieanum* W.W.Sm. ex Forrest, Notes Roy. Bot. Gard. Edinburgh 8: 344 (1915)
+          - [ ] _(Rhododendron recurvum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 110 (1919))_
+          - [ ] _(Rhododendron aischropeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 229 (1922))_
+          - [ ] _(Rhododendron poecilodermum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 285 (1922))_
+          - [ ] *Rhododendron roxieanum var. roxieanum* , 
+            - [ ] _(Rhododendron roxieanum var. recurvum (Balf.f. & Forrest) Davidian, Rhododendron Sp. 3: 216 1992)_
+            - [ ] _(Rhododendron roxieanum var. parvum Davidian, Rhododendron Sp. 2: 308 1989)_
+          - [ ] *Rhododendron roxieanum var. cucullatum* (Hand.-Mazz.) D.F.Chamb. ex L.C.Hu, Notes Roy. Bot. Gard. Edinburgh 36(1): 119, without basionym page. 1978
+            - [ ] _(Rhododendron porphyroblastum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 287 (1922))_
+            - [ ] _(Rhododendron coccinopeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 248 (1922))_
+            - [ ] _(Rhododendron cucullatum Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 58: 26 (1921))_
+          - [ ] *Rhododendron roxieanum var. oreonastes* (Balf.f. & Forrest) Davidian, Rhododendron Sp. 3: 214 1992
+            - [ ] _(Rhododendron recurvum var. oreonastes Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11(52–53): 113–114 1919)_
+        - [ ] *Rhododendron trichogynum* L.C.Hu, Acta Phytotax. Sin. 30: 545 (1992)
+        - [ ] *Rhododendron barkamense* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 29: 478 (1982)
+        - [ ] *Rhododendron × bathyphyllum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 27 (1919)
+        - [ ] *Rhododendron balfourianum* Diels, Notes Roy. Bot. Gard. Edinburgh 5: 214 (1912)
+          - [ ] *Rhododendron balfourianum var. balfourianum* , 
+          - [ ] *Rhododendron balfourianum var. aganniphoides* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 306 (1927)
+        - [ ] *Rhododendron scopulum* (G.Z.Li) G.Z.Li, Guihaia 30: 295 (2010)
+          - [ ] _(Rhododendron dachengense var. scopulum G.Z.Li, Acta Bot. Yunnan. 23(3): 288 (2001).)_
+        - [ ] *Rhododendron wiltonii* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 107 (1910)
+        - [ ] *Rhododendron adenogynum* Diels, Notes Roy. Bot. Gard. Edinburgh 5: 216 (1912)
+          - [ ] _(Rhododendron adenophorum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 211 (1916))_
+        - [ ] *Rhododendron dumicola* Tagg & Forrest, Tagg in Notes Bot. Gard. Edinb. xvi. 190 (1931), latine.
+        - [ ] *Rhododendron bhutanense* D.G.Long & S.Bowes-Lyon, Notes Roy. Bot. Gard. Edinburgh 45: 327 (1988 publ. 1989)
+        - [ ] *Rhododendron heizhugouense* M.Y.He & L.C.Hu, Acta Bot. Yunnan. 18: 295 (1996)
+        - [ ] *Rhododendron aureodorsale* (W.P.Fang ex J.Q.Fu) Y.P.Ma & J.Nielsen, Nordic J. Bot. 30(2): 184 (2012)
+          - [ ] _(Rhododendron clementinae subsp. aureodorsale W.P.Fang ex J.Q.Fu, Fl. Tsinling. 1(4): 393, 20 (1983))_
+        - [ ] *Rhododendron dachengense* G.Z.Li, Acta Bot. Yunnan. 23: 287 (2001)
+          - [ ] _(Rhododendron dachengense var. dachengense , )_
+        - [ ] *Rhododendron prattii* Franch., J. Bot. (Morot) 9: 389 (1895)
+          - [ ] _(Rhododendron leei W.P.Fang, Acta Phytotax. Sin. 2: 82 (1952))_
+          - [ ] _(Rhododendron faberi subsp. prattii (Franch.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 120 (1978))_
+        - [ ] *Rhododendron nhatrangense* Dop, Fl. Indo-Chine 3: 743 (1930)
+        - [ ] *Rhododendron yaoshanense* L.M.Gao & S.D.Zhang, Ann. Bot. Fenn. 45: 204 (2008)
+        - [ ] *Rhododendron comisteum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 42 (1919)
+        - [ ] *Rhododendron lacteum* Franch., Bull. Soc. Bot. France 33: 231 (1886)
+          - [ ] _(Azalea lactea (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron mairei H.Lév., Repert. Spec. Nov. Regni Veg. 12: 285 (1913))_
+        - [ ] *Rhododendron elegantulum* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 311 (1927)
+        - [ ] *Rhododendron proteoides* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 264 (1916)
+          - [ ] _(Rhododendron lampropeplum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 272 (1922))_
+        - [ ] *Rhododendron alutaceum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 81 (1917)
+          - [ ] _(Rhododendron roxieanum var. globigerum (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36(1): 119. 1978)_
+          - [ ] _(Rhododendron globigerum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 259 (1922))_
+          - [ ] *Rhododendron alutaceum var. russotinctum* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 119 (1978)
+            - [ ] _(Rhododendron tritifolium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 63 (1920))_
+            - [ ] _(Rhododendron triplonaevium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 62 (1920))_
+            - [ ] _(Rhododendron russotinctum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 129 (1919))_
+          - [ ] *Rhododendron alutaceum var. alutaceum* , 
+          - [ ] *Rhododendron alutaceum var. iodes* (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 39: 350 (1982)
+            - [ ] _(Rhododendron iodes Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 49 (1920))_
+        - [ ] *Rhododendron zhongdianense* L.C.Hu, Acta Phytotax. Sin. 22: 317 (1984)
+        - [ ] *Rhododendron przewalskii* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 23: 350 (1877)
+          - [ ] _(Azalea przewalskii (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron przewalskii subsp. huzhuense* W.P.Fang & S.X.Wang, Acta Biol. Plateau Sin. 1: 228 (1982)
+          - [ ] *Rhododendron przewalskii subsp. yushuense* W.P.Fang & S.X.Wang, Acta Biol. Plateau Sin. 3: 1 (1984)
+          - [ ] *Rhododendron przewalskii subsp. chrysophyllum* W.P.Fang & S.X.Wang, Acta Biol. Plateau Sin. 1: 227 (1982)
+          - [ ] *Rhododendron przewalskii subsp. przewalskii* , 
+            - [ ] _(Rhododendron kialense Franch., J. Bot. (Morot) 9: 392 (1895))_
+            - [ ] _(Rhododendron dabanshanense W.P.Fang & S.X.Wang, Acta Bot. Sin. 20: 356 1978)_
+        - [ ] *Rhododendron punctifolium* L.C.Hu, Acta Phytotax. Sin. 22: 316 (1984)
+        - [ ] *Rhododendron roxieoides* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 29: 478 (1982)
+      - [ ] *Rhododendron subsect. Griersoniana* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 337. 1979
+        - [ ] *Rhododendron griersonianum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 69 (1919)
+          - [ ] _(Hymenanthes griersoniana (Balf.f. & Forrest) H.F.Copel., Amer. Midl. Naturalist 30: 614 (1943))_
+      - [ ] *Rhododendron subsect. Williamsiana* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 39(2): 478, 260 (1982)
+        - [ ] *Rhododendron leishanicum* W.P.Fang & X.S.Zhang, Acta Phytotax. Sin. 21(4): 468 (1983)
+          - [ ] _(Rhododendron oligocarpum W.P.Fang & X.S.Zhang, Acta Phytotax. Sin. 21(4): 466 (1983))_
+          - [ ] _(Rhododendron leishanicum W.P.Fang & X.S.Zhang ex D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 39 (2):261. (1982))_
+        - [ ] *Rhododendron williamsianum* Rehder & E.H.Wilson, Pl. Wilson. 1: 538 (1913)
+      - [ ] *Rhododendron subsect. Irrorata* Sleumer, Bot. Jahrb. Syst. 74:548. (1949)
+        - [ ] *Rhododendron jinboense* Xiang Chen & X.Chen, J. Trop. Subtrop. Bot. 18: 260 (2010)
+        - [ ] *Rhododendron kendrickii* Nutt., Ann. Mag. Nat. Hist. , ser. 2, 12: 10 (1853)
+          - [ ] _(Rhododendron shepherdii Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 360 (1853))_
+          - [ ] _(Azalea shepherdii (Nutt.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Azalea kendrickii (Nutt.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron pankimense Cowan & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 19: 180 (1936))_
+        - [ ] *Rhododendron langbianense* A.Chev. ex Dop, Fl. Indo-Chine 3: 745 (1930)
+        - [ ] *Rhododendron mengtszense* Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 206 (1917)
+        - [ ] *Rhododendron gongshanense* T.L.Ming, Acta Bot. Yunnan. 6: 151 (1984)
+        - [ ] *Rhododendron brevinerve* Chun & W.P.Fang, Acta Phytotax. Sin. 6: 167 (1957)
+        - [ ] *Rhododendron spanotrichum* Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 214 (1917)
+        - [ ] *Rhododendron laojunshanense* M.Y.Fang, J. Sichuan Univ., Nat. Sci. Ed. 1984(2): 111.
+          - [ ] _(Rhododendron laojunense T.L.Ming, Acta Bot. Yunnan. 6: 150 (1984))_
+        - [ ] *Rhododendron leptopeplum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 82 (1919)
+        - [ ] *Rhododendron pingbianense* M.Y.Fang, Acta Phytotax. Sin. 22: 421 (1984)
+        - [ ] *Rhododendron excelsum* A.Chev., Rev. Bot. Appl. Agric. Trop. 9: 255 (1929)
+        - [ ] *Rhododendron cochlearifolium* Xiang Chen & Jia Y.Huang, Ann. Bot. Fenn. 49: 422 (2012)
+        - [ ] *Rhododendron irroratum* Franch., Bull. Soc. Bot. France 34: 280 (1887)
+          - [ ] _(Azalea isorata (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron irroratum subsp. yiliangense* M.Rob & McQuire ex N.Lancaster, Rhododendrons Magnolias Camellias 62: 119 (2011)
+          - [ ] *Rhododendron irroratum subsp. pogonostylum* (Balf.f. & W.W.Sm.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 117 (1978)
+            - [ ] _(Rhododendron pogonostylum Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 210 (1917))_
+            - [ ] _(Rhododendron adenostemonum Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 174 (1917))_
+            - [ ] _(Rhododendron kontumense Sleumer, Blumea, Suppl. 4: 54 (1958))_
+            - [ ] _(Rhododendron irroratum subsp. kontumense (Sleumer) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 117 (1978))_
+          - [ ] *Rhododendron irroratum subsp. irroratum* , 
+            - [ ] _(Rhododendron ningyuenense Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 57: 288 (1920))_
+            - [ ] _(Rhododendron maximowiczianum H.Lév., Bull. Soc. Agric. Sarthe , sér. 2, 38: 47 (1903))_
+        - [ ] *Rhododendron korthalsii* Miq., Ann. Mus. Bot. Lugduno-Batavi 1: 43 (1863)
+        - [ ] *Rhododendron ramsdenianum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 183 (1936)
+        - [ ] *Rhododendron papillatum* Balf.f. & R.E.Cooper, Notes Roy. Bot. Gard. Edinburgh 13: 282 (1922)
+          - [ ] _(Rhododendron epapillatum Balf.f. & R.E.Cooper, Notes Roy. Bot. Gard. Edinburgh 13: 257 (1922))_
+        - [ ] *Rhododendron lukiangense* Franch., J. Bot. (Morot) 12: 257 (1898)
+          - [ ] _(Rhododendron adroserum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 28 (1920))_
+          - [ ] _(Rhododendron lukiangense subsp. gymnanthum (Diels) Tagg, Sp. Rhodod. 351 1930)_
+          - [ ] _(Rhododendron ceraceum Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 187 (1917))_
+          - [ ] _(Rhododendron lukiangense subsp. admirabile (Balf.f. & Forrest) Tagg, Sp. Rhodod. 351 1930)_
+          - [ ] _(Rhododendron lukiangense subsp. ceraceum (Balf.f. & W.W.Sm.) Tagg, Sp. Rhodod. 351 1930)_
+          - [ ] _(Rhododendron gymnanthum Diels, Notes Roy. Bot. Gard. Edinburgh 5: 211 (1912))_
+          - [ ] _(Rhododendron admirabile Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 27 (1920))_
+          - [ ] _(Rhododendron lukiangense subsp. adroserum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 351 1930)_
+        - [ ] *Rhododendron aberconwayi* Cowan, Rhododendron Year Book 1948: 42 (1948)
+          - [ ] _(Rhododendron maxiongense C.Q.Zhang & D.Paterson, Novon 13: 156 (2003))_
+        - [ ] *Rhododendron annae* Franch., J. Bot. (Morot) 12: 258 (1898)
+          - [ ] *Rhododendron annae subsp. annae* , J. Bot. (Morot)
+          - [ ] *Rhododendron annae subsp. laxiflorum* (Balf.f. & Forrest) T.L.Ming, Acta Bot. Yunnan. 6: 149 (1984)
+            - [ ] _(Rhododendron hardingii Forrest ex Tagg, Tagg in Notes Bot. Gard. Edinb. xvi. 196 (1931), latine.)_
+            - [ ] _(Rhododendron laxiflorum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 50 (1920))_
+        - [ ] *Rhododendron tanastylum* Balf.f. & Kingdon-Ward, Trans. Bot. Soc. Edinburgh 27: 217 (1917)
+          - [ ] _(Rhododendron ombrochares Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 13: 280 (1922))_
+          - [ ] _(Rhododendron cerochitum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 36 (1920))_
+          - [ ] *Rhododendron tanastylum var. lingzhiense* M.Y.Fang, Bull. Bot. Res., Harbin 12: 221 (1992)
+            - [ ] _(Rhododendron rubropunctatum T.L.Ming, Acta Bot. Yunnan. 6(2): 150, as 'rubro-punctata'. 1984)_
+          - [ ] *Rhododendron tanastylum var. tanastylum* , 
+            - [ ] _(Rhododendron petelotii Dop, Fl. Indo-Chine 3: 733 (1930))_
+        - [ ] *Rhododendron wrayi* King & Gamble, J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 75 (1905)
+          - [ ] _(Rhododendron corruscum Ridl., J. Fed. Malay States Mus. 5: 37 (1914))_
+          - [ ] _(Rhododendron shikokianum Makino, Bot. Mag. (Tokyo) 6: 53 (1892))_
+          - [ ] _(Rhododendron dubium King & Gamble, J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 78 (1905))_
+        - [ ] *Rhododendron araiophyllum* Balf.f. & Forrest, Trans. Bot. Soc. Edinburgh 27: 184 (1917)
+          - [ ] *Rhododendron araiophyllum subsp. lapidosum* (T.L.Ming) M.Y.Fang, Bull. Bot. Res., Harbin 12(3): 221. 1992
+            - [ ] _(Rhododendron lapidosum T.L.Ming, Acta Bot. Yunnan. 3: 113 (1981))_
+          - [ ] *Rhododendron araiophyllum subsp. araiophyllum* , 
+        - [ ] *Rhododendron anthosphaerum* Diels, Notes Roy. Bot. Gard. Edinburgh 5: 215 (1912)
+          - [ ] _(Rhododendron hylothreptum Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 195 (1917))_
+          - [ ] _(Rhododendron gymnogynum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 47 (1920))_
+          - [ ] _(Rhododendron chawchiense Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 247 (1922))_
+          - [ ] _(Rhododendron eritimum Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 190 (1917))_
+          - [ ] _(Rhododendron eritimum subsp. persicinum (Hand.-Mazz.) Tagg, Sp. Rhodod. 343 1930)_
+          - [ ] _(Rhododendron eritimum subsp. gymnogynum (Balf.f. & Forrest) Tagg, Sp. Rhodod. 343 1930)_
+          - [ ] _(Rhododendron persicinum Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 60: 97 (1923 publ. 1924))_
+          - [ ] _(Rhododendron heptamerum Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 48 (1920))_
+          - [ ] _(Rhododendron anthosphaerum subsp. hylothreptum (Balf.f. & W.W.Sm.) Tagg, Sp. Rhodod. 337 1930)_
+          - [ ] _(Rhododendron eritimum subsp. chawchiense (Balf.f. & Farrer) Tagg, Sp. Rhodod. 343 1930)_
+          - [ ] _(Rhododendron anthosphaerum var. eritimum (Balf.f. & W.W.Sm.) Davidian, Rhododendron Sp. 2: 261 1989)_
+          - [ ] _(Rhododendron eritimum subsp. heptamerum (Balf.f.) Tagg, Sp. Rhodod. 343 1930)_
+        - [ ] *Rhododendron guizhouense* M.Y.Fang, Proc. Intern. Rhodod. Conf. 4: 58 (1989)
+      - [ ] *Rhododendron subsect. Grandia* Sleumer, Bot. Jahrb. Syst. 74:549. (1949)
+        - [ ] *Rhododendron protistum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 151 (1920)
+          - [ ] _(Rhododendron giganteum var. seminudum Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15(72): 108–109 1926)_
+          - [ ] *Rhododendron protistum var. giganteum* (Forrest ex Tagg) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 331 (1979)
+            - [ ] _(Rhododendron giganteum Forrest ex Tagg, J. Roy. Hort. Soc. xlix. 27 (1924), in obs.)_
+          - [ ] *Rhododendron protistum var. protistum* , 
+        - [ ] *Rhododendron magnificum* Kingdon-Ward, J. Bot. 73: 247 (1935)
+        - [ ] *Rhododendron oreogenum* L.C.Hu, Acta Phytotax. Sin. 30: 541 (1992)
+        - [ ] *Rhododendron suoilenhense* D.F.Chamb., N.T.T.Huong & Rushforth, Bot. Mag. 36(4): 423. 2020
+          - [ ] _(Rhododendron suoilenhensis Chamberlain & Rushforth, The Red Lists o Rhododendrons (2011))_
+        - [ ] *Rhododendron pudorosum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 239 (1937)
+        - [ ] *Rhododendron grande* Wight, Calcutta J. Nat. Hist. 8: 176 (1847)
+          - [ ] _(Rhododendron argenteum Hook.f., Rhododendr. Sikkim-Himalaya 1: t. 9 (1849))_
+          - [ ] _(Rhododendron longifolium Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 366 (1853))_
+          - [ ] _(Rhododendron grande var. singalense U.Rai, Lama, N.Thapa & Baraily, Pleione 8(1): 161 (2014))_
+          - [ ] _(Azalea grandis (Wight) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron wilsonii Nutt. ex Hook., Bot. Mag. 85: t. 5116 (1859))_
+          - [ ] _(Waldemaria argentea (Hook.f.) Klotzsch, Bot. Ergebn. Reise Waldemar : 99 (1862))_
+        - [ ] *Rhododendron sinogrande* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 274 (1916)
+          - [ ] _(Rhododendron sinogrande var. boreale Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 119 1926)_
+        - [ ] *Rhododendron watsonii* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 112 (1910)
+        - [ ] *Rhododendron montroseanum* Davidian, Notes Roy. Bot. Gard. Edinburgh 37: 338 (1979)
+          - [ ] _(Rhododendron mollyanum Cowan & Davidian, R.H.S. Rhododendron & Camellia Year Book viii. 72 (1953).)_
+        - [ ] *Rhododendron macabeanum* G.Watt ex Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 128 (1920)
+        - [ ] *Rhododendron wattii* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 163 (1936)
+          - [ ] _(Rhododendron kingianum G.Watt ex W.Watson, Gard. Chron. , ser. 3, 26: 306 (1899))_
+          - [ ] _(Rhododendron arboreum var. kingianum (G.Watt ex W.Watson ) Hook.f., Bot. Mag. 126:t. 7696. (1900))_
+        - [ ] *Rhododendron kesangiae* D.G.Long & Rushforth, Notes Roy. Bot. Gard. Edinburgh 45: 331 (1988 publ. 1989)
+          - [ ] *Rhododendron kesangiae var. album* P.Namgyel & D.G.Long, New Plantsman 2(2): 68 (1995).
+          - [ ] *Rhododendron kesangiae var. kesangiae* , 
+        - [ ] *Rhododendron sidereum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 162 (1920)
+        - [ ] *Rhododendron balangense* W.P.Fang, Acta Phytotax. Sin. 21(4): 468 (1983)
+        - [ ] *Rhododendron praestans* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 263 (1916)
+          - [ ] _(Rhododendron semnum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 59 (1920))_
+          - [ ] _(Rhododendron coryphaeum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 100 (1920))_
+      - [ ] *Rhododendron subsect. Fortunea* Sleumer, Bot. Jahrb. Syst. 74:546. (1949)
+        - [ ] _(Rhododendron subsect. Auriculata Sleumer, Bot. Jahrb. Syst. 24:543. (1949))_
+        - [ ] *Rhododendron nymphaeoides* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 54 (1988)
+        - [ ] *Rhododendron griffithianum* Wight, Icon. Pl. Ind. Orient. 4: t. 1203 (1848)
+          - [ ] _(Rhododendron oblongum Griff., Not. Pl. Asiat. 4: 303 (1854))_
+          - [ ] _(Azalea griffithiana (Wight) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron griffithii Hook.f., Rhododendr. Sikkim-Himalaya 2, sphalm.)_
+          - [ ] _(Rhododendron griffithianum var. aucklandii (Hook.f.) Hook., Bot. Mag. 84: , pl. 5065 1858)_
+          - [ ] _(Rhododendron aucklandii Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 11 (1851))_
+        - [ ] *Rhododendron discolor* Franch., J. Bot. (Morot) 9: 391 (1895)
+          - [ ] _(Rhododendron mandarinorum Diels, Bot. Jahrb. Syst. 29: 510 (1900))_
+          - [ ] _(Rhododendron houlstonii Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 110 (1910))_
+          - [ ] _(Rhododendron kwangfuense Chun & W.P.Fang, Acta Phytotax. Sin. 6: 170 (1957))_
+          - [ ] _(Rhododendron fortunei var. houlstonii (Hemsl. & E.H.Wilson) Rehder & E.H.Wilson, Pl. Wilson. 1: 541 1913)_
+          - [ ] _(Rhododendron fortunei var. kwangfuense (Chun & W.P.Fang) G.Z.Li, Guihaia 15(3): 195 (1995))_
+          - [ ] _(Rhododendron fortunei subsp. discolor (Franch.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 330. 1979)_
+          - [ ] _(Rhododendron kirkii Millais, Rhododendrons 169 (1917), in syn.)_
+        - [ ] *Rhododendron auriculatum* Hemsl., J. Linn. Soc., Bot. 26: 20 (1889)
+          - [ ] _(Azalea auriculata (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron fortunei* Lindl., Gard. Chron. 1859: 868 (1859)
+          - [ ] _(Azalea fortunei (Lindl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron albicaule H.Lév., Repert. Spec. Nov. Regni Veg. 13: 148 (1914))_
+        - [ ] *Rhododendron bailiense* Y.P.Ma, Zhang & D.F.Chamb., Phytotaxa 195: 197 (2015)
+        - [ ] *Rhododendron orbiculare* Decne., Ann. Gén. Hort. 22: 169 (1877)
+          - [ ] _(Rhododendron rotundifolium David ex Franch., Bull. Soc. Bot. France 33: 230 (1886))_
+          - [ ] *Rhododendron orbiculare subsp. orbiculare* , 
+          - [ ] *Rhododendron orbiculare subsp. oblongum* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 58 (1988)
+          - [ ] *Rhododendron orbiculare subsp. cardiobasis* (Sleumer) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 29: 238 (1982)
+            - [ ] _(Rhododendron cardiobasis Sleumer, Notizbl. Bot. Gart. Berlin-Dahlem 12: 484 (1935))_
+        - [ ] *Rhododendron oreodoxa* Franch., Bull. Soc. Bot. France 33: 230 (1886)
+          - [ ] _(Rhododendron reginaldii Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 114 (1919))_
+          - [ ] _(Rhododendron limprichtii Diels, Repert. Spec. Nov. Regni Veg. 17: 195 (1921))_
+          - [ ] _(Rhododendron haematocheilum Craib, Gard. Chron. , ser. 3, 53: 214 (1913))_
+          - [ ] *Rhododendron oreodoxa var. shensiense* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 29: 478 (1982)
+          - [ ] *Rhododendron oreodoxa var. oreodoxa* , 
+          - [ ] *Rhododendron oreodoxa var. adenostylosum* W.P.Fang & W.K.Hu, Acta Phytotax. Sin. 26: 304 (1988)
+          - [ ] *Rhododendron oreodoxa var. fargesii* (Franch.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 331 (1979)
+            - [ ] _(Rhododendron fargesii Franch., J. Bot. (Morot) 9: 390 (1895))_
+            - [ ] _(Rhododendron erubescens Hutch., Bot. Mag. 142: t. 8643 (1916))_
+        - [ ] *Rhododendron calophytum* Franch., Bull. Soc. Bot. France 33: 250 (1886)
+          - [ ] *Rhododendron calophytum var. openshawianum* (Rehder & E.H.Wilson) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 330 (1979)
+            - [ ] _(Rhododendron openshawianum Rehder & E.H.Wilson, Pl. Wilson. 1: 543 (1913))_
+          - [ ] *Rhododendron calophytum var. calophytum* , 
+          - [ ] *Rhododendron calophytum var. jinfuense* W.P.Fang & W.K.Hu, Bull. Bot. Res., Harbin 8(3): 56 (1988)
+            - [ ] _(Rhododendron calophytum subsp. jinfuense M.Y.Fang, Acta Phytotax. Sin. 26(1): 68. 1988 [18 Feb 1988])_
+          - [ ] *Rhododendron calophytum var. pauciflorum* W.K.Hu, Acta Phytotax. Sin. 26: 304 (1988)
+        - [ ] *Rhododendron miyiense* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 52 (1988)
+        - [ ] *Rhododendron qiaojiaense* L.M.Gao & D.Z.Li, Ann. Bot. Fenn. 46: 67 (2009)
+        - [ ] *Rhododendron magniflorum* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 51 (1988)
+        - [ ] *Rhododendron maculatum* Xiang Chen & Jia Y.Huang, Seeds 29 (1):65. (2010)
+        - [ ] *Rhododendron faithiae* Chun, Sunyatsenia 2: 78 (1934)
+        - [ ] *Rhododendron leigongshanense* C.H.Yang, Z.G.Xie, Y.F.Yu & Z.R.Yang, Bangladesh J. Pl. Taxon. 22(2): 119 (2015)
+        - [ ] *Rhododendron davidii* Franch., Bull. Soc. Bot. France 33: 230 (1886)
+        - [ ] *Rhododendron maoerense* W.P.Fang & G.Z.Li, Bull. Bot. Res., Harbin 4(1): 1 (1984)
+        - [ ] *Rhododendron asterochnoum* Diels, Repert. Spec. Nov. Regni Veg. 17: 196 (1921)
+          - [ ] *Rhododendron asterochnoum var. brevipedicellatum* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 57 (1988)
+          - [ ] *Rhododendron asterochnoum var. asterochnoum* , 
+        - [ ] *Rhododendron decorum* Franch., Bull. Soc. Bot. France 33: 230 (1886)
+          - [ ] _(Rhododendron spooneri Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 110 (1910))_
+          - [ ] _(Azalea decora (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron giraudiasii H.Lév., Repert. Spec. Nov. Regni Veg. 13: 340 (1914))_
+          - [ ] _(Rhododendron franchetianum H.Lév., Bull. Soc. Agric. Sarthe , sér. 2, 38: 46 (1903))_
+          - [ ] *Rhododendron decorum subsp. parvistigmatis* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 57 (1988)
+          - [ ] *Rhododendron decorum subsp. diaprepes* (Balf.f. & W.W.Sm.) T.L.Ming, Acta Bot. Yunnan. 6: 147 (1984)
+            - [ ] _(Rhododendron diaprepes Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 100 (1917))_
+            - [ ] _(Rhododendron rasile Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 139 (1917))_
+            - [ ] _(Hymenanthes diaprepes (Balf.f. & W.W.Sm.) H.F.Copel., Amer. Midl. Naturalist 30: 614 (1943))_
+          - [ ] *Rhododendron decorum subsp. decorum* , 
+          - [ ] *Rhododendron decorum subsp. cordatum* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 58 (1988)
+        - [ ] *Rhododendron verruciferum* W.K.Hu, Acta Phytotax. Sin. 26: 301 (1988)
+        - [ ] *Rhododendron liboense* Zheng R.Chen & K.M.Lan, Acta Phytotax. Sin. 41: 563 (2003)
+        - [ ] *Rhododendron hemsleyanum* E.H.Wilson, Bull. Misc. Inform. Kew 1910: 109 (1910)
+          - [ ] *Rhododendron hemsleyanum var. chengianum* (Fang) W.P.Fang ex W.K.Hu, Fl. Reipubl. Popularis Sin. [Fl. China Ed. Committee] 57(2): 30 (1994)
+            - [ ] _(Rhododendron chengianum W.P.Fang, Icon. Pl. Omeiesium 1: t. 31 (1942))_
+          - [ ] *Rhododendron hemsleyanum var. hemsleyanum* , 
+        - [ ] *Rhododendron platypodum* Diels, Bot. Jahrb. Syst. 29: 511 (1900)
+          - [ ] _(Rhododendron yuefengense G.Z.Li, Guihaia 15: 293 (1995))_
+        - [ ] *Rhododendron chihsinianum* Chun & W.P.Fang, Acta Phytotax. Sin. 6: 168 (1957)
+        - [ ] *Rhododendron jiulongshanense* Xiang Chen & Jia Y.Huang, Ann. Bot. Fenn. 47: 399 (2010)
+        - [ ] *Rhododendron glanduliferum* Franch., Bull. Soc. Bot. France 33: 231 (1886)
+        - [ ] *Rhododendron praevernum* Hutch., Gard. Chron. , ser. 3, 67: 127 (1920)
+        - [ ] *Rhododendron sutchuenense* Franch., J. Bot. (Morot) 9: 392 (1895)
+        - [ ] *Rhododendron vernicosum* Franch., J. Bot. (Morot) 12: 258 (1898)
+          - [ ] _(Rhododendron euanthum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 103 (1917))_
+          - [ ] _(Rhododendron araliiforme Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 232 (1922))_
+          - [ ] _(Rhododendron rhantum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 145 (1917))_
+          - [ ] _(Rhododendron hexamerum Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 58: 27 (1921))_
+          - [ ] _(Rhododendron sheltoniae Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910(4): 108–109 1910)_
+          - [ ] _(Rhododendron gonggashanense W.K.Hu, Bull. Bot. Res., Harbin 8(3): 55 (1988))_
+          - [ ] _(Rhododendron adoxum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 28 (1920))_
+          - [ ] _(Rhododendron lucidum Franch., J. Bot. (Morot) ix. (1895) 390.)_
+        - [ ] *Rhododendron guihainianum* G.Z.Li, Guihaia 15: 299 (1995)
+        - [ ] *Rhododendron huanum* W.P.Fang, Contr. Biol. Lab. Sci. Soc. China, Bot. Ser. 12: 38 (1939)
+        - [ ] *Rhododendron praeteritum* Hutch., Gard. Chron. , ser. 3, 71: 149 (1922)
+          - [ ] *Rhododendron praeteritum var. praeteritum* , 
+          - [ ] *Rhododendron praeteritum var. hirsutum* W.K.Hu, Bull. Bot. Res., Harbin 8(3): 58 (1988)
+        - [ ] *Rhododendron serotinum* Hutch., Bot. Mag. 146: t. 8841 (1920)
+        - [ ] *Rhododendron jinchangense* Z.H.Yang, Acta Phytotax. Sin. 35: 186 (1997)
+        - [ ] *Rhododendron jingangshanicum* P.C.Tam, Bull. Bot. Res., Harbin 2(1): 89 (1982)
+        - [ ] *Rhododendron yuanbaoshanense* Y.H.Deng & T.Ding, Phytotaxa 682(2): 179 (2025)
+        - [ ] *Rhododendron wolongense* W.K.Hu, Acta Phytotax. Sin. 26: 303 (1988)
+        - [ ] *Rhododendron × geraldii* (Hutch.) Ivens, Gard. Chron. , ser. 3, 101: 220 (1937)
+          - [ ] _(Rhododendron geraldii (Hutch.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 330. 1979 [18 Oct 1979])_
+          - [ ] _(Rhododendron sutchuenense var. geraldii Hutch., Gard. Chron. , ser. 3, 67: 128 (1920))_
+        - [ ] *Rhododendron huangpingense* Xiang Chen & Jia Y.Huang, Novon 20: 386 (2010)
+        - [ ] *Rhododendron xiaoxidongense* W.K.Hu, J. Sichuan Univ., Nat. Sci. Ed. 27: 492 (1990)
+      - [ ] *Rhododendron subsect. Barbata* Sleumer, Bot. Jahrb. Syst. 74:544. (1949)
+        - [ ] *Rhododendron exasperatum* Tagg, Spec. Rhododendron : 836 (1930)
+        - [ ] *Rhododendron erosum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 225 (1937)
+        - [ ] *Rhododendron argipeplum* Balf.f. & R.E.Cooper, Notes Roy. Bot. Gard. Edinburgh 9: 213 (1916)
+          - [ ] _(Rhododendron smithii Nutt., Bot. Mag. 85: t. 5120. 1859)_
+          - [ ] _(Rhododendron macrosmithii Davidian, Rhododendron Sp. 2: 113 1989)_
+        - [ ] *Rhododendron barbatum* Wall. ex G.Don, Gen. Hist. 3: 844 (1834)
+          - [ ] _(Rhododendron imberbe Hutch., Gard. Chron. , ser. 3, 83: 212 (1928))_
+          - [ ] _(Azalea barbata (Wall. ex G.Don) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron lancifolium Hook.f., Rhododendr. Sikkim-Himalaya t.4. (1849))_
+          - [ ] _(Rhododendron aristatum Royle, Ill. Bot. Himal. Mts. [Royle] 42, nomen. 1834 [Mar 1834])_
+          - [ ] _(Rhododendron barbatum f. imberbe (Hutch.) H.Hara, Enum. Fl. Pl. Nepal 3: 57 (1982))_
+        - [ ] *Rhododendron succothii* Davidian, Rhododendron Camellia Year Book 20: 103 (1965)
+          - [ ] _(Rhododendron nishiokae H.Hara, J. Jap. Bot. 45: 93 (1970))_
+      - [ ] *Rhododendron subsect. Falconera* Sleumer, Bot. Jahrb. Syst. 74:548. (1949)
+        - [ ] *Rhododendron hodgsonii* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 15 (1851)
+          - [ ] _(Rhododendron hodgsonii var. album D.Bhattach., Fasc. Fl. India 25: 118. 2014 [31 Mar 2014] , as 'alba')_
+          - [ ] _(Azalea hodgsonii (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron titapuriense* A.A.Mao, K.N.E.Cox & D.F.Chamb., Plantsman , n.s., 12: 27 (2013)
+        - [ ] *Rhododendron × decipiens* Lacaita, J. Linn. Soc., Bot. 43: 473 (1916)
+        - [ ] *Rhododendron preptum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 149 (1920)
+        - [ ] *Rhododendron fictolacteum* Balf.f., Gard. Chron. , ser. 3, 59: 168 (1916)
+          - [ ] _(Rhododendron rex subsp. fictolacteum (Balf.f.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 330 (1979))_
+          - [ ] _(Rhododendron fictolacteum var. miniforme Davidian, Rhododendron Sp. 2: 308, 170 1989)_
+          - [ ] _(Rhododendron lacteum var. macrophyllum Franch., Bull. Soc. Bot. France 34: 280 1887)_
+        - [ ] *Rhododendron rex* H.Lév., Repert. Spec. Nov. Regni Veg. 13: 340 (1914)
+          - [ ] *Rhododendron rex subsp. gratum* (T.L.Ming) M.Y.Fang, Bull. Bot. Res., Harbin 12: 216 (1992)
+            - [ ] _(Rhododendron gratum T.L.Ming, Acta Bot. Yunnan. 3: 118 (1981))_
+          - [ ] *Rhododendron rex subsp. rex* , 
+        - [ ] *Rhododendron galactinum* Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 103 (1926)
+        - [ ] *Rhododendron semnoides* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 15: 116 (1926)
+        - [ ] *Rhododendron basilicum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 214 (1916)
+          - [ ] _(Rhododendron megaphyllum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 138 (1920))_
+          - [ ] _(Rhododendron regale Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 12: 156 (1920))_
+        - [ ] *Rhododendron arizelum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 90 (1920)
+          - [ ] _(Rhododendron rex subsp. arizelum (Balf.f. & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37: 330 (1979))_
+        - [ ] *Rhododendron mechukae* A.A.Mao & A.Paul, Edinburgh J. Bot. 70: 58 (2013)
+        - [ ] *Rhododendron rothschildii* Davidian, Rhododendrons Magnolias Camellias 1972: 50 (1972)
+        - [ ] *Rhododendron coriaceum* Franch., J. Bot. (Morot) 12: 258 (1898)
+          - [ ] _(Rhododendron foveolatum Rehder & E.H.Wilson, Pl. Wilson. 1: 537 (1913))_
+        - [ ] *Rhododendron sinofalconeri* Balf.f., Notes Roy. Bot. Gard. Edinburgh 9: 272 (1916)
+        - [ ] *Rhododendron falconeri* Hook.f., Rhododendr. Sikkim-Himalaya 1: t. 10 (1849)
+          - [ ] _(Rhododendron eximium Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 364 (1853))_
+          - [ ] _(Azalea falconeri (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron falconeri subsp. eximium (Nutt.) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 330 (1979))_
+          - [ ] _(Rhododendron venosum Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 365 (1853))_
+      - [ ] *Rhododendron subsect. Lanata* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 337. 1979
+        - [ ] *Rhododendron lanatoides* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 29: 478 (1982)
+        - [ ] *Rhododendron circinnatum* Cowan & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 19: 179 (1936)
+        - [ ] *Rhododendron tsariense* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 232 (1937)
+          - [ ] *Rhododendron tsariense var. trimoense* Davidian, Rhododendron Sp. 2: 308, 157 1989
+          - [ ] *Rhododendron tsariense var. tsariense* , 
+        - [ ] *Rhododendron luciferum* (Cowan) Cowan, Notes Roy. Bot. Gard. Edinburgh 21: 145 (1953)
+          - [ ] _(Rhododendron lanatum var. luciferum Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 228 (1937))_
+        - [ ] *Rhododendron poluninii* Davidian, Rhododendron Sp. 2: 307, 155 1989
+        - [ ] *Rhododendron lanatum* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 16 (1851)
+          - [ ] _(Azalea lanata (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron tsariense var. magnum Davidian, Rhododendron Sp. 2: 308, 157 1989)_
+          - [ ] _(Rhododendron flinckii Davidian, Quart. Bull. Amer. Rhododendron Soc. 29(3): 143 (1975))_
+      - [ ] *Rhododendron subsect. Fulgensia* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 336. 1979
+        - [ ] *Rhododendron rawatii* I.D.Rai & B.S.Adhikari, Phytotaxa 71: 12 (2012)
+        - [ ] *Rhododendron fulgens* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 25 (1851)
+          - [ ] _(Azalea fulgens (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron miniatum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 229 (1937)
+      - [ ] *Rhododendron × abhayae* L.K.Rai, NeBIO 5(2): 27 (2014)
+      - [ ] *Rhododendron subsect. Fulva* Sleumer, Bot. Jahrb. Syst. 74:549. (1949)
+        - [ ] *Rhododendron fulvum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 110 (1917)
+          - [ ] *Rhododendron fulvum subsp. fulvum* , 
+          - [ ] *Rhododendron fulvum subsp. fulvoides* (Balf.f. & Forrest) D.F.Chamb., R.H.S. Rhododendron Handb. : 350 (1998)
+            - [ ] _(Rhododendron fulvoides Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 112 (1920))_
+        - [ ] *Rhododendron uvariifolium* Diels, Notes Roy. Bot. Gard. Edinburgh 5: 213 (1912)
+          - [ ] _(Rhododendron dendritrichum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 103 (1920))_
+          - [ ] _(Rhododendron niphargum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 10: 125 (1917))_
+          - [ ] _(Rhododendron uvariifolium var. griseum Cowan, Notes Roy. Bot. Gard. Edinburgh 21: 147 (1953))_
+          - [ ] _(Rhododendron monbeigii Rehder & E.H.Wilson, Pl. Wilson. 1: 536 (1913))_
+      - [ ] *Rhododendron subsect. Glischrum* (Tagg) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36(1): 116, as 'Glischra'. 1978
+        - [ ] *Rhododendron spilotum* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 298 (1922)
+        - [ ] *Rhododendron habrotrichum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 232 (1916)
+        - [ ] *Rhododendron glischroides* Tagg & Forrest, Tagg in Notes Bot. Gard. Edinb. xvi. 194 (1931), latine.
+          - [ ] _(Rhododendron glischrum subsp. glischroides (Tagg & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 117 (1978))_
+          - [ ] _(Rhododendron glischroides var. arachnoideum Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 16(79): 196. 1931 [Oct 1931])_
+        - [ ] *Rhododendron adenosum* (Cowan & Davidian) Davidian, Quart. Bull. Amer. Rhododendron Soc. 32(2): 81 (1978)
+          - [ ] _(Rhododendron glischrum var. adenosum Cowan & Davidian, Notes Roy. Bot. Gard. Edinburgh 21(3): 147 1953)_
+          - [ ] _(Rhododendron kuluense D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36(1): 116, nom. 1978)_
+        - [ ] *Rhododendron diphrocalyx* Balf.f., Notes Roy. Bot. Gard. Edinburgh 11: 55 (1919)
+          - [ ] _(Rhododendron burriflorum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 34 (1920))_
+        - [ ] *Rhododendron glischrum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 229 (1916)
+          - [ ] *Rhododendron glischrum subsp. glischrum* , 
+          - [ ] *Rhododendron glischrum subsp. rude* (Tagg & Forrest) D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 36: 117 (1978)
+            - [ ] _(Rhododendron rude Tagg & Forrest, Spec. Rhododendron : 141 (1930))_
+        - [ ] *Rhododendron crinigerum* Franch., J. Bot. (Morot) 12: 260 (1898)
+          - [ ] _(Rhododendron ixeuticum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 240 (1916))_
+          - [ ] *Rhododendron crinigerum var. euadenium* Tagg & Forrest, Notes Roy. Bot. Gard. Edinburgh 16(79): 190. 1931 [Oct 1931]
+          - [ ] *Rhododendron crinigerum var. crinigerum* , 
+        - [ ] *Rhododendron recurvoides* Tagg & Forrest, Rhododendron Soc. Notes 3(5): 284 (1929-1931 publ. 1932)
+        - [ ] *Rhododendron vesiculiferum* Tagg, Spec. Rhododendron : 143 (1930)
+      - [ ] *Rhododendron subsect. Parishia* Sleumer, Bot. Jahrb. Syst. 74:548. (1949)
+        - [ ] *Rhododendron urophyllum* W.P.Fang, Acta Phytotax. Sin. 21(4): 467 (1983)
+        - [ ] *Rhododendron kyawii* Lace & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 216 (1914)
+          - [ ] _(Rhododendron agapetum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 212 (1916))_
+          - [ ] _(Rhododendron prophantum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 58 (1920))_
+        - [ ] *Rhododendron facetum* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 10: 104 (1917)
+          - [ ] _(Rhododendron eriogynum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 101 (1917))_
+        - [ ] *Rhododendron parishii* C.B.Clarke, Fl. Brit. India [J. D. Hooker] 3(9): 475 (1882)
+          - [ ] _(Rhododendron parishii C.B.Clarke, Lace & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 213, descr. ampl. (1914))_
+        - [ ] *Rhododendron elliottii* Brandis ex Lace & W.W.Sm., Indian Trees : 410 (1906)
+        - [ ] *Rhododendron flavoflorum* T.L.Ming, Acta Bot. Yunnan. 6: 153 (1984)
+        - [ ] *Rhododendron schistocalyx* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 58 (1920)
+        - [ ] *Rhododendron huidongense* T.L.Ming, Acta Bot. Yunnan. 3: 115 (1981)
+      - [ ] *Rhododendron subsect. Venatora* D.F.Chamb., Notes Roy. Bot. Gard. Edinburgh 37(2): 337. 1979
+        - [ ] *Rhododendron venator* Tagg, Rhododendron Year Book 1933(Suppl.): 102 (1933)
+  - [ ] *Rhododendron × albicans* Waterer ex Zabel, Mitt. Deutsch. Dendrol. Ges. 11: 30 (1902)
+    - [ ] _(Azalea albicans (Waterer ex Zabel) Moldenke, Phytologia 5: 338 (1956))_
+  - [ ] *Rhododendron × anneliesae* Rehder, Monogr. Azaleas : 181 (1921)
+  - [ ] *Rhododendron subg. Rhododendron* L., Flora Malesiana Series I 6 1966
+    - [ ] *Rhododendron sect. Rhododendron* , 
+      - [ ] *Rhododendron subsect. Heliolepida* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:536. (1949)
+        - [ ] _(Rhododendron ser. Heliolepis Hutch., )_
+        - [ ] *Rhododendron bainaense* Xiang Chen & C.H.Yang, J. Trop. Subtrop. Bot. 20 (5):513. (2012)
+        - [ ] *Rhododendron hirsutipetiolatum* R.C.Fang & A.L.Chang, Notes Roy. Bot. Gard. Edinburgh 41(1): 162 (1983)
+        - [ ] *Rhododendron rubiginosum* Franch., Bull. Soc. Bot. France 34: 282 (1887)
+          - [ ] _(Rhododendron desquamatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 40 (1920))_
+          - [ ] _(Rhododendron squarrosum Balf.f., ex Notes Bot. Gard. Edinb. xvii. 266 (1930), nomen; Hutchinson in Spec.Rhododendron, 322 (1930), in syn.)_
+          - [ ] _(Rhododendron stenoplastum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 60 (1920))_
+          - [ ] _(Rhododendron catapastum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 36 (1920))_
+          - [ ] *Rhododendron rubiginosum var. ptilostylum* R.C.Fang, Acta Bot. Yunnan. 4(3): 253 (1982)
+          - [ ] *Rhododendron rubiginosum var. leclerei* (Lévl.) R.C.Fang, Acta Bot. Yunnan. 4(3): 253 (1982)
+            - [ ] _(Rhododendron leclerei H.Lév., Repert. Spec. Nov. Regni Veg. 12: 284 (1913))_
+          - [ ] *Rhododendron rubiginosum var. rubiginosum* , 
+            - [ ] _(Azalea rubiginosa (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron heliolepis* Franch., Bull. Soc. Bot. France 34: 283 (1887)
+          - [ ] _(Rhododendron pholidotum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 132 (1917))_
+          - [ ] _(Rhododendron heliolepis var. brevistylum (Franch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 110. 1978)_
+          - [ ] _(Rhododendron porrosquameum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 57 (1920))_
+          - [ ] _(Rhododendron plebeium Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 136 (1917))_
+          - [ ] _(Azalea heliolepis (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron brevistylum Franch., J. Bot. (Morot) 12: 262 (1898))_
+          - [ ] *Rhododendron heliolepis var. fumidum* (Balf.f. & W.W.Sm.) R.C.Fang, Acta Bot. Yunnan. 4(3): 253 (1982)
+            - [ ] _(Rhododendron fumidum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 112 (1917))_
+          - [ ] *Rhododendron heliolepis var. oporinum* (Balf.f. & Kingdon-Ward) A.L.Chang, Acta Bot. Yunnan. 4: 253 (1982)
+            - [ ] _(Rhododendron oporinum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 10: 129 (1917))_
+          - [ ] *Rhododendron heliolepis var. heliolepis* , 
+        - [ ] *Rhododendron bracteatum* Rehder & E.H.Wilson, Pl. Wilson. 1: 519 (1913)
+        - [ ] *Rhododendron invictum* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 10: 116 (1917)
+      - [ ] *Rhododendron subsect. Uniflora* (Cowan & Davidian) Sleumer, Bot. Jahrb. Syst. 74:532. (1949)
+        - [ ] _(Rhododendron ser. Uniflorum Cowan & Davidian, Rhododendron Year Book 3:101. (1948))_
+        - [ ] *Rhododendron uniflorum* Hutch. & Kingdon-Ward, Sp. Rhodod. 446 (1930).
+          - [ ] *Rhododendron uniflorum var. uniflorum* , 
+          - [ ] *Rhododendron uniflorum var. imperator* (Hutch. & Kingdon-Ward) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 113 (1978)
+            - [ ] _(Rhododendron imperator Hutch. & Kingdon-Ward, Sp. Rhodod. 440 (1930).)_
+        - [ ] *Rhododendron pumilum* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 14 (1851)
+          - [ ] _(Azalea pumila (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron pemakoense* Kingdon-Ward, Gard. Chron. , ser. 3, 88: 298 (1930)
+          - [ ] _(Rhododendron patulum Kingdon-Ward, Gard. Chron. , ser. 3, 88: 299 (1930))_
+        - [ ] *Rhododendron ludlowii* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 243 (1937)
+      - [ ] *Rhododendron subsect. Virgatum* (Hutch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 113, without basionym ref., as'Virgatum'. 1978
+        - [ ] _(Rhododendron ser. Virgatum Hutch., Sp. Rhodod. 827. (1930))_
+        - [ ] *Rhododendron virgatum* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 26 (1851)
+          - [ ] _(Rhododendron virgatum subsp. oleifolium (Franch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 113 (1978))_
+          - [ ] _(Rhododendron oleifolium Franch., Bull. Soc. Bot. France 33: 235 (1886))_
+          - [ ] _(Rhododendron virgatum var. oleifolium Demoly, Bull. Assoc. Parcs Bot. France 13: 10 (1990))_
+          - [ ] _(Azalea virgata (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Azalea oleifolia (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron virgatum var. glabriflorum K.M.Feng ex R.C.Fang, Acta Bot. Yunnan. 4: 258 (1982))_
+      - [ ] *Rhododendron subsect. Trichoclada* (Hutch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 115, as 'Trichocladum'. 1978
+        - [ ] _(Rhododendron ser. Trichocladum Balf.f., Trans. Bot. Soc. Edinburgh 27:80. (1916))_
+        - [ ] _(Rhododendron subg. Pseudazalea Sleumer, Bot. Jahrb. Syst. 74:525. (1949))_
+        - [ ] *Rhododendron lepidostylum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 124 (1920)
+        - [ ] *Rhododendron caesium* Hutch., Gard. Chron. , ser. 3, 94: 102 (1933)
+        - [ ] *Rhododendron mekongense* Franch., J. Bot. (Morot) 12: 263 (1898)
+          - [ ] *Rhododendron mekongense var. rubrolineatum* (Balf.f. & Forrest) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 115 (1978)
+            - [ ] _(Rhododendron rubrolineatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 160 (1920))_
+          - [ ] *Rhododendron mekongense var. melinanthum* (Balf.f. & Kingdon-Ward) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 115 (1978)
+            - [ ] _(Rhododendron semilunatum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 292 (1922))_
+            - [ ] _(Rhododendron chloranthum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 98 (1920))_
+            - [ ] _(Rhododendron melinanthum Balf.f. & Kingdon-Ward, Trans. Bot. Soc. Edinburgh 27: 85 (1916))_
+          - [ ] *Rhododendron mekongense var. mekongense* , 
+            - [ ] _(Rhododendron rubroluteum Davidian, Quart. Bull. Amer. Rhododendron Soc. 29(3): 144 (1975))_
+        - [ ] *Rhododendron trichocladum* Franch., Bull. Soc. Bot. France 33: 234 (1886)
+          - [ ] _(Azalea trichoclada (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron trichocladum var. longipilosum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19(93): 186 1936
+            - [ ] _(Rhododendron mekongense var. longipilosum (Cowan) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 115 (1978))_
+          - [ ] *Rhododendron trichocladum var. trichocladum* , 
+            - [ ] _(Rhododendron lithophilum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 13: 275 (1922))_
+            - [ ] _(Rhododendron brachystylum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 13: 236 (1922))_
+            - [ ] _(Rhododendron oulotrichum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 281 (1922))_
+            - [ ] _(Rhododendron xanthinum Balf.f. & W.W.Sm., Trans. Bot. Soc. Edinburgh 27: 87 (1916))_
+            - [ ] _(Rhododendron lophogynum Balf.f. & Forrest ex Hutch., Spec. Rhododendron : 750 (1930))_
+        - [ ] *Rhododendron viridescens* Hutch., Gard. Chron. , ser. 3, 94: 116 (1933)
+      - [ ] *Rhododendron subsect. Lapponica* (Balf.f.) Sleumer, Bot. Jahrb. Syst. 74:535. (1949)
+        - [ ] _(Rhododendron ser. Lappponicum Balf.f., Notes Roy. Bot. Gard. Edinburgh 9:298. (1949))_
+        - [ ] *Rhododendron rupicola* W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 203 (1914)
+          - [ ] _(Rhododendron propinquum Balf.f. & Kingdon-Ward, Rhododendron Soc. Notes iii. 30 (1925), nomen; et ex Hutchinson in Spec. Rhododendron, 391 (1930), in syn.)_
+          - [ ] _(Rhododendron achroanthum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 208 (1916))_
+          - [ ] *Rhododendron rupicola var. chryseum* (Balf.f. & Kingdon-Ward) Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 62 (1975)
+            - [ ] _(Rhododendron chryseum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 219 (1916))_
+            - [ ] _(Rhododendron nomophilum Balf.f. ex Tagg, Rhododendron Soc. Notes iii. 37 (1925), nomen.)_
+          - [ ] *Rhododendron rupicola var. rupicola* , 
+          - [ ] *Rhododendron rupicola var. muliense* (Balf.f. & Forrest) Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 63 (1975)
+            - [ ] _(Rhododendron muliense Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 101 (1919))_
+        - [ ] *Rhododendron tsaii* W.P.Fang, Contr. Biol. Lab. Sci. Soc. China, Bot. Ser. 12: 66 (1939)
+        - [ ] *Rhododendron nivale* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 26 (1851)
+          - [ ] _(Azalea nivalis (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron paludosum Hutch. & Kingdon-Ward, Sp. Rhodod. 418 (1930).)_
+          - [ ] *Rhododendron nivale subsp. boreale* Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 52 (1975)
+            - [ ] _(Rhododendron alpicola var. strictum Rehder & E.H.Wilson, Pl. Wilson. 1(3): 506–507 1913)_
+            - [ ] _(Rhododendron stictophyllum Balf.f., Notes Roy. Bot. Gard. Edinburgh 11: 139 (1919))_
+            - [ ] _(Rhododendron yaragongense Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 64 (1920))_
+            - [ ] _(Rhododendron oreinum Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 54 (1920))_
+            - [ ] _(Rhododendron vicarium Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 176 (1920))_
+            - [ ] _(Rhododendron oresbium Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 253 (1916))_
+            - [ ] _(Rhododendron alpicola Rehder & E.H.Wilson, Pl. Wilson. 1: 506 (1913))_
+            - [ ] _(Rhododendron ramosissimum Franch., J. Bot. (Morot) 12: 264 (1898))_
+            - [ ] _(Rhododendron nigropunctatum Bureau & Franch., J. Bot. (Morot) 5: 95 (1891))_
+            - [ ] _(Rhododendron violaceum Rehder & E.H.Wilson, Pl. Wilson. 1: 511 (1913))_
+            - [ ] _(Rhododendron batangense Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 31 (1920))_
+          - [ ] *Rhododendron nivale subsp. nivale* , 
+          - [ ] *Rhododendron nivale subsp. australe* Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 54 (1975)
+        - [ ] *Rhododendron russatum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 126 (1919)
+          - [ ] _(Rhododendron cantabile Balf.f. ex Hutch., Bot. Mag. 146: t. 8863 (1923))_
+          - [ ] _(Rhododendron osmerum Balf.f. & Forrest, Sp. Rhodod. 425 (1930), in syn.)_
+        - [ ] *Rhododendron × lysolepis* Hutch., Spec. Rhododendron : 412 (1930)
+        - [ ] *Rhododendron dasypetalum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 45 (1919)
+        - [ ] *Rhododendron dawuense* H.P.Yang, Bull. Bot. Res., Harbin 3(2): 98 (1983)
+        - [ ] *Rhododendron declivatum* Ching & C.H.Yang, Bull. Bot. Res., Harbin 3(2): 89 (1983)
+        - [ ] *Rhododendron bulu* Hutch., Rhododendron Soc. Notes 3(5): 280 (1929-1931 publ. 1932)
+        - [ ] *Rhododendron zheguense* Ching & H.P.Yang, Bull. Bot. Res., Harbin 3(2): 91 (1983)
+        - [ ] *Rhododendron amundsenianum* Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 58: 25 (1921)
+        - [ ] *Rhododendron yushuense* Z.J.Zhao, Fl. Lign. Qinghaica, Add. 1. 1987
+        - [ ] *Rhododendron cuneatum* W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 200 (1914)
+          - [ ] _(Rhododendron cheilanthum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 32 (1919))_
+          - [ ] _(Rhododendron sclerocladum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 133 (1919))_
+          - [ ] _(Rhododendron calcicola Millais, Rhododendrons 132, 150 (1917), in syn.)_
+          - [ ] _(Rhododendron ravum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 270 (1916))_
+        - [ ] *Rhododendron hippophaeoides* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 236 (1916)
+          - [ ] _(Rhododendron fimbriatum Hutch., Gard. Chron. , ser. 3, 91: 438 (1932))_
+          - [ ] *Rhododendron hippophaeoides var. ooccidentale* Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34 (1):20. (1975)
+            - [ ] _(Rhododendron hippophaeoides var. occidentale M.N.Philipson & Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 20 (1975))_
+          - [ ] *Rhododendron hippophaeoides var. hippophaeoides* , 
+        - [ ] *Rhododendron thymifolium* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 23: 351 (1877)
+          - [ ] _(Rhododendron spilanthum Hutchison, Rhododendron Soc. Notes 3(5): 287 (1929-1931 publ. 1932))_
+          - [ ] _(Azalea thymifolia (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron polifolium Franch., J. Bot. (Morot) ix. (1895) 397.)_
+        - [ ] *Rhododendron lungchiense* W.P.Fang, Acta Sci. Nat. Univ. Szechuan. 1957(2): 218 (1957) (1957)
+        - [ ] *Rhododendron labolengense* Ching & C.H.Yang, Bull. Bot. Res., Harbin 3(2): 94 (1983)
+        - [ ] *Rhododendron websterianum* Rehder & E.H.Wilson, Pl. Wilson. 1: 511 (1913)
+          - [ ] *Rhododendron websterianum var. websterianum* , 
+          - [ ] *Rhododendron websterianum var. yulongense* Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 23 (1975)
+        - [ ] *Rhododendron capitatum* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 23: 351 (1877)
+          - [ ] _(Azalea capitata (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron telmateium* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 280 (1916)
+          - [ ] _(Rhododendron drumonium Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 226 (1916))_
+          - [ ] _(Rhododendron pycnocladum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 267 (1916))_
+          - [ ] _(Rhododendron diacritum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 225 (1916))_
+          - [ ] _(Rhododendron idoneum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 237 (1916))_
+        - [ ] *Rhododendron complexum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 222 (1916)
+        - [ ] *Rhododendron taibaiense* Ching & H.P.Yang, Bull. Bot. Res., Harbin 3(2): 88 (1983)
+        - [ ] *Rhododendron yungningense* Balf.f. & Hutch., Spec. Rhododendron : 436 (1930)
+          - [ ] _(Rhododendron glomerulatum Hutch., Gard. Chron. , ser. 3, 91: 438 (1932))_
+        - [ ] *Rhododendron intricatum* Franch., J. Bot. (Morot) 9: 395 (1895)
+          - [ ] _(Rhododendron blepharocalyx Franch., J. Bot. (Morot) 9: 396 (1895))_
+          - [ ] _(Rhododendron peramabile Hutch., Gard. Chron. , ser. 3, 91: 366 (1932))_
+        - [ ] *Rhododendron setosum* D.Don, Mem. Wern. Nat. Hist. Soc. 3: 408 (1821)
+          - [ ] _(Azalea setosa (D.Don) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron anthopogon Wall., Numer. List [Wallich] — Wallich:759)_
+        - [ ] *Rhododendron gologense* C.J.Xu & Z.J.Zhao, Fl. Lign. Qinghaica, Add. 2. 1987
+        - [ ] *Rhododendron minyaense* Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 45 (1975)
+        - [ ] *Rhododendron polycladum* Franch., Bull. Soc. Bot. France 33: 234 (1886)
+          - [ ] _(Rhododendron compactum Hutch., Gard. Chron. , ser. 3, 91: 326 (1932))_
+          - [ ] _(Azalea polyclada (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron scintillans Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 271 (1916))_
+        - [ ] *Rhododendron joniense* Ching & C.H.Yang, Bull. Bot. Res., Harbin 3(2): 95 (1983)
+        - [ ] *Rhododendron × verruculosum* Rehder & E.H.Wilson, Pl. Wilson. 1: 507 (1913)
+        - [ ] *Rhododendron qinghaiense* Ching ex W.Y.Wang, Acta Phytotax. Sin. 20: 56 (1982)
+        - [ ] *Rhododendron orthocladum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 104 (1919)
+          - [ ] _(Rhododendron orthocladum var. microleucum (Hutch.) Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 45 (1975))_
+          - [ ] _(Rhododendron microleucum Hutch., Gard. Chron. , ser. 3, 93: 334 (1933))_
+          - [ ] _(Rhododendron orthocladum var. orthocladum , )_
+          - [ ] *Rhododendron orthocladum var. longistylum* M.N.Philipson & Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 44 (1975)
+        - [ ] *Rhododendron nitidulum* Rehder & E.H.Wilson, Pl. Wilson. 1: 509 (1913)
+          - [ ] _(Rhododendron yulingense W.P.Fang, Acta Sci. Nat. Univ. Szechuan. 1957(2): 217 (1957) (1957))_
+          - [ ] _(Rhododendron nitidulum var. nubigenum Rehder & E.H.Wilson, Pl. Wilson. 1(3): 510 1913)_
+          - [ ] *Rhododendron nitidulum var. omeiense* Philipson & M.N.Philipson, Notes Roy. Bot. Gard. Edinburgh 34: 24 (1975)
+          - [ ] *Rhododendron nitidulum var. nitidulum* , 
+        - [ ] *Rhododendron xiguense* Ching & H.P.Yang, Bull. Bot. Res., Harbin 3(2): 92 (1983)
+        - [ ] *Rhododendron lapponicum* (L.) Wahlenb., Fl. Lapp. (Wahlenberg) 104 (1812)
+          - [ ] _(Rhododendron pallidum (Turcz.) Dümmer, Gard. Chron. , ser. 3, 53: 264 (1913))_
+          - [ ] _(Rhododendron parvifolium Adams, Nouv. Mém. Soc. Imp. Naturalistes Moscou 9: 237 (1834))_
+          - [ ] _(Rhododendron palustre Turcz., Prodr. 7: 724 (1839))_
+          - [ ] _(Azalea parvifolia (Adams) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron lapponicum var. alpinum (Glehn) T.Yamaz., Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin : 19 (1996))_
+          - [ ] _(Rhododendron parvifolium f. alpinum Glehn, Trudy Imp. S.-Peterburgsk. Bot. Sada 4: 66 (1876))_
+          - [ ] _(Rhododendron confertissimum Nakai, Bot. Mag. (Tokyo) 31: 239 (1916))_
+          - [ ] _(Azalea ferruginosa Pall., Fl. Ross. 2: t. 70 (1815))_
+          - [ ] _(Azalea lapponica L., Sp. Pl. : 151 (1753))_
+          - [ ] _(Rhododendron lapponicum var. roseum Abrom., Biblioth. Bot. 8, Heft 42, pt. 2: 51. 1899)_
+          - [ ] _(Osmothamnus pallidus (Turcz.) DC., Prodr. 7: 715 (1839))_
+          - [ ] _(Rhododendron lapponicum var. viride Berlin, Öfvers. Kongl. Vetensk.-Akad. Förh. 41(7): 38. 1884)_
+          - [ ] _(Rhododendron micranthum Maxim., Mém. Acad. Imp. Sci. St.-Pétersbourg 6, pl.18. (1870))_
+          - [ ] _(Azalea pallida Turcz., Bull. Soc. Imp. Naturalistes Moscou 11: 96 (1838))_
+          - [ ] _(Rhododendron lapponicum subsp. alpinum (Glehn) A.P.Khokhr., Sosud. Rast. Sovet. Dal'nego Vostoka 5: 133 (1991):.)_
+          - [ ] _(Rhododendron parvifolium subsp. confertissimum (Nakai) A.P.Khokhr., Sosud. Rast. Sovet. Dal'nego Vostoka 5: 133 (1991))_
+          - [ ] _(Rhododendron lapponicum subsp. parvifolium (Adams) T.Yamaz., Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin 18 (1996): (1996))_
+        - [ ] *Rhododendron impeditum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 239 (1916)
+          - [ ] _(Rhododendron litangense Balf.f., Notes Roy. Bot. Gard. Edinburgh 17: 27 (1929))_
+        - [ ] *Rhododendron maowenense* Ching & C.H.Yang, Bull. Bot. Res., Harbin 3(2): 96 (1983)
+        - [ ] *Rhododendron × edgarianum* Rehder & E.H.Wilson, Pl. Wilson. 1: 508 (1913)
+        - [ ] *Rhododendron flavidum* Franch., J. Bot. (Morot) 9: 395 (1895)
+          - [ ] _(Rhododendron primulinum Hemsl., Gard. Chron. , ser. 3, 47: 4 (1910))_
+          - [ ] *Rhododendron flavidum var. psilostylum* Rehder & E.H.Wilson, Pl. Wilson. 1: 513. 1913 (1913)
+            - [ ] _(Rhododendron psilostylum (Rehder & E.H.Wilson) Balf.f., Notes Roy. Bot. Gard. Edinburgh 11(52–53): 104 1919)_
+          - [ ] *Rhododendron flavidum var. flavidum* , 
+        - [ ] *Rhododendron fastigiatum* Franch., Bull. Soc. Bot. France 33: 234 (1886)
+          - [ ] _(Rhododendron nanum H.Lév., Repert. Spec. Nov. Regni Veg. 12: 285 (1913))_
+          - [ ] _(Azalea fastigiata (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron tapetiforme* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 279 (1916)
+      - [ ] *Rhododendron subsect. Boothia* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:530. (1949)
+        - [ ] _(Rhododendron ser. Boothii Hutch., Sp. Rhodod. 155. (1930))_
+        - [ ] *Rhododendron sulfureum* Franch., Bull. Soc. Bot. France 34: 283 (1887)
+          - [ ] _(Azalea sulfurea (Franch.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron cerinum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 240 (1922))_
+          - [ ] _(Rhododendron commodum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 252 (1922))_
+          - [ ] _(Rhododendron theiochroum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 282 (1916))_
+        - [ ] *Rhododendron leptocarpum* Nutt., Hooker's J. Bot. Kew Gard. Misc. 6: 256 (1854)
+          - [ ] _(Rhododendron micromeres Tagg, Notes Roy. Bot. Gard. Edinburgh 16: 211)_
+          - [ ] _(Azalea leptocarpa (Nutt.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron nanjianense* K.M.Feng & Z.H.Yang, Acta Bot. Yunnan. 9: 55 (1987)
+        - [ ] *Rhododendron boothii* Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 356 (1853)
+          - [ ] _(Rhododendron mishmiense Hutch. & Kingdon-Ward, Sp. Rhodod. 166 (1930).)_
+          - [ ] _(Azalea boothii (Nutt.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron dekatanum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 226 (1937)
+        - [ ] *Rhododendron megeratum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 140 (1920)
+          - [ ] _(Rhododendron tapeinum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 12: 164 (1920))_
+        - [ ] *Rhododendron leucaspis* Tagg, Gard. Chron. , ser. 3, 85: 308 (1929)
+        - [ ] *Rhododendron chrysodoron* Tagg ex Hutch., Gard. Chron. , ser. 3, 95: 276 (1934)
+          - [ ] _(Rhododendron chrysodorum W.W.Sm. ex Stair, Rhododendron Soc. Notes 3(5): 307 (1929-1931 publ. 1932))_
+      - [ ] *Rhododendron subsect. Monantha* Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 122. 1978
+        - [ ] *Rhododendron monanthum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 250 (1916)
+        - [ ] *Rhododendron flavantherum* Hutch. & Kingdon-Ward, Hutchinson in Notes Bot. Gard. Edinb. xvi. 181 (1931), latine.
+        - [ ] *Rhododendron concinnoides* Hutch. & Kingdon-Ward, Hutchinson in Notes Bot. Gard. Edinb. xvi. 180 (1931), latine.
+        - [ ] *Rhododendron kasoense* Hutch. & Kingdon-Ward, Spec. Rhododendron : 787 (1930)
+      - [ ] *Rhododendron subsect. Glauca* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:530. (1949)
+        - [ ] _(Rhododendron ser. Glaucum Hutch., )_
+        - [ ] *Rhododendron glaucophyllum* Rehder, J. Arnold Arbor. 26: 73 (1945)
+          - [ ] _(Rhododendron glaucum Hook.f., Rhododendr. Sikkim-Himalaya t. 17. 1851 [13-29 Mar 1851])_
+          - [ ] _(Rhododendron glaucophyllum var. album Davidian, J. Amer. Rhododendron Soc. 36(1): 16 (1982).)_
+          - [ ] _(Azalea glauca Kuntze, Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+          - [ ] *Rhododendron glaucophyllum var. glaucophyllum* , 
+        - [ ] *Rhododendron pruniflorum* Hutch. & Kingdon-Ward, Spec. Rhododendron : 302 (1930)
+          - [ ] _(Rhododendron sordidum (Hutch. & Kingdon-Ward) Hutch., Rhododendron Soc. Notes 3(5): 286 (1929-1931 publ. 1932))_
+          - [ ] _(Rhododendron tsangpoense var. pruniflorum (Hutch. & Kingdon-Ward) Cowan & Davidian, Rhododendron Year Book 3: 90 1948)_
+        - [ ] *Rhododendron shweliense* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 293 (1922)
+        - [ ] *Rhododendron charitopes* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 243 (1922)
+          - [ ] *Rhododendron charitopes subsp. tsangpoense* (Kingdon-Ward) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 114 (1978)
+            - [ ] _(Rhododendron tsangpoense Kingdon-Ward, Gard. Chron. , ser. 3, 86: 504 (1929))_
+            - [ ] _(Rhododendron tsangpoense var. curvistylum Kingdon-Ward ex Cowan & Davidian, Rhododendron Year Book 3: 90 1948)_
+          - [ ] *Rhododendron charitopes subsp. charitopes* , 
+        - [ ] *Rhododendron tubiforme* (Cowan & Davidian) Davidian, J. Amer. Rhododendron Soc. 36: 15 (1982)
+          - [ ] _(Rhododendron glaucophyllum var. tubiforme Cowan & Davidian, Rhododendron Year Book 3: 86 1948)_
+          - [ ] _(Rhododendron glaucophyllum subsp. tubiforme (Cowan & Davidian) D.G.Long, Notes Roy. Bot. Gard. Edinburgh 45: 330 (1988 publ. 1989))_
+        - [ ] *Rhododendron brachyanthum* Franch., Bull. Soc. Bot. France 33: 234 (1886)
+          - [ ] _(Azalea brachyantha (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron brachyanthum subsp. brachyanthum* , 
+          - [ ] *Rhododendron brachyanthum subsp. hypolepidotum* (Franch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 114 (1978)
+            - [ ] _(Rhododendron brachyanthum var. hypolepidotum Franch., J. Bot. (Morot) 12: 262 (1898))_
+            - [ ] _(Rhododendron charitostreptum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 244 (1922))_
+            - [ ] _(Rhododendron hypolepidotum (Franch.) Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 266 (1922))_
+        - [ ] *Rhododendron luteiflorum* (Davidian) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 114 (1978)
+          - [ ] _(Rhododendron glaucophyllum var. luteiflorum Davidian, J. Roy. Hort. Soc. 85:369. (1960))_
+          - [ ] _(Rhododendron luteiflorum (Davidian) Davidian, Quart. Bull. Amer. Rhododendron Soc. 32(2): 82. 1978)_
+      - [ ] *Rhododendron subsect. Scabrifolium* (Hutch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 110, as 'Scabrifolia'. 1978
+        - [ ] _(Rhododendron ser. Scabrifolium Hutch., )_
+        - [ ] *Rhododendron pubescens* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 153 (1920)
+        - [ ] *Rhododendron spiciferum* Franch., J. Bot. (Morot) 9: 400 (1895)
+          - [ ] _(Rhododendron spiciferum var. album K.M.Feng ex R.C.Fang, Acta Bot. Yunnan. 4(3): 257. 1982)_
+          - [ ] _(Rhododendron scabrifolium var. spiciferum (Franch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 110 (1978))_
+          - [ ] _(Rhododendron spiciferum var. spiciferum , )_
+        - [ ] *Rhododendron scabrifolium* Franch., Bull. Soc. Bot. France 33: 236 (1886)
+          - [ ] _(Azalea scabrifolia (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron scabrifolium var. scabrifolium* , 
+          - [ ] *Rhododendron scabrifolium var. pauciflorum* Franch., J. Bot. (Morot) 12: 262 (1898)
+            - [ ] _(Rhododendron dielsianum Hand.-Mazz., )_
+        - [ ] *Rhododendron hemitrichotum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 115 (1920)
+        - [ ] *Rhododendron racemosum* Franch., Bull. Soc. Bot. France 33: 235 (1886)
+          - [ ] _(Rhododendron crenatum H.Lév., Bull. Acad. Int. Géogr. Bot. 25: 20 (1915))_
+          - [ ] _(Rhododendron motsouense H.Lév., Repert. Spec. Nov. Regni Veg. 13: 148 (1914))_
+        - [ ] *Rhododendron mollicomum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 249 (1916)
+          - [ ] _(Rhododendron mollicomum var. rockii Tagg, Notes Roy. Bot. Gard. Edinburgh 15(72): 114 1926)_
+        - [ ] *Rhododendron spinuliferum* Franch., J. Bot. (Morot) 9: 398 (1895)
+          - [ ] *Rhododendron spinuliferum var. glabrescens* K.M.Feng ex R.C.Fang, Acta Bot. Yunnan. 4: 257 (1982)
+          - [ ] *Rhododendron spinuliferum var. spinuliferum* , 
+            - [ ] _(Rhododendron fuchsiiflorum H.Lév., Repert. Spec. Nov. Regni Veg. 12: 284 (1913))_
+        - [ ] *Rhododendron fuyuanense* Z.H.Yang, Acta Phytotax. Sin. 35: 189 (1997)
+      - [ ] *Rhododendron subsect. Moupinensia* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:534. (1949)
+        - [ ] _(Rhododendron ser. Moupinense Hutch., Sp. Rhodod. 502. (1930))_
+        - [ ] *Rhododendron moupinense* Franch., Bull. Soc. Bot. France 33: 233 (1886)
+        - [ ] *Rhododendron petrocharis* Diels, Repert. Spec. Nov. Regni Veg. 17: 196 (1921)
+        - [ ] *Rhododendron dendrocharis* Franch., Bull. Soc. Bot. France 33: 233 (1886)
+      - [ ] *Rhododendron subsect. Genestieriana* (Cowan & Davidian) Sleumer, Bot. Jahrb. Syst. 74:531. (1949)
+        - [ ] _(Rhododendron subser. Genestierianum Cowan & Davidian, Rhododendron Year Book 3:91. (1948))_
+        - [ ] *Rhododendron mingii* Y.P.Ma, L.M.Gao & E.D.Liu, Phytotaxa 619(1): 98 2023
+        - [ ] *Rhododendron genestierianum* Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 122 (1920)
+          - [ ] _(Rhododendron jenestierianum Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 122. 1920)_
+          - [ ] _(Rhododendron mirabile Kingdon-Ward, Gard. Chron. , ser. 3, 92: 465 (1932))_
+      - [ ] *Rhododendron subsect. Baileya* Sleumer, Bot. Jahrb. Syst. 74:531. (1949)
+        - [ ] *Rhododendron baileyi* Balf.f., Notes Roy. Bot. Gard. Edinburgh 11: 23 (1919)
+          - [ ] _(Rhododendron thyodocum Balf.f. & R.E.Cooper, Notes Roy. Bot. Gard. Edinburgh 11: 118 (1919))_
+      - [ ] *Rhododendron subsect. Maddenia* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:533. (1949)
+        - [ ] _(Rhododendron cubittii Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 78 (1919))_
+        - [ ] _(Rhododendron ser. Maddenii Hutch., Notes Roy. Bot. Gard. Edinburgh 12:1. (1919))_
+        - [ ] *Rhododendron johnstoneanum* G.Watt ex Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 72 (1919)
+          - [ ] _(Rhododendron formosum var. johnstoneanum G.Watt ex Brandis, Indian Trees : 411 (1906))_
+        - [ ] *Rhododendron excellens* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 113 (1910)
+        - [ ] *Rhododendron fletcherianum* Davidian, Rhododendron Camellia Year Book 16: 103 (1961)
+        - [ ] *Rhododendron yizhangense* Q.X.Liu, Bull. Bot. Res., Harbin 8(3): 86 (1988)
+        - [ ] *Rhododendron nuttallii* T.J.Booth, Hooker's J. Bot. Kew Gard. Misc. 5: 355 (1853)
+          - [ ] _(Azalea nuttallii (Booth ex Nutt.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron goreri Davidian, Quart. Bull. Amer. Rhododendron Soc. 34(4): 213 (1980))_
+        - [ ] *Rhododendron vanderbiltianum* Merr., Notul. Nat. Acad. Nat. Sci. Philadelphia 47: 5 (1940)
+        - [ ] *Rhododendron rufosquamosum* Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 63 (1919)
+        - [ ] *Rhododendron scopulorum* Hutch., Spec. Rhododendron : 475 (1930)
+        - [ ] *Rhododendron pseudomaddenii* A.A.Mao & Bhaumik, Edinburgh J. Bot. 72: 210 (2015)
+        - [ ] *Rhododendron fleuryi* Dop ex A.Chev., Rev. Bot. Appl. Agric. Trop. 9: 255 (1929)
+        - [ ] *Rhododendron linearilobum* R.C.Fang & A.L.Chang, Acta Bot. Yunnan. 4(3): 250 (1982)
+        - [ ] *Rhododendron walongense* Kingdon-Ward, Gard. Chron. , ser. 3, 133: 5 (1953)
+        - [ ] *Rhododendron taggianum* Hutch., Gard. Chron. ser. 3, 87: 389; et in Spec. Rhododendron, 499(1930).
+          - [ ] _(Rhododendron headfortianum Hutch., Bot. Mag. 163: t. 9614 (1942))_
+        - [ ] *Rhododendron parryae* Hutch., Gard. Chron. , ser. 3, 93: 387 (1933)
+        - [ ] *Rhododendron leptocladon* Dop, Fl. Indo-Chine 3: 745 (1930)
+        - [ ] *Rhododendron veitchianum* Hook., Bot. Mag. 83: t. 4992 (1857)
+          - [ ] _(Rhododendron smilesii Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 71 (1919))_
+          - [ ] _(Azalea veitchiana (Hook.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron ciliipes* Hutch., Sp. Rhodod. 457 (1930).
+        - [ ] *Rhododendron megacalyx* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 246 (1916)
+        - [ ] *Rhododendron cuffeanum* Craib ex Hutch., Bot. Mag. 143: t. 8721 (1917)
+        - [ ] *Rhododendron eheinense* M.Y.He & Z.J.Zhao, J. Sichuan Univ., Nat. Sci. Ed. 32: 477 (1995)
+        - [ ] *Rhododendron lindleyi* T.Moore, Gard. Chron. 1864: 364 (1864)
+          - [ ] _(Rhododendron lindleyanum Millais, Rhododendrons 202 (1917), in syn.)_
+          - [ ] _(Rhododendron bhotanicum C.B.Clarke, Fl. Brit. India 3: 475 (1882))_
+          - [ ] _(Rhododendron grothausii Davidian, Quart. Bull. Amer. Rhododendron Soc. 34(4): 211 (1980))_
+        - [ ] *Rhododendron amandum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 245 (1937)
+        - [ ] *Rhododendron inaequale* (C.B.Clarke) Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 15, 75 (1919)
+          - [ ] _(Rhododendron formosum var. inaequale C.B.Clarke, Fl. Brit. Ind. 3:473. (1882))_
+          - [ ] _(Rhododendron formosum var. inaequale (Hutch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 108. 1978)_
+        - [ ] *Rhododendron chunienii* Chun & W.P.Fang, Acta Phytotax. Sin. 6: 169 (1957)
+        - [ ] *Rhododendron liliiflorum* H.Lév., Repert. Spec. Nov. Regni Veg. 12: 102 (1913)
+        - [ ] *Rhododendron sinonuttallii* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 60 (1920)
+        - [ ] *Rhododendron rhombifolium* R.C.Fang, Acta Bot. Yunnan. 4(3): 251 (1982)
+        - [ ] *Rhododendron wumingense* W.P.Fang, Acta Phytotax. Sin. 21(4): 464 (1983)
+        - [ ] *Rhododendron ciliicalyx* Franch., Bull. Soc. Bot. France 33: 233 (1886)
+          - [ ] _(Rhododendron pseudociliicalyx Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 54 (1919))_
+          - [ ] _(Azalea ciliicalyx (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron missionarium H.Lév., Bull. Acad. Int. Géogr. Bot. 25: 20 (1915))_
+          - [ ] _(Rhododendron nemorosum R.C.Fang, Acta Bot. Yunnan. 6: 290 (1984))_
+          - [ ] _(Rhododendron saravanense Dop, Fl. Indo-Chine 3: 745 (1930))_
+          - [ ] _(Rhododendron surasianaum Balf.f. & Craib, Notes Roy. Bot. Gard. Edinburgh 10(47–48): 160–162 1917-1918)_
+          - [ ] _(Rhododendron surasianum Balf.f. & Craib, Notes Roy. Bot. Gard. Edinburgh 10: 160 (1917))_
+          - [ ] _(Rhododendron ludwigianum Hosseus, Beih. Bot. Centralbl. 28(2): 422 (1911))_
+          - [ ] *Rhododendron ciliicalyx subsp. ciliicalyx* , 
+          - [ ] *Rhododendron ciliicalyx subsp. lyi* (Lévl.) R.C.Fang, Fl. Yunnan. 4: 479 (1986), without basionym ref. (1986)
+            - [ ] _(Rhododendron lyi (H.Lév.) H.Lév., Repert. Spec. Nov. Regni Veg. 13: 147 (1914))_
+        - [ ] *Rhododendron dalhousieae* Hook.f., Rhododendr. Sikkim-Himalaya 1: t. 2 (1849)
+          - [ ] _(Rhododendron macrocarpum Van Houtte, J. Gén. Hort. 12: 83 (1857))_
+          - [ ] _(Azalea macrocarpa (Griff.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron lindleyanum Lavallée, Énum. Arbres : 156 (1877))_
+          - [ ] _(Rhododendron macrocarpos Griff., Itin. Pl. Khasyah Mts. : 138 (1848))_
+          - [ ] *Rhododendron dalhousieae var. tashii* (Pradhan & Lachungpa) D.Bhattach., Fasc. Fl. India 25: 51 (2014)
+            - [ ] _(Rhododendron dalhousieae subsp. tashii Pradhan & Lachungpa, Sikkim-Himalayan Rhododendrons 30 (1990).)_
+          - [ ] *Rhododendron dalhousieae var. dalhousieae* , 
+          - [ ] *Rhododendron dalhousieae var. rhabdotum* (Balf.f. & R.E.Cooper) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 107 (1978)
+            - [ ] _(Rhododendron rhabdotum Balf.f. & R.E.Cooper, Notes Roy. Bot. Gard. Edinburgh 10: 141 (1917))_
+        - [ ] *Rhododendron maddenii* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 18 (1851)
+          - [ ] _(Azalea maddenii (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron maddenii subsp. crassum* (Franch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 107 (1978)
+            - [ ] _(Rhododendron chapaense Dop, Fl. Indo-Chine 3: 743 (1930))_
+            - [ ] _(Rhododendron odoriferum Hutch., Gard. Chron. , ser. 3, 82: 30 (1927))_
+            - [ ] _(Azalea crassa (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+            - [ ] _(Rhododendron crassum Franch., Bull. Soc. Bot. France 34: 282 (1887))_
+            - [ ] _(Rhododendron manipurense Balf.f. & Watt, Notes Roy. Bot. Gard. Edinburgh 10: 119 (1917))_
+          - [ ] *Rhododendron maddenii subsp. maddenii* , 
+            - [ ] _(Rhododendron macranthum Griff., Not. Pl. Asiat. 4:303. (1854))_
+            - [ ] _(Rhododendron polyandrum Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 25 (1919))_
+            - [ ] _(Rhododendron jenkinsii Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 361 (1853))_
+            - [ ] _(Rhododendron brevitubum Balf.f. & R.E.Cooper, Notes Roy. Bot. Gard. Edinburgh 10: 88. 1917)_
+            - [ ] _(Rhododendron maddenii var. longiflorum W.Watson, Gard. Chron. ser. 3 15:684. (1894))_
+            - [ ] _(Rhododendron brachysiphon Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 24. 1919)_
+            - [ ] _(Rhododendron calophyllum Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 362 (1853))_
+        - [ ] *Rhododendron crenulatum* Hutch. ex Sleumer, Blumea, Suppl. 4: 44 (1958)
+        - [ ] *Rhododendron yaogangxianense* Q.X.Liu, Bull. Bot. Res., Harbin 8(3): 87 (1988)
+        - [ ] *Rhododendron formosum* Wall., Pl. Asiat. Rar. 3: 3 (1831)
+          - [ ] _(Rhododendron formosum Kingdon-Ward, Field Notes Rhododendrons 1927-28, 3 [1929].)_
+          - [ ] _(Rhododendron assamicum T.Moore, Gard. Chron. n.s., 1881(1): 8 1881)_
+          - [ ] _(Rhododendron assamicum Kingdon-Ward, Field Notes Rhododendrons 1927-28, 3 [1929].)_
+          - [ ] _(Rhododendron gibsonii Paxton, Paxton's Mag. Bot. 8: t. 217 (1841))_
+          - [ ] _(Azalea formosa (Wall.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron mianningense* Z.J.Zhao, Bull. Bot. Res., Harbin 7(3): 59 (1987)
+        - [ ] *Rhododendron yungchangense* Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 123 (1978)
+        - [ ] *Rhododendron carneum* Hutch., Bot. Mag. 141: t. 8634 (1915)
+        - [ ] *Rhododendron taronense* Hutch., Hutchinson in Notes Bot. Gard. Edinb. xvi. 178 (1931), latine.
+        - [ ] *Rhododendron pachypodum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 254 (1916)
+          - [ ] _(Rhododendron scottiatum Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 64 (1919))_
+          - [ ] _(Rhododendron pilicalyx Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 66 (1919))_
+        - [ ] *Rhododendron kuomeianum* Yu H.Chang, J.Nielsen & Y.P.Ma, Pl. Diversity 43(4): 296 (2021)
+        - [ ] *Rhododendron changii* (Fang) W.P.Fang, Acta Phytotax. Sin. 21(4): 465 (1983)
+          - [ ] _(Rhododendron valentinianum var. changii W.P.Fang, Contr. Biol. Lab. Chin. Assoc. Advancem. Sci., Sect. Bot. 12(1): 71 1939)_
+        - [ ] *Rhododendron kiangsiense* W.P.Fang, Acta Phytotax. Sin. 7: 192 (1958)
+        - [ ] *Rhododendron roseatum* Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 57 (1919)
+          - [ ] _(Rhododendron lasiopodum Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 58 (1919))_
+        - [ ] *Rhododendron burmanicum* Hutch., Bull. Misc. Inform. Kew 1914: 185 (1914)
+        - [ ] *Rhododendron valentinianum* Forrest ex Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 45 (1919)
+          - [ ] *Rhododendron valentinianum var. oblongilobatum* R.C.Fang, Acta Bot. Yunnan. 4(3): 250 (1982)
+          - [ ] *Rhododendron valentinianum var. valentinianum* , 
+        - [ ] *Rhododendron dendricola* Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 60 (1919)
+          - [ ] _(Rhododendron notatum Hutch., Hutchinson in Notes Bot. Gard. Edinb. xvi. 177 (1931), latine.)_
+          - [ ] _(Rhododendron atentsiense Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 58: 152 (1921))_
+        - [ ] *Rhododendron coxianum* Davidian, Rhododendrons Magnolias Camellias 1972: 51 (1972)
+        - [ ] *Rhododendron pseudociliipes* Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 122 (1978)
+        - [ ] *Rhododendron supranubium* Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 68 (1919)
+        - [ ] *Rhododendron horlickianum* Davidian, Rhododendrons Magnolias Camellias 1972: 53 (1972)
+        - [ ] *Rhododendron levinei* Merr., Philipp. J. Sci., C 13: 153 (1918)
+        - [ ] *Rhododendron iteophyllum* Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 83 (1919)
+          - [ ] _(Rhododendron iteaphyllum Hutch., Notes Roy. Bot. Gard. Edinburgh 12: 83. 1919)_
+        - [ ] *Rhododendron starlingii* Rushforth & N.T.T.Huong, Bot. Mag. 39(3): 467. 2022
+        - [ ] *Rhododendron ciliatum* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 24 (1851)
+          - [ ] _(Azalea ciliata (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] *Rhododendron subsect. Camelliiflora* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:533. (1949)
+        - [ ] _(Rhododendron ser. Camelliaeflorum Hutch., )_
+        - [ ] *Rhododendron shingbae* C.S.Purohit & Ram.Kumar, Rhododendron (Melbourne) 58: 79. 2018
+        - [ ] *Rhododendron camelliiflorum* Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 28 (1851)
+          - [ ] _(Rhododendron cooperi Balf.f., Notes Roy. Bot. Gard. Edinburgh 10: 91 (1917))_
+          - [ ] _(Rhododendron sparsiflorum Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 363 (1853))_
+          - [ ] _(Azalea lucida (Nutt.) Meerb., Pl. Select. Icon. Pict. : 7 (1798))_
+          - [ ] _(Rhododendron lucidum Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 363 (1853))_
+          - [ ] _(Azalea cammelliiflora (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] *Rhododendron subsect. Afghanica* Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 122. 1978
+        - [ ] *Rhododendron afghanicum* Aitch. & Hemsl., J. Linn. Soc., Bot. 18: 75 (1880)
+      - [ ] *Rhododendron subsect. Campylogyna* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:531. (1949)
+        - [ ] _(Rhododendron ser. Campylogynum Hutch., Sp. Rhodod. 182. (1930))_
+        - [ ] *Rhododendron campylogynum* Franch., Bull. Soc. Bot. France 32: 10 (1885)
+          - [ ] _(Rhododendron campylogynum var. charapoeum (Balf.f. & Farrer) Davidian, R.H.S. Rhodod. and Cam. Year Book 8: 83. pl. 3 1954)_
+          - [ ] _(Rhododendron campylogynum var. cremastum (Balf.f. & Forrest) Davidian, Rhododendron Camellia Year Book 8:83. (1954))_
+          - [ ] _(Rhododendron campylogynum var. leucanthum Ingram, Rhododendron Camellia Year Book 23: 49 (1968))_
+          - [ ] _(Rhododendron glaucoaureum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 46 (1920))_
+          - [ ] _(Rhododendron cerasiflorum Kingdon-Ward, Gard. Chron. ser. 3, 93: 277, in obs. 1933)_
+          - [ ] _(Rhododendron campylogynum var. myrtilloides (Balf.f. & Kingdon-Ward) Davidian, Rhododendron Year Book 8: 84 1954)_
+          - [ ] _(Rhododendron amphichlorum Ingram, Rhododendron Camellia Year Book 23: 49 (1968))_
+          - [ ] _(Rhododendron caeruleoglaucum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 34 (1920))_
+          - [ ] _(Rhododendron campylogynum var. celsum Davidian, Rhododendron Year Book 8: 83 1954)_
+          - [ ] _(Azalea campylogyna (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron charapoeum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 245 (1922))_
+          - [ ] _(Rhododendron cremastum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 39 (1920))_
+          - [ ] _(Rhododendron myrtilloides Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 13: 276 (1922))_
+          - [ ] _(Rhododendron damascenum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 254 (1922))_
+      - [ ] *Rhododendron subsect. Lepidota* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:531. (1949)
+        - [ ] _(Rhododendron ser. Lepidotum Hutch., Sp. Rhodod. 437. (1930))_
+        - [ ] *Rhododendron lepidotum* Wall. ex G.Don, Gen. Hist. 3: 845 (1834)
+          - [ ] _(Azalea lepidota (Wall. ex G.Don) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron obovatum Hook.f., Rhododendr. Sikkim-Himalaya 1: 6 (1849))_
+          - [ ] _(Rhododendron salignum Hook.f., Rhododendr. Sikkim-Himalaya 3: t. 23A (1851))_
+          - [ ] _(Rhododendron cremnastes Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 253 (1922))_
+          - [ ] _(Rhododendron lepidotum subsp. salignum (Hook.f.) Pradhan & Lachungpa, Sikkim-Himalayan Rhododendrons : 45 (1990))_
+          - [ ] _(Rhododendron lepidotum var. album Davidian, J. Amer. Rhododendron Soc. 36(1): 16 (1982).)_
+          - [ ] _(Rhododendron sinolepidotum Balf.f., Notes Roy. Bot. Gard. Edinburgh 10: 155 (1917))_
+          - [ ] _(Rhododendron lepidotum subsp. obovatum (Hook.f.) Pradhan & Lachungpa, Sikkim-Himalayan Rhododendrons : 45 (1990))_
+          - [ ] _(Rhododendron lepidotum var. minutiforme Davidian, J. Amer. Rhododendron Soc. 36(1): 17 (1982).)_
+          - [ ] _(Rhododendron elaeagnoides Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 23B (1851))_
+        - [ ] *Rhododendron nayarii* G.D.Pal, J. Bombay Nat. Hist. Soc. 98: 258 (2001)
+        - [ ] *Rhododendron lowndesii* Davidian, Notes Roy. Bot. Gard. Edinburgh 21: 99 (1952)
+        - [ ] *Rhododendron cowanianum* Davidian, Notes Roy. Bot. Gard. Edinburgh 21: 99 (1952)
+      - [ ] *Rhododendron subsect. Tephropepla* (Cowan & Davidian) Sleumer, Bot. Jahrb. Syst. 74:532. (1949)
+        - [ ] _(Rhododendron subser. Tephropeplum Cowan & Davidian, Rhododendron Year Book 3:72. (1948))_
+        - [ ] *Rhododendron auritum* Tagg, Rhododendron Soc. Notes 3(5): 278 (1929-1931 publ. 1932)
+        - [ ] *Rhododendron xanthostephanum* Merr., Brittonia 4: 148 (1941)
+          - [ ] _(Rhododendron aureum Franch., J. Bot. (Morot) 9:394. (1895))_
+        - [ ] *Rhododendron tephropeploides* R.A.Baines & D.F.Chamb., Edinburgh J. Bot. 78-363: 2 (2021)
+        - [ ] *Rhododendron tephropeplum* Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 302 (1922)
+          - [ ] _(Rhododendron deleiense Hutch. & Kingdon-Ward, Spec. Rhododendron : 163 (1930))_
+          - [ ] _(Rhododendron spodopeplum Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 299 (1922))_
+        - [ ] *Rhododendron baihuaense* Y.P.Ma, Phytotaxa 114: 47 (2013)
+        - [ ] *Rhododendron longistylum* Rehder & E.H.Wilson, Pl. Wilson. 1: 514 (1913)
+          - [ ] *Rhododendron longistylum subsp. decumbens* R.C.Fang, Acta Bot. Yunnan. 4(3): 249 (1982)
+          - [ ] *Rhododendron longistylum subsp. longistylum* , 
+        - [ ] *Rhododendron tsinlingense* W.P.Fang ex J.Q.Fu, Fl. Tsinling. 1(4): 393, 10 (1983)
+        - [ ] *Rhododendron hanceanum* Hemsl., J. Linn. Soc., Bot. 26: 24 (1889)
+          - [ ] _(Azalea hanceana (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron willmottiae auct., Gard. Chron. III, 55: 319 1914)_
+      - [ ] *Rhododendron heatherae* Rushforth, New Plantsman 8: 248 (2001)
+      - [ ] *Rhododendron subsect. Edgeworthia* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:532. (1949)
+        - [ ] _(Rhododendron ser. Edgeworthii Hutch., Sp. Rhodod. 228. (1930))_
+        - [ ] *Rhododendron seinghkuense* Kingdon-Ward, Spec. Rhododendron : 234 (1930)
+        - [ ] *Rhododendron edgeworthii* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 21 (1851)
+          - [ ] _(Rhododendron sciaphilum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 10: 146 (1917))_
+          - [ ] _(Rhododendron bullatum Franch., Bull. Soc. Bot. France 34: 281 (1887))_
+          - [ ] _(Azalea edgeworthii (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Azalea bullata (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron pendulum* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 13 (1851)
+          - [ ] _(Azalea pendula (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron modestum Hook.f., Bot. Mag. 125: t. 7686 (1899))_
+      - [ ] *Rhododendron subsect. Caroliniana* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:535. (1949)
+        - [ ] _(Rhododendron ser. Carolinianum Hutch., Sp. Rhodod. 192. (1930))_
+        - [ ] *Rhododendron minus* Michx., J. Hist. Nat. i. 412. 1792
+          - [ ] _(Rhododendron punctatum var. majus G.Don, Gen. Hist. 3: 844. 1834)_
+          - [ ] _(Rhododendron carolinianum Rehder, Rhodora 14: 99 (1912))_
+          - [ ] _(Rhododendron margarettae (Ashe) Ashe, J. Elisha Mitchell Sci. Soc. 38: 91 (1922))_
+          - [ ] _(Rhododendron carolinianum var. margarettae Ashe, Rhodora 23: 177. 1921)_
+          - [ ] _(Azalea minor (Michx.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron minus var. minus , )_
+          - [ ] _(Rhododendron cuthbertii Small, Torreya 2: 9 (1902))_
+          - [ ] _(Rhododendron parviflorum DC., Prodr. [A. P. de Candolle] 7(2): 723. 1839 [late Dec 1839])_
+          - [ ] _(Rhododendron punctatum Andrews, Bot. Repos. 1: t. 36 (1798))_
+          - [ ] _(Rhododendron minus var. majus (G.Don) D.H.Voss, J. Amer. Rhododendron Soc. 68(2): 88. 2014 [15 Apr 2014])_
+        - [ ] *Rhododendron chapmanii* (Alph.Wood) A.Gray, Proc. Amer. Acad. Arts 12: 61 (1877)
+          - [ ] _(Rhododendron minus var. chapmanii (A.Gray) W.H.Duncan & Pullan, Brittonia 14:297. (1982))_
+          - [ ] _(Azalea chapmannii (Alph.Wood) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron minus var. chapmanii (Alph.Wood) Gandhi & Zarucchi, Harvard Pap. Bot. 14(1): 1. 2009 [Jun 2009])_
+          - [ ] _(Rhododendron punctatum var. chapmanii Alph.Wood, Amer. Bot. Fl. 204. 1870)_
+        - [ ] *Rhododendron smokianum* Ralf Bauer & Albach, Syst. Bot. 46(1): 126 (2021)
+      - [ ] *Rhododendron subsect. Fragariflora* Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 122. 1978
+        - [ ] *Rhododendron fragariiflorum* Kingdon-Ward, Gard. Chron. , ser. 3, 86: 504 (1929)
+      - [ ] *Rhododendron subsect. Rhododendron* , 
+        - [ ] *Rhododendron ferrugineum* L., Sp. Pl. : 392 (1753)
+          - [ ] _(Plinthocroma ferrugineum (L.) J.Dulac, Fl. Hautes-Pyrénées : 419 (1867))_
+          - [ ] _(Azalea ferruginea (L.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Chamaerhododendron ferrugineum (L.) Bubani, Fl. Pyren. 2: 5 (1899))_
+        - [ ] *Rhododendron hirsutum* L., Sp. Pl. : 392 (1753)
+          - [ ] _(Rhododendron latifolium Hoppe, Flora 23(2): 525. 1840)_
+          - [ ] _(Rhododendron angustifolium Hoppe, Flora 20: 185 (1837))_
+          - [ ] _(Rhododendron intermedium Schur, Enum. Pl. Transsilv. 448 (1866))_
+          - [ ] _(Chamaerhododendron hirsutum (L.) Bubani, Fl. Pyren. 2: 18 (1899))_
+          - [ ] _(Azalea hirsuta (L.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+          - [ ] _(Rhododendron glabratum Hoppe, Flora 20: 185 (1837))_
+          - [ ] _(Rhododendron hirsutum var. variegatum G.Don, Gen. Hist. 3: 844 (1834))_
+          - [ ] _(Rhododendron germanicum Hoppe, Flora 20: 187 (1837))_
+        - [ ] *Rhododendron kotschyi* Simonk., Enum. Fl. Transsilv. : 389 (1887)
+          - [ ] _(Rhododendron myrtifolium Schott & Klotzsch ex Schott & Klotzsch, Bot. Zeitung (Berlin) 9(2): 17 (1851))_
+          - [ ] _(Rhododendron myrtifolium Schott & Kotschy, Bot. Zeitung (Berlin) 9(2): 17 (1851))_
+          - [ ] _(Rhododendron ferrugineum subsp. kotschyi (Simonk.) Hayek, Prodr. Fl. Balc. 2:17. (1928))_
+      - [ ] *Rhododendron subsect. Micrantha* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:533. (1949)
+        - [ ] _(Rhododendron ser. Micranthum Hutch., Sp. Rhodod. 500. (1930))_
+        - [ ] *Rhododendron micranthum* Turcz., Bull. Soc. Imp. Naturalistes Moscou 21(I): 586 (1848)
+          - [ ] _(Azalea micrantha (Turcz.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron rosthornii Diels, Bot. Jahrb. Syst. 29: 509 (1900))_
+          - [ ] _(Rhododendron pritzelianum Diels, Bot. Jahrb. Syst. 29: 510 (1900))_
+        - [ ] *Rhododendron liaoxigense* S.L.Tung & Z.Lu, Bull. Bot. Res., Harbin 8(2): 155 (1988)
+          - [ ] _(Rhododendron liaoxigensis S.L.Tung & Z.Lu, Bull. Bot. Res., Harbin 8(2): 155 1988)_
+        - [ ] *Rhododendron brevicaudatum* R.C.Fang & S.S.Chang, Acta Bot. Yunnan. 10(3): 369 (1988)
+      - [ ] *Rhododendron subsect. Triflora* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:536. (1949)
+        - [ ] _(Rhododendron ser. Triflorum Hutch., Sp. Rhodod. 758. (1930))_
+        - [ ] *Rhododendron trichanthum* Rehder, J. Arnold Arbor. 26: 480 (1945)
+          - [ ] _(Rhododendron villosum Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910(4): 119.)_
+        - [ ] *Rhododendron rigidum* Franch., Bull. Soc. Bot. France 33: 233 (1886)
+          - [ ] _(Rhododendron caeruleum H.Lév., Repert. Spec. Nov. Regni Veg. 12: 284 (1913))_
+          - [ ] _(Azalea rigida (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron hesperium Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 263 (1922))_
+          - [ ] _(Rhododendron racemosum var. rigidum Rehnelt, Gartenflora 57: 561, pl. 1577 1908)_
+          - [ ] _(Rhododendron eriandrum H.Lév. ex Hutch., Spec. Rhododendron : 798 (1930))_
+          - [ ] _(Rhododendron rarosquameum Balf.f., Notes Roy. Bot. Gard. Edinburgh 10: 137 (1917))_
+          - [ ] _(Rhododendron bodinieri Franch., J. Bot. (Morot) 12: 257 (1898))_
+          - [ ] _(Rhododendron sycnanthum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 162 (1917))_
+        - [ ] *Rhododendron polylepis* Franch., Bull. Soc. Bot. France 33: 232 (1886)
+          - [ ] _(Rhododendron harrovianum Hemsl., Gard. Chron. , ser. 3, 47: 4 (1910))_
+        - [ ] *Rhododendron shaanxiense* W.P.Fang & Z.J.Zhao, Bull. Bot. Res., Harbin 2(4): 1 (1982)
+        - [ ] *Rhododendron concinnum* Hemsl., J. Linn. Soc., Bot. 26: 21 (1889)
+          - [ ] _(Rhododendron coombense Hemsl., Bot. Mag. 135: t. 8280 (1909))_
+          - [ ] _(Rhododendron concinnum var. benthamianum (Hemsl.) Davidian, Rhododendron Camellia Year Book 17: 194 1963)_
+          - [ ] _(Rhododendron hutchinsonianum W.P.Fang, Acta Phytotax. Sin. 2: 83 (1952))_
+          - [ ] _(Rhododendron apiculatum Rehder & E.H.Wilson, Pl. Wilson. 1: 520 (1913))_
+          - [ ] _(Rhododendron concinnum var. pseudoyanthinum (Balf.f. ex Hutch.) Davidian, Rhododendron Year Book 17: 194 1963)_
+          - [ ] _(Rhododendron benthamianum Hemsl., Bull. Misc. Inform. Kew 1907: 319 (1907))_
+          - [ ] _(Azalea concinna (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron concinnum var. lepidanthum (Rehder & E.H.Wilson) Rehder, J. Arnold Arbor. 20(4): 424–425 1939)_
+          - [ ] _(Rhododendron yanthinum var. lepidanthum Rehder & E.H.Wilson, Pl. Wilson. 1(3): 519 1913)_
+          - [ ] _(Rhododendron pseudoyanthinum Balf.f. ex Hutch., Spec. Rhododendron : 783 (1930))_
+          - [ ] _(Rhododendron yanthinum Bureau & Franch., J. Bot. (Morot) 5: 94 (1891))_
+          - [ ] _(Rhododendron atroviride Dunn, J. Linn. Soc., Bot. 39: 484 (1911), nom. nov.)_
+        - [ ] *Rhododendron amesiae* Rehder & E.H.Wilson, Pl. Wilson. 1: 523 (1913)
+        - [ ] *Rhododendron keiskei* Miq., Ann. Mus. Bot. Lugduno-Batavi 2: 163 (1866)
+          - [ ] _(Azalea keiskei (Miq.) Kuntze, Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+          - [ ] *Rhododendron keiskei var. keiskei* , 
+            - [ ] _(Rhododendron trichocalyx Ingram, Rhododendron Camellia Year Book 35: 33 (1970))_
+            - [ ] _(Rhododendron laticostum Ingram, Rhododendron Camellia Year Book 35: 30 (1970))_
+            - [ ] _(Rhododendron jodogawa Hassk., Cat. Hort. Bot. Bogor. Alt. : 162 (1844))_
+            - [ ] _(Azalea jodogawa Hassk., Cat. Hort. Bot. Bogor. Alt. : 162 (1844))_
+          - [ ] *Rhododendron keiskei var. ozawae* T.Yamaz, Fl. Japan 3a: 20 (1993)
+        - [ ] *Rhododendron augustinii* Hemsl., J. Linn. Soc., Bot. 26: 19 (1889)
+          - [ ] _(Azalea augustini (Hemsl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron vilmorinianum Balf.f., Notes Roy. Bot. Gard. Edinburgh 12: 181 (1920))_
+          - [ ] *Rhododendron augustinii subsp. augustinii* , 
+            - [ ] _(Rhododendron augustinii var. yui W.P.Fang, Contr. Biol. Lab. Sci. Soc. China 12: 78 1939)_
+          - [ ] *Rhododendron augustinii subsp. chasmanthum* (Diels) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 109 (1978)
+            - [ ] _(Rhododendron hardyi Davidian, Rhododendrons Magnolias Camellias 1974: 46 (1974))_
+            - [ ] _(Rhododendron augustinii subsp. hardyi (Davidian) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 109. 1978)_
+            - [ ] _(Rhododendron chasmanthoides Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 246 (1922))_
+            - [ ] _(Rhododendron augustinii var. chasmanthum (Diels) R.C.Fang, Rhododendron Camellia Year Book 17: 164 1963)_
+            - [ ] _(Rhododendron bergii Davidian, Quart. Bull. Amer. Rhododendron Soc. 30(4): 210 (1976))_
+            - [ ] _(Rhododendron augustinii f. rubrum (Davidian) R.C.Fang, Acta Bot. Yunnan. 4(3): 255 (1982))_
+            - [ ] _(Rhododendron augustinii f. subglabrum Franch., J. Bot. (Morot) 12(17–18): 261 1898)_
+            - [ ] _(Rhododendron chasmanthum Diels, Notes Roy. Bot. Gard. Edinburgh 5: 212 (1912))_
+            - [ ] _(Rhododendron augustinii f. grandifolum Franch., J. Bot. (Morot) 12(17–18): 261 1898)_
+            - [ ] _(Rhododendron augustinii subsp. rubrum (Davidian) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 109. 1978)_
+            - [ ] _(Rhododendron hirsuticostatum Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 57: 287 (1920))_
+            - [ ] _(Rhododendron augustinii f. hardyi (Davidian) R.C.Fang, Acta Bot. Yunnan. 4(3): 255 (1982))_
+            - [ ] _(Rhododendron augustinii var. rubrum Davidian, Rhododendron Camellia Year Book 17: 165 1963)_
+        - [ ] *Rhododendron kantoense* S.Sakag. & Y.Watan., Taxon 74(1): 129 (2024)
+          - [ ] _(Rhododendron subnikomontanum Suto & T.Suzuki, in Nogakukenkyukwai-kwaisi (Utunomiya) No. 6, 31 (1930), nomen; cf. T. SuzukiinTrans. Nat. Hist. Soc. Formosa, 1932, xxii. 23, in syn.)_
+          - [ ] _(Rhododendron keiskei var. hypoglaucum Suto & T.Suzuki, Trans. Nat. Hist. Soc. Formosa 22 (23). (1932))_
+        - [ ] *Rhododendron tatsienense* Franch., J. Bot. (Morot) 9: 394 (1895)
+          - [ ] *Rhododendron tatsienense var. nudatum* R.C.Fang, Acta Bot. Yunnan. 4(3): 256 (1982)
+          - [ ] *Rhododendron tatsienense var. tatsienense* , 
+            - [ ] _(Rhododendron kangdingense Z.J.Zhao, Bull. Bot. Res., Harbin 7(3): 61 (1987))_
+            - [ ] _(Rhododendron stereophyllum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 159 (1917))_
+            - [ ] _(Rhododendron tapelouense H.Lév., Bull. Acad. Int. Géogr. Bot. 25: 20 (1915))_
+            - [ ] _(Rhododendron leilungense Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 273 (1922))_
+            - [ ] _(Rhododendron hypophaeum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 120 (1920))_
+            - [ ] _(Rhododendron heishuiense W.P.Fang, Acta Phytotax. Sin. 2: 83 (1952))_
+        - [ ] *Rhododendron davidsonianum* Rehder & E.H.Wilson, Pl. Wilson. 1: 515 (1913)
+          - [ ] _(Rhododendron charianthum Hutch., Bot. Mag. 142: t. 8665 (1916))_
+        - [ ] *Rhododendron pleistanthum* Balf.f. ex E.H.Wilding, Rhododendrons Names Addresses 73 1923
+          - [ ] _(Rhododendron pleistanthum Balf.f. ex Hutch., Rhododendrons Names Addresses : 73 (1923))_
+        - [ ] *Rhododendron bivelatum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 10: 85 (1917)
+        - [ ] *Rhododendron shimianense* W.P.Fang & P.S.Liu, Bull. Bot. Res., Harbin 2(4): 3 (1982)
+          - [ ] _(Rhododendron lutescens f. shimianense (W.P.Fang & P.S.Liu) Y.Y.Geng, Acta Phytotax. Sin. 42(6): 569 (2004))_
+        - [ ] *Rhododendron brachypodum* W.P.Fang & P.S.Liu, Bull. Bot. Res., Harbin 2(2): 92 (1982)
+        - [ ] *Rhododendron gemmiferum* M.N.Philipson & Philipson, Notes Roy. Bot. Gard. Edinburgh 33: 493 (1975)
+        - [ ] *Rhododendron × pallescens* Hutch., Gard. Chron. , ser. 3, 93: 418 (1933)
+        - [ ] *Rhododendron ambiguum* Hemsl., Bot. Mag. 137: t. 8400 (1911)
+          - [ ] _(Rhododendron chengshienianum W.P.Fang, Icon. Pl. Omeiesium 1: t. 36 (1942))_
+        - [ ] *Rhododendron lutescens* Franch., Bull. Soc. Bot. France 33: 235 (1886)
+          - [ ] _(Rhododendron costulatum Franch., J. Bot. (Morot) 9: 399 (1895))_
+          - [ ] _(Rhododendron lemeei H.Lév., Repert. Spec. Nov. Regni Veg. 13: 339 (1914))_
+          - [ ] _(Rhododendron blinii H.Lév., Bull. Acad. Int. Géogr. Bot. 25: 21 (1915))_
+        - [ ] *Rhododendron siderophyllum* Franch., J. Bot. (Morot) 12: 263 (1898)
+          - [ ] _(Rhododendron jahandiezii H.Lév., Repert. Spec. Nov. Regni Veg. 13: 340 (1914))_
+          - [ ] _(Rhododendron leucandrum H.Lév., Repert. Spec. Nov. Regni Veg. 12: 103 (1913))_
+          - [ ] _(Rhododendron rubropunctatum H.Lév. & Vaniot, Repert. Spec. Nov. Regni Veg. 9: 448 (1911))_
+          - [ ] _(Rhododendron obscurum Franch. ex Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 278 (1922))_
+          - [ ] _(Rhododendron ioanthum Balf.f., Notes Roy. Bot. Gard. Edinburgh 13: 270 (1922))_
+        - [ ] *Rhododendron zaleucum* Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 10: 163 (1917)
+          - [ ] _(Rhododendron erileucum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 108 (1920))_
+          - [ ] *Rhododendron zaleucum var. flaviflorum* Davidian, Quart. Bull. Amer. Rhododendron Soc. 32(2): 84 (1978)
+          - [ ] *Rhododendron zaleucum var. zaleucum* , 
+          - [ ] *Rhododendron zaleucum var. pubiflolium* R.C.Fang, Acta Bot. Yunnan. 4 (3):255. (1982)
+        - [ ] *Rhododendron wongii* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 117 (1910)
+        - [ ] *Rhododendron tyaihyonii* S.Sakag., H.J.Choi & S.C.Kim, Taxon 74(1): 129 (2024)
+        - [ ] *Rhododendron xichangense* Z.J.Zhao, Bull. Bot. Res., Harbin 7(3): 60 (1987)
+        - [ ] *Rhododendron yunnanense* Franch., Bull. Soc. Bot. France 33: 232 (1886)
+          - [ ] _(Rhododendron suberosum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 301 (1922))_
+          - [ ] _(Rhododendron hormophorum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 117 (1920))_
+          - [ ] _(Rhododendron chartophyllum f. praecox Diels, Notes Roy. Bot. Gard. Edinburgh 5(25): 217–218 1912)_
+          - [ ] _(Azalea yunnanensis (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron aechmophyllum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 226 (1922))_
+          - [ ] _(Rhododendron chartophyllum Franch., J. Bot. (Morot) 9: 398 (1895))_
+          - [ ] _(Rhododendron seguinii H.Lév., Repert. Spec. Nov. Regni Veg. 13: 148 (1914))_
+          - [ ] *Rhododendron yunnanense subsp. yunnanense* , 
+          - [ ] *Rhododendron yunnanense subsp. bhutanicum* Grierson & D.G.Long, Notes Roy. Bot. Gard. Edinburgh 36: 141 (1978)
+        - [ ] *Rhododendron triflorum* Hook.f., Rhododendr. Sikkim-Himalaya 2: t. 19 (1851)
+          - [ ] _(Azalea triflora (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron triflorum subsp. triflorum* , 
+            - [ ] _(Rhododendron deflexum Griff., Not. Pl. Asiat. 4: 303 (1854))_
+            - [ ] _(Rhododendron triflorum var. mahogani Hutch., )_
+            - [ ] _(Rhododendron bauhiniiflorum G.Watt ex Hutch., Spec. Rhododendron : 785 (1930))_
+            - [ ] _(Rhododendron triflorum var. bauhiniiflorum (Watt ex Hutch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 109 (1978))_
+          - [ ] *Rhododendron triflorum subsp. multiflorum* R.C.Fang, Acta Bot. Yunnan. 4(3): 254 (1982)
+        - [ ] *Rhododendron searsiae* Rehder & E.H.Wilson, Pl. Wilson. 1: 522 (1913)
+        - [ ] *Rhododendron guangnanense* R.C.Fang, Acta Bot. Yunnan. 4(3): 254 (1982)
+        - [ ] *Rhododendron oreotrephes* W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 201 (1914)
+          - [ ] _(Rhododendron depile Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 255 (1922))_
+          - [ ] _(Rhododendron exquisitum Hutch., Gard. Chron. , ser. 3, 92: 98 (1932))_
+          - [ ] _(Rhododendron cardioeides Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 239 (1922))_
+          - [ ] _(Rhododendron timeteum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 12: 166 (1920))_
+          - [ ] _(Rhododendron siderophylloides Hutch., J. Roy. Hort. Soc. 60: 326 1935)_
+          - [ ] _(Rhododendron phaeochlorum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 284 (1922))_
+          - [ ] _(Rhododendron artosquameum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 234 (1922))_
+          - [ ] _(Rhododendron pubigerum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 289 (1922))_
+          - [ ] _(Rhododendron hypotrichotum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 268 (1922))_
+          - [ ] _(Rhododendron trichopodum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 304 (1922))_
+      - [ ] *Rhododendron subsect. Saluenensia* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:534. (1930)
+        - [ ] _(Rhododendron ser. Saluenense Hutch., Sp. Rhodod. 587. (1930))_
+        - [ ] *Rhododendron saluenense* Franch., J. Bot. (Morot) 12: 263 (1898)
+          - [ ] *Rhododendron saluenense var. saluenense* , 
+            - [ ] _(Rhododendron saluenense subsp. saluenense , )_
+            - [ ] _(Rhododendron amaurophyllum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 230 (1922))_
+            - [ ] _(Rhododendron humicola Balf.f., Notes Roy. Bot. Gard. Edinburgh 17: 390 (1930))_
+          - [ ] *Rhododendron saluenense var. prostratum* (W.W.Sm.) R.C.Fang, Acta Bot. Yunnan. 4(3): 256 (1982)
+            - [ ] _(Rhododendron prostratum W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 8: 202 (1914))_
+            - [ ] _(Rhododendron saluenense subsp. chameunum (Balf.f. & Forrest) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 112. 1978)_
+            - [ ] _(Rhododendron charidotes Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 13: 242 (1922))_
+            - [ ] _(Rhododendron sericocalyx Balf.f., Notes Roy. Bot. Gard. Edinburgh 17: 200 (1930))_
+            - [ ] _(Rhododendron chameunum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 37 (1920))_
+            - [ ] _(Rhododendron cosmetum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 38 (1920))_
+        - [ ] *Rhododendron calostrotum* Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 13: 35 (1920)
+          - [ ] *Rhododendron calostrotum var. calostrotum* , 
+            - [ ] _(Rhododendron nitens Hutch., Gard. Chron. , ser. 3, 99: 10 (1936))_
+            - [ ] _(Rhododendron calostrotum subsp. riparium (Kingdon-Ward) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 112 (1978))_
+            - [ ] _(Rhododendron kingdonii Merr., Sunyatsenia 3: 256 (1937))_
+            - [ ] _(Rhododendron riparium Kingdon-Ward, Spec. Rhododendron : 598 (1930))_
+          - [ ] *Rhododendron calostrotum var. calciphilum* (Hutch. & Kingdon-Ward) Davidian, Rhododendron Camellia Year Book 8: 87 (1954)
+            - [ ] _(Rhododendron calciphilum Hutch. & Kingdon-Ward, Spec. Rhododendron : 589 (1930))_
+          - [ ] *Rhododendron calostrotum subsp. calostrotum* , 
+        - [ ] *Rhododendron riparioides* (Cullen) Cubey, Fl. China 14: 297 (2005)
+          - [ ] _(Rhododendron calostrotum subsp. riparioides Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 128 (1978))_
+          - [ ] _(Rhododendron calostrotum var. riparioides (Cullen) R.C.Fang, Acta Bot. Yunnan. 4(3): 256 (1982))_
+        - [ ] *Rhododendron keleticum* Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 50 (1920)
+          - [ ] _(Rhododendron radicans Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 290 (1922))_
+          - [ ] _(Rhododendron calostrotum subsp. keleticum (Balf.f. & Forrest) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 112 (1978))_
+      - [ ] *Rhododendron subsect. Rhodorastrum* (Maxim.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36(1): 112, as 'Rhodorastra'. 1978
+        - [ ] _(Rhododendron sect. Rhodorastrum Maxim., Mém. Acad. Imp. Sci. St.-Pétersbourg 16 (9):45. (1870))_
+        - [ ] *Rhododendron dauricum* L., Sp. Pl. : 392 (1753)
+          - [ ] _(Rhododendron ledebourii Pojark., Fl. URSS 18: 722 (1952))_
+          - [ ] _(Rhododendron atrovirens (Ker Gawler) Franch., Bull. Soc. Bot. France 33: 235 (1886))_
+          - [ ] _(Rhododendron dahuricum L. ex Dippel, Handb. Laubholzk. i. (1889) 425, fig. 274.)_
+          - [ ] _(Rhododendron dauricum subsp. ledebourii (Pojark.) M.S.Alexandrova & P.A.Schmidt, Betr. Gehölzk. : 67 (1981 publ. 1982))_
+          - [ ] _(Azalea atrovirens (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Azalea dahurica K.Koch, Dendrologie 2(2): 181. 1873 [Nov 1873])_
+          - [ ] _(Rhododendron dauricum var. atrovirens Ker Gawler, Bot. Reg. 3:t.194. (1817))_
+          - [ ] _(Azalea daurica (L.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron sichotense* Pojark., Fl. URSS 18: 722 (1952)
+          - [ ] _(Rhododendron mucronulatum subsp. sichotense (Pojark.) A.P.Khokhr., Sosud. Rast. Sovet. Dal'nego Vostoka 5: 134 (1991))_
+          - [ ] _(Rhododendron dauricum subsp. sichotense M.S.Alexandrova & P.A.Schmidt, Betr. Gehölzk. : 68 (1981 publ. 1982))_
+        - [ ] *Rhododendron mucronulatum* Turcz., Bull. Soc. Imp. Naturalistes Moscou 10(II): 155 (1837)
+          - [ ] _(Rhododendron dauricum subsp. mucronulatum (Turcz.) Vorosch., Florist. Issl. Razn. Raionakh SSSR : 185 (1985))_
+          - [ ] _(Rhododendron dauricum var. mucronulatum (Turcz.) Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 16(9): 44 1870)_
+          - [ ] _(Rhododendron mucronulatum var. ciliatum Nakai, Bot. Mag. (Tokyo) 31(369): 241 1917)_
+          - [ ] _(Rhododendron mucronulatum f. lucifum (Nakai) M.Kim, Korean Endemic Pl. 306. (2004))_
+          - [ ] _(Rhododendron mucronulatum f. ciliatum (Nakai) Kitag., Neolin. Fl. Manshur. 500. 1979)_
+          - [ ] _(Rhododendron mucronulatum var. lucidum Nakai, J. Jap. Bot. 375. (1942))_
+          - [ ] _(Rhododendron mucronulatum f. leucanthum T.Yamaz, Fl. Jap. (Iwatsuki et al., eds.) 3a: 19. 1993)_
+          - [ ] _(Rhododendron taquetii H.Lév., Repert. Spec. Nov. Regni Veg. 12: 101 (1913))_
+          - [ ] _(Rhododendron dauricum var. ciliatum (Nakai) E.H.Wilson, J. Arnold Arbor. 4(1): 51 1923)_
+          - [ ] _(Rhododendron mucronulatum var. chejuense Davidian, Rhododendron Sp. 2: 309 1989)_
+      - [ ] *Rhododendron subsect. Cinnabarina* (Hutch.) Sleumer, Bot. Jahrb. Syst. 74:534. (1949)
+        - [ ] _(Rhododendron ser. Cinnabarinum Hutch., Sp. Rhodod. 221. (1930))_
+        - [ ] *Rhododendron igneum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 235 (1937)
+        - [ ] *Rhododendron keysii* Nutt., Hooker's J. Bot. Kew Gard. Misc. 5: 353 (1853)
+          - [ ] _(Azalea keysii (Nutt.) Kuntze, Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+          - [ ] _(Rhododendron keysii var. unicolor Hutch., J. Roy. Hort. Soc. 59: xxxix 1934)_
+        - [ ] *Rhododendron cinnabarinum* Hook.f., Rhododendr. Sikkim-Himalaya 1: t. 8 (1849)
+          - [ ] _(Rhododendron blandfordiiflorum Hook., Bot. Mag. 82: t. 4930 (1856))_
+          - [ ] _(Rhododendron basfordii Davidian, Rhododendrons Magnolias Camellias 1979-1980: 61 (1980))_
+          - [ ] *Rhododendron cinnabarinum subsp. xanthocodon* (Hutch.) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 113 (1978)
+            - [ ] _(Rhododendron concatenans Hutch., Gard. Chron. , ser. 3, 97: 276 (1935))_
+            - [ ] _(Rhododendron cinnabarinum var. purpurellum Cowan, Notes Roy. Bot. Gard. Edinburgh 21(3): 147–148 1953)_
+            - [ ] _(Rhododendron cinnabarinum var. breviforme Davidian, J. Amer. Rhododendron Soc. 36(1): 16 (1982)_
+            - [ ] _(Rhododendron xanthocodon Hutch., Gard. Chron. , ser. 3, 95: 409 (1934))_
+          - [ ] *Rhododendron cinnabarinum subsp. tamaense* (Davidian) Cullen, Notes Roy. Bot. Gard. Edinburgh 36: 113 (1978)
+            - [ ] _(Rhododendron tamaense Davidian, Rhododendrons Magnolias Camellias 1972: 54 (1972))_
+          - [ ] *Rhododendron cinnabarinum subsp. cinnabarinum* , 
+            - [ ] _(Rhododendron cinnabarinum var. roylei (Hook.f.) Hutch., Sp. Rhodod. 222 1930)_
+            - [ ] _(Azalea roylei (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+            - [ ] _(Rhododendron thibaudiense Dombrain, Floral Mag. (London) 4: t. 253 (1865))_
+            - [ ] _(Rhododendron cinnabarinum var. cinnabarinum , )_
+            - [ ] _(Rhododendron roylei Hook.f., Rhododendr. Sikkim-Himalaya 1: t. 7 (1849))_
+        - [ ] *Rhododendron tenuifolium* R.C.Fang & S.H.Huang, Fl. Xizang. 3: 647 (1986) (1986)
+        - [ ] *Rhododendron lateriflorum* R.C.Fang & A.L.Chang, Notes Roy. Bot. Gard. Edinburgh 41(1): 160 (1983)
+      - [ ] *Rhododendron subsect. Ledum* (L.) Kron & Judd, Syst. Bot. 15(1): 67. 1990
+        - [ ] _(Ledum L., a sphalm.)_
+        - [ ] *Rhododendron hypoleucum* (Kom.) Harmaja, Ann. Bot. Fenn. 27: 203 (1990)
+          - [ ] _(Ledum hypoleucum Kom., Izv. Imp. Bot. Sada Petra Velikago 16: 175 (1916))_
+        - [ ] *Rhododendron tomentosum* Harmaja, Ann. Bot. Fenn. 27(2): 204 (1990)
+          - [ ] _(Ledum decumbens (Aiton) Lodd. ex Steud., Nomencl. Bot. [Steudel], ed. 2. 2: 20. 1840 [dt. 1841; issued in Dec 1840])_
+          - [ ] _(Ledum palustre var. angustifolium Hook., Fl. Bor.-Amer. 2: 44 (1834))_
+          - [ ] _(Rhododendron palustriforme (A.P.Khokhr. & Mazurenko) Barkalov, Botanica Pacifica 12(2): 123 2023)_
+          - [ ] _(Rhododendron subarcticum Harmaja, Ann. Bot. Fenn. 27(2): 203. 1990)_
+          - [ ] _(Ledum palustre var. angustum E.A.Busch, Fl. Sib. et Orient. 2: 8 1915)_
+          - [ ] _(Ledum palustre f. decumbens (Aiton) Y.L.Chou & S.L.Tung, in Y.L. Chou, Ligneous Fl. Heilongjiang 463 (1986):.)_
+          - [ ] _(Rhododendron palustre (L.) Kron & Judd, Syst. Bot. 15(1): 67. 1990)_
+          - [ ] _(Ledum palustre var. decumbens Aiton, Hort. Kew. 2: 65 (1789))_
+          - [ ] _(Ledum palustre var. maximum Nakai, )_
+          - [ ] _(Ledum palustriforme A.P.Khokhr. & Mazurenko, Sosud. Rast. Sovet. Dal'nego Vostoka 5: 126 (1991))_
+          - [ ] _(Ledum tomentosum Stokes, Bot. Mat. Med. 2: 502 (-504). 1812)_
+          - [ ] _(Rhododendron tomentosum subsp. subarcticum (Harmaja) G.D.Wallace, Madroño 39(1): 77 (1992))_
+          - [ ] _(Ledum palustre subsp. decumbens Hultén, Kongl. Svenska Vetensk. Acad. Handl. , ser. 3, 8(2): 8 (1930))_
+          - [ ] _(Ledum palustre L., Sp. Pl. : 391 (1753))_
+          - [ ] _(Rhododendron tomentosum subsp. decumbens (Aiton) Elven & D.F.Murray, J. Bot. Res. Inst. Texas 2: 441 (2008))_
+          - [ ] _(Ledum palustre var. palustre , )_
+          - [ ] _(Ledum palustre var. minus Nakai, Trees Shrubs Japan , rev. ed., 1: 19 (1927))_
+          - [ ] _(Ledum graveolens Gilib., Fl. Lit. Inch. 2: 199 (1782))_
+          - [ ] _(Rhododendron subartticum Harmaja, Ann. Bot. Fenn. 203. (1990))_
+          - [ ] _(Ledum groenlandicum f. denudatum Vict. & J.Rousseau, Contr. Inst. Bot. Univ. Montréal 36: 44. 1940)_
+          - [ ] _(Ledum palustre f. denudatum (Vict. & J.Rousseau) Boivin, Naturaliste Canad. 93: 433 (1966))_
+          - [ ] _(Ledum maximum (Nakai) A.P.Khokhr. & Mazurenko, Sosud. Rast. Sovet. Dal'nego Vostoka 5: 122 (1991))_
+          - [ ] _(Ledum dilatatum Rupr., Beitr. Pflanzenk. Russ. Reiches 4: 57 (1845))_
+          - [ ] _(Rhododendron tomentosum subsp. tomentosum , )_
+          - [ ] _(Ledum palustre subsp. longifolium Kitag., Neolin. Fl. Manshur. : 498 (1979))_
+        - [ ] *Rhododendron columbianum* (Piper) Harmaja, Ann. Bot. Fenn. 27: 203 (1990)
+          - [ ] _(Ledum glandulosum var. glandulosum , )_
+          - [ ] _(Ledum groenlandicum subsp. glandulosum (Nutt.) Á.Löve & D.Löve, Univ. Colorado Stud., Ser. Biol. 17: 25 (1965))_
+          - [ ] _(Rhododendron neoglandulosum Harmaja, Ann. Bot. Fenn. 27(2): 203. 1990)_
+          - [ ] _(Ledum glandulosum var. californicum (Kellogg) C.L.Hitchc., Leafl. W. Bot. 7: 6 (1956))_
+          - [ ] _(Ledum glandulosum subsp. glandulosum , )_
+          - [ ] _(Ledum columbianum Piper, Contr. U.S. Natl. Herb. 11: 441 (1906))_
+          - [ ] _(Ledum californicum Kellogg, Proc. Calif. Acad. Sci. 2: 14 (1863))_
+          - [ ] _(Ledum glandulosum Nutt., Trans. Amer. Philos. Soc. , n.s., 8: 270 (1842))_
+        - [ ] *Rhododendron subulatum* (Nakai) Harmaja, Ann. Bot. Fenn. 39: 183 (2002)
+          - [ ] _(Ledum subulatum (Nakai) A.P.Khokhrjakov & M.T.Mazurenko, Sosud. Rast. Sovet. Dal'nego Vostoka 5: 125 (1991))_
+          - [ ] _(Ledum palustre var. subulatum Nakai, )_
+        - [ ] *Rhododendron diversipilosum* (Nakai) Harmaja, Ann. Bot. Fenn. 35: 263 (1998 publ. 1999)
+          - [ ] _(Ledum palustre var. diversipilosum Nakai, Bot. Mag. (Tokyo) 31: 102 1917)_
+          - [ ] _(Ledum nipponicum (Nakai) Tolm., Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 15: 205 (1953))_
+          - [ ] _(Ledum palustre var. nipponicum Nakai, Trees Shrubs Japan Ed. 1 12. (1922))_
+        - [ ] *Rhododendron groenlandicum* (Oeder) Kron & Judd, Syst. Bot. 15: 67 (1990)
+          - [ ] _(Ledum groenlandicum var. aridiphilum D Löve, Taxon 17: 89 (1968))_
+          - [ ] _(Ledum groenlandicum Retz., Fl. Scand. Prodr. 77. (1779))_
+          - [ ] _(Ledum canadense G.Lodd., Bot. Cab. 11: t. 1049 (1826))_
+          - [ ] _(Ledum palustre var. groenlandicum (Oeder) Rosenv., Meddel. Grønland 3:692. (1892))_
+          - [ ] _(Ledum pacificum Small, N. Amer. Fl. 29: 37 (1914))_
+          - [ ] _(Ledum palustre subsp. groenlandicum (Oeder) Rosenv., Acta Univ. Lund., 2 , 44(1): 1219 (1948))_
+          - [ ] _(Ledum latifolium Jacq., Collectanea 2: 308 (1789))_
+          - [ ] _(Ledum palustre var. latifolium (Jacq.) Hook., Fl. Bor.-Amer. 2: 44 (1834))_
+          - [ ] _(Ledum groenlandicum Oeder, Fl. Dan. 4(10): 5 (1771))_
+          - [ ] _(Ledum latifolium var. canadense (Lodd.) DC., Prodr. 7: 730 (1839))_
+        - [ ] *Rhododendron tolmachevii* Harmaja, Ann. Bot. Fenn. 27: 204 (1990)
+          - [ ] _(Ledum macrophyllum Tolm., Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 15: 203 (1953))_
+          - [ ] _(Ledum palustre var. macrophyllum (Tolm.) Kitag., Neolin. Fl. Manshur. : 498 (1979))_
+          - [ ] _(Ledum palustre subsp. diversipilosum Hara, )_
+    - [ ] *Rhododendron sect. Pogonanthum* G.Don, Gen. Hist. 3: 845. 1834 [8-15 Nov 1834]
+      - [ ] *Rhododendron xiaoxueshanense* R.L.Liao & Y.P.Ma, Phytotaxa 238: 293 (2015)
+      - [ ] *Rhododendron radendum* W.P.Fang, Contr. Biol. Lab. Sci. Soc. China, Bot. Ser. 12: 62 (1939)
+      - [ ] *Rhododendron mainlingense* S.H.Huang & R.C.Fang, Fl. Xizang. 3: 674 (1986) (1986)
+      - [ ] *Rhododendron nyingchiense* R.C.Fang & S.H.Huang, Fl. Xizang. 3: 674 (1986) (1986)
+      - [ ] *Rhododendron kongboense* Kingdon-Ward ex Hutch., Bot. Mag. 160: t. 9492 (1937)
+      - [ ] *Rhododendron rufescens* Franch., J. Bot. (Morot) 9: 397 (1895)
+        - [ ] _(Rhododendron daphniflorum Diels, Acta Horti Gothob. 1: 180 (1924))_
+      - [ ] *Rhododendron trichostomum* Franch., J. Bot. (Morot) 9: 396 (1895)
+        - [ ] _(Rhododendron sphaeranthum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 278 (1916))_
+        - [ ] _(Rhododendron fragrans Franch., Bull. Soc. Bot. France 34: 284. 1887)_
+        - [ ] *Rhododendron trichostomum var. ledoides* (Balf.f. & W.W.Sm.) Cowan & Davidian, Rhododendron Year Book 2: 84 (1947)
+          - [ ] _(Rhododendron ledoides Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 213 (1916))_
+        - [ ] *Rhododendron trichostomum var. trichostomum* , 
+        - [ ] *Rhododendron trichostomum var. radinum* (Balf.f. & W.W.Sm.) Cowan & Davidian, Rhododendron Year Book 2: 84 (1947)
+          - [ ] _(Rhododendron radinum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 268 (1916))_
+      - [ ] *Rhododendron tubulosum* Ching ex W.Y.Wang, Acta Phytotax. Sin. 20: 57 (1982)
+      - [ ] *Rhododendron cephalanthum* Franch., Bull. Soc. Bot. France 32: 9 (1885)
+        - [ ] _(Rhododendron nwaiense Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 252 (1916))_
+        - [ ] _(Rhododendron crebreflorum Hutch. & Kingdon-Ward, Spec. Rhododendron : 206 (1930))_
+        - [ ] _(Rhododendron chamaetortum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 218 (1916))_
+        - [ ] _(Azalea cephalantha (Franch.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] *Rhododendron luhuoense* H.P.Yang, Acta Bot. Yunnan. 10: 368 (1988)
+      - [ ] *Rhododendron sargentianum* Rehder & E.H.Wilson, Pl. Wilson. 1: 504 (1913)
+      - [ ] *Rhododendron adamsii* Rehder, Monogr. Azaleas : 190 (1921)
+        - [ ] _(Azalea fragrans Adams, Mém. Acad. Imp. Sci. St. Pétersbourg Hist. Acad. 2: 332 (1808))_
+        - [ ] _(Osmothamnus fragrans (Adams) DC., Prodr. 7: 715 (1839))_
+        - [ ] _(Rhododendron fragrans (Adams) Maxim., Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 16(9): 16 (1870))_
+        - [ ] _(Azalea multiflora Turcz. ex DC., Prodr. 7: 715 (1839))_
+      - [ ] *Rhododendron hedyosmum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 9: 234 (1916)
+      - [ ] *Rhododendron pogonophyllum* Cowan & Davidian, Rhododendron Year Book 1947: 75 (1947)
+      - [ ] *Rhododendron platyphyllum* Franch. ex Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 259 (1916)
+        - [ ] _(Rhododendron cephalanthum subsp. platyphyllum (Franch. ex Balf.f. & W.W.Sm.) Cullen, Notes Roy. Bot. Gard. Edinburgh 37(2): 327. 1979)_
+      - [ ] *Rhododendron anthopogonoides* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 23: 350 (1877)
+        - [ ] _(Azalea anthopogonoides (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+      - [ ] *Rhododendron collettianum* Aitch. & Hemsl., J. Linn. Soc., Bot. 18: 75 (1880)
+      - [ ] *Rhododendron atropunicum* H.P.Yang, Acta Bot. Yunnan. 10: 367 (1988)
+      - [ ] *Rhododendron laudandum* Cowan, Notes Roy. Bot. Gard. Edinburgh 19: 222 (1937)
+        - [ ] *Rhododendron laudandum var. temoense* Kingdon-Ward ex Cowan & Davidian, Rhododendron Year Book 2: 73 (1947)
+        - [ ] *Rhododendron laudandum var. laudandum* , 
+      - [ ] *Rhododendron heteroclitum* H.P.Yang, Bull. Bot. Res., Harbin 9(1): 17 (1989)
+      - [ ] *Rhododendron primuliflorum* Bureau & Franch., J. Bot. (Morot) 5: 95 (1891)
+        - [ ] _(Rhododendron praeclarum Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 9: 261 (1916))_
+        - [ ] _(Rhododendron acraium Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 209 (1916))_
+        - [ ] _(Rhododendron clivicolum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9(44–45): 221–222 1916)_
+        - [ ] _(Rhododendron tsarongense Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 11: 150 (1919))_
+        - [ ] _(Rhododendron gymnomiscum Balf.f. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 9: 230 (1916))_
+        - [ ] _(Rhododendron clivicola Balf.f. & Farrer, Notes Roy. Bot. Gard. Edinburgh 9: 221 (1916))_
+        - [ ] _(Rhododendron cremnophilum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 223 (1916))_
+        - [ ] *Rhododendron primuliflorum var. primuliflorum* , 
+        - [ ] *Rhododendron primuliflorum var. lepidanthum* (Balf.f. & W.W.Sm.) Cowan & Davidian, Rhododendron Year Book 2: 79 (1947)
+          - [ ] _(Rhododendron lepidanthum Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 245 (1916))_
+        - [ ] *Rhododendron primuliflorum var. cephalanthoides* (Balf.f. & W.W.Sm.) Cowan & Davidian, Rhododendron Year Book 2: 79 (1947)
+          - [ ] _(Rhododendron cephalthoides Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9: 216. 1916)_
+          - [ ] _(Rhododendron cephalanthoides Balf.f. & W.W.Sm., Notes Roy. Bot. Gard. Edinburgh 9(44–45): 216–218 1916)_
+      - [ ] *Rhododendron hoi* W.P.Fang, Acta Sci. Nat. Univ. Szechuan. 1957(2): 216 (1957), as 'hoii' (1957)
+        - [ ] _(Rhododendron anthopogonoides subsp. hoi (Fang) W.P.Fang & Xiong, Acta Phytotax. Sin. 21(4): 466 (1983))_
+      - [ ] *Rhododendron anthopogon* D.Don, Mem. Wern. Nat. Hist. Soc. 3: 409 (1821)
+        - [ ] *Rhododendron anthopogon subsp. anthopogon* , 
+          - [ ] _(Rhododendron anthopogon var. album Davidian, Quart. Bull. Amer. Rhododendron Soc. 34(4): 215. 1980)_
+          - [ ] _(Rhododendron haemonium Balf.f. & R.E.Cooper, Notes Roy. Bot. Gard. Edinburgh 9: 233 (1916))_
+          - [ ] _(Rhododendron anthopogon var. haemonium (Balf.f. & R.E.Cooper) Cowan & Davidian, R.H.S. Rhodod. Year Book 2: 68 1974)_
+        - [ ] *Rhododendron anthopogon subsp. hypenanthum* (Balf.f.) Cullen, Notes Roy. Bot. Gard. Edinburgh 37: 327 (1979)
+          - [ ] _(Rhododendron hypenanthum Balf.f., Notes Roy. Bot. Gard. Edinburgh 9: 291 1916)_
+          - [ ] _(Rhododendron anthopogon var. hypenanthum (Balf.f.) H.Hara, Enum. Fl. Pl. Nepal 3: 56 (1982))_
+  - [ ] *Rhododendron × balsaminiflorum* T.Moore, Florist & Pomol. 1883: 81 (1883)
+    - [ ] _(Azalea balsaminiflora Carrière, Rev. Hort. (Paris) 54: 432 (1882))_
+  - [ ] *Rhododendron × dimidiatum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 11: 54 (1919)
+  - [ ] *Rhododendron × taylorii* H.J.Veitch, Fl. Mag. (London) , n.s., 1877: t. 242 (1877)
+  - [ ] *Rhododendron × pennsylvanicum* (B.E.Harkn.) Rehder, J. Arnold Arbor. 20: 425 (1939)
+    - [ ] _(Azalea pennsylvanica B.E.Harkn., Natl. Hort. Mag. 11: 55 (1932))_
+    - [ ] _(Rhododendron gladwynense M.G.Henry, Rhodora 55: 208 (1953))_
+  - [ ] *Rhododendron subg. Therorhodion* (Maxim) Rehder, Monog. Azalea. 109 (1921)
+    - [ ] _(Therorhodion (Maxim.) Small, N. Amer. Fl. 29: 45 (1914))_
+    - [ ] _(Rhododendron sect. Therorhodion Maxim., Mém. Acad. Imp. Sci. St.-Pétersbourg, Sér. 7. 16(9): 47. 1870 [Dec 1870])_
+    - [ ] *Rhododendron camtschaticum* Pall., Fl. Ross. 1(1): 48 (1784)
+      - [ ] _(Rhododendron camtschaticum subsp. camtschaticum , )_
+      - [ ] _(Chamaecistus kamtschaticus (Pall.) Regel, Gartenflora 23: 60 (1874))_
+      - [ ] _(Therorhodion glandulosum Standl. ex Small, N. Amer. Fl. 29: 45 (1914))_
+      - [ ] _(Azalea kamtschatica (Pall.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+      - [ ] _(Rhododendron camtschaticum var. pumilum E.A.Busch, )_
+      - [ ] _(Rhodothamnus kamtchaticus (Pall.) Lindl. & Paxton, Paxton's Fl. Gard. i. (1850-51) t. 22. : use R. camtschaticus)_
+      - [ ] _(Rhododendron glandulosum (Standl. ex Small) Millais, Rhododendrons : 173 (1917))_
+      - [ ] _(Therorhodion camtschaticum (Pall.) Small, N. Amer. Fl. 29: 45 (1914))_
+      - [ ] _(Rhododendron kamtschaticum Pall., Fl. Ross. (Pallas) 1(1): 48 (-49; t. 33) (1784))_
+      - [ ] _(Rhodothamnus camtschaticus (Pall.) Lindl. & Paxton, Paxton's Fl. Gard. 1: 113 (t. 22). 1851 [1850-1851] (as kamtchaticus))_
+      - [ ] _(Therorhodion camtschaticum var. pumilum (E.A.Busch) T.Yamaz, Fl. Japan 3a: 11 (1993))_
+      - [ ] _(Rhododendron camtschaticum var. glandulosum (Standl. ex Small) B.Bovin, Naturaliste Canad. 94: 630. 1967)_
+    - [ ] *Rhododendron redowskianum* Maxim., Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans 9: 189 (1859)
+      - [ ] _(Therorhodion redowskianum (Maxim.) Hutch., Bull. Misc. Inform. Kew 1921: 204 (1921))_
+      - [ ] _(Azalea redowskiana (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+  - [ ] *Rhododendron sophistarum* Craven, Blumea 56: 35 (2011)
+    - [ ] _(Diplarche pauciflora Hook.f. & Thomson, Hooker's J. Bot. Kew Gard. Misc. 6: 383. 1854)_
+  - [ ] *Rhododendron × sundarraianum* Sherpa & Gogoi, Rhododendrons Sikkim Darjeeling 389 (2022)
+  - [ ] *Rhododendron wuyishanicum* L.K.Ling, Fl. Fujianica 4: 633 (1989 publ. 1990)
+  - [ ] *Rhododendron × viscosepalum* Rehder, Monogr. Azaleas [E.H. Wilson & A. Rehder] 182 (1921), hybr.
+  - [ ] *Rhododendron subg. Vireya* C.B.Clarke, Fl. Brit. India [J. D. Hooker] 3(9): 462 (1882)
+    - [ ] _(Rhododendron sect. Vireya (Blume) H.F.Copel., )_
+    - [ ] _(Vireya Blume, Bijdr. Fl. Ned. Ind. 854. (1826))_
+    - [ ] *Rhododendron sect. Hadranthe* Schltr., Bot. Jahrb. Syst. 55:140. (1917)
+      - [ ] *Rhododendron delicatulum* Sleumer, Reinwardtia 5: 78 (1960)
+        - [ ] *Rhododendron delicatulum var. delicatulum* , 
+        - [ ] *Rhododendron delicatulum var. lanceolatoides* Sleumer, Unknown Publ. ()
+      - [ ] *Rhododendron rubellum* Sleumer, Reinwardtia 5: 94 (1960)
+      - [ ] *Rhododendron × gilliardii* Sleumer, Reinwardtia 5: 88 (1960)
+      - [ ] *Rhododendron melantherum* Schltr., Bot. Jahrb. Syst. 55: 152 (1918)
+      - [ ] *Rhododendron revolutum* Sleumer, Reinwardtia 5: 74 (1960)
+      - [ ] *Rhododendron hooglandii* Sleumer, Reinwardtia 5: 75 (1960)
+      - [ ] *Rhododendron spondylophyllum* F.Muell., Trans. Roy. Soc. Victoria , n.s., 1(2): 23 (1889)
+        - [ ] _(Rhododendron cyatheicola Sleumer, Reinwardtia 5: 86 (1960))_
+      - [ ] *Rhododendron dielsianum* Schltr., Bot. Jahrb. Syst. 55: 150 (1918)
+        - [ ] _(Rhododendron laureola Schltr., Bot. Jahrb. Syst. 55: 151 (1918))_
+        - [ ] *Rhododendron dielsianum var. dielsianum* , 
+        - [ ] *Rhododendron dielsianum var. stylotrichium* Sleumer, Reinwardtia 5:80. (1960)
+      - [ ] *Rhododendron thaumasianthum* Sleumer, Blumea 12: 98 (1963)
+        - [ ] _(Rhododendron magnificum Sleumer, Reinwardtia 5: 84. 1960)_
+      - [ ] *Rhododendron asperrimum* Sleumer, Blumea 12: 97 (1963)
+      - [ ] *Rhododendron × schoddei* Sleumer, Blumea 12: 95 (1963)
+      - [ ] *Rhododendron kerowagiense* Argent, Folia Malaysiana 4: 108 (2003)
+      - [ ] *Rhododendron phaeops* Sleumer, Reinwardtia 5: 90 (1960)
+      - [ ] *Rhododendron eymae* Sleumer, Reinwardtia 5: 74 (1960)
+      - [ ] *Rhododendron cravenii* Danet, Rhododendron (Melbourne) 55: 19 (2015)
+      - [ ] *Rhododendron × kawir* Danet, Adansonia , sér. 3, 27: 273 (2005)
+      - [ ] *Rhododendron truncicola* Sleumer, Reinwardtia 5: 91 (1960)
+      - [ ] *Rhododendron neriifolium* Schltr., Bot. Jahrb. Syst. 55: 149 (1918)
+      - [ ] *Rhododendron superbum* Sleumer, Reinwardtia 5: 76 (1960)
+        - [ ] *Rhododendron superbum subsp. superbum* , 
+        - [ ] *Rhododendron superbum subsp. ibele* Argent, Rhododendrons subgen. Vireya : 103 (2006)
+      - [ ] *Rhododendron bullifolium* Sleumer, Blumea 12: 93 (1963)
+      - [ ] *Rhododendron stanleyi* S.James & Argent, Edinburgh J. Bot. 74 (2):163. (2017)
+      - [ ] *Rhododendron extrorsum* J.J.Sm., Nova Guinea 18: 95 (1936)
+      - [ ] *Rhododendron caliginis* Kores, Blumea 30: 45 (1984)
+      - [ ] *Rhododendron konori* Becc., Malesia 1: 200 (1878)
+        - [ ] *Rhododendron konori var. phaeopeplum* (Sleumer) Argent, Edinburgh J. Bot. 52: 364 (1995)
+          - [ ] _(Rhododendron phaeopeplum Sleumer, Reinwardtia 5: 92 (1960))_
+        - [ ] *Rhododendron konori var. konori* , 
+          - [ ] _(Rhododendron devrieseanum Koord., Nova Guinea 8: 185 (1909))_
+          - [ ] _(Rhododendron heptaster Gilli, Ann. Naturhist. Mus. Wien 83: 434 (1979 publ. 1980))_
+          - [ ] _(Rhododendron toverenae F.Muell., Vict. Naturalist 1: 101 (1884))_
+          - [ ] _(Rhododendron astrapiae F.Först., Repert. Spec. Nov. Regni Veg. 13: 224 (1914))_
+      - [ ] *Rhododendron meagae* Mambrasar & Hutabarat, Reinwardtia 17(2): 97. 2018
+      - [ ] *Rhododendron haematophthalmum* Sleumer, Reinwardtia 5: 89 (1960)
+      - [ ] *Rhododendron stelligerum* Sleumer, Blumea 11: 115 (1961)
+      - [ ] *Rhododendron andrineae* Danet, Adansonia , sér. 3, 34: 347 (2012)
+      - [ ] *Rhododendron rhodochroum* Sleumer, Reinwardtia 5: 87 (1960)
+      - [ ] *Rhododendron rappardii* Sleumer, Reinwardtia 5: 93 (1960)
+      - [ ] *Rhododendron hellwigii* Warb., Bot. Jahrb. Syst. 16: 26 (1892)
+      - [ ] *Rhododendron gardenia* Schltr., Bot. Jahrb. Syst. 55: 158 (1918)
+      - [ ] *Rhododendron phaeochristum* Sleumer, Blumea 12: 95 (1963)
+      - [ ] *Rhododendron solitarium* Sleumer, Blumea 12: 94 (1963)
+      - [ ] *Rhododendron evelyneae* Danet, Adansonia , sér. 3, 27: 270 (2005)
+      - [ ] *Rhododendron psilanthum* Sleumer, Reinwardtia 5: 81 (1960)
+      - [ ] *Rhododendron hyacinthosmum* Sleumer, Blumea 21: 363 (1973)
+      - [ ] *Rhododendron tuberculiferum* J.J.Sm., Meded. Rijks-Herb. 25: 4 (1915)
+      - [ ] *Rhododendron bryophilum* Sleumer, Reinwardtia 5: 79 (1960)
+      - [ ] *Rhododendron tintinnabellum* Danet, Adansonia , sér. 3, 27: 268 (2005)
+      - [ ] *Rhododendron phaeochitum* F.Muell., Trans. Roy. Soc. Victoria 1 (2):23. (1889)
+        - [ ] _(Rhododendron phaeochiton F.Muell., Trans. Roy. Soc. Victoria , n.s., 1(2): 23 (1889))_
+      - [ ] *Rhododendron neobritannicum* Sleumer, Blumea 21: 361 (1973)
+      - [ ] *Rhododendron rarum* Schltr., Bot. Jahrb. Syst. 55: 150 (1918)
+      - [ ] *Rhododendron stolleanum* Schltr., Bot. Jahrb. Syst. 55: 143 (1917)
+      - [ ] *Rhododendron gumineense* Craven, J. Adelaide Bot. Gard. 27:31 f.2. (2014)
+      - [ ] *Rhododendron dianthosmum* Sleumer, Blumea 12: 100 (1963)
+      - [ ] *Rhododendron prainianum* Koord., Nova Guinea 8: 187 (1909)
+      - [ ] *Rhododendron opulentum* Sleumer, Reinwardtia 5: 85 (1960)
+      - [ ] *Rhododendron pulleanum* Koord., Nova Guinea 8: 879 (1912)
+        - [ ] *Rhododendron pulleanum var. maiusculum* Sleumer, Reinwardtia 5: 56 (1960)
+        - [ ] *Rhododendron pulleanum var. pulleanum* , 
+      - [ ] *Rhododendron beyerinckianum* Koord., Nova Guinea 8: 876 (1912)
+        - [ ] _(Rhododendron dasylepis Schltr., Bot. Jahrb. Syst. 55: 153 (1918))_
+        - [ ] _(Rhododendron schultzei Schltr., Bot. Jahrb. Syst. 55: 154 (1918))_
+        - [ ] _(Rhododendron chrysopeplon Sleumer, Bot. Jahrb. Syst. 74: 540 (1949))_
+        - [ ] _(Rhododendron saavedranum Diels, Bot. Jahrb. Syst. 62: 486 (1929))_
+        - [ ] _(Rhododendron beyerinckianum var. longipetiolatum J.J.Sm., Nova Guinea 18:94. (1936))_
+      - [ ] *Rhododendron leptanthum* F.Muell., Trans. Roy. Soc. Victoria 1 (2):24. (1889)
+        - [ ] *Rhododendron leptanthum var. leptanthum* , 
+        - [ ] *Rhododendron leptanthum var. warianum* (Schltr.) Argent, Edinburgh J. Bot. 52: 365 (1995)
+          - [ ] _(Rhododendron warianum Schltr., Bot. Jahrb. Syst. 55: 151 (1918))_
+    - [ ] *Rhododendron sect. Albovireya* (Sleumer) Argent, Rhododendrons subgen. Vireya 22. (2006)
+      - [ ] _(Rhododendron subsect. Albovireya Sleumer, Reinwardtia 5:170. (1960))_
+      - [ ] *Rhododendron pudorinum* Sleumer, Reinwardtia 5: 112 (1960)
+      - [ ] *Rhododendron arenicola* Sleumer, Reinwardtia 5: 113 (1960)
+      - [ ] *Rhododendron album* Blume, Catalogus : 72 (1823)
+        - [ ] _(Azalea alba (Blume) Blume ex DC., Prodr. [A. P. de Candolle] 7(2): 721. 1839 [late Dec 1839])_
+        - [ ] _(Azalea ramentacea Lindl., J. Hort. Soc. London 4: 291 (1849))_
+        - [ ] _(Vireya alba (Blume) Blume, Bijdr. Fl. Ned. Ind. : 855 (1826))_
+      - [ ] *Rhododendron lampongum* Miq., Fl. Ned. Ind., Eerste Bijv. : 585 (1861)
+        - [ ] _(Azalea lamponga (Miq.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+      - [ ] *Rhododendron giulianettii* Lauterb., Fl. Schutzgeb. Südsee , Nachtr.: 338 (1905)
+      - [ ] *Rhododendron lagunculicarpum* J.J.Sm., Bot. Jahrb. Syst. 68: 200 (1937)
+      - [ ] *Rhododendron cernuum* Sleumer, Reinwardtia 5: 111 (1960)
+      - [ ] *Rhododendron aequabile* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 13: 451 (1935)
+        - [ ] _(Rhododendron album Ridl., J. Fed. Malay States Mus. 8:58. (1917))_
+      - [ ] *Rhododendron versteegii* J.J.Sm., Meded. Rijks-Herb. 25: 2 (1915)
+      - [ ] *Rhododendron proliferum* Sleumer, Blumea 12: 101 (1963)
+      - [ ] *Rhododendron zollingeri* J.J.Sm., Icon. Bogor. 4: t. 312 (1910)
+      - [ ] *Rhododendron comptum* C.H.Wright, Bull. Misc. Inform. Kew 1899: 103 (1899)
+        - [ ] *Rhododendron comptum var. trichodes* Sleumer, Unknown Publ. ()
+        - [ ] *Rhododendron comptum var. comptum* , 
+      - [ ] *Rhododendron yelliottii* Warb., Bot. Jahrb. Syst. 16: 25 (1892)
+        - [ ] _(Rhododendron saruwagedicum F.Först., Repert. Spec. Nov. Regni Veg. 13: 222 (1914))_
+        - [ ] _(Rhododendron saruwagedicum var. alpinum Sleumer, Fl. Males., Ser. 1, Spermat. 6 (4):487, f.5. (1966))_
+      - [ ] *Rhododendron correoides* J.J.Sm., Meded. Rijks-Herb. 25: 2 (1915)
+        - [ ] _(Rhododendron coniferum Wernham, Trans. Linn. Soc. London, Bot. 9: 97 (1916))_
+    - [ ] *Rhododendron sect. Schistanthe* Schltr., Bot. Jahrb. Syst. 55(1): 140 (1917)
+      - [ ] *Rhododendron engelbertii* Mambrasar, Nordic J. Bot. 2024(12)-e04545: 4 (2024)
+      - [ ] *Rhododendron subsect. Solenovireya* H.F.Copel., Philipp. J. Sci., C 40 (2):136. (1929)
+        - [ ] *Rhododendron oliganthum* Sleumer, Reinwardtia 5: 123 (1960)
+        - [ ] *Rhododendron carrii* Sleumer, Reinwardtia 5: 124 (1960)
+        - [ ] *Rhododendron majus* (J.J.Sm.) Sleumer, Reinwardtia 5 (2):120. (1960)
+          - [ ] _(Rhododendron maius (J.J.Sm.) Sleumer, Reinwardtia 5: 120 (1960))_
+          - [ ] _(Rhododendron carringtoniae var. majus J.J.Sm., Nova Guinea 12: 511.1917)_
+        - [ ] *Rhododendron pleianthum* Sleumer, Reinwardtia 5: 122 (1960)
+        - [ ] *Rhododendron multinervium* Sleumer, Reinwardtia 5: 117 (1960)
+        - [ ] *Rhododendron lambianum* Argent, Folia Malaysiana 4: 109 (2003)
+        - [ ] *Rhododendron loranthiflorum* Sleumer, Notizbl. Bot. Gart. Berlin-Dahlem 12: 485 (1935)
+          - [ ] _(Rhododendron subpacificum Sleumer, Blumea 12: 105 (1963))_
+          - [ ] *Rhododendron loranthiflorum subsp. loranthiflorum* , 
+          - [ ] *Rhododendron loranthiflorum subsp. lakekamuense* W.N.Takeuchi, Edinburgh J. Bot. 57: 333 (2000)
+        - [ ] *Rhododendron macrosiphon* Sleumer, Blumea 11: 118 (1961)
+        - [ ] *Rhododendron carstensense* Wernham, Trans. Linn. Soc. London, Bot. 9: 96 (1916)
+        - [ ] *Rhododendron goodenoughii* Sleumer, Reinwardtia 5: 131 (1960)
+        - [ ] *Rhododendron ruttenii* J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 170 (1932)
+        - [ ] *Rhododendron brachypodarium* Sleumer, Blumea 12: 103 (1963)
+        - [ ] *Rhododendron natalicium* Sleumer, Reinwardtia 5: 118 (1960)
+        - [ ] *Rhododendron hartleyi* Sleumer, Blumea 21: 366 (1973)
+        - [ ] *Rhododendron rhodosalpinx* Sleumer, Blumea 11: 121 (1961)
+        - [ ] *Rhododendron suaveolens* Sleumer, Bot. Jahrb. Syst. 71: 147 (1940)
+          - [ ] *Rhododendron suaveolens f. roseum* Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42(1): 117 (1984)
+          - [ ] *Rhododendron suaveolens f. suaveolens* , 
+        - [ ] *Rhododendron edanoi* Merr. & Quisumb., Philipp. J. Sci. 82: 333 (1954)
+          - [ ] *Rhododendron edanoi subsp. pneumonanthum* (Sleumer) Argent, Gard. Bull. Singapore 56: 93 (2004)
+            - [ ] _(Rhododendron pneumonanthum Sleumer, Reinwardtia 5: 132 (1960))_
+          - [ ] *Rhododendron edanoi subsp. edanoi* , 
+        - [ ] *Rhododendron radians* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 1: 403 (1920)
+          - [ ] *Rhododendron radians var. pubitubum* (Sleumer) Argent, Rhododendrons subgen. Vireya : 170 (2006)
+            - [ ] _(Rhododendron pubitubum Sleumer, Reinwardtia 5: 126 (1960))_
+            - [ ] _(Rhododendron amabile Sleumer, Reinwardtia 5: 127 (1960))_
+          - [ ] *Rhododendron radians var. radians* , 
+          - [ ] *Rhododendron radians var. dissilistellatum* (Craven) Argent, Rhododendrons subgen. Vireya, ed. 2. 200. 2015
+            - [ ] _(Rhododendron dissilistellatum Craven, J. Adelaide Bot. Gard. 27: 33 (2014))_
+          - [ ] *Rhododendron radians var. minahasae* Sleumer, Reinwardtia 5: 130 (1960)
+            - [ ] _(Rhododendron minahasae (Sleumer) Craven, J. Adelaide Bot. Gard. 27: 34 (2014))_
+        - [ ] *Rhododendron rhodoleucum* Sleumer, Blumea 11: 119 (1961)
+        - [ ] *Rhododendron mogeanum* Argent, Folia Malaysiana 4: 111 (2003)
+        - [ ] *Rhododendron niveoflorum* Argent, Folia Malaysiana 4: 115 (2003)
+        - [ ] *Rhododendron tuba* Sleumer, Reinwardtia 5: 125 (1960)
+        - [ ] *Rhododendron oreadum* Wernham, Trans. Linn. Soc. London, Bot. 9: 98 (1916)
+          - [ ] _(Rhododendron filamentosum Wernham, Trans. Linn. Soc. London, Bot. 9: 97 (1916))_
+        - [ ] *Rhododendron alborugosum* Argent & J.Dransf., Notes Roy. Bot. Gard. Edinburgh 46: 27 (1989)
+        - [ ] *Rhododendron armitii* F.M.Bailey, Bot. Bull. Dept. Agric. Queensland 10: 39 (1895)
+        - [ ] *Rhododendron stapfianum* Hemsl. ex Prain, Bot. Mag. 137: t. 8372 (1911)
+          - [ ] _(Rhododendron lacteum Stapf, Trans. Linn. Soc. London, Bot. 4:197, t. 15 A 1-2. (1894))_
+        - [ ] *Rhododendron jasminiflorum* Hook., Bot. Mag. 76: t. 4524 (1850)
+          - [ ] _(Azalea jasminiflora (T.Moore & Ayres) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron elongatum Blume, Fl. Javae t. 7 B, f.1. (1863-83))_
+          - [ ] *Rhododendron jasminiflorum subsp. chamaepitys* (Sleumer) Argent, Rhododendrons subgen. Vireya : 158 (2006)
+            - [ ] _(Rhododendron chamaepitys Sleumer, Bot. Jahrb. Syst. 71: 144 (1940))_
+          - [ ] *Rhododendron jasminiflorum subsp. jasminiflorum* , 
+            - [ ] _(Rhododendron jasminiflorum var. maculata Ridl., Fl. Malay Penins. 2:218. (1923))_
+            - [ ] _(Rhododendron jasminiflorum var. punctata Ridl., J. Fed. Malay States Mus. 4:42. (1909))_
+          - [ ] *Rhododendron jasminiflorum subsp. heusseri* (J.J.Sm.) Argent, Rhododendrons subgen. Vireya 159 (2006)
+            - [ ] _(Rhododendron longiflorum var. heusseri J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 13: 447 (1935))_
+            - [ ] _(Rhododendron jasminiflorum var. heusseri (J.J.Sm.) Sleumer, Reinwardtia 5 (2):129. (1960))_
+          - [ ] *Rhododendron jasminiflorum subsp. copelandii* (Merr.) Argent, Rhododendrons subgen. Vireya : 159 (2006)
+            - [ ] _(Rhododendron jasminiflorum var. copelandii (Merr.) Sleumer, Reinwardtia 5:130. (1960))_
+            - [ ] _(Rhododendron copelandii Merr., Publ. Bur. Sci. Gov. Lab. 29: 42 (1905))_
+          - [ ] *Rhododendron jasminiflorum subsp. oblongifolium* (Sleumer) Argent, Rhododendrons subgen. Vireya : 160 (2006)
+            - [ ] _(Rhododendron jasminiflorum var. oblongifolium Sleumer, Reinwardtia 5: 130 (1960))_
+        - [ ] *Rhododendron roseiflorum* P.F.Stevens, Adansonia , n.s., 18: 55 (1978)
+        - [ ] *Rhododendron retrorsipilum* Sleumer, Blumea 11: 120 (1961)
+        - [ ] *Rhododendron archboldianum* Sleumer, Reinwardtia 5: 121 (1960)
+        - [ ] *Rhododendron cruttwellii* Sleumer, Reinwardtia 5: 120 (1960)
+        - [ ] *Rhododendron pseudotrichanthum* Sleumer, Blumea 12: 340 (1964)
+          - [ ] _(Rhododendron trichanthum Sleumer, Reinwardtia 5: 127. 1960)_
+        - [ ] *Rhododendron cinerascens* Sleumer, Reinwardtia 5: 130 (1960)
+        - [ ] *Rhododendron muscipulum* Danet, Adansonia 32 (2):344. (2012)
+        - [ ] *Rhododendron carringtoniae* F.Muell., Vict. Naturalist 4: 110 (1887)
+        - [ ] *Rhododendron syringoideum* Sleumer, Blumea 12: 104 (1963)
+      - [ ] *Rhododendron subsect. Euvireya* H.F.Copel., Philipp. J. Sci. 40(2): 137 (159). 1929 [Oct 1929]
+        - [ ] _(Rhododendron ser. Dendrolepidon Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42(1): 117 (1984))_
+        - [ ] *Rhododendron mollianum* Koord., Nova Guinea 8: 187 (1909)
+        - [ ] *Rhododendron brevipes* Sleumer, Reinwardtia 5: 213 (1960)
+        - [ ] *Rhododendron leucogigas* Sleumer, Blumea 12: 102 (1963)
+        - [ ] *Rhododendron heterolepis* Danet, Adansonia , sér. 3, 32: 136 (2010)
+        - [ ] *Rhododendron glabriflorum* J.J.Sm., Meded. Rijks-Herb. 25: 6 (1915)
+        - [ ] *Rhododendron williamsii* Merr. ex H.F.Copel., Philipp. J. Sci. 40: 137 (1929)
+        - [ ] *Rhododendron scabridibracteum* Sleumer, Reinwardtia 5: 215 (1960)
+        - [ ] *Rhododendron × liewianum* Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 120 (1984)
+        - [ ] *Rhododendron × planecostatum* Sleumer, Reinwardtia 5: 153 (1960)
+        - [ ] *Rhododendron intranervatum* Sleumer, Blumea 11: 129 (1961)
+        - [ ] *Rhododendron comparabile* Sleumer, Reinwardtia 5: 208 (1960)
+        - [ ] *Rhododendron sayeri* Sleumer, Reinwardtia 5: 188 (1960)
+        - [ ] *Rhododendron yongii* Argent, Bot. J. Linn. Soc. 85: 12 (1982)
+        - [ ] *Rhododendron curviflorum* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 2, 8: 50 (1912)
+        - [ ] *Rhododendron astrophorum* M.N.Tamayo, Y.P.Ang & A.S.Rob., Edinburgh J. Bot. 80-1979: 2, f. 1–3, 4A 2023
+        - [ ] *Rhododendron christianae* Sleumer, Reinwardtia 5: 211 (1960)
+        - [ ] *Rhododendron alticola* Sleumer, Reinwardtia 5: 164 (1960)
+        - [ ] *Rhododendron rugosum* H.Low ex Hook.f., Hooker's Icon. Pl. 9: t. 885 (1851)
+          - [ ] *Rhododendron rugosum var. rugosum* , 
+          - [ ] *Rhododendron rugosum var. kinabaluense* (Merr.) Argent, Rhododendrons subgen. Vireya : 263 (2006)
+            - [ ] _(Rhododendron rugosum var. laeve Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 118 (1984))_
+            - [ ] _(Rhododendron kinabaluense Merr., J. Straits Branch Roy. Asiat. Soc. 76: 108 (1917))_
+        - [ ] *Rhododendron poremense* J.J.Sm., Bot. Jahrb. Syst. 68: 203 (1937)
+        - [ ] *Rhododendron monkoboense* Argent, Folia Malaysiana 4: 113 (2003)
+        - [ ] *Rhododendron loerzingii* J.J.Sm., Meded. Dept. Landb. Ned.-Indië 18: 107 (1914)
+        - [ ] *Rhododendron arfakianum* Becc., Malesia 1: 201 (1878)
+          - [ ] _(Rhododendron undulaticalyx J.J.Sm., Fl. Arfak Mts. : 168 (1917))_
+        - [ ] *Rhododendron xanthopetalum* Merr., Publ. Bur. Sci. Gov. Lab. 29: 41 (1905)
+        - [ ] *Rhododendron verticillatum* H.Low ex Lindl., J. Hort. Soc. London 3: 86 (1848)
+          - [ ] _(Rhododendron verticillatum f. velutinum (Becc.) Sleumer, Reinwardtia 5:185. (1960))_
+          - [ ] _(Rhododendron velutinum Becc., Malesia 1: 204 (1878))_
+          - [ ] *Rhododendron verticillatum subsp. carinatum* Argent, Rhododendrons subgen. Vireya, ed. 2. 303. 2015
+          - [ ] *Rhododendron verticillatum subsp. verticillatum* , 
+        - [ ] *Rhododendron renschianum* Sleumer, Bot. Jahrb. Syst. 71: 146 (1940)
+        - [ ] *Rhododendron impositum* J.J.Sm., Bot. Jahrb. Syst. 68: 201 (1937)
+        - [ ] *Rhododendron lanceolatum* Ridl., J. Straits Branch Roy. Asiat. Soc. 63: 60 (1912)
+          - [ ] _(Rhododendron partitum J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 13: 453 (1935))_
+        - [ ] *Rhododendron stenophyllum* Hook.f. ex Stapf, Trans. Linn. Soc. London, Bot. 4: 196 (1894)
+          - [ ] *Rhododendron stenophyllum subsp. stenophyllum* , 
+          - [ ] *Rhododendron stenophyllum subsp. angustifolium* (J.J.Sm.) Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 115 (1984)
+            - [ ] _(Rhododendron stenophyllum var. angustifolium J.J.Sm., Bull. Jard. Bot. Buitenzorg III 13:452. (1935))_
+        - [ ] *Rhododendron mendumiae* Argent, Gard. Bull. Singapore 56: 82 (2004)
+        - [ ] *Rhododendron longiflorum* Lindl., J. Hort. Soc. London 3: 88 (1848)
+          - [ ] _(Rhododendron javanicum var. tubiflorum Hook.f., Bot. Mag. 41, pl.6850. (1885))_
+          - [ ] _(Rhododendron orion var. aurantiacum Ridl., Fl. Malay Penins. 2:217. (1923))_
+          - [ ] _(Rhododendron lobbii H.J.Veitch, Gard. Chron. 1871: 1323 1871)_
+          - [ ] _(Rhododendron tubiflorum H.Low & Lindl., J. Hort. Soc. London iii. 88 (1848), in obs.)_
+          - [ ] *Rhododendron longiflorum var. longiflorum* , 
+          - [ ] *Rhododendron longiflorum var. bancanum* Sleumer, Unknown Publ. ()
+          - [ ] *Rhododendron longiflorum var. subcordatum* (Becc.) Argent, Bot. J. Linn. Soc. 85: 14 (1982)
+            - [ ] _(Rhododendron subcordatum Becc., Malesia 1: 203 (1878))_
+          - [ ] *Rhododendron longiflorum var. longipetalum* Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 114 (1984)
+        - [ ] *Rhododendron celebicum* (Blume) DC., Prodr. 7: 725 (1839)
+          - [ ] _(Rhododendron discolor Warb. ex Sarasin, Reis. Celebes 1:28. (1895))_
+          - [ ] _(Vireya celebica Blume, Bijdr. Fl. Ned. Ind. : 855 (1826))_
+          - [ ] _(Rhododendron tubulosum Reinw., Reis. 576. (1858))_
+        - [ ] *Rhododendron christi* F.Först., Repert. Spec. Nov. Regni Veg. 13: 222 (1914)
+          - [ ] _(Rhododendron christi var. loniceroides Schltr., Bot. Jahrb. Syst. 55:155. (1917))_
+        - [ ] *Rhododendron pachystigma* Sleumer, Blumea 12: 110 (1963)
+        - [ ] *Rhododendron milleri* Argent, Rhododendrons subgen. Vireya : 304 (2006)
+        - [ ] *Rhododendron kemulense* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 13: 448 (1935)
+        - [ ] *Rhododendron impressopunctatum* J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 164 (1932)
+        - [ ] *Rhododendron macgregoriae* F.Muell., J. Bot. 29: 177 (1891)
+          - [ ] _(Rhododendron lauterbachianum F.Först., Repert. Spec. Nov. Regni Veg. 13: 224 (1914))_
+          - [ ] _(Rhododendron hansemannii Warb., Bot. Jahrb. Syst. 16: 26 (1892))_
+          - [ ] _(Rhododendron vonroemeri Koord., Nova Guinea 8: 879 (1912))_
+          - [ ] _(Rhododendron gorumense Schltr., Bot. Jahrb. Syst. 55: 142 (1917))_
+          - [ ] _(Rhododendron calceolarioides Wernham, Trans. Linn. Soc. London, Bot. 9: 95 (1916))_
+        - [ ] *Rhododendron chamahense* Rafidah, Blumea 57 (2):114. (2012)
+        - [ ] *Rhododendron sojolense* Argent, Gard. Bull. Singapore 61: 2 (2009)
+        - [ ] *Rhododendron leytense* Merr., Philipp. J. Sci., C 10: 55 (1915)
+          - [ ] *Rhododendron leytense var. loheri* (H.F.Copel.) Sleumer, Unknown Publ. ()
+            - [ ] _(Rhododendron loheri H.F.Copel., Philipp. J. Sci. 40: 137 (1929))_
+          - [ ] *Rhododendron leytense var. leytense* , 
+        - [ ] *Rhododendron viriosum* Craven, Edinburgh J. Bot. 59: 448 (2002)
+        - [ ] *Rhododendron brachygynum* H.F.Copel., Philipp. J. Sci. 40: 137 (1929)
+        - [ ] *Rhododendron apiense* Argent, Folia Malaysiana 4: 102 (2003)
+        - [ ] *Rhododendron salicifolium* Becc., Nelle Foreste di Borneo 147.
+        - [ ] *Rhododendron zoelleri* Warb., Bot. Jahrb. Syst. 16: 15 (1892)
+          - [ ] _(Rhododendron doctersii J.J.Sm., Nova Guinea 18: 98 (1936))_
+          - [ ] _(Rhododendron moszkowskii Schltr., Bot. Jahrb. Syst. 55: 161 (1918))_
+          - [ ] _(Rhododendron oranum J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 167 (1932))_
+          - [ ] _(Rhododendron asparagoides Wernham, Trans. Linn. Soc. London, Bot. 9: 94 (1916))_
+        - [ ] *Rhododendron loboense* H.F.Copel., Philipp. J. Sci. 40: 137 (1929)
+        - [ ] *Rhododendron englerianum* Koord., Nova Guinea 8: 186 (1909)
+        - [ ] *Rhododendron schlechteri* Lauterb., Fl. Schutzgeb. Südsee , Nachtr.: 338 (1905)
+        - [ ] *Rhododendron rosendahlii* Sleumer, Reinwardtia 5: 207 (1960)
+        - [ ] *Rhododendron jiewhoei* Argent, Rhododendrons subgen. Vireya : 259 (2006)
+        - [ ] *Rhododendron subulosum* J.J.Sm. ex Sleumer, Reinwardtia 5: 143 (1960)
+        - [ ] *Rhododendron aurigeranum* Sleumer, Reinwardtia 5: 214 (1960)
+          - [ ] *Rhododendron aurigeranum subsp. hirsutum* Argent, Folia Malaysiana 4: 120 (2003)
+          - [ ] *Rhododendron aurigeranum subsp. aurigeranum* , 
+        - [ ] *Rhododendron reynosoi* Argent, Gard. Bull. Singapore 56: 84 (2004)
+        - [ ] *Rhododendron luraluense* Sleumer, Notizbl. Bot. Gart. Berlin-Dahlem 12: 485 (1935)
+          - [ ] *Rhododendron luraluense subsp. luraluense* , 
+          - [ ] *Rhododendron luraluense subsp. whitmorei* Argent, Rhododendrons subgen. Vireya : 313 (2006)
+        - [ ] *Rhododendron seranicum* J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 165 (1932)
+          - [ ] _(Rhododendron seranense J.J.Sm., Bot. Jahrb. Syst. 68(2-3): 202, in obs. 1937 [14 Apr 1937])_
+          - [ ] *Rhododendron seranicum subsp. seranicum* , 
+          - [ ] *Rhododendron seranicum subsp. sparsihirtum* Argent, Rhododendrons Camellias Magnolias 127. 2013 , as 'sparsihirtus'
+            - [ ] _(Rhododendron biappendiculatum Craven, J. Adelaide Bot. Gard. 27: 29 (2014))_
+        - [ ] *Rhododendron gracilentum* F.Muell., Trans. Roy. Soc. Victoria , n.s., 1(2): 22 (1889)
+        - [ ] *Rhododendron commutatum* Sleumer, Reinwardtia 5: 201 (1960)
+        - [ ] *Rhododendron praetervisum* Sleumer, Blumea 21: 376 (1973)
+        - [ ] *Rhododendron mindanaense* Merr., Publ. Bur. Sci. Gov. Lab. 29: 41 (1905)
+        - [ ] *Rhododendron orbiculatum* Ridl., J. Straits Branch Roy. Asiat. Soc. 63: 60 (1912)
+        - [ ] *Rhododendron lompohense* Argent, Bull. Jard. Bot. Buitenzorg , sér. 3, 1: 402 (1920)
+        - [ ] *Rhododendron javanicum* (Blume) Benn., Pl. Jav. Rar. : 85 (1838)
+          - [ ] _(Azalea javanica (Blume) Kuntze, Prodr. [A. P. de Candolle] 7(2): 721. 1839 [late Dec 1839])_
+          - [ ] _(Vireya javanica Blume, Bijdr. Fl. Ned. Ind. : 854 (1826))_
+          - [ ] *Rhododendron javanicum subsp. schadenbergii* (Warb.) Argent, Edinburgh J. Bot. 52: 364 (1995)
+            - [ ] _(Rhododendron javanicum var. schadenbergii (Warb.) Sleumer, Reinwardtia 5:195. (1960))_
+            - [ ] _(Rhododendron spectabile Merr., Publ. Bur. Sci. Gov. Lab. 29: 42 (1905))_
+            - [ ] _(Rhododendron clementis Merr., Philipp. J. Sci., C 3: 160 (1908))_
+            - [ ] _(Rhododendron schadenbergii Warb., Fragm. Fl. Philipp. 1: 172 (1905))_
+            - [ ] _(Rhododendron sarasinorum Warb., Reis. Celebes 2:386. (1905))_
+          - [ ] *Rhododendron javanicum subsp. moultonii* (Ridl.) Argent, Bot. J. Linn. Soc. 85: 16 (1982)
+            - [ ] _(Rhododendron brookeanum var. moultonii (Ridl.) Argent, Edinburgh J. Bot. 52: 364 (1995))_
+            - [ ] _(Rhododendron moultonii Ridl., J. Straits Branch Roy. Asiat. Soc. 63: 61 (1912))_
+          - [ ] *Rhododendron javanicum subsp. gracile* (H.Low & Lindl.) Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 114 (1984)
+            - [ ] _(Rhododendron extraneum (Sleumer) Craven, J. Adelaide Bot. Gard. 27: 28 (2014))_
+            - [ ] _(Rhododendron brookeanum var. extraneum Sleumer, Reinwardtia 5: 225 (1960))_
+            - [ ] _(Rhododendron gracile H.Low & Lindl., J. Hort. Soc. London 3: 84 (1848))_
+            - [ ] _(Rhododendron brookeanum subsp. gracile (H.Low & Lindl.) Argent, Edinburgh J. Bot. 52: 364 (1995))_
+            - [ ] _(Rhododendron obscurinervium Merr., J. Straits Branch Roy. Asiat. Soc. 76: 109 (1917))_
+          - [ ] *Rhododendron javanicum subsp. teysmannii* (Miq.) Argent, Rhododendrons subgen. Vireya : 249 (2006)
+            - [ ] _(Rhododendron javanicum var. teysmannii (Miq.) King & Gamble, J. Asiat. Soc. Bengal 74 (2):75. (1905))_
+            - [ ] _(Rhododendron basirotundatum J.J.Sm., Contr. Arnold Arbor. 8: 124 (1934))_
+            - [ ] _(Azalea teysmannii (Miq.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+            - [ ] _(Rhododendron teysmannii Miq., Fl. Ned. Ind., Eerste Bijv. : 585 (1861))_
+          - [ ] *Rhododendron javanicum subsp. javanicum* , 
+          - [ ] *Rhododendron javanicum subsp. kinabaluense* (Argent, A.Lamb & Phillipps) Argent, Rhododendrons subgen. Vireya : 248 (2006)
+            - [ ] _(Rhododendron brookeanum var. kinabaluense (Argent, A.Lamb & Phillipps) Argent, Edinburgh J. Bot. 52: 363 (1995))_
+            - [ ] _(Rhododendron javanicum var. kinabaluense Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 113 (1984))_
+            - [ ] _(Rhododendron kinabaluense (Argent, A.Lamb & Phillipps) Craven, J. Adelaide Bot. Gard. 27:29. (2014))_
+          - [ ] *Rhododendron javanicum subsp. brookeanum* (H.Low & Lindl.) Argent, A.L.Lamb & Phillipps, Bot. J. Linn. Soc. 85: 15 (1982)
+            - [ ] _(Rhododendron brookeanum H.Low & Lindl., J. Hort. Soc. London 3: 82 (1848))_
+            - [ ] _(Azalea brookeana (H.Low ex Lindl.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] *Rhododendron javanicum subsp. palawanense* Argent, Gard. Bull. Singapore 56: 90 (2004)
+            - [ ] _(Rhododendron palawanense (Argent) Craven, J. Adelaide Bot. Gard. 27: 29 (2014))_
+          - [ ] *Rhododendron javanicum subsp. cladotrichum* (Sleumer) Argent, Rhododendrons subgen. Vireya : 247 (2006)
+            - [ ] _(Rhododendron cladotrichum (Sleumer) Craven, J. Adelaide Bot. Gard. 27: 28 (2014))_
+            - [ ] _(Rhododendron brookeanum var. cladotrichum Sleumer, Reinwardtia 5: 224 (1960))_
+          - [ ] *Rhododendron javanicum subsp. argentii* Mambrasar, Warseno & Kusw., Edinburgh J. Bot. 81-1962: 4 (2024)
+        - [ ] *Rhododendron atrichum* Argent, J. Amer. Rhododendron Soc. 63: 160 (2009)
+          - [ ] _(Rhododendron epilosum Argent, Rhododendrons Camellias Magnolias 60: 86 (fig.). 2009 [Feb 2009?])_
+          - [ ] *Rhododendron atrichum subsp. dendrolepis* Argent, J. Amer. Rhododendron Soc. 63: 161 (2009)
+            - [ ] _(Rhododendron epilosum subsp. dendrolepis Argent, Rhododendrons Magnolias Camellias 60: 86 (2009))_
+          - [ ] *Rhododendron atrichum subsp. atrichum* , 
+        - [ ] *Rhododendron crassifolium* Stapf, Trans. Linn. Soc. London, Bot. 4: 195 (1894)
+          - [ ] _(Rhododendron crassinervium Ridl., J. Straits Branch Roy. Asiat. Soc. 63: 61 (1912))_
+          - [ ] _(Rhododendron brevitubum J.J.Sm., Icon. Bogor. 4: t. 381 (1914))_
+          - [ ] *Rhododendron crassifolium var. reticulatovenosum* Argent, Rhododendrons subgen. Vireya Ed. 2 306. (2015)
+          - [ ] *Rhododendron crassifolium subsp. crassifolium* , 
+          - [ ] *Rhododendron crassifolium var. pseudomurudense* (Sleumer) Argent, Rhododendrons subgen. Vireya , ed. 2: 305 (2015)
+            - [ ] _(Rhododendron murudense J.J.Sm., Bull. Jard. Bot. Buitenzorg III 13 (499). (1935))_
+            - [ ] _(Rhododendron pseudomurudense Sleumer, Reinwardtia 5: 189 (1960))_
+            - [ ] _(Rhododendron murudense Merr., Sarawak Mus. J. 3: 542 (1928))_
+        - [ ] *Rhododendron baenitzianum* Lauterb., Fl. Schutzgeb. Südsee , Nachtr.: 337 (1905)
+          - [ ] _(Rhododendron maboroense Schltr., Bot. Jahrb. Syst. 55: 156 (1918))_
+          - [ ] *Rhododendron baenitzianum var. baenitzianum* , 
+          - [ ] *Rhododendron baenitzianum var. oktediense* Argent, Rhododendrons subgen. Vireya, ed. 2. 380. 2015
+        - [ ] *Rhododendron nervosulum* Sleumer, Bot. Jahrb. Syst. 71: 146 (1940)
+          - [ ] _(Rhododendron nervulosum Sleumer, )_
+        - [ ] *Rhododendron glabrifilum* J.J.Sm., Nova Guinea 12: 134 (1914)
+          - [ ] _(Rhododendron torricellense Schltr., Bot. Jahrb. Syst. 55: 142 (1917))_
+          - [ ] _(Rhododendron macgregoriae var. glabrifilum (J.J.Sm.) Sleumer, Reinwardtia 5:206. (1960))_
+          - [ ] _(Rhododendron mayrii J.J.Sm., Nova Guinea 18: 97 (1936))_
+        - [ ] *Rhododendron stresemannii* J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 166 (1932)
+        - [ ] *Rhododendron angiense* J.J.Sm., Nova Guinea 12: 133 (1914)
+          - [ ] _(Rhododendron culminicola var. angiense J.J.Sm., Blumea 12:114. (1963))_
+        - [ ] *Rhododendron sessilifolium* J.J.Sm., Contr. Arnold Arbor. 8: 125 (1934)
+        - [ ] *Rhododendron tjiasmantoi* Mustaqim, Mambrasar & Hutabarat, Taiwania 67(1): 124. 2022
+        - [ ] *Rhododendron kochii* Stein, Gartenflora 27: 193 (1885)
+        - [ ] *Rhododendron blackii* Sleumer, Blumea 21: 375 (1973)
+          - [ ] _(Rhododendron sleumeri Gilli, Ann. Naturhist. Mus. Wien 83: 435 (1979 publ. 1980))_
+        - [ ] *Rhododendron cuspidellum* Sleumer, Reinwardtia 5: 200 (1960)
+        - [ ] *Rhododendron ardii* Hutabarat, Mambrasar & Mustaqim, Taiwania 67(1): 120. 2022
+        - [ ] *Rhododendron vanvuurenii* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 1: 399 (1920)
+          - [ ] _(Rhododendron kjellbergii J.J.Sm., Bot. Jahrb. Syst. 68: 202 (1937))_
+        - [ ] *Rhododendron exuberans* (Sleumer) Argent, Bot. J. Linn. Soc. 85: 12 (1982)
+          - [ ] _(Rhododendron nervosulum var. exuberans Sleumer, Blumea 12:113. (1963))_
+          - [ ] _(Rhododendron nervulosum var. exuberans Sleumer, )_
+        - [ ] *Rhododendron cockburnii* (Argent, A.Lamb & Phillipps) Craven, J. Adelaide Bot. Gard. 27: 28 (2014)
+          - [ ] _(Rhododendron brookeanum subsp. cockburnii (Argent, A.Lamb & Phillipps) Argent, Edinburgh J. Bot. 52: 364 (1995))_
+          - [ ] _(Rhododendron javanicum subsp. cockburnii Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42(1): 113. 1984)_
+        - [ ] *Rhododendron leptobrachion* Sleumer, Reinwardtia 5: 203 (1960)
+        - [ ] *Rhododendron sumatranum* Merr., Pap. Michigan Acad. Sci. 19: 182 (1934)
+        - [ ] *Rhododendron × keditii* Sleumer, Blumea 11: 126 (1961)
+        - [ ] *Rhododendron rarilepidotum* J.J.Sm., Contr. Arnold Arbor. 8: 126 (1934)
+        - [ ] *Rhododendron baconii* Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 115 (1984)
+        - [ ] *Rhododendron wentianum* Koord., Nova Guinea 8: 188 (1909)
+          - [ ] _(Rhododendron callichilioides Wernham, Trans. Linn. Soc. London, Bot. 9: 95 (1916))_
+          - [ ] _(Rhododendron wollastonii Wernham, Trans. Linn. Soc. London, Bot. 9: 99 (1916))_
+        - [ ] *Rhododendron maxwellii* Gibbs, J. Linn. Soc., Bot. 42: 103 (1914)
+        - [ ] *Rhododendron robinsonii* Ridl., J. Fed. Malay States Mus. 4: 44 (1909)
+        - [ ] *Rhododendron bloembergenii* Sleumer, Reinwardtia 5: 204 (1960)
+          - [ ] _(Rhododendron rhodopus Sleumer, Reinwardtia 5: 199 (1960))_
+        - [ ] *Rhododendron × hunsteinii* Argent, Rhododendrons subgen. Vireya, ed. 2. 376. 2015
+        - [ ] *Rhododendron toxopei* J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 168 (1932)
+        - [ ] *Rhododendron laetum* J.J.Sm., Nova Guinea 12: 139 (1914)
+          - [ ] _(Rhododendron uliginosum J.J.Sm., Nova Guinea 12: 136 (1914))_
+        - [ ] *Rhododendron × ootrichum* Sleumer, Rhododendrons subgen. Vireya ed. 2: 286. 2015
+          - [ ] _(Rhododendron rarilepidotum var. ootrichum Sleumer, Reinwardtia 5:191. (1960))_
+        - [ ] *Rhododendron pachycarpon* Sleumer, Reinwardtia 5: 186 (1960)
+        - [ ] *Rhododendron polyanthemum* Sleumer, Blumea 12: 111 (1963)
+        - [ ] *Rhododendron torajaense* Craven, J. Adelaide Bot. Gard. 27: 30 (2014)
+        - [ ] *Rhododendron beccarii* Sleumer, Reinwardtia 5: 192 (1960)
+        - [ ] *Rhododendron buruense* J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 168 (1932)
+          - [ ] _(Rhododendron lompohense var. grandifolium J.J.Sm., Feddes Repert. Spec. Nov. Regni Veg. 30:168. (1930))_
+        - [ ] *Rhododendron lowii* Hook.f., Hooker's Icon. Pl. 9: t. 883 (1851)
+        - [ ] *Rhododendron culminicola* F.Muell., Trans. Roy. Soc. Victoria , n.s., 1(2): 23 (1889)
+          - [ ] _(Rhododendron gregarium Sleumer, Reinwardtia 5: 221 (1960))_
+          - [ ] _(Rhododendron keysseri F.Först., Repert. Spec. Nov. Regni Veg. 13: 223 (1914))_
+          - [ ] _(Rhododendron nodosum C.H.Wright, Bull. Misc. Inform. Kew 1899: 103 (1899))_
+          - [ ] _(Rhododendron convexum Sleumer, Reinwardtia 5: 218 (1960))_
+        - [ ] *Rhododendron retivenium* Sleumer, Reinwardtia 5: 222 (1960)
+        - [ ] *Rhododendron perplexum* Sleumer, Reinwardtia 5: 197 (1960)
+        - [ ] *Rhododendron angulatum* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 2, 8: 50 (1912)
+        - [ ] *Rhododendron lochae* F.Muell., Vict. Naturalist 3: 157 (1887)
+          - [ ] _(Azalea lochae (F.Muell.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+          - [ ] _(Rhododendron notiale Craven, Edinburgh J. Bot. 53: 33 (1996))_
+        - [ ] *Rhododendron mulyaniae* Mambrasar, Nordic J. Bot. 2024(12)-e04545: 2 (2024)
+        - [ ] *Rhododendron madulidii* Argent, New Plantsman 5: 204 (1998)
+        - [ ] *Rhododendron villosulum* J.J.Sm., Meded. Rijks-Herb. 25: 5 (1915)
+          - [ ] _(Rhododendron franssenianum J.J.Sm., Meded. Rijks-Herb. 25: 5 (1915))_
+        - [ ] *Rhododendron triumphans* Yersin & A.Chev., Rev. Bot. Appl. Agric. Colon. 1929, ix. 256.
+        - [ ] *Rhododendron hirtolepidotum* J.J.Sm., Nova Guinea 12: 135 (1914)
+      - [ ] *Rhododendron subsect. Saxifragoidea* (Sleumer) Argent, Rhododendrons subgen. Vireya 22 (153). 2006
+        - [ ] _(Rhododendron ser. Saxifragoidea Sleumer, Reinwardtia 5(2): 141. 1960 [Mar 1960])_
+        - [ ] *Rhododendron saxifragoides* J.J.Sm., Meded. Rijks-Herb. 25: 3 (1915)
+      - [ ] *Rhododendron × sheilae* Sleumer, Blumea 11: 122 (1961)
+      - [ ] *Rhododendron subsect. Malesia* H.F.Copel., Philipp. J. Sci., C 40 (2):136,151. (129)
+        - [ ] *Rhododendron scarlatinum* Sleumer, Reinwardtia 5: 168 (1960)
+        - [ ] *Rhododendron banghamiorum* (J.J.Sm.) Sleumer, Reinwardtia 5: 163 (1960)
+          - [ ] _(Rhododendron pubigermen var. banghamiorum J.J.Sm., )_
+        - [ ] *Rhododendron rubrobracteatum* Sleumer, Reinwardtia 5: 175 (1960)
+        - [ ] *Rhododendron myrsinites* Sleumer, Reinwardtia 5: 142 (1960)
+        - [ ] *Rhododendron vitis-idaea* Sleumer, Reinwardtia 5: 156 (1960)
+          - [ ] _(Rhododendron vandeursenii Sleumer, Blumea 11: 123 (1961))_
+        - [ ] *Rhododendron vidalii* Rolfe, J. Bot. 24: 348 (1886)
+          - [ ] _(Rhododendron verticillatum S.Vidal, Revis. Pl. Vasc. Filip. 171. 1886)_
+          - [ ] _(Rhododendron lussoniense Rendle, J. Bot. 34: 356 (1896))_
+          - [ ] *Rhododendron vidalii subsp. brachystemon* Argent, Folia Malaysiana 4: 119 (2003)
+          - [ ] *Rhododendron vidalii subsp. vidalii* , 
+        - [ ] *Rhododendron calosanthes* Sleumer, Blumea 11: 125 (1961)
+        - [ ] *Rhododendron citrinum* (Hassk.) Hassk., Cat. Hort. Bot. Bogor. Alt. : 161 (1844)
+          - [ ] _(Rhododendron zippelii Blume, Fl. Jav. Planches inéd. (1863))_
+          - [ ] _(Azalea citrina Hassk., Revis. Gen. Pl. 2: 387. 1891 [5 Nov 1891])_
+          - [ ] *Rhododendron citrinum var. citrinum* , 
+          - [ ] *Rhododendron citrinum var. discoloratum* Sleumer, Reinwardtia 5: 145 (1960)
+            - [ ] _(Rhododendron magniflorum H.O.Forbes, A Naturalist's Wanderings in the Eastern Archipelago. (1885))_
+        - [ ] *Rhododendron frey-wysslingii* J.J.Sm., Contr. Arnold Arbor. 8: 123 (1934)
+        - [ ] *Rhododendron leptomorphum* Sleumer, Reinwardtia 5: 160 (1960)
+        - [ ] *Rhododendron wilkiei* Argent, Gard. Bull. Singapore 56: 88 (2004)
+        - [ ] *Rhododendron brentelii* Argent, Rhododendrons subgen. Vireya, ed. 2. 258. 2015
+        - [ ] *Rhododendron burtii* P.Woods, Notes Roy. Bot. Gard. Edinburgh 37: 157 (1978)
+        - [ ] *Rhododendron pseudobuxifolium* Sleumer, Reinwardtia 5: 154 (1960)
+        - [ ] *Rhododendron commonae* F.Först., Repert. Spec. Nov. Regni Veg. 13: 223 (1914)
+          - [ ] _(Rhododendron nitens Sleumer, Reinwardtia 5: 162. 1960)_
+          - [ ] _(Rhododendron stonori Sleumer, Reinwardtia 5: 155 (1960))_
+          - [ ] _(Rhododendron pseudonitens Sleumer, Blumea 11: 124 (1961))_
+        - [ ] *Rhododendron hatamense* Becc., Malesia 1: 202 (1878)
+          - [ ] _(Rhododendron gibbsiae J.J.Sm., Fl. Arfak Mts. : 169 (1917))_
+          - [ ] _(Rhododendron coenenii J.J.Sm., Nova Guinea 12: 132 (1914))_
+        - [ ] *Rhododendron subuliferum* Sleumer, Reinwardtia 5: 171 (1960)
+        - [ ] *Rhododendron × fuchsii* Sleumer, Blumea 12: 341 (1964)
+        - [ ] *Rhododendron pyrrhophorum* Sleumer, Reinwardtia 5: 165 (1960)
+        - [ ] *Rhododendron pubigermen* J.J.Sm., Contr. Arnold Arbor. 8: 122 (1934)
+        - [ ] *Rhododendron multicolor* Miq., Fl. Ned. Ind., Eerste Bijv. : 586 (1861)
+          - [ ] _(Rhododendron curtisii T.Moore, Florist & Pomol. 1884: 113 (1884))_
+          - [ ] _(Azalea multicolor (Miq.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] *Rhododendron inconspicuum* J.J.Sm., Meded. Rijks-Herb. 25: 1 (1915)
+          - [ ] _(Rhododendron luteosquamatum Sleumer, Reinwardtia 5: 166 (1960))_
+          - [ ] _(Rhododendron invasorium Sleumer, Reinwardtia 5: 60 (1960))_
+        - [ ] *Rhododendron takeuchii* Argent, Folia Malaysiana 4: 117 (2003)
+        - [ ] *Rhododendron × nebulicola* Danet, Adansonia , sér. 3, 27: 275 (2005)
+        - [ ] *Rhododendron stevensianum* Sleumer, Blumea 21: 371 (1973)
+        - [ ] *Rhododendron rousei* Argent & Madulid, New Plantsman 5: 25 (1998)
+        - [ ] *Rhododendron wrightianum* Koord., Nova Guinea 8: 880 (1912)
+          - [ ] *Rhododendron wrightianum var. wrightianum* , 
+          - [ ] *Rhododendron wrightianum var. insulare* Sleumer, Reinwardtia 5: 174 (1960)
+          - [ ] *Rhododendron wrightianum var. cyclopense* J.J.Sm., Nova Guinea 12: 130 (1914)
+        - [ ] *Rhododendron cornu-bovis* Sleumer, Reinwardtia 5: 152 (1960)
+        - [ ] *Rhododendron lamii* J.J.Sm., Nova Guinea 18: 96 (1936)
+        - [ ] *Rhododendron × coriifolium* Sleumer, Blumea 12: 107 (1963)
+          - [ ] _(Rhododendron rugosum var. corrifolium (Sleumer) Sleumer, Blumea 12 (2):340. (1964))_
+        - [ ] *Rhododendron brassii* Sleumer, Reinwardtia 5: 170 (1960)
+        - [ ] *Rhododendron sugaui* Argent, Rhododendrons subgen. Vireya : 201 (2006)
+        - [ ] *Rhododendron chevalieri* Dop, Rev. Bot. Appl. Agric. Trop. 9: 256 (1929)
+        - [ ] *Rhododendron acrophilum* Merr. & Quisumb., Philipp. J. Sci. 82: 333 (1954)
+        - [ ] *Rhododendron rhodostomum* Sleumer, Reinwardtia 5: 157 (1960)
+        - [ ] *Rhododendron buxifolium* H.Low ex Hook.f., Hooker's Icon. Pl. 9: t. 890 (1852)
+          - [ ] _(Rhododendron buxifolium var. robustum Sleumer, Reinwardtia 5 (2):173. (1960))_
+        - [ ] *Rhododendron tuhanense* Argent & T.J.Barkman, New Plantsman 7: 215 (2000)
+        - [ ] *Rhododendron meijeri* Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 116 (1984)
+        - [ ] *Rhododendron abietifolium* Sleumer, Blumea 11: 122 (1961)
+        - [ ] *Rhododendron purpureiflorum* J.J.Sm., Meded. Rijks-Herb. 25: 3 (1915)
+          - [ ] _(Rhododendron podocarpoides Schltr., Bot. Jahrb. Syst. 55: 149 (1918))_
+        - [ ] *Rhododendron pauciflorum* King & Gamble, J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 75 (1905)
+          - [ ] _(Rhododendron calocodon Ridl., J. Fed. Malay States Mus. 5: 38 (1914))_
+          - [ ] _(Rhododendron elegans Ridl., J. Linn. Soc., Bot. 38: 314 (1908))_
+          - [ ] _(Rhododendron pauciflorum var. calocodon (Ridl.) Sleumer, Reinwardtia 5:156. (1960))_
+        - [ ] *Rhododendron ultimum* Wernham, Trans. Linn. Soc. London, Bot. 9: 99 (1916)
+        - [ ] *Rhododendron atropurpureum* Sleumer, Reinwardtia 5: 172 (1960)
+        - [ ] *Rhododendron widjajae* Argent & Mambrasar, Reinwardtia 18(1): 27. 2019
+        - [ ] *Rhododendron ripleyi* Merr., Notul. Nat. Acad. Nat. Sci. Philadelphia 47: 4 (1940)
+          - [ ] *Rhododendron ripleyi var. ripleyi* , 
+          - [ ] *Rhododendron ripleyi var. cryptogonium* Sleumer, Reinwardtia 5: 164 (1960)
+          - [ ] *Rhododendron ripleyi var. basitrichum* Sleumer, Reinwardtia 5: 164 (1960)
+        - [ ] *Rhododendron flavoviride* J.J.Sm., Meded. Rijks-Herb. 25: 4 (1915)
+        - [ ] *Rhododendron whiteheadii* Rendle, J. Bot. 34: 356 (1896)
+          - [ ] _(Rhododendron curranii Merr., Philipp. J. Sci., C 3: 255 (1908))_
+        - [ ] *Rhododendron porphyranthes* Sleumer, Blumea 12: 109 (1963)
+        - [ ] *Rhododendron nubicola* Wernham, Trans. Linn. Soc. London, Bot. 9: 98 (1916)
+          - [ ] _(Rhododendron acrocline Sleumer, Reinwardtia 5: 158 (1960))_
+          - [ ] _(Rhododendron culminicola var. nubicola (Wernham) Sleumer, Reinwardtia 5:221. (1960))_
+        - [ ] *Rhododendron simulans* J.J.Sm. ex Sleumer, Reinwardtia 5: 168 (1960)
+          - [ ] _(Rhododendron wrightianum var. ovalifolium J.J.Sm., Nova Guinea 18:94. (1936))_
+        - [ ] *Rhododendron × sarcodes* Argent & Madulid, New Plantsman 2(3): 156 (1995) (1995)
+        - [ ] *Rhododendron helodes* Sleumer, Reinwardtia 5: 161 (1960)
+        - [ ] *Rhododendron papuanum* Becc., Malesia 1: 201 (1878)
+        - [ ] *Rhododendron taxifolium* Merr., Philipp. J. Sci. 30: 419 (1926)
+        - [ ] *Rhododendron bagobonum* H.F.Copel., Philipp. J. Sci. 40: 136 (1929)
+          - [ ] _(Rhododendron cuneifolium var. subspathulatum Ridl., J. Straits Branch Roy. Asiat. Soc. 33:23. (1900))_
+          - [ ] _(Rhododendron galioides J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 13: 445 (1935))_
+        - [ ] *Rhododendron subcrenulatum* Sleumer, Reinwardtia 5: 174 (1960)
+        - [ ] *Rhododendron alternans* Sleumer, Reinwardtia 5: 159 (1960)
+        - [ ] *Rhododendron vinkii* Sleumer, Blumea 12: 91 (1963)
+        - [ ] *Rhododendron nieuwenhuisii* J.J.Sm., Icon. Bogor. 4: t. 323 (1910)
+      - [ ] *Rhododendron subsect. Linnaeopsis* (Schltr.) Sleumer, Bot. Jahrb. Syst. 74:541. (1949)
+        - [ ] _(Rhododendron sect. Linnaeopsis Schltr., Bot. Jahrb. Syst. 55:144. fig.2. (1917))_
+        - [ ] *Rhododendron capellae* Kores, Blumea 24: 181 (1978)
+        - [ ] *Rhododendron anagalliflorum* Wernham, Trans. Linn. Soc. London, Bot. 9: 94 (1916)
+          - [ ] _(Rhododendron linnaeoides Schltr., Bot. Jahrb. Syst. 55: 144 (1917))_
+        - [ ] *Rhododendron rubineiflorum* Craven, Notes Roy. Bot. Gard. Edinburgh 38: 142 (1980)
+        - [ ] *Rhododendron xenium* Gill.K.Br. & Craven, Novon 13: 26 (2003)
+        - [ ] *Rhododendron microphyllum* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 2, 8: 51 (1912)
+          - [ ] _(Rhododendron minimifolium Wernham, Trans. Linn. Soc. London, Bot. 9: 98 (1916))_
+        - [ ] *Rhododendron womersleyi* Sleumer, Reinwardtia 5: 136 (1960)
+        - [ ] *Rhododendron disterigmoides* Sleumer, Reinwardtia 5: 140 (1960)
+          - [ ] *Rhododendron disterigmoides subsp. astromontium* Argent, Folia Malaysiana 4: 125 (2003)
+          - [ ] *Rhododendron disterigmoides subsp. disterigmoides* , 
+        - [ ] *Rhododendron oxycoccoides* Sleumer, Reinwardtia 5: 139 (1960)
+        - [ ] *Rhododendron pusillum* J.J.Sm., Meded. Rijks-Herb. 25: 1 (1915)
+          - [ ] _(Rhododendron candidapiculatum Wernham, Trans. Linn. Soc. London, Bot. 9: 96 (1916))_
+        - [ ] *Rhododendron coelorum* Wernham, Trans. Linn. Soc. London, Bot. 9: 96 (1916)
+        - [ ] *Rhododendron parvulum* Sleumer, Reinwardtia 5: 139 (1960)
+        - [ ] *Rhododendron schizostigma* Sleumer, Reinwardtia 5: 63 (1960)
+        - [ ] *Rhododendron muscicola* J.J.Sm., Nova Guinea 18: 93 (1936)
+        - [ ] *Rhododendron caespitosum* Sleumer, Reinwardtia 5: 137 (1960)
+    - [ ] *Rhododendron sect. Malayovireya* (Sleumer) Argent, Rhododendrons subgen. Vireya 21. (2006)
+      - [ ] _(Rhododendron subsect. Malayovireya Sleumer, Blumea, Suppl. 4: 48. 1958 [2 Oct 1958])_
+      - [ ] *Rhododendron × variolosum* Becc., Malesia 1: 206 (1878)
+        - [ ] *Rhododendron × variolosum nothovar. variolosum* , 
+        - [ ] *Rhododendron × variolosum nothovar. hybridogenum* (Sleumer) Argent, Rhododendrons subgen. Vireya, ed. 2. 136. 2015
+          - [ ] _(Rhododendron hybridogenum Sleumer, Reinwardtia 5: 106 (1960))_
+        - [ ] *Rhododendron × variolosum nothovar. andersonii* (Ridl.) Sleumer, Reinwardtia 5: 105 (1960)
+          - [ ] _(Rhododendron andersonii Ridl., Bull. Misc. Inform. Kew 1914: 209 (1914))_
+      - [ ] *Rhododendron benomense* Rafidah & A.C.Elliott, Edinburgh J. Bot. 79-413: 2. 2022
+        - [ ] _(Rhododendron obscurum Sleumer, Reinwardtia 5:104. (1960))_
+      - [ ] *Rhododendron nortoniae* Merr., Philipp. J. Sci. 1(Suppl.): 220 (1906)
+        - [ ] _(Rhododendron catanduanense Merr. ex H.F.Copel., Philipp. J. Sci. 40: 136, 149. 1929)_
+      - [ ] *Rhododendron malayanum* Jack, Malayan Misc. 2(7): 17 (1822)
+        - [ ] _(Rhododendron malayanum var. axilliare J.J.Sm., Icon. Bogor. [Boerlage] 4:74. (1919))_
+        - [ ] _(Rhododendron malayanum var. axillare J.J.Sm. ex Sleumer, Reinwardtia 5:103. (1960))_
+        - [ ] _(Azalea celebica Blume ex DC., Prodr. [A. P. de Candolle] 7(2): 725. 1839 [late Dec 1839])_
+        - [ ] _(Azalea malayana (Jack) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
+        - [ ] _(Rhododendron tubiflorum (Blume) DC., Prodr. 7: 725 (1839))_
+        - [ ] _(Azalea tubiflora Blume ex DC., Prodr. 7: 725 (1839))_
+        - [ ] _(Vireya tubiflora Blume, Bijdr. Fl. Ned. Ind. : 855 (1826))_
+        - [ ] *Rhododendron malayanum var. malayanum* , 
+          - [ ] _(Rhododendron malayanum f. ovatum Sleumer, Reinwardtia 5:103. (1960))_
+          - [ ] _(Rhododendron malayanum f. axillare , )_
+          - [ ] *Rhododendron malayanum var. malayanum f. malayanum* , 
+        - [ ] *Rhododendron malayanum var. pubens* Sleumer, Unknown Publ. ()
+        - [ ] *Rhododendron malayanum var. pilosifilum* Sleumer, Unknown Publ. ()
+          - [ ] _(Rhododendron malayanum var. infrapilosum Sleumer, Reinwardtia 5:103. (1960))_
+      - [ ] *Rhododendron apoanum* Stein, Gartenflora 34: 194 (1885)
+      - [ ] *Rhododendron × wilhelminae* Hochr., Candollea 2: 493 (1925)
+      - [ ] *Rhododendron himantodes* Sleumer, Bot. Jahrb. Syst. 71: 144 (1940)
+        - [ ] *Rhododendron himantodes var. himantodes* , 
+        - [ ] *Rhododendron himantodes var. lavandulifolium* Sleumer, Reinwardtia 5: 97 (1960)
+      - [ ] *Rhododendron lineare* Merr., J. Straits Branch Roy. Asiat. Soc. 76: 108 (1917)
+      - [ ] *Rhododendron lamrialianum* Argent & T.J.Barkman, New Plantsman 7: 208 (2000)
+        - [ ] *Rhododendron lamrialianum subsp. gunsalamianum* Argent & T.J.Barkman, New Plantsman 7: 214 (2000)
+        - [ ] *Rhododendron lamrialianum var. lamrialianum* , 
+      - [ ] *Rhododendron vinicolor* Sleumer, Reinwardtia 5: 98 (1960)
+      - [ ] *Rhododendron fallacinum* Sleumer, Reinwardtia 5: 99 (1960)
+      - [ ] *Rhododendron asperum* J.J.Sm., Nova Guinea 12: 137 (1914)
+      - [ ] *Rhododendron fortunans* J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 1: 401 (1920)
+      - [ ] *Rhododendron micromalayanum* Sleumer, Blumea 21: 364 (1973)
+      - [ ] *Rhododendron acuminatum* Hook.f., Hooker's Icon. Pl. 9: t. 886 (1851)
+      - [ ] *Rhododendron durionifolium* Becc., Malesia 1: 202 (1878)
+        - [ ] _(Rhododendron mjoehergii Merr., Sarawak Mus. J. 3: 542 (1928))_
+        - [ ] *Rhododendron durionifolium subsp. sabahense* Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 119 (1984)
+        - [ ] *Rhododendron durionifolium var. durionifolium* , 
+    - [ ] *Rhododendron sect. Discovireya* (Sleumer) Argent, Rhododendrons subgen. Vireya 21. (2006)
+      - [ ] _(Rhododendron subsect. Discoviryea Sleumer, Bot. Jahrb. Syst. 74:537. (1949))_
+      - [ ] *Rhododendron monodii* (H.J.Lam) Argent, Rhododendrons subgen. Vireya : 50 (2006)
+        - [ ] _(Rhododendron quadrasianum f. monodii H.J.Lam, Blumea 5: 576 (1945))_
+      - [ ] *Rhododendron cuneifolium* Stapf, Trans. Linn. Soc. London, Bot. 4: 198 (1894)
+        - [ ] _(Rhododendron quadrasianum var. cuneifolium (Stapf) H.F.Copel., Philipp. J. Sci., C 40:145. (1929))_
+        - [ ] *Rhododendron cuneifolium var. cuneifolium* , 
+        - [ ] *Rhododendron cuneifolium var. microcarpum* Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 118 (1984)
+        - [ ] *Rhododendron cuneifolium var. elongatum* Argent, Rhododendrons subgen. Vireya, ed. 2. 54. 2015
+      - [ ] *Rhododendron taxoides* J.J.Sm., Nova Guinea 18: 92 (1936)
+      - [ ] *Rhododendron ericoides* H.Low ex Hook.f., Hooker's Icon. Pl. 9: t. 887 (1851)
+      - [ ] *Rhododendron ciliilobum* Sleumer, Reinwardtia 5: 64 (1960)
+      - [ ] *Rhododendron × silvicola* (Sleumer) Sleumer, Sabah Parks Publ. 8: 102. 1988
+        - [ ] _(Rhododendron ericoides var. silvicolum Sleumer, Reinwardtia 5 (62). (1960))_
+      - [ ] *Rhododendron perakense* King & Gamble, J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 76 (1905)
+      - [ ] *Rhododendron scortechinii* King & Gamble, J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 76 (1905)
+        - [ ] _(Rhododendron orion Ridl., J. Fed. Malay States Mus. 5: 39 (1914))_
+      - [ ] *Rhododendron borneense* (J.J.Sm.) Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 118 (1984)
+        - [ ] _(Rhododendron quadrasianum var. borneense J.J.Sm., Bull. Jard. Bot. Buitenzorg III 13:444. (1935))_
+        - [ ] *Rhododendron borneense subsp. villosum* (J.J.Sm.) Argent, A.Lamb & Phillipps, Notes Roy. Bot. Gard. Edinburgh 42: 118 (1984)
+          - [ ] _(Rhododendron quadrasianum var. villosum J.J.Sm., Bull. Jard. Bot. Buitenzorg III 13:444. (1935))_
+        - [ ] *Rhododendron borneense subsp. borneense* , 
+        - [ ] *Rhododendron borneense subsp. angustissimum* (Sleumer) Argent, A.L.Lamb & Phillipps, Edinburgh J. Bot. 52: 363 (1995)
+          - [ ] _(Rhododendron quadrasianum var. angustissima Sleumer, Blumea 12:92. (1963))_
+          - [ ] _(Rhododendron quadrasianum subsp. angustissimum (Sleumer) Argent, Bot. J. Linn. Soc. 85: 16 (1982))_
+          - [ ] _(Rhododendron quadrasianum var. angustissimum Sleumer, Blumea 12:92. (1963))_
+      - [ ] *Rhododendron erosipetalum* J.J.Sm., Nova Guinea 18: 91 (1936)
+      - [ ] *Rhododendron oreites* Sleumer, Reinwardtia 5: 57 (1960)
+        - [ ] *Rhododendron oreites var. oreites* , 
+        - [ ] *Rhododendron oreites var. chlorops* Sleumer, Reinwardtia 5: 58 (1960)
+      - [ ] *Rhododendron quadrasianum* S.Vidal, Revis. Pl. Vasc. Filip. : 170 (1886)
+        - [ ] *Rhododendron quadrasianum var. intermedium* Merr., Philipp. J. Sci., C 3: 382 (1908)
+        - [ ] *Rhododendron quadrasianum var. quadrasianum* , 
+        - [ ] *Rhododendron quadrasianum var. davaoense* (H.F.Copel.) Sleumer, Reinwardtia 5: 65 (1960)
+          - [ ] _(Rhododendron quadrasianum f. davaoense H.F.Copel., Philipp. J. Sci., C 40:143. (1929))_
+          - [ ] _(Rhododendron quadrasianum f. negrosense H.F.Copel., Philipp. J. Sci., C 40:142. (1929))_
+        - [ ] *Rhododendron quadrasianum var. rosmarinifolium* (S.Vidal) H.F.Copel., Philipp. J. Sci. 40: 144 (1929)
+          - [ ] _(Rhododendron quadrasianum f. pulogense H.F.Copel., Philipp. J. Sci., C 40:144, pl.1. figs.19-23)_
+          - [ ] _(Rhododendron quadrasianum f. halconense H.F.Copel., Philipp. J. Sci., C 40:141, pl.1. fig.5)_
+          - [ ] _(Rhododendron rosmarinifolium S.Vidal, Revis. Pl. Vasc. Filip. 172. (1886))_
+          - [ ] _(Rhododendron quadrasianum f. banahaoense H.F.Copel., Philipp. J. Sci., C 40:145, pl.1. fig.24)_
+        - [ ] *Rhododendron quadrasianum var. malindangense* (Merr.) H.F.Copel., Philipp. J. Sci. 40: 142 (1929)
+          - [ ] _(Rhododendron malindangense Merr., Philipp. J. Sci., C 3: 256 (1908))_
+        - [ ] *Rhododendron quadrasianum var. selebicum* J.J.Sm., Bull. Jard. Bot. Buitenzorg sér. 3, 13: 443 (1935)
+        - [ ] *Rhododendron quadrasianum var. marivelesense* (H.F.Copel.) Sleumer, Reinwardtia 5: 66 (1960)
+          - [ ] _(Rhododendron quadrasianum f. marivelesense H.F.Copel., Philipp. J. Sci., C 40:141, pl.1. fig.27. (1929))_
+      - [ ] *Rhododendron lindaueanum* Koord., Nova Guinea 8: 878 (1912)
+        - [ ] _(Rhododendron fuchsioides Schltr., Bot. Jahrb. Syst. 55: 147 (1918))_
+        - [ ] *Rhododendron lindaueanum var. lindaueanum* , 
+          - [ ] _(Rhododendron lindaueanum var. latifolium J.J.Sm., Nova Guinea 12 (2):130, pl.29A. (1914))_
+          - [ ] _(Rhododendron lindaueanum var. cyclopicum Sleumer, Reinwardtia 5:59. (1960))_
+          - [ ] _(Rhododendron lindaueanum var. psilacrum Sleumer, Reinwardtia 5:58. (1960))_
+        - [ ] *Rhododendron lindaueanum var. bantaengense* J.J.Sm., Unknown Publ. ()
+      - [ ] *Rhododendron × epilosum* (J.J.Sm.) Argent, Rhododendrons subgen. Vireya 44. (2006)
+        - [ ] _(Rhododendron retusum var. epilosum J.J.Sm., Bull. Jard. Bot. Buitenzorg , sér. 3, 13: 446 (1935))_
+      - [ ] *Rhododendron nanophyton* Sleumer, Reinwardtia 5: 62 (1960)
+        - [ ] *Rhododendron nanophyton var. petrophilum* Sleumer, Unknown Publ. ()
+        - [ ] *Rhododendron nanophyton var. nanophyton* , 
+      - [ ] *Rhododendron nummatum* J.J.Sm., Nova Guinea 18: 91 (1936)
+      - [ ] *Rhododendron meliphagidum* J.J.Sm., Repert. Spec. Nov. Regni Veg. 30: 162 (1932)
+      - [ ] *Rhododendron seimundii* J.J.Sm., Gard. Bull. Straits Settlem. 8: 262 (1935)
+      - [ ] *Rhododendron buxoides* Sleumer, Blumea 21: 359 (1973)
+      - [ ] *Rhododendron spathulatum* Ridl., J. Straits Branch Roy. Asiat. Soc. 61: 25 (1912)
+      - [ ] *Rhododendron detznerianum* Sleumer, Blumea 21: 359 (1973)
+      - [ ] *Rhododendron cyrtophyllum* Wernham, Trans. Linn. Soc. London, Bot. 9: 97 (1916)
+      - [ ] *Rhododendron gaultheriifolium* J.J.Sm., Nova Guinea 18: 90 (1936)
+        - [ ] *Rhododendron gaultheriifolium var. gaultheriifolium* , 
+        - [ ] *Rhododendron gaultheriifolium var. expositum* Sleumer, Reinwardtia 5: 56 (1960)
+      - [ ] *Rhododendron hameliiflorum* Wernham, Trans. Linn. Soc. London, Bot. 9: 98 (1916)
+      - [ ] *Rhododendron retusum* (Blume) Benn., Pl. Jav. Rar. : 86 (1838)
+        - [ ] _(Vireya retusa Blume, Bijdr. Fl. Ned. Ind. : 856 (1826))_
+        - [ ] _(Azalea retusa (Blume) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+        - [ ] *Rhododendron retusum var. retusum* , 
+        - [ ] *Rhododendron retusum var. trichostylum* Sleumer, Reinwardtia 5: 55 (1960)
+      - [ ] *Rhododendron adinophyllum* Merr., Notul. Nat. Acad. Nat. Sci. Philadelphia 47: 3 (1940)
+    - [ ] *Rhododendron sect. Siphonovireya* Argent, Rhododendrons subgen. Vireya 21. (2006)
+      - [ ] *Rhododendron protandrum* Sleumer, Blumea 11: 114 (1961)
+      - [ ] *Rhododendron agathodaemonis* J.J.Sm., Repert. Spec. Nov. Regni Veg. 12: 209 (1913)
+      - [ ] *Rhododendron kogo* Danet, Adansonia , sér. 3, 29: 106 (2007)
+      - [ ] *Rhododendron herzogii* Warb., Bot. Jahrb. Syst. 16: 15 (1892)
+        - [ ] *Rhododendron herzogii var. occidentale* Argent, Rhododendrons subgen. Vireya, ed. 2. 73. 2015
+        - [ ] *Rhododendron herzogii var. herzogii* , 
+      - [ ] *Rhododendron dutartrei* Danet, Adansonia , sér. 3, 29: 108 (2007)
+      - [ ] *Rhododendron × diversiflorum* Danet, Rhododendron (Melbourne) 51: 15 (2011)
+      - [ ] *Rhododendron incommodum* Sleumer, Reinwardtia 5: 70 (1960)
+      - [ ] *Rhododendron gideonii* Argent, Folia Malaysiana 4: 104 (2003)
+      - [ ] *Rhododendron habbemae* Koord., Nova Guinea 8: 877 (1912)
+        - [ ] _(Rhododendron bodenii Wernham, Trans. Linn. Soc. London, Bot. 9: 94 (1916))_
+      - [ ] *Rhododendron cinchoniflorum* Sleumer, Reinwardtia 5: 68 (1960)
+      - [ ] *Rhododendron searleanum* Sleumer, Blumea 21: 367 (1973)
+        - [ ] _(Rhododendron reevei Argent, Folia Malaysiana 4: 106 (2003))_
+      - [ ] *Rhododendron × psammogenes* Sleumer, Reinwardtia 5: 150 (1960)
+        - [ ] *Rhododendron × psammogenes nothovar. psammogenes* , 
+        - [ ] *Rhododendron × psammogenes nothovar. inundatum* (Sleumer) Danet, Rhododendron (Melbourne) 51: 13 (2011)
+          - [ ] _(Rhododendron inundatum Sleumer, Blumea 12: 92 (1963))_
+      - [ ] *Rhododendron siobriense* Argent, Rhododendrons subgen. Vireya, ed. 2. 70. 2015
+    - [ ] *Rhododendron sect. Pseudovireya* (Clarke) Sleumer, Bot. Jahrb. Syst. 74:537. (1949)
+      - [ ] _(Rhododendron sect. Pseudovireya (Clarke) Argent, Rhododendrons subgen. Vireya 19. (2006))_
+      - [ ] _(Rhododendron subg. Pseudovireya Clarke, Fl. Brit. Ind. 3:464. (1882))_
+      - [ ] *Rhododendron rushforthii* Argent & D.F.Chamb., New Plantsman 3: 195 (1996)
+      - [ ] *Rhododendron emarginatum* Hemsl. & E.H.Wilson, Bull. Misc. Inform. Kew 1910: 118 (1910)
+        - [ ] _(Rhododendron maguanense K.M.Feng, Acta Bot. Yunnan. 5: 268 (1983))_
+        - [ ] _(Rhododendron leiboense Z.J.Zhao, Bull. Bot. Res., Harbin 7(3): 57 (1987))_
+        - [ ] _(Rhododendron poilanei Dop, Fl. Indo-Chine 3: 739 (1930))_
+        - [ ] _(Rhododendron euonymifolium H.Lév., Repert. Spec. Nov. Regni Veg. 12: 103 (1913))_
+        - [ ] *Rhododendron emarginatum var. emarginatum* , 
+        - [ ] *Rhododendron emarginatum var. eriocarpum* K.M.Feng, Acta Bot. Yunnan. 5: 268 (1983)
+      - [ ] *Rhododendron densifolium* K.M.Feng, Acta Bot. Yunnan. 5: 266 (1983)
+      - [ ] *Rhododendron trancongii* Argent & Rushforth, Rhododendrons Camellias Magnolias 61: 103 (2010)
+      - [ ] *Rhododendron insculptum* Hutch. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 16: 182 1931
+        - [ ] _(Rhododendron insculptum Kingdon-Ward, Gard. Chron. , ser. 3, 81: 251 (1927))_
+      - [ ] *Rhododendron rupivalleculatum* P.C.Tam, Guihaia 2: 69 (1982)
+      - [ ] *Rhododendron santapaui* Sastry, Kataki, Pet.A.Cox, Pat.Cox & Hutchison, J. Bombay Nat. Hist. Soc. 65: 744 (1969)
+      - [ ] *Rhododendron vaccinioides* Hook.f., Rhododendr. Sikkim-Himalaya 2: 3, t. 26A (1851)
+        - [ ] _(Rhododendron sinovaccinioides Balf.f. & Forrest, Notes Roy. Bot. Gard. Edinburgh 13: 295 (1922))_
+        - [ ] _(Azalea vacciniodes (Hook.f.) Kuntze, Revis. Gen. Pl. 2: 386 (1891))_
+      - [ ] *Rhododendron sororium* Sleumer, Blumea, Suppl. 4: 47 (1958)
+      - [ ] *Rhododendron asperulum* Hutch. & Kingdon-Ward, Notes Roy. Bot. Gard. Edinburgh 16(79): 182 (1931)
+      - [ ] *Rhododendron kawakamii* Hayata, J. Coll. Sci. Imp. Univ. Tokyo 30(1): 171 (1911)
+        - [ ] _(Rhododendron kawakamii var. flaviflorum Liu & Chuang, Quart. J. Taiwan Mus. 13: 64 1960)_
+        - [ ] _(Rhododendron kawakamii var. kawakamii , )_
+        - [ ] _(Rhododendron taiwanianum S.S.Ying, Quart. J. Chin. Forest. 9(4): 116 (1976))_
+      - [ ] *Rhododendron longipedicellatum* Lei Cai & Y.P.Ma, Phytotaxa 282: 296 (2016)
+      - [ ] *Rhododendron datiandingense* Zhi J.Feng, J. S. China Agric. Univ. 17(1): 59 (1996)
+  - [ ] *Rhododendron patuergensis* S.S.Ying, Mem. Coll. Agric. Natl. Taiwan Univ. 29(1): 75 (1989).
+  - [ ] *Rhododendron × transiens* Nakai, Trees Shrubs Japan : 103 (1922)
+    - [ ] _(Rhododendron tectum Koidz., Bot. Mag. (Tokyo) 37: 38 (1923))_
+  - [ ] *Rhododendron × koudzumontanum* Hid.Takah & Katsu., Bull. Kanagawa Pref. Mus., Nat. Sci. 21: 65 (1992)
+  - [ ] *Rhododendron × kisoanum* Okuhara ex T.Shimizu, Fl. Nagano Pref. : 1508 (1997)
+  - [ ] *Rhododendron × rosifaciens* R.I.Milne, Fl. Turkey 11: 322 (2000 publ. 2001)
+  - [ ] *Rhododendron liangshanicum* Z.J.Zhao, J. Sichuan Univ., Nat. Sci. Ed. 41: 1298 (2004)
+  - [ ] *Rhododendron hypoleucophyllum* Makino ex H.Hara, Enum. Spermatophytarum Japon. 1: 33 (1941)
+  - [ ] *Rhododendron huanshanense* S.S.Ying, New Taxa New Names 4: 149. 2021
+  - [ ] *Rhododendron × praecox* I.Davis, Gard. Chron. n.s., 9: 335. 1878 [16 Mar 1978]
+  - [ ] *Rhododendron × intermedium* Tausch, Flora 19: 36 (1836)
+    - [ ] _(Rhododendron intermedium Hegetschw., Fl. Schweiz [Hegetschweiler] 383. [Dec 1838-Jan 1839])_
+    - [ ] _(Rhododendron halense Grembl., Oesterr. Bot. Z. 24: 375 (1874))_
+    - [ ] _(Rhododendron hirsutiforme Grembl., Oesterr. Bot. Z. 24: 376 (1874))_
+  - [ ] *Rhododendron × davisianum* R.I.Milne, Fl. Turkey 11: 322 (2000 publ. 2001)
+  - [ ] *Rhododendron sajanense* Stepanov, Vestn. Krasnoyarsk. Gosud. Agrar. Univ. 4:160. (2017)
+  - [ ] *Rhododendron × inopinum* Balf.f. ex Tagg, Notes Roy. Bot. Gard. Edinburgh 15: 109 (1926)
+  - [ ] *Rhododendron × sikkimense* Pradhan & Lachungpa, Sikkim-Himalayan Rhododendrons : 74 (1990)
+  - [ ] *Rhododendron × enomotoi* T.Yamaz, J. Jap. Bot. 51: 31 (1976)
+  - [ ] *Rhododendron × jacksonii* auct., Bull. Soc. Natl. Hort. France V, 2: 217 1929
+  - [ ] *Rhododendron × bungonishikii* Komastsu, Bot. Mag. (Tokyo) 32: (46) (1918)
+  - [ ] *Rhododendron × duclouxii* H.Lév., Bull. Soc. Agric. Sarthe , sér. 2, 38: 49 (1903)
+  - [ ] *Rhododendron × rovellii* Leroy, Rev. Hort. (Paris) 39: 159 (1867)
+  - [ ] *Rhododendron × chukirishima* T.Yamaz, Revis. Gen. Rhododendron Japan, Taiwan, Korea & Sakhalin : 147 (1996)
+  - [ ] *Rhododendron × amoenum* Planch., Fl. Serres Jard. Eur. 9: 80 (1853)
+  - [ ] *Rhododendron × morteri* Sweet, Brit. Fl. Gard. 4: t. 10 1829
+    - [ ] _(Azalea morteri (Sweet) Sweet ex W.Baxter & Wooster, Suppl. Hort. Brit. 3: 496 1850)_
+  - [ ] *Rhododendron × fittianum* Balf.f., Notes Roy. Bot. Gard. Edinburgh 10: 108 (1917)
+  - [ ] *Rhododendron × pulcherrimum* Lindl., Edwards's Bot. Reg. 21: t. 1820. 1835 [1836 publ. 1835]
