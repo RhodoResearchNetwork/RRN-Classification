@@ -7,7 +7,7 @@ taxonomy:
   genus: Rhododendron
   section: [Ponticum]
   subsection: [Pontica]
-  species: [species name]
+  species: [ponticum]
   wfo_id: wfo-0000123456
   ipnilsid: urn:lsid:ipni.org:names:123456-1
 status: accepted
