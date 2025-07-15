@@ -27,7 +27,7 @@ Taxonomic proposals should be submitted as issues, which will be voted on monthl
 
 # Code of Conduct
 
-All participants agree to adhere to the code of conduct docs\Code of Conduct.md.
+All participants agree to adhere to the [code of conduct](docs\Code of Conduct.md).
 
 # Why GitHub?
 
