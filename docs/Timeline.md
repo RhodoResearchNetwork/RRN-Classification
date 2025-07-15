@@ -3,13 +3,13 @@
 We anticipate a 3-year project timeline to publication, with 6-month milestones that align with releases of the WFO. At the end of this 3-year milestone, we expect to be largely “caught up” with available data sources and new species, though we expect some problematic cases to linger for longer. We also expect that new species/data will continue to arise, so in year 2 we will draft a plan for maintenance, i.e. continuing the work at a slower pace for problematic cases, new species and new data sources that arise.
 
 1.	 YEAR 1: July 1, 2025-December 31, 2025
-    a.	Set up GitHub repository for workflows
-    b.	Reference library enhancements using a variety of sources
-    c.	Draft community guidelines, workflows and procedures
-    d.	Identify participants
-    e.	Determine taxa/workflows and assign to individual participants
-    f.	Train participants who need help with technological elements
-    g.	Test run procedures with participants
+    - a.	Set up GitHub repository for workflows
+    - b.	Reference library enhancements using a variety of sources
+    - c.	Draft community guidelines, workflows and procedures
+    - d.	Identify participants
+    - e.	Determine taxa/workflows and assign to individual participants
+    - f.	Train participants who need help with technological elements
+    - g.	Test run procedures with participants
 
 2.	YEAR 1: January 1, 2026-June 30, 2026
     a.	Revise guidelines, workflows and procedures based on test run

@@ -12,8 +12,8 @@ We will recruit participants and distribute information about this project and p
 # INTENDED PRODUCTS
 
 We will create a comprehensive and maintained checklist of *_Rhododendron_*.
-We will continually mataintain and improve the data in the *World Flora Online* for each of thier 6-monthly releases. 
-We will archive checklist in Zenodo.
+We will continually mataintain and improve the data in the *World Flora Online* for each of thier 6-monthly releases https://www.worldfloraonline.org/.
+We will archive checklist in the Rhododendron Research Network Zenodo archive https://zenodo.org/communities/rhododendron/records.
 We will enhance our existing Zotero literature database https://www.zotero.org/groups/4735534/rhodo-research.net. 
 We will create a webpage within the Rhododendron Research Network Website with links to all of these resources. 
 We will publish a paper in an academic journal to disseminate this work.
