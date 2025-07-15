@@ -18,6 +18,31 @@ We will enhance our existing Zotero literature database https://www.zotero.org/g
 We will create a webpage within the Rhododendron Research Network Website with links to all of these resources. 
 We will publish a paper in an academic journal to disseminate this work.
 
+# PROCESS
+
+We will correct nomenclatural records in Rhakhis.
+We will produce spreadsheets to facilitate acces for others.
+
+There will be a Python scripts created by Alan Elliott that will access the staged data in the WFO via a GraphQL API to generate a CSV files, in the Darwin Core Format, which contain taxon names and data associated with that taxon. These scripts will be available online for download by contributors, who will use the scripts to obtain species for editing, if they do not want to edit directly in Rhakhis. 
+
+Our current idea is that R-RN participants will adopt taxa with which they have expertise, and they will vet the species lists for those taxa. 
+Following, they will re-upload proposed changes back to the master list, where we’ll apply some sort of voting (to be determined) to ensure a baseline degree of quality and consistency.
+
+We will invite participants from the larger Rhododendron community, including academic scientists, botanical garden staff and expert volunteers (e.g., American Rhododendron Society). We will use email contact lists of the R-RN to identify and invite potential participants.
+
+# VOTING
+
+We will create a form here that will raise a GitHub an issue. There will be a period of time where the issues proposals can be discusses. A google form will be shared via an email list to voting can take place. 2/3rd majority of those who vote? 
+
+# VERSIONING
+We expect this project to produce updates to the taxonomic database. The working group leader (Alan Elliott) will be in charge of issuing updates to WFO. The R-RN community will be notified before any major updates. Only changes that have been approved by the voting system will be included in updates. A DOI will be provided for each version via Zenodo. 
+how are versions managed by the Rhakhis system? How exactly are updates passed to WFO? 
+
+# REFERENCE LIBRARY
+A Zotero library is being maintained by Juliana Medeiros to store references relevant to R-RN. Data sources will include items currently contained in the R-RN Zotero database. Additional resources identified by the group will be added to the Zotero database. We will especially strive to add smaller, regional publications, including making translations into English using Google translate, combined with vetting of translations by native language speakers.
+
+
+
 # Contributing
 
 All taxonomic decisions are made by the RRN community.
