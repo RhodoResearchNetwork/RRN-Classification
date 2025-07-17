@@ -1,5 +1,5 @@
 ---
-title: Rhododendron ponticum
+title: Rhododendron sikkimense
 scientific_name: Rhododendron sikkimense
 taxonomy:
   family: Ericaceae
@@ -30,15 +30,15 @@ metadata:
   created: 2025-07-17
   updated: 2025-07-17
 contributors:
-  - name: Alan
+  - name: Alan Elliott
     role: author
     github: [your-username]
 ---
 
-# Rhododendron [species name]
+# Rhododendron sikkimenese
 
 ## Taxonomic Overview  
-Rhododendron *[species name]* belongs to the subsection *Pontica* of section *Ponticum*. It is recognized as an [accepted/synonym/unresolved] name under World Flora Online.
+Rhododendron sikkimense is an invalid & unplaced named in the WFO June 2025 data http://list.worldfloraonline.org/wfo-0000405461. 
 
 ## Morphological Traits  
 This species exhibits an [evergreen] leaf type and reaches heights typical of [shrub/treelet] forms. Notable flower characteristics include [purple] blooms and growth within an elevation range of [1000–2500m].
