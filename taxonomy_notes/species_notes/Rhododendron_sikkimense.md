@@ -52,8 +52,6 @@ Endemic to the Sikkim.
 
 
 ## Remarks  
-Original publication did not cite a holotype so is invalidly published. Pradhan attempted? to validate the publication, but created a nom. nov. with the an correctable orthogtaphic variant -ensis and cited the Edinburgh specimen as a Lectotype rather than a holotype. I am not sure if this is enough to validate or it has caused more problems. IPNI notified.
+Original publication did not cite a holotype so is invalidly published. Pradhan (2023) attempted? to validate the publication, but created a nom. nov. with the an correctable orthographic variant -ensis and cited the Edinburgh specimen as a Lectotype rather than a holotype. I am not sure if this is enough to validate or it has caused more problems. IPNI notified.
 
 ---
-
-This layout encourages structured documentation while leaving room for narrative detail and scientific annotation.
