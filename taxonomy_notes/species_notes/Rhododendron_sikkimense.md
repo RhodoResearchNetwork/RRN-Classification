@@ -47,7 +47,7 @@ This species exhibits an [evergreen] leaf type and reaches heights typical of [s
 Endemic to the Sikkim.
 
 ## References  
-- 
+- Pradhan, U. C., & Lachungpa, S. T. (1990). Sikkim-Himalayan rhododendrons. Primulaceae Books.
 - Pradhan, D. K. (2023). Lectotypification of Rhododendron sikkimensis nom. nov (syn. Rhododendron sikkimense). Journal of Mountain Research, 18(1). https://doi.org/10.51220/jmr.v18i1.5 
 
 
