@@ -1,4 +1,3 @@
-
 ---
 title: Rhododendron ponticum
 scientific_name: Rhododendron sikkimense
