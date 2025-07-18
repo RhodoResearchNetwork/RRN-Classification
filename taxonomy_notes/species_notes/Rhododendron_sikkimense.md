@@ -41,7 +41,7 @@ contributors:
 Rhododendron sikkimense is an invalid & unplaced named in the WFO June 2025 data http://list.worldfloraonline.org/wfo-0000405461. 
 
 ## Morphological Traits  
-This species exhibits an [evergreen] leaf type and reaches heights typical of [shrub/treelet] forms. Notable flower characteristics include [purple] blooms and growth within an elevation range of [1000–2500m].
+
 
 ## Distribution & Habitat  
 Endemic to the Sikkim.
@@ -52,6 +52,8 @@ Endemic to the Sikkim.
 
 
 ## Remarks  
-Original publication did not cite a holotype so is invalidly published. Pradhan (2023) attempted? to validate the publication, but created a nom. nov. with the an correctable orthographic variant -ensis and cited the Edinburgh specimen as a Lectotype rather than a holotype. I am not sure if this is enough to validate or it has caused more problems. IPNI notified.
+Pradhan and Lachungpa (1990) did not cite a holotype so thier name is invalidly published. Pradhan (2023) validated the publication, but cited it as a nom. nov., rather than a tax. nov. and with the aa correctable typographic error in the epithet ending -ensis rather than, -ense. He also cited the Edinburgh specimen as a lectotype rather than a holotype, this is correctable under Art. 40.1 of the Mardid code.
+
+This record will recieve new IPNI and WFO IDs, the author string and publication details will be updated to reflect the data in those records.
 
 ---
