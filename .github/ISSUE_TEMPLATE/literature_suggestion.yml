@@ -12,7 +12,7 @@ body:
     attributes:
       label: Full citation
       description: Include author(s), year, title, journal, volume, and pages.
-      placeholder: e.g., Smith J. (2020). Revision of Rhododendron subgenus Hymenanthes. *Taxon*, 69(3): 456–470.
+      placeholder: e.g., Smith J. (2020). Revision of Rhododendron subgenus Hymenanthes. *Taxon*, 69(3)"":"" 456–470.
     validations:
       required: true
 
