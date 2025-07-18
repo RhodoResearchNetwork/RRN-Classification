@@ -1,4 +1,4 @@
-All taxonomic decisions are made by the RRN community.
+All taxonomic decisions are made by the R-RN community.
 
 Taxonomic proposals should be submitted as issues, which will be voted on monthly. Proposals may be commented upon in the issue tracker. Voting is carried out separately via a Google Form survey circulated on the PPG mailing list. Any proposal receiving >2/3 support will be approved and implemented in the data.
 
