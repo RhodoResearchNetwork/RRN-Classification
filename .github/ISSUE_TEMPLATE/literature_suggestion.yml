@@ -1,0 +1,61 @@
+name: Literature suggestion
+description: Suggest a publication relevant to Rhododendron taxonomy or phylogeny
+labels: ["literature", "reference suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to suggest literature that may inform taxonomic decisions, phylogenetic relationships, or ecological context. 
+
+  - type: input
+    id: citation
+    attributes:
+      label: Full citation
+      description: Include author(s), year, title, journal, volume, and pages.
+      placeholder: e.g., Smith J. (2020). Revision of Rhododendron subgenus Hymenanthes. *Taxon*, 69(3): 456–470.
+    validations:
+      required: true
+
+  - type: input
+    id: doi
+    attributes:
+      label: DOI or link
+      description: Provide a DOI or stable URL to the publication.
+      placeholder: e.g., https://doi.org/10.1111/jse.12229
+
+  - type: dropdown
+    id: relevance
+    attributes:
+      label: Relevance category
+      options:
+        - Taxonomic revision
+        - Phylogenetic analysis
+        - Biogeography
+        - Morphological study
+        - Ecological traits
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary of relevance
+      description: Briefly explain why this publication is important or how it should be used.
+      placeholder: e.g., This paper redefines species boundaries in subsection Pontica and provides a revised key.
+
+  - type: input
+    id: related-taxa
+    attributes:
+      label: Related taxa
+      description: List any Rhododendron taxa discussed or affected by the publication.
+      placeholder: e.g., Rhododendron ponticum, R. caucasicum
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/RhodoResearchNetwork/RRN-Classification/blob/main/docs/Code%20of%20Conduct.md).
+      options:
+        - label: I agree to follow the R-RN Code of Conduct
+          required: true
