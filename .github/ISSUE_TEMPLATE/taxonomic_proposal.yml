@@ -75,7 +75,7 @@ body:
     attributes:
       label: Reference(s) for publication of the name
       description: |
-        Only validly published names will be included in PPG.  
+        Only validly published names will be included in the classification.  
         Include DOI link if available. You may upload a PDF by dragging it into the box.
     validations:
       required: true
@@ -91,7 +91,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://pteridogroup.github.io/coc.html).
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/RhodoResearchNetwork/RRN-Classification/blob/main/docs/Code%20of%20Conduct.md).
       options:
-        - label: I agree to follow the PPG Code of Conduct
+        - label: I agree to follow the R-RN Code of Conduct
           required: true
