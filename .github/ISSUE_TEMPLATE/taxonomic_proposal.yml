@@ -1,0 +1,97 @@
+name: Taxonomic proposal
+description: Propose a taxonomic change
+labels: ["taxonomic proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form should be used for proposing a taxonomic change relative to [WFO June 2025](https://wfoplantlist.org).  
+        **All proposed names must be validly published according to the [International Code of Nomenclature for Algae, Fungi, and Plants](https://www.iapt-taxon.org/nomen/main.php).**
+
+        Please include the name of the taxon in the title above. The title should concisely describe the change (e.g., `Reclassificaiton of subsection Albovireya`).
+
+        For discussions about other topics, please use the [Discussion forum](https://github.com/orgs/RhodoResearchNetwork/discussions).
+
+  - type: input
+    id: author-name
+    attributes:
+      label: Author(s) of proposal
+
+  - type: input
+    id: taxon-name
+    attributes:
+      label: Name of taxon
+      description: |
+        Provide only the taxon name **without authors** (e.g., `Rhododendron`, not `Rhododendron L.`).  
+        For multiple taxa, separate names with commas (e.g., `Rhododendron thomsonii, Rhododendron macabeanum`).
+    validations:
+      required: true
+
+  - type: dropdown
+    id: taxon-rank
+    attributes:
+      label: Rank of taxon
+      description: |
+        Currently only proposals at the level of subgenus or higher are being considered.
+      options:
+        - Subgenus
+        - Section
+        - Subsection
+        - Series
+        - Species 
+        - Subspecies
+        - Variety
+        - Form
+    validations:
+      required: true
+
+  - type: input
+    id: num-species
+    attributes:
+      label: Approximate number of species affected
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of change
+      description: |
+        Describe the substance of the change. Include the full scientific name with author.
+
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for change
+      description: |
+        Provide justification for the change, citing relevant literature.  
+        Mention any contrary arguments that may be relevant.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference(s) for publication of the name
+      description: |
+        Only validly published names will be included in PPG.  
+        Include DOI link if available. You may upload a PDF by dragging it into the box.
+    validations:
+      required: true
+
+  - type: input
+    id: other
+    attributes:
+      label: Related issues
+      description: |
+        List issue numbers related to this proposal, e.g., `#1, #2`.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://pteridogroup.github.io/coc.html).
+      options:
+        - label: I agree to follow the PPG Code of Conduct
+          required: true
