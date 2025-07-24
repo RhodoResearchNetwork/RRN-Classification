@@ -4,6 +4,7 @@ genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
 kingdom: "Plantae"
+<<<<<<< HEAD
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
 author: "Chamberlain, D.F."
@@ -21,6 +22,17 @@ ipni id: ""
 
                        
 
+=======
+source: "http://data.rbge.org.uk/taxa/Rhododendron/adenogynum"
+identifier: "http://data.rbge.org.uk/taxa/Rhododendron/adenogynum"
+tags: ["taxonomy", "Rhododendron"]
+name published in: "Notes R.B.G. Edinb. 5:216 (1912)."
+doi:""
+wfo id : ""
+ipni id: ""                      
+---
+
+>>>>>>> 36503d47fbdeaccc228e98e67b6c777beb7770eb
 # Rhododendron adenogynum Diels
 
 ## Description
