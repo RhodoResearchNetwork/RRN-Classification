@@ -8,7 +8,7 @@ source: "http://data.rbge.org.uk/taxa/Rhododendron/aberconwayi"
 identifier: "http://data.rbge.org.uk/taxa/Rhododendron/aberconwayi"
 tags: ["taxonomy", "Rhododendron"]
 name published in: "Rhododendron Yearbook 3: 42, f. 17 (1949)."
-doi:""
+doi: ""
 wfo id : ""
 ipni id: ""                      
 ---
