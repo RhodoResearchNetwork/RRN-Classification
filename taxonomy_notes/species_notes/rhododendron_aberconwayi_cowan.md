@@ -4,11 +4,11 @@ genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
 kingdom: "Plantae"
----
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
 author: "Chamberlain, D.F."
 created: "1982"
+---
 rights holder: "Royal Botanic Garden Edinburgh"
 license: ""
 tags: ["taxonomy", "Rhododendron"]
