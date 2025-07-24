@@ -1,0 +1,46 @@
+---
+title: "Rhododendron roseatum Hutchinson"
+genus: "Rhododendron"
+family: "Ericaceae"
+order: "Ericales"
+kingdom: "Plantae"
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
+author: "Cullen, J."
+created: "1980"
+rights holder: "Royal Botanic Garden Edinburgh"
+license: ""
+tags: ["taxonomy", "Rhododendron"]
+name published in: "Notes R.B.G. Edinb. 12:57 (1919)"
+doi: ""
+wfo id : ""
+wfo parent id: ""
+wfo accepted id: "" //if synonym                      
+ipni id: ""
+---
+
+                       
+
+# Rhododendron roseatum Hutchinson
+
+## Description
+Shrub from 1-4 m. Young branches sparsely loriform-setose, the setae quickly deciduous. Leaves ± obovate, tapered to the base, abruptly acute at the apex, 70-120 x 35-60 mm, the lower surface brownish with lax to rather dense scales. Inflorescence (2-)3-5-flowered. Calyx obscurely lobed, loriform-ciliate. Corolla white or white flushed pink, with a yellow blotch at the base, (50-)55-75 mm, tube (28-)30~40 mm, pubescent at the base outside, the whole surface laxly lepidote. Capsule lepidote, c. 20 mm.
+
+## Distribution
+China (W & SW Yunnan)
+
+## Altitude
+
+
+## Habitat
+Forests, hillsides, scrub
+
+## Nomenclatural History
+R. lasiopodum Hutchinson, op. cit.: 58. Type: China, Yunnan, Shweli/Salween Divide, 8000-9000 ft, v 1913, Forrest 9919 (holo. E)
+                       
+## Notes
+
+
+## References
+
+Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):51

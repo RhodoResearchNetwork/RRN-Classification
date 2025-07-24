@@ -1,0 +1,46 @@
+---
+title: "Rhododendron hanceanum Hemsley"
+genus: "Rhododendron"
+family: "Ericaceae"
+order: "Ericales"
+kingdom: "Plantae"
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
+author: "Cullen, J."
+created: "1980"
+rights holder: "Royal Botanic Garden Edinburgh"
+license: ""
+tags: ["taxonomy", "Rhododendron"]
+name published in: "Journ. Linn. Soc. Bot. 26:24 (1889)"
+doi: ""
+wfo id : ""
+wfo parent id: ""
+wfo accepted id: "" //if synonym                      
+ipni id: ""
+---
+
+                       
+
+# Rhododendron hanceanum Hemsley
+
+## Description
+Shrub to 2 m. Young growth lepidote. Leaves narrowly ovate or ± oblong-elliptic, acuminate at the apex with a conspicuous drip tip, tapered to the abruptly or more smoothly rounded base, 70-115 x 34-57 mm, lower surface pale green with rather distant, flat or slightly sunken golden-brown scales, upper surface elepidote, slightly puberulent along the main vein near the base. Inflorescence 5-15-flowered with a conspicuous rachis up to 12 mm, pedicels sparsely lepidote, c. 10 mm. Calyx lobes c. 5 mm, narrowly triangular, sparsely fringed with scales. Corolla white, narrowly funnel-campanulate, c. 20 mm, tube c. 12 mm, glabrous and elepidote outside, sparsely pilose inside at the base of the tube. Stamens 10, filaments pilose towards the base, long-exserted from the corolla. Ovary lepidote, style impressed, glabrous, exceeding stamens. Capsule ovoid-cylindric, lepidote, c. 8 mm
+
+## Distribution
+China (C Sichuan)
+
+## Altitude
+
+
+## Habitat
+Cliffs
+
+## Nomenclatural History
+
+                       
+## Notes
+
+
+## References
+
+Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):128

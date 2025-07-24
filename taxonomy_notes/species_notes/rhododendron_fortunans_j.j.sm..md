@@ -1,0 +1,46 @@
+---
+title: "Rhododendron fortunans J.J.Sm."
+genus: "Rhododendron"
+family: "Ericaceae"
+order: "Ericales"
+kingdom: "Plantae"
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
+author: "Argent, G."
+created: "2006"
+rights holder: "Royal Botanic Garden Edinburgh"
+license: ""
+tags: ["taxonomy", "Rhododendron"]
+name published in: "Bull. Jard. Bot. Buit. III, 1920. 1: 401, t.49."
+doi: ""
+wfo id : ""
+wfo parent id: ""
+wfo accepted id: "" //if synonym                      
+ipni id: ""
+---
+
+                       
+
+# Rhododendron fortunans J.J.Sm.
+
+## Description
+Shrub to 2m. Twigs c.1.5mm in diameter, densely and persistently brown-scaly; internodes 2–7cm. Leaves 3–5 together in a loose pseudowhorl, or, especially the smaller ones, spirally and evenly arranged along the stems. Blade 25–130 x 6–40mm, narrowly elliptic to elliptic; apex acute or acuminate, the extreme tip rounded; margin revolute especially in the smaller leaves; base acutely tapering, scaly on both sides initially, silvery-scaly but glabrescent above with age although leaving dark pits from scale attachments; beneath completely covered with overlapping brown scales. Scales very variable in size, the largest c.0.2mm in diameter, with pale brown, broad flanges and large, dark brown, centres. Mid-vein very broad beneath, gradually decreasing distally; lateral veins 5–10 per side, wide-spreading almost to a right angle or in small leaves not visible, clearly anastomosing; distinctly impressed above, prominent beneath, with lax reticulation; lamina markedly rugose. Petiole 5–12 x 2–3mm, grooved above, somewhat flattened, densely scaly. Flower buds ovoid, large. Bracts to 24 x 12mm, ovate to obovate-spathulate, the outer ones all over finely hairy, scaly in the upper outer part, the inner ones scaly only externally, all fringed with simple white hairs. Bracteoles to 16mm, linear below, spathulate distally, ciliate. Inflor­escence of 10–13 flowers in a complete or open umbel. Pedicels 15–20mm, thick, densely scaly. Calyx oblique, small, cup-shaped, shortly obtusely 5-lobed, densely scaly. Corolla 15 x 20mm, widely funnel-shaped, white, without scent; tube 3–6 x 3 x 6mm, shortly funnel-shaped, very densely brown-scaly, densely hairy inside except where the filaments are inserted; lobes 9–12 x 9–12mm, glabrous inside, brown-scaly in the lower ½ outside. Stamens c.9mm; filaments white, linear, glabrous at the very base then hairy to the apex; anthers c.3mm, purple-brown, the cells divergent below, each bearing a basal conical obtuse lobe. Disc glabrous. Ovary 2.5 x 1.7mm, conical, densely scaly, gradually tapering distally; style 2.5mm, thick, glabrous; stigma thick, rounded. Fruit brown, shortly cylindrical, 18–23 x 3mm.
+
+## Distribution
+Indonesia, C Borneo, top of Bukit Raya in the Schwaner Mts
+
+## Altitude
+
+
+## Habitat
+
+
+## Nomenclatural History
+
+                       
+## Notes
+
+
+## References
+
+Argent, G. (2006) Rhododendrons of subgenus Vireya. RHS:London. Page:116

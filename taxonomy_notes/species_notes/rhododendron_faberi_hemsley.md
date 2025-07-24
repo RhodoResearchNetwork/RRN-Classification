@@ -1,0 +1,46 @@
+---
+title: "Rhododendron faberi Hemsley"
+genus: "Rhododendron"
+family: "Ericaceae"
+order: "Ericales"
+kingdom: "Plantae"
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
+author: "Chamberlain, D.F."
+created: "1982"
+rights holder: "Royal Botanic Garden Edinburgh"
+license: ""
+tags: ["taxonomy", "Rhododendron"]
+name published in: "J. Linn. Soc, Bot. 26: 22 (1889)"
+doi: ""
+wfo id : ""
+wfo parent id: ""
+wfo accepted id: "" //if synonym                      
+ipni id: ""
+---
+
+                       
+
+# Rhododendron faberi Hemsley
+
+## Description
+Shrub, c.2m. Leaves elliptic to ovate-lanceolate, 6-17 x 2.8-8cm, 2-2.5 x as long as broad, apex acuminate to apiculate, base rounded, lower surface with a bistrate indumentum, the upper layer loose, composed of rust-red detersile ramiform hairs that usually do not persist, the lower compacted, whitish, persistent; petioles 0.5-2cm, densely tomentose. Inflorescence 7—20-flowered; rhachis up to 10mm; pedicels (15—)25—30mm, densely glandular. Calyx 7-10mm, sparsely glandular, lobes broad, divided almost to base. Corolla campanulate to funnel-campanulate, white or cream to pink, sometimes with crimson flecks and/or a basal blotch, 30-40mm. Ovary densely stipitate-glandular, sometimes also hairy; style glabrous or glandular at base. Capsule 15-20 x c.5mm. ** * Rhododendron faberi * var. * faberi * ** Leaves 6-11 x 2.8—4.5cm, when juvenile with upper layer of indumentum dense ** * Rhododendron faberi * var. * prattii * ** Leaves 10-17 x 5-8cm, when juvenile with upper layer of indumentum sparse
+
+## Distribution
+China (C Sichuan)
+
+## Altitude
+
+
+## Habitat
+
+
+## Nomenclatural History
+
+                       
+## Notes
+
+
+## References
+
+Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):359
