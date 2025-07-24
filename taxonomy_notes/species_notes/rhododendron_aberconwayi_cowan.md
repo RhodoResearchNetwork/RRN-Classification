@@ -1,7 +1,6 @@
 ---
 title: "Rhododendron aberconwayi Cowan"
 genus: "Rhododendron"
----
 family: "Ericaceae"
 order: "Ericales"
 kingdom: "Plantae"
