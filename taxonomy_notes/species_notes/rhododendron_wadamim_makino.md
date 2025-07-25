@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron wadamim Makino"
+scientific name: "Rhododendron wadamim Makino"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Jap. Bot. 1: 21 (1917). No type cited."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

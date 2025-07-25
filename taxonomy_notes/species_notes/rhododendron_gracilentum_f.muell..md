@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron gracilentum F.Muell."
+scientific name: "Rhododendron gracilentum F.Muell."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Trans. R. Soc. Vict. n.s. 1889. 1(2): 22."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

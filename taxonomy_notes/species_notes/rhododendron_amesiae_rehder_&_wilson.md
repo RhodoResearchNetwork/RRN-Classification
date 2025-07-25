@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron amesiae Rehder & Wilson"
+scientific name: "Rhododendron amesiae Rehder & Wilson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "PL Wils. 1:523 (1913)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

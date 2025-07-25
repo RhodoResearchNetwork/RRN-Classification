@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron carneum Hutchinson"
+scientific name: "Rhododendron carneum Hutchinson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. 141: t. 8634 (1915)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

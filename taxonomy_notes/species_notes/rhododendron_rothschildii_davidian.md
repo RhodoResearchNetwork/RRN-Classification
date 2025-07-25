@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron rothschildii Davidian"
+scientific name: "Rhododendron rothschildii Davidian"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendrons 1972: 50 (1972)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

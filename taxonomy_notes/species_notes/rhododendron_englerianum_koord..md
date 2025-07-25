@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron englerianum Koord."
+scientific name: "Rhododendron englerianum Koord."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Nova Guinea 1909. 8: 186."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

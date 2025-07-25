@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron championae Hooker f."
+scientific name: "Rhododendron championae Hooker f."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. 77: t. 4609 (1851). Type: the plate cited."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

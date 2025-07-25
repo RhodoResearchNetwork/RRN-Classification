@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron falconeri Hooker f."
+scientific name: "Rhododendron falconeri Hooker f."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendrons Sikkim Himalaya 1.10 (1849)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

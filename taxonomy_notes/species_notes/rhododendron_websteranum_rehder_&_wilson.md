@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron websteranum Rehder & Wilson"
+scientific name: "Rhododendron websteranum Rehder & Wilson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rho
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

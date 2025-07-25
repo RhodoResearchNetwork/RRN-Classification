@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron yongii Argent"
+scientific name: "Rhododendron yongii Argent"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. J. Linn. Soc. 1982. 85: 12."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron purdomii Rehder & Wilson in Sargent (ed.)"
+scientific name: "Rhododendron purdomii Rehder & Wilson in Sargent (ed.)"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "PI Wilsonianae 1: 538 (1913)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

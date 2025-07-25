@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron lanceolatum Ridl."
+scientific name: "Rhododendron lanceolatum Ridl."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Str. Br. R. As. Soc. 1912. 63: 60."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

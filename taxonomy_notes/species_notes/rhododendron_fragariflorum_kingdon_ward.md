@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron fragariflorum Kingdon Ward"
+scientific name: "Rhododendron fragariflorum Kingdon Ward"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gard. Chron. 86:504 (1929) and Notes R.B.G. Edinb. 16:179 (1
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

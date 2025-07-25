@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron capitatum Maximowicz"
+scientific name: "Rhododendron capitatum Maximowicz"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Acad. Imp. Sci. St. Petersb. 23:351 (1877)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

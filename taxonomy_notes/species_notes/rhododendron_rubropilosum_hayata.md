@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron rubropilosum Hayata"
+scientific name: "Rhododendron rubropilosum Hayata"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Coll. Sci. Imp. Univ. Tokyo 30(1): 173 (1911). Syntypes: 
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

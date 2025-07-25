@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron cavaleriei Leveille"
+scientific name: "Rhododendron cavaleriei Leveille"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Soc. Agric. Art. Sarthe 39:48 (1903)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

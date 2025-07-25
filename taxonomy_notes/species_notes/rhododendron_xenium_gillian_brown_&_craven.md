@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron xenium Gillian Brown & Craven"
+scientific name: "Rhododendron xenium Gillian Brown & Craven"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Novon 2003. 13: 26."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron kemulense J.J.Sm."
+scientific name: "Rhododendron kemulense J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Jard. Bot. Buit. III, 1935. 13: 448."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

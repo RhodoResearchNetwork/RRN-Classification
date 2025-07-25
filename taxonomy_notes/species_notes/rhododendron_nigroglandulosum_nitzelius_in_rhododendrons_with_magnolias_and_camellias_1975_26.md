@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron nigroglandulosum Nitzelius in Rhododendrons with Magnolias and Camellias 1975: 26"
+scientific name: "Rhododendron nigroglandulosum Nitzelius in Rhododendrons with Magnolias and Camellias 1975: 26"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "f.2 & 3 (1975)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

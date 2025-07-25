@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron macgregoriae F.Muell."
+scientific name: "Rhododendron macgregoriae F.Muell."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Bot. 1891. 29: 177."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

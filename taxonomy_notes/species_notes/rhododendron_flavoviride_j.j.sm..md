@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron flavoviride J.J.Sm."
+scientific name: "Rhododendron flavoviride J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Med. Rijksherb. 1915. 25: 4."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

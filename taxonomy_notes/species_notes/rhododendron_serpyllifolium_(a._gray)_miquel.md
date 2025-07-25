@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron serpyllifolium (A. Gray) Miquel"
+scientific name: "Rhododendron serpyllifolium (A. Gray) Miquel"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Ann. Mus. Lugduno-Batavum 2:165 (1865-66)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

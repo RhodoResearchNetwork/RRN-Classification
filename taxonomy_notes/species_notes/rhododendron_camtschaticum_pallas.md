@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron camtschaticum Pallas"
+scientific name: "Rhododendron camtschaticum Pallas"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fl. Ross. 1:48, t. 33 (1784)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

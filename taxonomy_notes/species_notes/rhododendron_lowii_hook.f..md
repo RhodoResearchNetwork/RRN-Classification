@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron lowii Hook.f."
+scientific name: "Rhododendron lowii Hook.f."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Ic. Pl. 1852. t.883 (lowei)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

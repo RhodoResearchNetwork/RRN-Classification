@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron korthalsii Miquel"
+scientific name: "Rhododendron korthalsii Miquel"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Ann. Mus. Bot. Lugdano-Batavum 1: 43 (1863)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

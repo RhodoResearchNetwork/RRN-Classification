@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron ludwigianum Hosseus"
+scientific name: "Rhododendron ludwigianum Hosseus"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Beih. Bot. Centr. 28(2):122 (1911)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron walongense Kingdon Ward"
+scientific name: "Rhododendron walongense Kingdon Ward"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gard. Chron. 133:5 (1953)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron vesiculiferum Tagg"
+scientific name: "Rhododendron vesiculiferum Tagg"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Stevenson (ed.) The Species of Rhododendron 143 (1930) & Not
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

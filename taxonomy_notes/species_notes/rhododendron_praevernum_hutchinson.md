@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron praevernum Hutchinson"
+scientific name: "Rhododendron praevernum Hutchinson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gard. Chron. ser. 3, 67:127 (1920)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

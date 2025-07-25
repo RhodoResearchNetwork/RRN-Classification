@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron recurvoides Tagg & Kingdon-Ward"
+scientific name: "Rhododendron recurvoides Tagg & Kingdon-Ward"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendron Society Notes 3, 5: 284 (1932)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

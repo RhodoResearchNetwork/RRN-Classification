@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron multicolor Miq."
+scientific name: "Rhododendron multicolor Miq."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fl. Ind. Bat. 1860. Suppl. 1: 251, 586."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

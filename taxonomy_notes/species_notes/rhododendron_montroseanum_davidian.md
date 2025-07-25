@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron montroseanum Davidian"
+scientific name: "Rhododendron montroseanum Davidian"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 37: 338 (1979)-see also Davidian, Quart.
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron armitii F.M.Bailey"
+scientific name: "Rhododendron armitii F.M.Bailey"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Bull. Queensl. Dep. Agr. 1895. 10: 39."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

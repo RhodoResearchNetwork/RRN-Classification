@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron macrophyllum [D. Don ex] G. Don"
+scientific name: "Rhododendron macrophyllum [D. Don ex] G. Don"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gen. Syst. 3: 843 (1834)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

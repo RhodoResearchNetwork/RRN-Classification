@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron veitchianum Hooker"
+scientific name: "Rhododendron veitchianum Hooker"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. 83: t. 4992 (1857)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

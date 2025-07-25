@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron seimundii J.J.Sm."
+scientific name: "Rhododendron seimundii J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gard. Bull. S.S. 1935. 8(3): 262."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

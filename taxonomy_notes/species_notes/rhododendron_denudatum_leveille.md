@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron denudatum Leveille"
+scientific name: "Rhododendron denudatum Leveille"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Feddes Repert. 13: 339 (1914)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

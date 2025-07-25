@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron pruniflorum Hutchinson"
+scientific name: "Rhododendron pruniflorum Hutchinson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Stevenson (ed.), The Species of Rhododendron 302 (1930)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

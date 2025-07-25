@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron bureavii Franchet"
+scientific name: "Rhododendron bureavii Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Soc. Bot. France 34: 281 (1887)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

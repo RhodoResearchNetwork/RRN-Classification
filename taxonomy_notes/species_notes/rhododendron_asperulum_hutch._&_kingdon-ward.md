@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron asperulum Hutch. & Kingdon-Ward"
+scientific name: "Rhododendron asperulum Hutch. & Kingdon-Ward"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes RBG Edinb. 1931. 16: 182."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

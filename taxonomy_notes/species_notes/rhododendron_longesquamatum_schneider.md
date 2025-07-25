@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron longesquamatum Schneider"
+scientific name: "Rhododendron longesquamatum Schneider"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "111. Handb. Laubh. 2:483 (1909)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron horlickianum Davidian"
+scientific name: "Rhododendron horlickianum Davidian"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendrons (R.H.S.), 53 (1972)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

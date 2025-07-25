@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron tintinnabellum Danet"
+scientific name: "Rhododendron tintinnabellum Danet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Adansonia 2005. 27(2): 268."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

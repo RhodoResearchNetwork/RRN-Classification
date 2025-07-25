@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron vaccinioides Hook.f."
+scientific name: "Rhododendron vaccinioides Hook.f."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhod. Sikkim. Himal. 1851. ii: 3."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron celebicum (Blume) DC."
+scientific name: "Rhododendron celebicum (Blume) DC."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bijdr. 1826. 855."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

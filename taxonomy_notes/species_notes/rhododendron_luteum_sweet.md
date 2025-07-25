@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron luteum Sweet"
+scientific name: "Rhododendron luteum Sweet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Hort. Brit. ed. 2, 343 (1830), non Azalea lutea L., Sp. PL e
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

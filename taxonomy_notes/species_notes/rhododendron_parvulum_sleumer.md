@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron parvulum Sleumer"
+scientific name: "Rhododendron parvulum Sleumer"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Reinwardtia 1960. 5: 139."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

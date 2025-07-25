@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron impositum J.J.Sm."
+scientific name: "Rhododendron impositum J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fedde Rep. 1937. 68: 201."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

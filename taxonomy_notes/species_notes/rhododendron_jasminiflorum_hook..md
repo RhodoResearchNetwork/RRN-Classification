@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron jasminiflorum Hook."
+scientific name: "Rhododendron jasminiflorum Hook."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. 1850. t.4525."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

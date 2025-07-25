@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron loboense H.F.Copel."
+scientific name: "Rhododendron loboense H.F.Copel."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Phil. J. Sc. 1929. 40: 172, t.15, f.3, t.16, f.5–6."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

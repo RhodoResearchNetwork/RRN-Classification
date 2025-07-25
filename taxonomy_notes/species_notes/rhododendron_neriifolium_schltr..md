@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron neriifolium Schltr."
+scientific name: "Rhododendron neriifolium Schltr."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Jahr. 1918. 55: 149."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron haofui Chun & Fang"
+scientific name: "Rhododendron haofui Chun & Fang"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Acta Phytotax. Sin. 6: 170, t.41, f.l (1957)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

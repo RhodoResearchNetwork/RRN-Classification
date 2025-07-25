@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron chevalieri Dop"
+scientific name: "Rhododendron chevalieri Dop"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rév. de Bot. Appl. et d’Agric. Trop. 1929. 9(92): 256, t.
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

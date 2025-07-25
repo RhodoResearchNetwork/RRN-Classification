@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron chunii Fang"
+scientific name: "Rhododendron chunii Fang"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Sunyatsenia 7:1 (1948)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

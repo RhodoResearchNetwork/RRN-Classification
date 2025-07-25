@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron kiyosumense (Makino) Makino"
+scientific name: "Rhododendron kiyosumense (Makino) Makino"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fl. Jap. ed.2: 880 (1931)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

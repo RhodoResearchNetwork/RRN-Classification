@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron asperum J.J.Sm."
+scientific name: "Rhododendron asperum J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Nova Guinea 1914. 12: 137, t.34."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

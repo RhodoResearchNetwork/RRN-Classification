@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron hookeri Nuttall in Hooker's J. Bot. Kew Gard. Misc. 5: 359 (1853). Type: NE India"
+scientific name: "Rhododendron hookeri Nuttall in Hooker's J. Bot. Kew Gard. Misc. 5: 359 (1853). Type: NE India"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Arunachal Pradesh, 'Bootan', Oola Mountains, on the southern
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

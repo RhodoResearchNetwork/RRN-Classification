@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron floccigerum Franchet"
+scientific name: "Rhododendron floccigerum Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Bot. (Morot) 12:259 (1898)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

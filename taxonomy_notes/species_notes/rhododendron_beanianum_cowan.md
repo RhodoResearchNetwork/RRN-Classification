@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron beanianum Cowan"
+scientific name: "Rhododendron beanianum Cowan"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "New Flora & Silva 10: 245, f. 80 (1938)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

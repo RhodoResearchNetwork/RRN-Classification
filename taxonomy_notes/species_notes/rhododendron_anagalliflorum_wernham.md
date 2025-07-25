@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron anagalliflorum Wernham"
+scientific name: "Rhododendron anagalliflorum Wernham"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Trans. Linn. Soc. London, II, Bot. 1916. 9: 94."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

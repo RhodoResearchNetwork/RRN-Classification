@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron stelligerum Sleumer"
+scientific name: "Rhododendron stelligerum Sleumer"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Blumea 1961. 11: 115."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

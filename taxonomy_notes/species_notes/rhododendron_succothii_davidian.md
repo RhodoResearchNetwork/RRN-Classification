@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron succothii Davidian"
+scientific name: "Rhododendron succothii Davidian"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendron Yearbook 20: 103, t.8 (1965)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

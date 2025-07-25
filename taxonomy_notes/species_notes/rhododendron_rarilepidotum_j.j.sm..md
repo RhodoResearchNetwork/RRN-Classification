@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron rarilepidotum J.J.Sm."
+scientific name: "Rhododendron rarilepidotum J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "In Merr., Contr. Arn. Arb. 1934. 8: 126."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

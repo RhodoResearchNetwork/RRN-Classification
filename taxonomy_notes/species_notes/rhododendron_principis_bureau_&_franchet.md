@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron principis Bureau & Franchet"
+scientific name: "Rhododendron principis Bureau & Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -16,8 +16,9 @@ name published in: "J. Bot. (Morot) 5: 93, t.l (1891). Type: China, Xizang, entr
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

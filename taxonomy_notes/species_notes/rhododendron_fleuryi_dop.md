@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron fleuryi Dop"
+scientific name: "Rhododendron fleuryi Dop"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rev. Bot. Appl. Agric. Trop. 9:255 (1929)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

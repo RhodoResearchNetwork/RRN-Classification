@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron austiinum (Small) Rehder"
+scientific name: "Rhododendron austiinum (Small) Rehder"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bailey, Stand. Cycl. Hort. 6: 3571 (1917)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

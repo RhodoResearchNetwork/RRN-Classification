@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron coeloneuron Diels"
+scientific name: "Rhododendron coeloneuron Diels"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Jahrb. 29: 513 (1900); Fang, Contr. biol. Lab. Sci. Soc
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

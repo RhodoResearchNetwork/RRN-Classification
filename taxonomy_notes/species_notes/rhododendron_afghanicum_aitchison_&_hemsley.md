@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron afghanicum Aitchison & Hemsley"
+scientific name: "Rhododendron afghanicum Aitchison & Hemsley"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Journ. Linn. Soc. 18:75 (1880)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

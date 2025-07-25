@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron glabrifilum J.J.Sm."
+scientific name: "Rhododendron glabrifilum J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Nova Guinea 1914. 12: 134, t.31."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

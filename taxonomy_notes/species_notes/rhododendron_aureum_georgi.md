@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron aureum Georgi"
+scientific name: "Rhododendron aureum Georgi"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Reise 1: 51, 214 (1775)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

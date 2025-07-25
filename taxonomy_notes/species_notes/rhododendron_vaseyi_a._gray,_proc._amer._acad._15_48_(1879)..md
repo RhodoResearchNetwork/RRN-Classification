@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron vaseyi A. Gray, Proc. Amer. Acad. 15: 48 (1879)."
+scientific name: "Rhododendron vaseyi A. Gray, Proc. Amer. Acad. 15: 48 (1879)."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Judd, W.S. & Kron, K.A. (1995) A Revision of Rhododendron VI
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

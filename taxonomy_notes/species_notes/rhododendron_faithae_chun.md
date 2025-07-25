@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron faithae Chun"
+scientific name: "Rhododendron faithae Chun"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Sunyatsenia 2: 78 t.19 (1934)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

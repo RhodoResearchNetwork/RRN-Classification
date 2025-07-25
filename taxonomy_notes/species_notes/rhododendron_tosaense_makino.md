@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron tosaense Makino"
+scientific name: "Rhododendron tosaense Makino"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. (Tokyo) 18: 101 (1904)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

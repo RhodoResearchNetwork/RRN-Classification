@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron mayebarae Nakai & Hara"
+scientific name: "Rhododendron mayebarae Nakai & Hara"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Jap. Bot. 11: 825 (1935)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

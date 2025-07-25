@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron papillatum Balfour f. & Cooper"
+scientific name: "Rhododendron papillatum Balfour f. & Cooper"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 13: 282 (1922)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

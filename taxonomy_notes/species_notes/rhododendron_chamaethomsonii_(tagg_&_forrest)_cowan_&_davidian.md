@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron chamaethomsonii (Tagg & Forrest) Cowan & Davidian"
+scientific name: "Rhododendron chamaethomsonii (Tagg & Forrest) Cowan & Davidian"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendron Yearbook 6: 70 (1951)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

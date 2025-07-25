@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron japonicum (Blume) Schneider"
+scientific name: "Rhododendron japonicum (Blume) Schneider"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Ill. Handb. Laubh. 2:490(1909), non (A. Gray) Suringar (1908
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

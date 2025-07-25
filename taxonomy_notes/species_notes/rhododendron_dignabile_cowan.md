@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron dignabile Cowan"
+scientific name: "Rhododendron dignabile Cowan"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 19: 241 (1938)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

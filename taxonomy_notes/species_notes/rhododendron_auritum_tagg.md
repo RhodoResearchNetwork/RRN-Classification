@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron auritum Tagg"
+scientific name: "Rhododendron auritum Tagg"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhodo. Soc. Notes 3:278 (1931) & Notes R.B.G. Edinb. 18:218 
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

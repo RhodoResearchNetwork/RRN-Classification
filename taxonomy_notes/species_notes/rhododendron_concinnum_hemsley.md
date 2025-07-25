@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron concinnum Hemsley"
+scientific name: "Rhododendron concinnum Hemsley"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Journ. Linn. Soc. 26:21 (1889)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

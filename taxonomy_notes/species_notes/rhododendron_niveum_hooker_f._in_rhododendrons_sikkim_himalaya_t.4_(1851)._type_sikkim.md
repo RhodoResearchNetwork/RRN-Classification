@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron niveum Hooker f. in Rhododendrons Sikkim Himalaya t.4 (1851). Type: Sikkim"
+scientific name: "Rhododendron niveum Hooker f. in Rhododendrons Sikkim Himalaya t.4 (1851). Type: Sikkim"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Lachen, Lachoung and Chola, 10-12000ft, Hooker (iso. E)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

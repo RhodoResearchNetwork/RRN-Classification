@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron anthopogonoides Maximowicz"
+scientific name: "Rhododendron anthopogonoides Maximowicz"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Acad. Petersb. 23:350 (1877)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

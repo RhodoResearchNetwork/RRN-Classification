@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron roseiflorum P.F.Stevens"
+scientific name: "Rhododendron roseiflorum P.F.Stevens"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Adansonia 1978, ser. 2, 18(1): 55."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

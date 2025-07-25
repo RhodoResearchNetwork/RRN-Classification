@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron yaoshanicum Fang & M.Y. He"
+scientific name: "Rhododendron yaoshanicum Fang & M.Y. He"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Bot. Res. N.E. Forest. Inst. 3(1): 3, t.3 (1983)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

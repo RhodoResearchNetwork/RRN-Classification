@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron dilatatum Miquel"
+scientific name: "Rhododendron dilatatum Miquel"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Ann. Mus. Bot. Lugduno-Batavum. 1:34(1863). Type: Japan, Sie
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

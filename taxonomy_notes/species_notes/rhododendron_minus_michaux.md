@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron minus Michaux"
+scientific name: "Rhododendron minus Michaux"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Journ. Hist. Nat. 1:412 (1972)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron orbiculare Decaisne"
+scientific name: "Rhododendron orbiculare Decaisne"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fl. des Serres 22: 169 (1877)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron javanicum (Blume) Benn."
+scientific name: "Rhododendron javanicum (Blume) Benn."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "In Benn. & Br., Pl. Jav. Rar. 1838. 85 (excluding t.19)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron kawakamii Hayata"
+scientific name: "Rhododendron kawakamii Hayata"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Coll. Sci. Univ. Tokyo 1911. 30(1): 171."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

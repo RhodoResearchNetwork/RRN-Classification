@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron mariae Hance"
+scientific name: "Rhododendron mariae Hance"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Bot. 20:230 (1882)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

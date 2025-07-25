@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron weyrichii Maxim."
+scientific name: "Rhododendron weyrichii Maxim."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendr. As. Orient. 26, t.2 (1870)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

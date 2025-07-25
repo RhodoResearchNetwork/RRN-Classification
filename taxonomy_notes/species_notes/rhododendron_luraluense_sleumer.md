@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron luraluense Sleumer"
+scientific name: "Rhododendron luraluense Sleumer"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notizbl. Berl.-Dahl. 1935. 12: 485."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

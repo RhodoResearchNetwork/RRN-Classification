@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron viscosum (L.) Torr."
+scientific name: "Rhododendron viscosum (L.) Torr."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "FL N. Middle United States 424 (1824)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

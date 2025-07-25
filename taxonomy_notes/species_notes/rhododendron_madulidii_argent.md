@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron madulidii Argent"
+scientific name: "Rhododendron madulidii Argent"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "The New Plantsman 1998. 5(4): 204."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

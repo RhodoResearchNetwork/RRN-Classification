@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron santapaui Sastry, Kataki, P.A.Cox, E.P.Cox & Hutchison"
+scientific name: "Rhododendron santapaui Sastry, Kataki, P.A.Cox, E.P.Cox & Hutchison"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Bombay Nat. Hist. Soc. 1969. 65: 744."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

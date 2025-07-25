@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron nhatrangense Dop in Lecomte (ed.)"
+scientific name: "Rhododendron nhatrangense Dop in Lecomte (ed.)"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fl. Gen. Indo-Chine 3: 743 (1940)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

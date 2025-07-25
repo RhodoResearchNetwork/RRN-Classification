@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron pubescens Balfour f. & Forrest"
+scientific name: "Rhododendron pubescens Balfour f. & Forrest"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 12:153 (1920)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

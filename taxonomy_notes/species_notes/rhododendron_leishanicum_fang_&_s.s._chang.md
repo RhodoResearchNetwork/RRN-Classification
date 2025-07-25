@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron leishanicum Fang & S.S. Chang"
+scientific name: "Rhododendron leishanicum Fang & S.S. Chang"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "in prep"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

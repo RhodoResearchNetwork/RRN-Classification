@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron intricatum Franchet"
+scientific name: "Rhododendron intricatum Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Journ. de Bot. 9:395 (1895)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

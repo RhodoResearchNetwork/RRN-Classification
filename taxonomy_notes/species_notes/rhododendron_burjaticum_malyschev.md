@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron burjaticum Malyschev"
+scientific name: "Rhododendron burjaticum Malyschev"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Not. Syst. Herb. Inst. Acad. Sci. URSS 21:455-458 (1961)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

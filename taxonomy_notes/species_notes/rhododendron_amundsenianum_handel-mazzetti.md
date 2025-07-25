@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron amundsenianum Handel-Mazzetti"
+scientific name: "Rhododendron amundsenianum Handel-Mazzetti"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Anz. Akad. Wiss. Wien. Math.-Nat. Kl. 58:25 (1921)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron kendrickii Nuttall"
+scientific name: "Rhododendron kendrickii Nuttall"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Bot. (Lond.) 5: 358 (1853)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

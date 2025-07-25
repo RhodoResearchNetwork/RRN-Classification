@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron subenerve P.X.Tan"
+scientific name: "Rhododendron subenerve P.X.Tan"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Survey Gen. Rhododendron S. China 108, f.29 (1983) & Guihaia
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

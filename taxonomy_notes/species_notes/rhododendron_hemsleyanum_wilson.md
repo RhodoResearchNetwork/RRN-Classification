@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron hemsleyanum Wilson"
+scientific name: "Rhododendron hemsleyanum Wilson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Kew Bull. 1910: 109 (1910)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

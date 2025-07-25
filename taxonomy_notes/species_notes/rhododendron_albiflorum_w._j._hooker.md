@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron albiflorum W. J. Hooker"
+scientific name: "Rhododendron albiflorum W. J. Hooker"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fl. Bor. Amer. 2:43 (1834)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron russatum Balfour f. & Forrest"
+scientific name: "Rhododendron russatum Balfour f. & Forrest"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 9:126 (1919)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

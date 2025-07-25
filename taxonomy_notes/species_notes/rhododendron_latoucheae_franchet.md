@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron latoucheae Franchet"
+scientific name: "Rhododendron latoucheae Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Soc. Bot. Fr. 46:210 (1899)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

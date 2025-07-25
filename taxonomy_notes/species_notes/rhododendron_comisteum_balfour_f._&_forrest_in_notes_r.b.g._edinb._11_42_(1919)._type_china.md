@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron comisteum Balfour f. & Forrest in Notes R.B.G. Edinb. 11: 42 (1919). Type: China"
+scientific name: "Rhododendron comisteum Balfour f. & Forrest in Notes R.B.G. Edinb. 11: 42 (1919). Type: China"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "SE Xizang, Tsarong, on Ka-gwr-pw, Mekong/Salween divide, 28Â
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

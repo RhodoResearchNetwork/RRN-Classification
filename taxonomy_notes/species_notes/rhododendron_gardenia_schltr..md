@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron gardenia Schltr."
+scientific name: "Rhododendron gardenia Schltr."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Jahr. 1918. 55: 158."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

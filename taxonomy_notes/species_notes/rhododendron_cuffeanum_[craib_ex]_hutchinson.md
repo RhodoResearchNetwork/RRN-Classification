@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron cuffeanum [Craib ex] Hutchinson"
+scientific name: "Rhododendron cuffeanum [Craib ex] Hutchinson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. 143: t. 8721 (1917)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron album Blume"
+scientific name: "Rhododendron album Blume"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Cat. Hort. Buitenz. 1823. 72."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

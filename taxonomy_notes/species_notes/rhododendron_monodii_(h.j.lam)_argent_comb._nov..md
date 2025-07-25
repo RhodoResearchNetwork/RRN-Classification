@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron monodii (H.J.Lam) Argent comb. nov."
+scientific name: "Rhododendron monodii (H.J.Lam) Argent comb. nov."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Argent, G. (2006) Rhododendrons of subgenus Vireya. RHS:Lond
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

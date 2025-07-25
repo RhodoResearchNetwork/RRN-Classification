@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron tsaii Fang"
+scientific name: "Rhododendron tsaii Fang"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Contr. Biol. Lab. Sci. Soc. China 22:66 (1939)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

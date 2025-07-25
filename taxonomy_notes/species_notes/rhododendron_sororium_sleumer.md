@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron sororium Sleumer"
+scientific name: "Rhododendron sororium Sleumer"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Blumea 1958. Suppl. IV(2): 47."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

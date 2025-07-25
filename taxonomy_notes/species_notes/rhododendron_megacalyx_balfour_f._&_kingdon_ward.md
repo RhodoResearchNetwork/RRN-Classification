@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron megacalyx Balfour f. & Kingdon Ward"
+scientific name: "Rhododendron megacalyx Balfour f. & Kingdon Ward"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 9:246 (1916)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

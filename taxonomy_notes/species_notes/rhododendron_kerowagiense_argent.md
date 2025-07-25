@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron kerowagiense Argent"
+scientific name: "Rhododendron kerowagiense Argent"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Folia Malaysiana 2003. 4(2): 108."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron noriakianum Suzuki"
+scientific name: "Rhododendron noriakianum Suzuki"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Trans. Nat. Hist. Soc. Formosa 25: 40 (1935)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

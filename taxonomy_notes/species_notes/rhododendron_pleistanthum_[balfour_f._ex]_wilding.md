@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron pleistanthum [Balfour f. ex] Wilding"
+scientific name: "Rhododendron pleistanthum [Balfour f. ex] Wilding"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendrons, their Names and Addresses, 73 (1923)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

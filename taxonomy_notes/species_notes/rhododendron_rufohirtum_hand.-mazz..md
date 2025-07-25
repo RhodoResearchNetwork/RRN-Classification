@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron rufohirtum Hand.-Mazz."
+scientific name: "Rhododendron rufohirtum Hand.-Mazz."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Anz. Akad. Wiss. Wien 1921(18): 9 (1921)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

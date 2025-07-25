@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron formosum Wallich"
+scientific name: "Rhododendron formosum Wallich"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Plant. Asiat. Rar. 3(3): t. 207 (1832)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

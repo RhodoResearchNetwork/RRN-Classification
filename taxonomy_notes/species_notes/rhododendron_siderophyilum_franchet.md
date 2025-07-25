@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron siderophyilum Franchet"
+scientific name: "Rhododendron siderophyilum Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Journ. de Bot. 12:262 (1898)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

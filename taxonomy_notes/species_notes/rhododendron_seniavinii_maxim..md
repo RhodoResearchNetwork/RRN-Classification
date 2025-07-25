@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron seniavinii Maxim."
+scientific name: "Rhododendron seniavinii Maxim."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendr. As. Orient. 33: t.3, f.21-24 (1870)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

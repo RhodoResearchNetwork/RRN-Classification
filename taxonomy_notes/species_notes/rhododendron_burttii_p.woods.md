@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron burttii P.Woods"
+scientific name: "Rhododendron burttii P.Woods"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes RBG Edinb. 1978. 37(1): 57."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

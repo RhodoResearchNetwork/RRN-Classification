@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron viriosum Craven"
+scientific name: "Rhododendron viriosum Craven"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Edinb. J. Bot. 2002. 59(3): 448."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

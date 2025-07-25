@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron bainbridgeanum Tagg & Forrest in Stevenson (ed.)"
+scientific name: "Rhododendron bainbridgeanum Tagg & Forrest in Stevenson (ed.)"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "The Species of Rhododendron 133 (1930)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

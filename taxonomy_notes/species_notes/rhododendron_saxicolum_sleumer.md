@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron saxicolum Sleumer"
+scientific name: "Rhododendron saxicolum Sleumer"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Blumea, suppl. 4: 49 (1958)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

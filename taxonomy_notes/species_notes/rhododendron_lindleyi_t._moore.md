@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron lindleyi T. Moore"
+scientific name: "Rhododendron lindleyi T. Moore"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gard. Chron. 1864:364 (1864)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

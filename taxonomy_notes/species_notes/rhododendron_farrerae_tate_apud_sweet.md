@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron farrerae Tate apud Sweet"
+scientific name: "Rhododendron farrerae Tate apud Sweet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Brit. Fl. Garden ser. 2: 1,1.95 (1831)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

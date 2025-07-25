@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron lanatum Hooker f."
+scientific name: "Rhododendron lanatum Hooker f."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendrons Sikkim Himalaya 17, 1.16 (1849)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

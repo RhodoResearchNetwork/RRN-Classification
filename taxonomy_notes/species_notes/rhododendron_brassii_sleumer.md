@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron brassii Sleumer"
+scientific name: "Rhododendron brassii Sleumer"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Reinwardtia 1960. 5: 170."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

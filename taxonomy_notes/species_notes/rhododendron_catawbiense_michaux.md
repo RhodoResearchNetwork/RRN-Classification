@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron catawbiense Michaux"
+scientific name: "Rhododendron catawbiense Michaux"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Fl. Bor. Amer. 1: 258 (1803)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

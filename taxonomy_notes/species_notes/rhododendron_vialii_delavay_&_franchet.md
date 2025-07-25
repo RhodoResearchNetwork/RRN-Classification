@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron vialii Delavay & Franchet"
+scientific name: "Rhododendron vialii Delavay & Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Bot. (Marot) 9:398 (1985). Type: China, Yunnan, near Koua
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron hirtolepidotum J.J.Sm."
+scientific name: "Rhododendron hirtolepidotum J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Nova Guinea 1914. 12: 135, t.32."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

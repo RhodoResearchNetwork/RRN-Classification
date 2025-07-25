@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron fletcheranum Davidian"
+scientific name: "Rhododendron fletcheranum Davidian"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "R.H.S. Rhodo. & Camellia Yearbook 16:103 (1961)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

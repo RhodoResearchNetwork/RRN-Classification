@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron lasiostylum Hayata"
+scientific name: "Rhododendron lasiostylum Hayata"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Icon. PI. Formosan. 3: 135 (1913)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

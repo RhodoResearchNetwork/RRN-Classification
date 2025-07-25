@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron sumatranum Merr."
+scientific name: "Rhododendron sumatranum Merr."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Pap. Mich. Ac. Sc. 1933. 19: 182."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

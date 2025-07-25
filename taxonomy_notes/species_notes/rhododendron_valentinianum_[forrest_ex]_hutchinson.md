@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron valentinianum [Forrest ex] Hutchinson"
+scientific name: "Rhododendron valentinianum [Forrest ex] Hutchinson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 12:45 (1919)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

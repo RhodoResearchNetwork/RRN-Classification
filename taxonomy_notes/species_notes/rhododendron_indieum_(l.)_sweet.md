@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron indieum (L.) Sweet"
+scientific name: "Rhododendron indieum (L.) Sweet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Brit. Fl. Garden ser. 2,2: t.128 (1833)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

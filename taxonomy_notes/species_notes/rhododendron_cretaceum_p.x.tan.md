@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron cretaceum P.X.Tan"
+scientific name: "Rhododendron cretaceum P.X.Tan"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Survey Gen. Rhododendron S. China 108, f.9 (1983)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

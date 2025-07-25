@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron heliolepis Franchet"
+scientific name: "Rhododendron heliolepis Franchet"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Soc. Bot. Fr. 34:283 (1887)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron occidentale (Ton. & A. Gray) A. Gray"
+scientific name: "Rhododendron occidentale (Ton. & A. Gray) A. Gray"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Calif. 1: 458 (1876)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

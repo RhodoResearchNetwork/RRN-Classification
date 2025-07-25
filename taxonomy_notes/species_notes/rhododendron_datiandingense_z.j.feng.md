@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron datiandingense Z.J.Feng"
+scientific name: "Rhododendron datiandingense Z.J.Feng"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. South China Agr. Univ. 1996. 17(1): 59."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

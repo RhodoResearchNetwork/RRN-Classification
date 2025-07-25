@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron prinophyllum (Small) Millais"
+scientific name: "Rhododendron prinophyllum (Small) Millais"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhodod. 229 (1917)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

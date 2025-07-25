@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron canadense (L.)Torrey"
+scientific name: "Rhododendron canadense (L.)Torrey"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Cat. PI. 151 [in Geol. Surv. New York Assembly, No. 50] (184
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron apiense Argent"
+scientific name: "Rhododendron apiense Argent"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Folia Malaysiana 2003. 4(2): 102, pl.1."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

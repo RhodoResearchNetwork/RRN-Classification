@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron levinei Merrill"
+scientific name: "Rhododendron levinei Merrill"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Philipp. Journ. Sci. 13:153 (1916)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron cyanocarpum (Franchet) W. W. Smith"
+scientific name: "Rhododendron cyanocarpum (Franchet) W. W. Smith"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Trans. Bot. Soc. Edinb. 26: 274(1914)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

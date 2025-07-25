@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron baconii Argent, A.Lamb & Phillipps"
+scientific name: "Rhododendron baconii Argent, A.Lamb & Phillipps"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes RBG Edinb. 1984. 42(1): 115."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

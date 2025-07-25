@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron meridionale P.X.Tan"
+scientific name: "Rhododendron meridionale P.X.Tan"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Guihaia 2: 71, t.4 (1982)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

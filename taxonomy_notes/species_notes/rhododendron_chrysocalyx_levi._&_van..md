@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron chrysocalyx Levi. & Van."
+scientific name: "Rhododendron chrysocalyx Levi. & Van."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Repert, Spec. Nov. Regni Veg. 2: 113 (1906)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

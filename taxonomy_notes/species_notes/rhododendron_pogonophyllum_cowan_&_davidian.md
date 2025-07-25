@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron pogonophyllum Cowan & Davidian"
+scientific name: "Rhododendron pogonophyllum Cowan & Davidian"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhodo. Yearbook 2:75 (1947)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

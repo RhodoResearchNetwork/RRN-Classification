@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron ngawchangense Philipson & Philipson"
+scientific name: "Rhododendron ngawchangense Philipson & Philipson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 40:228 (1982)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

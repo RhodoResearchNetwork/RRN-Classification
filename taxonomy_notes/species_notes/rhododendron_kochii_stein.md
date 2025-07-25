@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron kochii Stein"
+scientific name: "Rhododendron kochii Stein"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gartenflora 1885. 34: 193, t.1195."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

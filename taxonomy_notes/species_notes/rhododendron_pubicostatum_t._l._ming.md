@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron pubicostatum T. L. Ming"
+scientific name: "Rhododendron pubicostatum T. L. Ming"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Acta Bot. Yunnanica 3:119 (1981)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

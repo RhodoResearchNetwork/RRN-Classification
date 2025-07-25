@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron stapfianum Hemsl. ex Prain"
+scientific name: "Rhododendron stapfianum Hemsl. ex Prain"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. 1911. t.8372."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

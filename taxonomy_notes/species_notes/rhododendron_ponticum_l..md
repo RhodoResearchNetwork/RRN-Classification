@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron ponticum L."
+scientific name: "Rhododendron ponticum L."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Sp. PI. ed. 2: 562 (1762)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron stenophyllum Hook.f. ex Stapf"
+scientific name: "Rhododendron stenophyllum Hook.f. ex Stapf"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Trans. Linn. Soc. London, II, Bot. 1894. 4(2): 196."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

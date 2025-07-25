@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron rhuyuenense Chun"
+scientific name: "Rhododendron rhuyuenense Chun"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "P.X.Tan, Survey Gen. Rhododendron S. China 96 (1983)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

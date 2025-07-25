@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron petrocharis Diels"
+scientific name: "Rhododendron petrocharis Diels"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Feddes Rep. 17:196 (1921)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

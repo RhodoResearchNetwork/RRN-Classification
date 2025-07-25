@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron flumineum Fang & M.Y. He"
+scientific name: "Rhododendron flumineum Fang & M.Y. He"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Bot. Res. N.E. Forest. Inst. 2(2): 91 (1982)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

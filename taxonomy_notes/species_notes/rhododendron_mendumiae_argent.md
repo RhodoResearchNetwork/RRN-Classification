@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron mendumiae Argent"
+scientific name: "Rhododendron mendumiae Argent"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Gardens Bull. Sing. 2004. 56(1&2): 82, f.2."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

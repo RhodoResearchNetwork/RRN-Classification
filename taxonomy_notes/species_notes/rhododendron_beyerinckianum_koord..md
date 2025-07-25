@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron beyerinckianum Koord."
+scientific name: "Rhododendron beyerinckianum Koord."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Nova Guinea 1912. 8(4): 876, t.150."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron sanctum Nakai"
+scientific name: "Rhododendron sanctum Nakai"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Mag. (Tokyo) 46: 630 (1932)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

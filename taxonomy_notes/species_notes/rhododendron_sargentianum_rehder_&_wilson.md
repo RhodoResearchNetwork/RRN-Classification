@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron sargentianum Rehder & Wilson"
+scientific name: "Rhododendron sargentianum Rehder & Wilson"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "PI. Wils. 1:504 (1913)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

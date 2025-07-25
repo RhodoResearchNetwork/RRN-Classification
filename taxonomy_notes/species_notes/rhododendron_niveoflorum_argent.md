@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron niveoflorum Argent"
+scientific name: "Rhododendron niveoflorum Argent"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Folia Malaysiana 2003. 4(2): 115, pl.4, 5."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

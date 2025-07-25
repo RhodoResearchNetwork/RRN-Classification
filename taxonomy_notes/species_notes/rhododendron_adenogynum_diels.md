@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron adenogynum Diels"
+scientific name: "Rhododendron adenogynum Diels"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 5:216 (1912)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        
@@ -36,8 +37,7 @@ China (SE Xizang, W Yunnan, SW Sichuan)
 Thickets, open pastures, cliffs
 
 ## Nomenclatural History
-R. adenophorum Balfour f. & W. W. Smith, Notes R.B.G. Edinb. 9: 211 (1916).
-
+R. adenophorum Balfour f. & W. W. Smith, Notes R.B.G. Edinb. 9: 211 (1916).
    Type: China, Yunnan, mountains in the NE of the Yangtze Bend, 27°45'N, 12000ft, vii 1913, Forrest 10429 (holo. E; iso. A, K).
                        
 ## Notes

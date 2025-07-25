@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron robinsonii Ridl."
+scientific name: "Rhododendron robinsonii Ridl."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Fed. Mal. St. Mus. 1909. 4: 44."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

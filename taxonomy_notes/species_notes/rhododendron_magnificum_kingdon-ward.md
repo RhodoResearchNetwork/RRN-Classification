@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron magnificum Kingdon-Ward"
+scientific name: "Rhododendron magnificum Kingdon-Ward"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Bot. (Lond.) 73: 247 (1935)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

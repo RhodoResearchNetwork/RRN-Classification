@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron nieuwenhuisii J.J.Sm."
+scientific name: "Rhododendron nieuwenhuisii J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Ic. Bog. 1910. 4: 75. t.323."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

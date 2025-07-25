@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron pentaphyllum Maxim."
+scientific name: "Rhododendron pentaphyllum Maxim."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bull. Acad. Sci. St Petersbourg, ser. 3, 31:65 (1887)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

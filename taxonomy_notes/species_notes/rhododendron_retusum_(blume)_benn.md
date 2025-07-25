@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron retusum (Blume) Benn"
+scientific name: "Rhododendron retusum (Blume) Benn"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Benn. & Br., Pl. Jav. Rar. 1838. 86 in text, 88 t.20."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

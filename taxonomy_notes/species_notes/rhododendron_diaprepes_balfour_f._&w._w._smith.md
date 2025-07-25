@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron diaprepes Balfour f. &W. W. Smith"
+scientific name: "Rhododendron diaprepes Balfour f. &W. W. Smith"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes R.B.G. Edinb. 10:100 (1917)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

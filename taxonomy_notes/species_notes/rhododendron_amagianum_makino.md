@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron amagianum Makino"
+scientific name: "Rhododendron amagianum Makino"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "J. Jap. Bot. 7:21 (1930). Type: Japan, Prov. Idzu, Mt Amagi,
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

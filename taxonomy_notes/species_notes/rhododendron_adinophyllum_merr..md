@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron adinophyllum Merr."
+scientific name: "Rhododendron adinophyllum Merr."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Notes Natl. Acad. Nat. Sci. Philad. 1940. 47: 3."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

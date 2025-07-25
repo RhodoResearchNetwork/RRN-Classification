@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron lagunculicarpum J.J.Sm."
+scientific name: "Rhododendron lagunculicarpum J.J.Sm."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Jahr. 1937. 68: 200."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

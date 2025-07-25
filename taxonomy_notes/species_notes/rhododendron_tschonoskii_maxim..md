@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron tschonoskii Maxim."
+scientific name: "Rhododendron tschonoskii Maxim."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Rhododendr. As. Orient. 42, t.3 (1870)"
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

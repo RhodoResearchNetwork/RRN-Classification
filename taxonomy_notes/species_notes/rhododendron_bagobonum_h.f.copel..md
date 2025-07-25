@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron bagobonum H.F.Copel."
+scientific name: "Rhododendron bagobonum H.F.Copel."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Phil. J. Sc. 1929. 40: 151, t.4, f.1–2."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

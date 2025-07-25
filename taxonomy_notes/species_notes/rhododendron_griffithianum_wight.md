@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron griffithianum Wight"
+scientific name: "Rhododendron griffithianum Wight"
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Ic. PI. Ind. Or. 4: 6 t. 1203 (1850)."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        

@@ -1,5 +1,5 @@
 ---
-title: "Rhododendron stolleanum Schltr."
+scientific name: "Rhododendron stolleanum Schltr."
 genus: "Rhododendron"
 family: "Ericaceae"
 order: "Ericales"
@@ -15,8 +15,9 @@ name published in: "Bot. Jahr. 1917. 55: 143."
 doi: ""
 wfo id : ""
 wfo parent id: ""
-wfo accepted id: "" //if synonym                      
+wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
+verified:
 ---
 
                        
