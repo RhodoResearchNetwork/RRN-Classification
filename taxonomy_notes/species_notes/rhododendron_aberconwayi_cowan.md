@@ -13,7 +13,7 @@ license: ""
 tags: ["taxonomy", "Rhododendron"]
 name published in: "Rhododendron Yearbook 3: 42, f. 17 (1949)."
 doi: ""
-wfo id : ""
+wfo id: ""
 wfo parent id: ""
 wfo accepted id: "" #if synonym probably needs to be archived.                      
 ipni id: ""
