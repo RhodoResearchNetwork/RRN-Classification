@@ -23,7 +23,7 @@ verified: A.Elliott
 ---
 
 
-# [scientific_name] [scientificnameauthorship]
+# {{ page.scientific_name }} [scientificnameauthorship]
 # [namepublishedin]
 
 ## Taxonomic Overview  
