@@ -1,41 +1,30 @@
 ---
-title: Rhododendron sikkimense
-scientific_name: Rhododendron sikkimense
-taxonomy:
-  family: Ericaceae
-  genus: Rhododendron
-  subgenus: 
-  section: 
-  subsection: 
-  species: sikkimense
-  wfo_id: wfo-0000405461
-  ipnilsid: urn:lsid:ipni.org:names:958498-1
-status: unplaced
-traits:
-  habit: shrub
-  leaf_type: evergreen
-  flower_color: 
-  elevation_range: 1000–2500m
-distribution:
-  region: Asia
-  countries:
-    - India
-  endemic: Yes.
-references:
-  - title: Sikkim-Himalayan Rhododendrons 74 (1990)
-    authors: Prdhan & Lachungpa
-    year: 2023
-    link: https://doi.org/10.51220/jmr.v18i1.5 
-metadata:
-  created: 2025-07-17
-  updated: 2025-07-17
-contributors:
-  - name: Alan Elliott
-    role: author
-    github: [your-username]
+scientific name: "Rhododendron sikkimense D.K.Pradhan"
+genus: "Rhododendron"
+family: "Ericaceae"
+order: "Ericales"
+kingdom: "Plantae"
+scientific_name: "Rhododendron sikkimense"
+scientificnameauthorship: "D.K.Pradhan"
+source: 
+identifier: 
+author: 
+created: 
+rights holder: 
+license: ""
+tags: ["taxonomy", "Rhododendron"]
+namepublishedin: "J. Mountain Res. 18(1): 2023 (2023)"
+doi: ""
+wfo id : "wfo-0000405461"
+wfo parent id: 
+wfo accepted id: "" #if synonym probably needs to be archived.                      
+ipni id: "urn:lsid:ipni.org:names:77365698-1"
+verified: A.Elliott
 ---
 
-# Rhododendron sikkimenese
+
+# [scientific_name] [scientificnameauthorship]
+# [namepublishedin]
 
 ## Taxonomic Overview  
 Rhododendron sikkimense is an invalid & unplaced named in the WFO June 2025 data http://list.worldfloraonline.org/wfo-0000405461. 
