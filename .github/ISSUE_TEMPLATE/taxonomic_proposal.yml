@@ -10,7 +10,7 @@ body:
 
         Please include the name of the taxon in the title above. The title should concisely describe the change (e.g., `Reclassificaiton of subsection Albovireya`).
 
-        For discussions about other topics, please use the [Discussion forum](https://github.com/orgs/RhodoResearchNetwork/discussions).
+        For discussions about other topics, please use the [Discussion forum](https://github.com/worldflora/wfo-general-curatorial-team/discussions).
 
   - type: input
     id: author-name
