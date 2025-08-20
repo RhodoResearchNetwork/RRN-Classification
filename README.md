@@ -41,7 +41,7 @@ how are versions managed by the Rhakhis system? How exactly are updates passed t
 ## Reference Library
 A Zotero library is being maintained by Juliana Medeiros to store references relevant to R-RN. Data sources will include items currently contained in the R-RN Zotero database. Additional resources identified by the group will be added to the Zotero database. We will especially strive to add smaller, regional publications, including making translations into English using Google translate, combined with vetting of translations by native language speakers.
 
-If you want to suggest literature please check if it is in (Zotero)[https://www.zotero.org/groups/4735534/rhodo-research.net/library], if not please suggest it (here.)[https://github.com/RhodoResearchNetwork/RRN-Classification/issues/new/choose]
+If you want to suggest literature please check if it is in [Zotero](https://www.zotero.org/groups/4735534/rhodo-research.net/library), if not please suggest it [here.](https://github.com/RhodoResearchNetwork/RRN-Classification/issues/new/choose)
 
 
 
