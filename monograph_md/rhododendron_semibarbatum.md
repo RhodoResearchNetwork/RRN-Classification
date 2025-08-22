@@ -17,7 +17,7 @@ tags:
 namepublishedin: Bull. Acad. Sci. St. Petersb. Ser. 3,15:230 [Mel. Biol. 7:338] (1870)
 doi: ''
 wfo_id: wfo-0000405386
-wfo_parent_id: ''
+wfo_parent_id: wfo-3400004945
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333325-1
 verified: null

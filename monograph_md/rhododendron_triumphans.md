@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Rév. de Bot. Appl. et d’Agric. Trop. 1929. 9(92): 256, t.11.'
 doi: ''
 wfo_id: wfo-0000405645
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333509-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Sp. PI. ed. 2: 562 (1762).'
 doi: ''
 wfo_id: wfo-0000400178
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002603
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333114-1
 verified: null

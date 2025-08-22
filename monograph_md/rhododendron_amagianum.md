@@ -30,6 +30,22 @@ namepublishedin: 'J. Jap. Bot. 7:21 (1930). Type: Japan, Prov. Idzu, Mt Amagi, M
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   n.v.'
 doi: ''
 wfo_id: wfo-0000400596

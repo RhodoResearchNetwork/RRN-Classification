@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Hort. Soc. Lond. 1848. 3: f.89.'
 doi: ''
 wfo_id: wfo-0000399916
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332790-1
 verified: null

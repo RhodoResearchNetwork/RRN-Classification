@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bot. Mag. (Tokyo) 18: 101 (1904)'
 doi: ''
 wfo_id: wfo-0000405629
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333487-1
 verified: null

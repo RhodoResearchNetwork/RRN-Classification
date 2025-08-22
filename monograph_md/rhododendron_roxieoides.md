@@ -17,7 +17,7 @@ tags:
 namepublishedin: sp. nov. (see p. 478.).
 doi: ''
 wfo_id: wfo-0001229575
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002605
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900790-1
 verified: null

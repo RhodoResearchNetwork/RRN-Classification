@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Fed. Mal. St. Mus. 1909. 4: 44.'
 doi: ''
 wfo_id: wfo-0000405504
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333239-1
 verified: null

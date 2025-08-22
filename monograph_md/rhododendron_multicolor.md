@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Fl. Ind. Bat. 1860. Suppl. 1: 251, 586.'
 doi: ''
 wfo_id: wfo-0000400260
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002633
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332922-1
 verified: null

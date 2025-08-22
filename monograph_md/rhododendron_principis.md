@@ -15,12 +15,12 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: "J. Bot. (Morot) 5: 93, t.l (1891). Type: China, Xizang, entre Lhasa\n\
-  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n et Batang [Lame, nr\nLamda, 31 ° 15 'N\n\
-  \ 97\n °E],\n\n\n 3000m,\n\n\n v\n 1890,\n\n\n Henry\n\n\n &\n Bonvalot\n\n\n\n\n\
-  \n\n (iso.\n E)."
+  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n et Batang [Lame, nr\nLamda, 31 ° 15\
+  \ 'N\n\n 97\n °E],\n\n\n 3000m,\n\n\n v\n 1890,\n\n\n Henry\n\n\n &\n Bonvalot\n\
+  \n\n\n\n\n\n\n (iso.\n E)."
 doi: ''
 wfo_id: wfo-0001048915
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002605
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333136-1
 verified: null

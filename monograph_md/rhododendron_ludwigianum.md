@@ -18,7 +18,7 @@ namepublishedin: Beih. Bot. Centr. 28(2):122 (1911)
 doi: ''
 wfo_id: wfo-0000399928
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0001048064
 ipni_id: urn:lsid:ipni.org:names:332807-1
 verified: null
 ---

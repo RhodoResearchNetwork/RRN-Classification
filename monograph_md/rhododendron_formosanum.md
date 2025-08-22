@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Kew Bull. 1895: 185 (1895).'
 doi: ''
 wfo_id: wfo-0001048924
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001572
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332442-1
 verified: null

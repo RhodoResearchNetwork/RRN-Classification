@@ -17,7 +17,7 @@ tags:
 namepublishedin: Kew Bull. 1938:24 (1938)
 doi: ''
 wfo_id: wfo-0000405528
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002517
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333439-1
 verified: null

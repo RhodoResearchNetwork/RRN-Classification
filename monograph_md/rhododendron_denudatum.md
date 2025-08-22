@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Feddes Repert. 13: 339 (1914).'
 doi: ''
 wfo_id: wfo-0001229472
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001572
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332319-1
 verified: null

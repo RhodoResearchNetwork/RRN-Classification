@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Nova Guinea 1914. 12: 134, t.31.'
 doi: ''
 wfo_id: wfo-0000400632
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332490-1
 verified: null

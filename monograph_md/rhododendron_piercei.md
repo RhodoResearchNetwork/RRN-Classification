@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Quart. Bull. Amer. Rhododendron Soc. 30: 211 (1976).'
 doi: ''
 wfo_id: wfo-0001229610
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002601
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333085-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bull. Jard. Bot. Buit. III, 1920. 1: 403, t.51.'
 doi: ''
 wfo_id: wfo-0000405492
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333196-1
 verified: null

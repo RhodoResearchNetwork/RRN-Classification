@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Asiat. Soc. Beng. 74: 75 (1905)'
 doi: ''
 wfo_id: wfo-0000405698
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002599
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333613-1
 verified: null

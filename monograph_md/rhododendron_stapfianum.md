@@ -17,7 +17,7 @@ tags:
 namepublishedin: Bot. Mag. 1911. t.8372.
 doi: ''
 wfo_id: wfo-0000405429
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333401-1
 verified: null

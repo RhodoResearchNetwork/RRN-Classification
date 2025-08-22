@@ -17,7 +17,7 @@ tags:
 namepublishedin: Argent, G. (2006). Rhododendrons of subgenus Vireya p.201
 doi: ''
 wfo_id: wfo-0000405435
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002633
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:77073610-1
 verified: null

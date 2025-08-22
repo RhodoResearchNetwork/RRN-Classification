@@ -17,7 +17,7 @@ tags:
 namepublishedin: In Benn. & Br., Pl. Jav. Rar. 1838. 85 (excluding t.19).
 doi: ''
 wfo_id: wfo-0000400693
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332655-1
 verified: null

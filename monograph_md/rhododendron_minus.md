@@ -17,7 +17,7 @@ tags:
 namepublishedin: Journ. Hist. Nat. 1:412 (1972)
 doi: ''
 wfo_id: wfo-0001047075
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002611
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332891-1
 verified: null

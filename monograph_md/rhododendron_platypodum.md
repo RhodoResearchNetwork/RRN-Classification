@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bot. Jahrb. 29: 511 (1900).'
 doi: ''
 wfo_id: wfo-0001048880
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002597
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333094-1
 verified: null

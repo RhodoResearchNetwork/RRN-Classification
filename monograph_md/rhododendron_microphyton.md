@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bull. Soc, Bot. Fr. 33: 235 (1886)'
 doi: ''
 wfo_id: wfo-0001229843
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332885-1
 verified: null

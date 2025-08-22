@@ -18,7 +18,7 @@ namepublishedin: 'Bull. Bot. Res. N.E. Forest. Inst. 2(4): 80, f.2 (1983)'
 doi: ''
 wfo_id: wfo-0001229813
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0001229807
 ipni_id: urn:lsid:ipni.org:names:900764-1
 verified: null
 ---

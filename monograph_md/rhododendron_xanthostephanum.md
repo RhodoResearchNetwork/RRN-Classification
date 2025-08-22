@@ -17,7 +17,7 @@ tags:
 namepublishedin: Brittonia 4:148 (1941)
 doi: ''
 wfo_id: wfo-0001230687
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002627
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333621-1
 verified: null

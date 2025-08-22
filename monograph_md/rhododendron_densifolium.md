@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Acta Bot. Yunnan. 1983. 5(3): 266.'
 doi: ''
 wfo_id: wfo-0001231547
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001482
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:902907-1
 verified: null

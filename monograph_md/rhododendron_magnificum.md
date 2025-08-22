@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Bot. (Lond.) 73: 247 (1935).'
 doi: ''
 wfo_id: wfo-0001229358
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002598
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332837-1
 verified: null

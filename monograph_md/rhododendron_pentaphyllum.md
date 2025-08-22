@@ -17,7 +17,7 @@ tags:
 namepublishedin: Bull. Acad. Sci. St Petersbourg, ser. 3, 31:65 (1887).
 doi: ''
 wfo_id: wfo-0000400196
-wfo_parent_id: ''
+wfo_parent_id: wfo-3400011677
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333062-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Anz. Akad. Wiss. Wien 1921(18): 8 (1921)'
 doi: ''
 wfo_id: wfo-0001048263
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333237-1
 verified: null

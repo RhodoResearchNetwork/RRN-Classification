@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bot. Jahr. 1892. 16: 25.'
 doi: ''
 wfo_id: wfo-0000400714
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001556
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332567-1
 verified: null

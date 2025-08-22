@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Reinwardtia 1960. 5: 120 (‘maius’).'
 doi: ''
 wfo_id: wfo-1000002498
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: Bull. Soc. Bot. Fr. 34:283 (1887)
 doi: ''
 wfo_id: wfo-0001048179
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002616
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332556-1
 verified: null

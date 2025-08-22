@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'The New Plantsman 1998. 5(1): 25.'
 doi: ''
 wfo_id: wfo-0000405524
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002633
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:1001817-1
 verified: null

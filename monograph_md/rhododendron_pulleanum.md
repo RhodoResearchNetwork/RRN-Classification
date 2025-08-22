@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Nova Guinea 1912. 8: 879, t.154, 4.'
 doi: ''
 wfo_id: wfo-0000400248
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001480
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333176-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Rhododendr. As. Orient. 33: t.3, f.21-24 (1870)'
 doi: ''
 wfo_id: wfo-0001229864
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333328-1
 verified: null

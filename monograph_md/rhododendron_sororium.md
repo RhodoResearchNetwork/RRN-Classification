@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Blumea 1958. Suppl. IV(2): 47.'
 doi: ''
 wfo_id: wfo-0000405481
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001482
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333376-1
 verified: null

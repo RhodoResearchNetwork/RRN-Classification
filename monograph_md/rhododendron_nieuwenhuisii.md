@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Ic. Bog. 1910. 4: 75. t.323.'
 doi: ''
 wfo_id: wfo-0000400349
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002633
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332952-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: Notes R.B.G. Edinb. 19:232 (1937).
 doi: ''
 wfo_id: wfo-0001048745
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000000627
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333515-1
 verified: null

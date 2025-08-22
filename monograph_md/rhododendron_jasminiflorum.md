@@ -17,7 +17,7 @@ tags:
 namepublishedin: Bot. Mag. 1850. t.4525.
 doi: ''
 wfo_id: wfo-0000400691
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332654-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Philipp. J. Sci. 21: 350 (1922)'
 doi: ''
 wfo_id: wfo-0001048298
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332536-1
 verified: null

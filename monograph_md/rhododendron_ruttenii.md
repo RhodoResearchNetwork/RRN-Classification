@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Fedde Rep. 1932. 30: 170.'
 doi: ''
 wfo_id: wfo-0000405392
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333276-1
 verified: null

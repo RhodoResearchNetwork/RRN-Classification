@@ -17,7 +17,7 @@ tags:
 namepublishedin: Feddes Rep. 17:196 (1921)
 doi: ''
 wfo_id: wfo-0001048076
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002624
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333073-1
 verified: null

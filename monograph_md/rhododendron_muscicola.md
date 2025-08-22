@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Nova Guinea 1936. 18: 93, t.19, 1.'
 doi: ''
 wfo_id: wfo-0000400256
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002632
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332925-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Rhododendron Yearbook 3: 42, f. 17 (1949).'
 doi: ''
 wfo_id: wfo-0001047937
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002599
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331863-1
 verified: null

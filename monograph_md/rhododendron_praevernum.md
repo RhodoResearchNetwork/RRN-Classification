@@ -17,7 +17,7 @@ tags:
 namepublishedin: Gard. Chron. ser. 3, 67:127 (1920)
 doi: ''
 wfo_id: wfo-0001229326
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002597
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333129-1
 verified: null

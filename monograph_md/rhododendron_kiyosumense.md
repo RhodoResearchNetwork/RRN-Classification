@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Fl. Jap. ed.2: 880 (1931)'
 doi: ''
 wfo_id: wfo-0000400049
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000002359
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332685-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: Icon. PI. Formosan. 3:040 (1913).
 doi: ''
 wfo_id: wfo-0001220145
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002600
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333029-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Notes RBG Edinb. 1980. 38(1): 141, f.1.'
 doi: ''
 wfo_id: wfo-0000405518
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002632
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333257-1
 verified: null

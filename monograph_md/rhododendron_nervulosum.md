@@ -18,7 +18,7 @@ namepublishedin: 'Bot. Jahr. 1940. 71: 146.'
 doi: ''
 wfo_id: wfo-0001420139
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0000400362
 ipni_id: urn:lsid:ipni.org:names:50906490-1
 verified: null
 ---

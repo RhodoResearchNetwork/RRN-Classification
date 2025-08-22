@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'In Merr., Contr. Arn. Arb. 1934. 8: 123.'
 doi: ''
 wfo_id: wfo-0000400802
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002633
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332457-1
 verified: null

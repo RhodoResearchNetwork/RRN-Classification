@@ -18,7 +18,7 @@ namepublishedin: Bot. Zeit. 9:17 (1851)
 doi: ''
 wfo_id: wfo-0000400253
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0000400034
 ipni_id: urn:lsid:ipni.org:names:332929-1
 verified: null
 ---

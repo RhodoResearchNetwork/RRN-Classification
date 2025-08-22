@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'In Koorders & Valeton, Bijdr. 1914. 13: 105, 107.'
 doi: ''
 wfo_id: wfo-0000399917
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332786-1
 verified: null

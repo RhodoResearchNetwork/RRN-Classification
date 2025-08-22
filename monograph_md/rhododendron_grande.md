@@ -17,7 +17,7 @@ tags:
 namepublishedin: Calcutta J. Nat. Hist. 8:176 (1847).
 doi: ''
 wfo_id: wfo-0001229352
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002598
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332518-1
 verified: null

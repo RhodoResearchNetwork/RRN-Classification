@@ -18,7 +18,7 @@ namepublishedin: 'Reinwardtia 1960. 5: 199.'
 doi: ''
 wfo_id: wfo-0000405511
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0000400392
 ipni_id: urn:lsid:ipni.org:names:333227-1
 verified: null
 ---

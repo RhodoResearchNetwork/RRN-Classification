@@ -17,7 +17,7 @@ tags:
 namepublishedin: Rhododendr. As. Orient. 34 (1870)
 doi: ''
 wfo_id: wfo-0001220806
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332998-1
 verified: null

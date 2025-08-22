@@ -17,7 +17,7 @@ tags:
 namepublishedin: Gard. Chron. 133:5 (1953)
 doi: ''
 wfo_id: wfo-0001048059
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002622
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333586-1
 verified: null

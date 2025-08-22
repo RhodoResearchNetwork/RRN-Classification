@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Coll. Sci. Imp. Univ. Tokyo 30: 173 (1911).'
 doi: ''
 wfo_id: wfo-0001048944
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002600
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332911-1
 verified: null

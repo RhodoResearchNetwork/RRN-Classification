@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Med. Rijksherb. 1915. 25: 3.'
 doi: ''
 wfo_id: wfo-0000405367
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001283
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333296-1
 verified: null

@@ -18,7 +18,7 @@ namepublishedin: Feddes Repert. 12:102 (1913)
 doi: ''
 wfo_id: wfo-0001048920
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0001229732
 ipni_id: urn:lsid:ipni.org:names:332388-1
 verified: null
 ---

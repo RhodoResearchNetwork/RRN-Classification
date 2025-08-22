@@ -17,7 +17,7 @@ tags:
 namepublishedin: Trees Shrubs Japan ed. 1,1:97 (1922)
 doi: ''
 wfo_id: wfo-0000400809
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332380-1
 verified: null

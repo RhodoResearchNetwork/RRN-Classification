@@ -17,7 +17,7 @@ tags:
 namepublishedin: Rhodod. 230-231 (1917)
 doi: ''
 wfo_id: wfo-0001047081
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002591
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:219520-2
 verified: null

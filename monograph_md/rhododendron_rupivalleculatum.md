@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Guihaia 1982. 2(2): 69.'
 doi: ''
 wfo_id: wfo-0001228141
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001482
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:900792-1
 verified: null

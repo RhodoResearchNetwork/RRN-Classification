@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bot. Mag. (Tokyo) 35: 135 (1921)'
 doi: ''
 wfo_id: wfo-0000405536
-wfo_parent_id: ''
+wfo_parent_id: wfo-4000033027
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333624-1
 verified: null

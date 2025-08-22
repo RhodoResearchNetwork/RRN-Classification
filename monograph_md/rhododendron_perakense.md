@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. As. Soc. Beng. 1905. 74(2): 76.'
 doi: ''
 wfo_id: wfo-0000400208
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001479
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333063-1
 verified: null

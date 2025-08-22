@@ -17,7 +17,7 @@ tags:
 namepublishedin: Gard. Chron. 85:128, 135, 308 (1929)
 doi: ''
 wfo_id: wfo-0001230700
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002608
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332759-1
 verified: null

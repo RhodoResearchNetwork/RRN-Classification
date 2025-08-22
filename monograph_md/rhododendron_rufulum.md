@@ -18,7 +18,7 @@ namepublishedin: Survey Gen. Rhododendron S. China 100, f.24 (1983)
 doi: ''
 wfo_id: wfo-0001229814
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0001229807
 ipni_id: urn:lsid:ipni.org:names:902932-1
 verified: null
 ---

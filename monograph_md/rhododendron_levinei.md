@@ -17,7 +17,7 @@ tags:
 namepublishedin: Philipp. Journ. Sci. 13:153 (1916)
 doi: ''
 wfo_id: wfo-0001048050
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002622
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332764-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bot. Mag. (Tokyo) 46: 630 (1932)'
 doi: ''
 wfo_id: wfo-0000405402
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000002359
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333286-1
 verified: null

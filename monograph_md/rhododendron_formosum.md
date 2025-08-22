@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Plant. Asiat. Rar. 3(3): t. 207 (1832)'
 doi: ''
 wfo_id: wfo-0000400794
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002622
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332443-1
 verified: null

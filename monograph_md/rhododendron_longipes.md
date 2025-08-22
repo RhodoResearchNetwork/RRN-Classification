@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Sargent (ed.), PL Wilsonianae 1: 528 (1913)'
 doi: ''
 wfo_id: wfo-0001048936
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001572
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332793-1
 verified: null

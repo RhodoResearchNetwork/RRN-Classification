@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Gardens Bull. Sing. 2004. 56(1&2): 82, f.2.'
 doi: ''
 wfo_id: wfo-0000406469
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:60437810-2
 verified: null

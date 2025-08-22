@@ -16,8 +16,8 @@ tags:
 - Rhododendron
 namepublishedin: 'J. Bombay Nat. Hist. Soc. 1969. 65: 744.'
 doi: ''
-wfo_id: ''
-wfo_parent_id: ''
+wfo_id: wfo-0000405404
+wfo_parent_id: wfo-1200001482
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333289-1
 verified: null

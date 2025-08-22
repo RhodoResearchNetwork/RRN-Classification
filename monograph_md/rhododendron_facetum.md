@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Notes R.B.G. Edinb. 10: 104 (1917)'
 doi: ''
 wfo_id: wfo-0001229602
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002602
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332408-1
 verified: null

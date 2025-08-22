@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Adansonia 1978, ser. 2, 18(1): 55.'
 doi: ''
 wfo_id: wfo-0000405515
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333243-1
 verified: null

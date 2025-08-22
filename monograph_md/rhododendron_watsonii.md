@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Kew Bull. 1910: 112 (1910).'
 doi: ''
 wfo_id: wfo-0001219287
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002598
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333592-1
 verified: null

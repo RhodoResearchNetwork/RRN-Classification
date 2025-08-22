@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Notes R.B.G. Edinb. 5: 211 (1912).'
 doi: ''
 wfo_id: wfo-0001048891
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002606
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333409-1
 verified: null

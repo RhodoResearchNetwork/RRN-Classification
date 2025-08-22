@@ -17,7 +17,7 @@ tags:
 namepublishedin: Journ. de Bot. 12:263 (1898)
 doi: ''
 wfo_id: wfo-0001048271
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002626
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333285-1
 verified: null

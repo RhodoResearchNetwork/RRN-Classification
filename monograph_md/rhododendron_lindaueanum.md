@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Nova Guinea 1912. 8(4): 878.'
 doi: ''
 wfo_id: wfo-0000399945
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001479
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332770-1
 verified: null

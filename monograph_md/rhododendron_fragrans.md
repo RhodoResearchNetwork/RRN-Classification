@@ -18,7 +18,7 @@ namepublishedin: Rhodo. Asiae Or. 16 (1870)
 doi: ''
 wfo_id: wfo-0000400804
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: wfo-0000400491
 ipni_id: urn:lsid:ipni.org:names:332453-1
 verified: null
 ---

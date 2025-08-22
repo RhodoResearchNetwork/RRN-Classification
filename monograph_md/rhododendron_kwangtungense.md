@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Sunyatsenia 1: 76 (1930)'
 doi: ''
 wfo_id: wfo-0001048960
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332702-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Phil. J. Sc. 1929. 40: 172, t.15, f.3, t.16, f.5–6.'
 doi: ''
 wfo_id: wfo-0000399913
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332783-1
 verified: null

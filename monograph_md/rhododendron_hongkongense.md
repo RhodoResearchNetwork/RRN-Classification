@@ -17,7 +17,7 @@ tags:
 namepublishedin: Stevenson (ed.), The Species of Rhododendron 156 (1930).
 doi: ''
 wfo_id: wfo-0001229728
-wfo_parent_id: ''
+wfo_parent_id: wfo-3400004804
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332587-1
 verified: null

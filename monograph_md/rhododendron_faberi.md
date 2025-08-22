@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Linn. Soc, Bot. 26: 22 (1889)'
 doi: ''
 wfo_id: wfo-0001048931
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002605
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332406-1
 verified: null

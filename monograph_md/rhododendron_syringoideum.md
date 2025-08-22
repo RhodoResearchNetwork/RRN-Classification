@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Blumea 1963. 12: 104.'
 doi: ''
 wfo_id: wfo-0000405441
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333436-1
 verified: null

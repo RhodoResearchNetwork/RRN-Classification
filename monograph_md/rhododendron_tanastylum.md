@@ -17,7 +17,7 @@ tags:
 namepublishedin: Trans. Bot. Soc. Edinb. 27:217(1917)
 doi: ''
 wfo_id: wfo-0001229427
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002599
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333449-1
 verified: null
