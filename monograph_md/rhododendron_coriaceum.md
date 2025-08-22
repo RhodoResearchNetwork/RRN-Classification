@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Bot. (Morot) 12: 258 (1898).'
 doi: ''
 wfo_id: wfo-0001220770
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002596
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332241-1
 verified: null

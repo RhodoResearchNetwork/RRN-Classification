@@ -17,7 +17,7 @@ tags:
 namepublishedin: Monogr. Azaleas 141-142 (1921)
 doi: ''
 wfo_id: wfo-0001047059
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002591
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:219434-2
 verified: null

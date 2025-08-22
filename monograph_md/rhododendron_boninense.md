@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bot. Mag. (Tokyo) 34: 324, Jap. (1920)'
 doi: ''
 wfo_id: wfo-0000747737
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001570
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:77221846-1
 verified: null

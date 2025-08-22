@@ -17,7 +17,7 @@ tags:
 namepublishedin: PI. Wils. 1:515 (1913)
 doi: ''
 wfo_id: wfo-0001048088
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002628
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332302-1
 verified: null

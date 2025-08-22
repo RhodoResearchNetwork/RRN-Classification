@@ -17,7 +17,7 @@ tags:
 namepublishedin: Ic. Pl. 1852. t.886.
 doi: ''
 wfo_id: wfo-0000400490
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001481
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331870-1
 verified: null

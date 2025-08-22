@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Bot. (Morot) 5: 94 (1891).'
 doi: ''
 wfo_id: wfo-0001048916
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002606
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332033-1
 verified: null

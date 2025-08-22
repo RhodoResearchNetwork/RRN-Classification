@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bot. Bull. Queensl. Dep. Agr. 1895. 10: 39.'
 doi: ''
 wfo_id: wfo-0000400405
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331956-1
 verified: null

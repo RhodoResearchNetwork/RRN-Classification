@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Trans. Linn. Soc. London, II, Bot. 1916. 9: 96.'
 doi: ''
 wfo_id: wfo-0000403024
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002632
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332215-1
 verified: null

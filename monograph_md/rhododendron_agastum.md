@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron agastum Balfour f. & W.W.Sm.
+scientificname: Rhododendron agastum Balf.f. & W.W.Sm.
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''

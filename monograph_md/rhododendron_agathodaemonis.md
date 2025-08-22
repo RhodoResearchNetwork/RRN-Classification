@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Fedde Rep. 1913. 12: 209.'
 doi: ''
 wfo_id: wfo-0000400506
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001556
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331890-1
 verified: null

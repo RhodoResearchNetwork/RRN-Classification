@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Bull. Jard. Bot. Buit. II, 1912. 8: 50.'
 doi: ''
 wfo_id: wfo-0000400592
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331928-1
 verified: null

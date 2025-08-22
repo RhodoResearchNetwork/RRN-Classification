@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Notes Natl. Acad. Nat. Sci. Philad. 1940. 47: 3.'
 doi: ''
 wfo_id: wfo-0000400481
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001479
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331878-1
 verified: null

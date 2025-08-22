@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Symb. Sin. 7: 791 (1936).'
 doi: ''
 wfo_id: wfo-0001229394
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002604
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332296-1
 verified: null

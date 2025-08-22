@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron araiophyllum Balfour f. & W.W.Sm.
+scientificname: Rhododendron araiophyllum Balf.f. & W.W.Sm.
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''

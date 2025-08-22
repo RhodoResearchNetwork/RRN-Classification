@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Rhododendrons of Sabah, Sabah Parks Publ. 1988. 8: 74.'
 doi: ''
 wfo_id: wfo-0000400378
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001479
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:914534-1
 verified: null

@@ -46,6 +46,38 @@ namepublishedin: 'Survey Gen. Rhododendron S. China 108, f.29 (1983) & Guihaia 3
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   180 (1983)'
 doi: ''
 wfo_id: wfo-0001229857

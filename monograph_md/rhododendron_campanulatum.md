@@ -17,7 +17,7 @@ tags:
 namepublishedin: Mem. Wern. Nat. Hist. Soc. 3:410 (1821).
 doi: ''
 wfo_id: wfo-0001229593
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002594
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332096-1
 verified: null

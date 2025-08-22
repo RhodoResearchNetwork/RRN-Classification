@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: Edinb. J. Bot. 47(2):197 (1990)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000400401'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:940600-1'
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}

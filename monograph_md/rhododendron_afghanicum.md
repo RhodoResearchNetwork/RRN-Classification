@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron afghanicum Aitchison & Hemsl.
+scientificname: Rhododendron afghanicum Aitch. & Hemsl.
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: Journ. Linn. Soc. 18:75 (1880)
 doi: ''
-wfo_id: ''
-wfo_parent_id: ''
+wfo_id: wfo-0001281035
+wfo_parent_id: wfo-3000000622
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:331886-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}

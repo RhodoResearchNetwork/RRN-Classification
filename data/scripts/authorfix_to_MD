@@ -4,8 +4,8 @@ import yaml
 
 # Configuration
 target_dir = "monograph_md"
-pattern = r"\bBalfour f. & Farrer\b"
-replacement = "Balf.f. & Farrer"
+pattern = r"\bBalfour f. & W.W.Sm.\b"
+replacement = "Balf.f. & W.W.Sm."
 
 def process_file(path):
     with open(path, "r", encoding="utf-8") as f:

@@ -17,7 +17,7 @@ tags:
 namepublishedin: Sp. PI. 392 (1753)
 doi: ''
 wfo_id: wfo-0000400762
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000000629
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:326359-2
 verified: null

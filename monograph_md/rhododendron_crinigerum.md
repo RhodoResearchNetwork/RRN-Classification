@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Bot. (Morot) 12: 200 (1908).'
 doi: ''
 wfo_id: wfo-0001048809
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000000625
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332263-1
 verified: null

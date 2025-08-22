@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Vict. Nat. 1887. 4: 110.'
 doi: ''
 wfo_id: wfo-0000403303
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002634
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332116-1
 verified: null

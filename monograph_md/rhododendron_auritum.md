@@ -17,7 +17,7 @@ tags:
 namepublishedin: Rhodo. Soc. Notes 3:278 (1931) & Notes R.B.G. Edinb. 18:218 (1934)
 doi: ''
 wfo_id: wfo-0001048851
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002627
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331986-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Blumea 1978. 24: 181, f.1.'
 doi: ''
 wfo_id: wfo-0000403319
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002632
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332108-1
 verified: null

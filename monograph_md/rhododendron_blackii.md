@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Blumea 1973. 21: 375.'
 doi: ''
 wfo_id: wfo-0000400387
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332023-1
 verified: null

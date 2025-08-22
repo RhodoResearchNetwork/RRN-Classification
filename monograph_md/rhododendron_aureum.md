@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Reise 1: 51, 214 (1775).'
 doi: ''
 wfo_id: wfo-0001046884
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002603
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331982-1
 verified: null

@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'J. Bot. (Morot) 9: 391 (1895).'
 doi: ''
 wfo_id: wfo-0001048903
-wfo_parent_id: ''
+wfo_parent_id: wfo-1200001572
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331875-1
 verified: null

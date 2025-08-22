@@ -17,7 +17,7 @@ tags:
 namepublishedin: 'Folia Malaysiana 2003. 4(2): 102, pl.1.'
 doi: ''
 wfo_id: wfo-0000400579
-wfo_parent_id: ''
+wfo_parent_id: wfo-3000001252
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:70029621-1
 verified: null

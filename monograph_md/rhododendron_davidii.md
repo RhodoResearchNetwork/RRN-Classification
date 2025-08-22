@@ -17,7 +17,7 @@ tags:
 namepublishedin: Bull. Soc. Bot. France 33:230 (1886).
 doi: ''
 wfo_id: wfo-0001229350
-wfo_parent_id: ''
+wfo_parent_id: wfo-1000002597
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332301-1
 verified: null

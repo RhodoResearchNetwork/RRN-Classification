@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron alutaceum Balfour f. & W.W.Sm.
+scientificname: Rhododendron alutaceum Balf.f. & W.W.Sm.
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 10: 18 (1917)'
 doi: ''
-wfo_id: ''
-wfo_parent_id: ''
+wfo_id: wfo-0001048673
+wfo_parent_id: wfo-1000002605
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:331912-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}

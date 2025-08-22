@@ -17,7 +17,7 @@ tags:
 namepublishedin: Anz. Akad. Wiss. Wien. Math.-Nat. Kl. 58:25 (1921)
 doi: ''
 wfo_id: wfo-0001048212
-wfo_parent_id: ''
+wfo_parent_id: wfo-4100000338
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331924-1
 verified: null

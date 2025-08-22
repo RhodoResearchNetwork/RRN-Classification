@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Bull. Soc. Bot. Fr. 33: 235 (1886)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001229785'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:331978-1'
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}

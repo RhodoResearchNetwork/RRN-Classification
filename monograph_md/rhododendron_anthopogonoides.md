@@ -17,7 +17,7 @@ tags:
 namepublishedin: Bull. Acad. Petersb. 23:350 (1877)
 doi: ''
 wfo_id: wfo-0001219688
-wfo_parent_id: ''
+wfo_parent_id: wfo-3400004942
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331935-1
 verified: null
