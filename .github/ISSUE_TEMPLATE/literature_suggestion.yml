@@ -6,6 +6,7 @@ body:
     attributes:
       value: |
         Use this form to suggest literature that may inform taxonomic decisions, phylogenetic relationships, or ecological context. 
+        Please check the [R-RN Zoreto library](https://www.zotero.org/groups/4735534/rhodo-research.net/library). If the literature is not there please suggest it, we will review and add it.
 
   - type: input
     id: citation
