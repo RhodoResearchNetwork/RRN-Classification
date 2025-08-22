@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, to 1.5m; shoots slender, covered with dense, adpressed strigose hairs, twigs with grey-brown hairs, becoming glabrous. Leaves ? dimorphic, thick, coriaceous, obovate-elliptic, 1-3.5 x 0.6-2cm, 1.7-1.8 x aslongasbroad, apex blunt mucronate, base obtuse to cuneate, margin entire, upper surface of leaf almost glabrous, with a few scattered chestnut hairs on midrib, lower surface with scattered chestnut adpressed hairs, especially on midrib; petiole 4-7mm, densely covered with brown strigose hairs. Inflorescence 8-10-flowered; pedicels 2-4mm, densely covered with dark brown bristlelike hairs. Calyx cup-shaped, indumentum as for pedicels. Corolla funnel-shaped, glabrous, red, 15mm, lobes oblong; tube c.7mm. Stamens 5, unequal, filaments flattened, papillate. Ovary ovoid, densely covered with dark brown bristle-like hairs; style glabrous. Capsule not known.
 
 ## Distribution

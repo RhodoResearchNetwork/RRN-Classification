@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Much-branched shrub, 1.5-2m; young shoots clothed with adpressed flattened grey-brown strigose hairs. Leaves deciduous or partly persistent, crowded at the ends of branchlets, dimorphic; spring leaves oblanceolate to oblanceolate-spathulate, 0.7-4 x 0.2-lcm, 3.5-4 x as long as broad, apex acute, base cuneate, margin entire, with scattered adpressed grey hairs on both surfaces; summer leaves minute, 3-7mm long, otherwise as for spring leaves; petioles 2-4mm, adpressed-strigose. Inflorescence 1-6-flowered; pedicels 4-10mm, densely adpressed-strigose. Calyx covered with flattened strigose hairs, lobes broadly ovate, c.2mm, ciliate. Corolla funnel-shaped, 18-25mm, purplish-pink with or without darker flecks, rarely white with a faint pink flush; tube 10-I4mm, glabrous. Stamens 5(-10), unequal, c. as long as the corolla, filaments coarsely papillate in lower half. Ovary densely strigose, style glabrous. Capsule not known.
 
 ## Distribution

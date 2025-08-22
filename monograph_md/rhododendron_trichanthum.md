@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, l-3(-6) m. Young shoots densely loriform-setose, the setae often persisting for more than one year. Leaves evergreen, ovate-elliptic to narrowly elliptic, acute to acuminate at the apex, cuneate to rounded at the base, (55-™)60-80 X (23— )28-35 mm, upper surface glabrous to loriform-setose, elepidote or sparsely lepidote, lower surface pilose (at least on the midrib, lamina sometimes ± glabrous) with filiform-acicular and sometimes a few loriform hairs, scales brown, distant; petiole densely pilose with filiform-acicular and loriform hairs. Inflorescences 2-3-fiowered, pedicels 12-17 mm, lepidote and with a dense indumentum of twisted loriform-setae. Calyx weakly 5-lobed, the lobes 1-2 mm, lepidote and loriform-setose. Corolla 30-36 mm, tube 14-16 mm, light to dark purple, lepidote and with a variably dense indumentum of flattened loriform setae outside. Stamens 10, filaments pubescent towards the base. Ovary lepidote and with a variable indumentum of filiform-acicular hairs and loriform setae. Capsule oblong-cylindric, up to 19 mm, lepidote, variably bristly.
 
 ## Distribution

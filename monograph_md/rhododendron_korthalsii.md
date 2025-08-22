@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Probably a shrub. Leaves oblanceolate to elliptic, 7-8 x 1.8-2.4cm, 3.3-4 x as long as broad, apex bluntly acuminate, base cuneate, margins slightly undulate, upper and lower surfaces glabrous when mature; petioles 1 — 1.5cm,±glabrous when mature. Inflorescence c.6-flowered; rhachis c.7mm; pedicels c.l5mm, densely stipitate-glandular. Calyx 4-5mm, lobes ovate, rounded, glandular-ciliate. Corolla open-campanulate, c.25mm, with a pubescent spot within near the base. Ovary sparsely rufous-tomentose, eglandular; style glabrous. Capsule not known.
 
 ## Distribution

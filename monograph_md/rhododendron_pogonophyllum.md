@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small, procumbent shrublet. Leaf-bud scales persistent. Leaves elliptic to obovate, c. 10 x 4-5 mm, upper surface elepidote but beset with whitish loriform setae, undersurface brown with dense scales borne in 2-3 tiers, those of the lowermost tier golden, paler than the others. Inflorescence 2-4-flowered, pedicels very short, lepidote. Calyx lobes obovate, 5-6 mm, elepidote and glabrous outside, margins densely loriform-ciliate, inner surface densely puberulent. Corolla white to pink, glabrous and elepidote outside, tube 8 mm, lobes 5 mm, mouth of the tube densely pilose within. Stamens 6. Ovary densely lepidote. Capsule unknown
 
 ## Distribution

@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small shrub, 0.3-3 m. Leaves lanceolate or oblong-lanceolate or narrowly elliptic, acute or acuminate at the apex, cuneate and abruptly rounded at the base, (25-)35-75 x (8—)11—28 mm, upper surface dark green, variably lepidote, puberulent along most of the length of the midrib and on the surface towards the base, lower surface greenish, lepidote with distant, large scales, rarely loriform-ciliate on margins and petiole. Inflorescence 2-3 (-4)-flowered, pedicels lepidote, 5-10(-14) mm. Calyx variably developed, undulate, less than 1 mm, to clearly 5-lobed with lobes up to 2-5 mm, lepidote, frequently loriform-ciliate. Corolla pale yellow, unspotted, 18-24 mm, tube 8-11 mm, variably lepidote outside and sometimes sparsely puberulent with short, straight hairs. Stamens 10, filaments pubescent towards the base. Ovary lepidote, style glabrous. Capsule very narrowly cylindric, 6-13 mm
 
 ## Distribution

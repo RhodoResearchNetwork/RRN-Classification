@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Epiphytic or free-growing shrub up to 3 m. Young growth loriform-setose. Leaves narrowly elliptic, tapered to the base and the long-acuminate apex, 85-100 x 28-31 mm, upper surface brownish green, margins variably loriform-ciliate, lower surface brownish with rather lax, dark scales. Inflorescence 2-3-flowered, pedicels lepidote. Calyx disc-like or obscurely undulately lobed, fringed with rather sparse loriform setae and also with filiform-acicular hairs, surface lepidote. Corolla white, flushed pink, with a yellow blotch inside, funnel-campanulate, 60-70 mm, tube 35-36 mm, pubescent all over the tube and bases and middles of the lobes outside, sparsely lepidote on the tube, more densely so on the lobes. Stamens 10, filaments pubescent towards the base. Ovary densely lepidote, tapering into the lepidote style. Capsule lepidote, oblong, 20-25 mm.
 
 ## Distribution

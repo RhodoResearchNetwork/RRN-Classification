@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron ambiguum Hemsley"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bot. Mag. 137: t. 8400(1911)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron ambiguum Hemsl.
+scientificnameauthorship: Hemsl.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: 'Bot. Mag. 137: t. 8400(1911)'
+doi: ''
+wfo_id: wfo-0001048157
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:331920-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1-5-5 m. Leaves narrowly ovate or obovate or narrowly elliptic, ± acute at the apex, cuneate-rounded at the base, 30-60(-80) x 15-32 mm, dark green and persistently lepidote above, densely lepidote beneath with contiguous or overlapping, dark brown, somewhat unequal, large, broadly rimmed scales; petiole, and midrib for a short distance from the base, pubescent. Inflorescences 3(-5)-flowered, pedicels lepidote and sometimes puberulent near the base, 10-15 mm. Calyx undulate or very weakly lobed, iepidote, sometimes filiform-acicular-ciliate. Corolla yellow, often with greenish or darker yellow spots on the upper lobes, 20-26 mm, tube 8-11 mm, variably lepidote outside, rarely elepidote. Stamens 10, filaments pubescent towards the base. Ovary lepidote, style usually glabrous, rarely puberulent at the base. Capsule lepidote, cylindric, (9~)11-13 mm.
 
 ## Distribution

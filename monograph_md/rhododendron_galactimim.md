@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Tree, 5-8m (in the wild). Leaves ovate-lanceolate, 14-20 x 5-6.2cm, 2.6—3.3 X as long as broad, apex ± obtuse, apiculate, base rounded, upper surface glabrous, smooth, lower surface with a bistrate indumentum, the lower layer whitish and compacted, the upper dense, cinnamon, composed of strongly fimbriate, narrowly cup-shaped hairs; petioles 2—3.5mm, terete, tomentose. Inflorescence 9—15-flowered; rhachis c.5mm; pedicels 50—55mm, sparsely tomentose. Calyx c.lmm, tomentose, teeth triangular. Corolla 7-lobed, campanulate, pale rose with a crimson basal blotch, (30—)40—50mm. Stamens 14. Ovary glabrous or with a few rufous hairs. Capsule not known.
 
 ## Distribution

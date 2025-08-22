@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf shrub; young shoots becoming glabrous. Leaves ovate, 1.5-3 x l-2cm, apex acute, upper and lower surface with long brown hairs, becoming glabrous; petioles l-3mm, densely villose. Inflorescence 1-2-flowered; pedicels short, hidden by bracts, densely villose. Calyx minute, densely villose. Corolla open-campanulate, pale purple or lilac, upper lobe spotted, 20-30mm, lobes 15mm, broadly oblong. Stamens 10, unequal, glabrous. Ovary densely hairy; style glabrous. Fruit not known.
 
 ## Distribution

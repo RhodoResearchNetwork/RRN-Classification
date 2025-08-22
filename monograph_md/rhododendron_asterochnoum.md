@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small tree. Leaves oblanceolate, 18-20 x 5-6 cm, c.3.5 x as long as broad, apex rounded, base cuneate, lower surface with a sparse discontinuous whitish stellate indumentum; petioles 1.5-2.5 cm, floccose. Inflorescence 15-20-flowered; rhachis 20-25 mm; pedicels 35-50 mm, glabrous or with a few hairs. Calyx c. 2 mm. Corolla 5-lobed, funnel-campanulate, white tinged with rose, apparently with a basal blotch, c. 45 mm. Stamens c. 20, puberulent at base. Ovary and style glabrous; stigma discoid.
 
 ## Distribution

@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron spinuliferum Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Journ. de Bot. 9:399 (1895)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron spinuliferum Franch.
+scientificnameauthorship: Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Journ. de Bot. 9:399 (1895)
+doi: ''
+wfo_id: wfo-0001048174
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333392-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Very like R. scabrifolium in general appearance, differing as follows: leaves large, ultimately glabrous above (though with filiform-acicular hairs persisting along the midrib and the bases of the setae persistent around the margins), calyx usually disc-like, unlobed, densely pubescent, the corolla ± erect, tubular to very narrowly funnel-shaped, filled with watery nectar, 17-23 mm, tube 11-17 mm, stamens and style exserted, filaments glabrous, capsule 11-17 mm.
 
 ## Distribution

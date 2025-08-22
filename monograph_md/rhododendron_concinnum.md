@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron concinnum Hemsley"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Journ. Linn. Soc. 26:21 (1889)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron concinnum Hemsl.
+scientificnameauthorship: Hemsl.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Journ. Linn. Soc. 26:21 (1889)
+doi: ''
+wfo_id: wfo-0001048139
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:332230-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 0-5-2 m. Leaves ovate or elliptic, 35-60 x 18-32 mm, rounded to cordate at the base, acute to slightly acuminate at the apex, upper surface lepidote (scales sometimes deciduous), puberulent along the midrib, lower surface grey or brownish with numerous contiguous or almost contiguous large, flat, broadly rimmed scales with a tendency to dimorphism in colour—golden and brown. Inflorescence 2-4-flowered; pedicels (5-)7-13 mm, lepidote. Calyx minute, variably lobed, ciiiate with loriform and filiform-acicular hairs, rarely glabrous. Corolla purple or reddish purple, rarely pale, 20-30 mm, tube 8-15 mm, lepidote on the tube outside, pubescent within the tube. Stamens 10, filaments pubescent towards the base. Ovary lepidote, sometimes minutely pubescent at apex. Style glabrous or puberulent. Capsule lepidote, 8-14 mm
 
 ## Distribution

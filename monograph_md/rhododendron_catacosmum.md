@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1.3—3m; young shoots fulvous-tomentose, setae very few or entirely lacking. Leaves obovate, 8-10 x 4.2-5.5 cm, 1.6-2 x as long as broad, apex rounded, apiculate, base broadly cuneate, upper surface glabrous, lower surface densely fulvous-tomentose, indumentum bistrate, the upper layer loose, dendroid, the lower whitish and compacted; petioles 1-1.5cm, tomentose. Inflorescence 6-9-flowered; rhachis 5-10mm; pedicels 25-35mm, floccose-tomentose. Calyx 15-20mm, cupular, glabrous except for the ciliate margin, lobes shallow. Corolla fleshy, tubular-campanulate, crimson, c.45mm. Ovary densely tomentose. Capsule 20-25 x c.l2mm.
 
 ## Distribution

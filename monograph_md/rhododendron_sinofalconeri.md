@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Tree, to 7m. Leaves broadly obovate, 17-28 x 11.8-16cm, 1.5-1.8 x as long as broad, apex rounded, apiculate, base + cuneate, upper surface glabrous, rugulose, lower surface with a unistrate or bistrate indumentum, the lower layer (when present) compacted, the upper layer dense, light brown, composed of moderately fimbriate, broadly cupular hairs; petioles terete, up to 5cm, sparsely tomentose. Inflorescence c.lO-flowered; rhachis c.8mm; pedicels c.30mm, lanate-tomentose. Calyx c.3mm, lobes rounded, sparsely tomentose. Corolla 8-lobed, obliquely campanulate, pale yellow, 50-60mm. Stamens 16. Ovary densely fulvous lanate-tomentose. Capsule not known.
 
 ## Distribution

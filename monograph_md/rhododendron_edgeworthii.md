@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 2-5 m, epiphytic or scrambling on rocks. Indumentum dark orange to pale beige brown. Leaves oblong-ovate, oblong-lanceolate or rarely elliptic, 6-15 x 2-5-5 cm, usually acuminate, upper surface strongly bullate and glabrous; scales on the lower surface completely obscured by the indumentum, small, distant, golden. Inflorescence 2-3-flowered, pedicels up to 2 cm, densely tomentose. Flowers usually fragrant. Calyx clearly lobed, the lobes oblong-orbicular, densely tomentose on the margins and also usually on the outer surface, lepidote on the outer surface, the inner surface finely pubescent, 11-14 mm. Corolla funnel-campanulate, (35-)45-60(-66) mm, the tube (19-)25-30(-40) mm, white, sometimes flushed pink and/or with a yellow blotch at the base, glabrous within, lepidote outside. Stamens 10, declinate, filaments densely pilose in the lower part. Ovary densely tomentose. Style about as long as the corolla, declinate, exceeding the stamens, tomentose and/or lepidote for a variable distance above the base. Capsule densely tomentose, oblong-globose, c. 18 x 12 mm.
 
 ## Distribution

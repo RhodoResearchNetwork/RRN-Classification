@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron rigidum Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bull. Soc. Bot. Fr. 33:233 (1886)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron rigidum Franch.
+scientificnameauthorship: Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Bull. Soc. Bot. Fr. 33:233 (1886)
+doi: ''
+wfo_id: wfo-0001048104
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333232-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1-10 m. Young growth sparsely lepidote, usually with pruinose-glaucous bloom. Leaves 29-65 x 13-25 mm, hard, elliptic to narrowly elliptic, acute at apex, cuneate at base, elepidote above, beneath sparsely lepidote with very distant (c. 5-8 x their own diameter apart), narrowly rimmed, golden or brown scales; petiole and upper part of midrib usually pruinose-glaucous, rarely sparsely puberulent. Inflorescence loose, pedicels lepidote, (8-)10~17 mm. Calyx minute, disc-like or undulate, sparsely lepidote, usually glabrous. Corolla white to rose pink or lilac, unspotted or spotted with red, (21-)24-27(-30) mm, ± elepidote outside. Capsule 10-16 mm.
 
 ## Distribution

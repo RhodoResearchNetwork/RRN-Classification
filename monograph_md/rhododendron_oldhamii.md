@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Much-branched shrub, to 3m; young shoots densely clothed with spreading red-brown glandular hairs intermixed with scattered + spreading, flattened hairs. Leaves dimorphic, persistent, chartaceous; spring leaves ovate-lanceolate 3.5-6 x 1.8-2.5cm, 2-2.4 x as long as broad, apex acute to mucronate, base rounded to broadly cuneate, margin entire, covered with light brown long pilose hairs on both surfaces, hairs somewhat longer on midrib; summer leaves 15-20 x 8-10mm, otherwise as for spring leaves;.petioles 4-9mm, covered with spreading pilose hairs. Inflorescence 1-3-flowered; pedicels 5-10mm, covered with spreading glandular red-brown hairs. Calyx green, glandular-hairy and pilose, lobes ovate-lanceolate, c.2mm, ciliate. Corolla funnel-shaped, 25-35mm, orange-red to coral-pink; tube c.l2mm, outer surface glabrous, inner surface papillate. Stamens (8-) 10, unequal, as long as or longer than corolla, filaments papillate below middle. Ovary densely glandular-setose; style glabrous. Capsule ovoid, 8-10mm, glandular-setose.
 
 ## Distribution

@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf shrub, 1 —1.5m; young shoots stellate-tomentose, eglandular. Leaves elliptic, 5.5-6.5 x 1.8—2.5cm, 1.6—3 x as long as broad, apex blunt, apiculate, base rounded, upper surface glabrous, lower surface with a floccose ± unistrate, rufous, discontinuous ramiform to sub-rosulate tomentum, lower epidermis epapillate, green; petioles 0.5-lcm, slightly winged, floccose-tomentose, eglandular. Inflorescence 4-5-fIowered; rhachis minute; pedicels c.lOmm, sparsely stellate-tomentose. Calyx 4-7mm, cupular, lobes rounded, ±ciliate. Corolla fleshy, tubular-campanulate, crimson to deep red, 25-35mm. Ovary densely fulvous-tomentose, ± truncate to tapering into the glabrous style. Capsuled 3 x 3mm.
 
 ## Distribution

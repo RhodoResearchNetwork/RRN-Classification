@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron florulentum P.X.Tan"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Chamberlain, D.F."
-created: "1990"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bull. Bot. Res. N.E. Forest. Inst. 2(4): 80, f.2 (1983)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron florulentum P.C.Tam
+scientificnameauthorship: P.C.Tam
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Chamberlain, D.F.
+created: '1990'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: 'Bull. Bot. Res. N.E. Forest. Inst. 2(4): 80, f.2 (1983)'
+doi: ''
+wfo_id: wfo-0001229813
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:900764-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, c.2m; young shoots densely spreading-setulose and glandular-hairy. Leaves persistent, dimorphic, elliptic; spring leaves 3.5-8.5 x I.2-4.5cm, 2.2-3 x as long as broad, apex acute to acuminate, base cuneate, margin entire, upper surface becoming greyish-setulose, lower surface with a ± dense reddish-brown setulose indumentum; summer leaves smaller, 22-30mm, otherwise as for spring leaves; petioles 5-IOmm, densely brownish-setulose. Inflorescence 7-14-flowered; pedicels 10-20 mm, densely brownish-strigose. Calyx minute, indumentum as for pedicels, lobes narrowly triangular to ± absent. Corolla tubular-campanulate, reddish purple to rose, c.25mm; tube 14-16 x 2-3mm, glabrous; lobes 8-10mm. Stamens 5, filaments glabrous or puberulent below. Ovary densely brownish-strigose; style glabrous. Capsule 5-8mm, ovoid, densely brownish-strigose.
 
 ## Distribution

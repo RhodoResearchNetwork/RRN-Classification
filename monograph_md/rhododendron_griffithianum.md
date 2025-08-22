@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub or tree, 1.3-10 m. Leaves oblong, 10—19(—30) x 4-7.5(-10) cm, 2.6-3.8 x as long as broad, apex acute to rounded and mucronate, base rounded, lower surface glabrous; petioles 2-3.5 cm, glabrous. Inflorescence 4-5-flowered; rhachis 50-70 mm; pedicels 35-40 mm, usually sparsely glandular. Calyx cupular, 7—20 mm, lobes rounded, glabrous. Corolla 5-lobed, open-campanulate, entirely glabrous, pale pink at first, soon fading white, 55-80 mm. Stamens 12-18, filaments glabrous. Ovary and entire style glandular. Capsule 22-40 x 13-18 mm, stout.
 
 ## Distribution

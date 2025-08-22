@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub or tree, 2-8 m. Leaves thick, broadly elliptic, 7-11 x 5-7 cm, 1.4-1.7 x as long as broad, apex rounded, mucronate, base rounded, lower surface with minute punctulate hair-bases when mature, otherwise glabrous; petioles broad, up to 10 mm, winged, glabrous. Inflorescence c. 12-flowered; rhachis up to 45 mm; pedicels 20-25 mm, glabrous. Calyx c. 1 mm, with minute glabrous rounded lobes. Corolla 7-lobed, open-campanulate, entirely glabrous, pinkish-red, lacking markings, 35-45 mm. Stamens 14, filaments puberulent below. Ovary and entire style stipitate-glandular. Capsule not known.
 
 ## Distribution

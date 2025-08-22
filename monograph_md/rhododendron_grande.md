@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Tree, 8-12m. Leaves elliptic to oblanceolate, 15-27 x 5-9.5cm, 2.4-3.3 x as long as broad, glabrous above, with a thin compacted silvery indumentum beneath; petioles 2—3.5cm, sparsely floccose to glabrous when mature. Inflorescence 15-25-flowered; rhachis 40-50mm; pedicels 15-30mm, densely covered with sessile glands, sometimes also floccose. Calyx c.lmm, glandular. Corolla 8-lobed, ventricose-campanulate, pale yellow (rarely with a purplish tinge), with purple nectar pouches, 50-/70mm. Stamens 15-16. Ovary densely stipitate-glandular, sometimes also with a dense pale brown tomentum. Capsule 30-45 x 8- 12mm.
 
 ## Distribution

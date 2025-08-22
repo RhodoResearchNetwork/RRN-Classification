@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Very similar to R. sulfureum, differing as follows: leaves broadly ovate-oblong, 45-50 x 27-30 mm, the scales beneath contiguous, markedly unequal, flat, borne above the surface, not obviously sunk in pits; corolla c. 25 mm, tube 16 mm
 
 ## Distribution

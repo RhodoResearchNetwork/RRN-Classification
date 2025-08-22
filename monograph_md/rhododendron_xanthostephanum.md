@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron xanthostephanum Merrill"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Brittonia 4:148 (1941)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron xanthostephanum Merr.
+scientificnameauthorship: Merr.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Brittonia 4:148 (1941)
+doi: ''
+wfo_id: wfo-0001230687
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333621-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 0.6-2 m, mature bark smooth, reddish brown, somewhat pruinose. Leaves oblong-narrowly elliptic to elliptic, acute at apex, cuneate at the base, (50-)60-80(-105) X (15-)20-25(-30) mm, upper surface brownish green, lower surface silvery brown with unequal scales about their own diameter apart, the smaller and more numerous scales deeply sunk in pits, scarcely reaching the surface of the leaf, the larger borne ± on the surface, though with the stalks in pits. Inflorescences usually terminal, rarely a few axillary inflorescences present as well, (3-)4-5-fIowered, pedicels lepidote, 10-12 mm. Calyx lobes suborbicular to ovate or oblong, rounded at the apex, (2-)5-7 mm, variably lepidote, not ciliate, erect or spreading. Corolla rather narrowly campanulate, (18-)20-25(-28) mm, tube (11-)14-16(-20) mm, deep yellow, deep lemon-yellow or tending to yellow-orange, variably lepidote and sometimes slightly pubescent outside. Filaments pubescent towards the base. Ovary lepidote, tapering into the style which is lepidote at the base. Capsule lepidote, cylindric, 8-11 mm.
 
 ## Distribution

@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron roseatum Hutchinson"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Notes R.B.G. Edinb. 12:57 (1919)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron roseatum Hutch.
+scientificnameauthorship: Hutch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Notes R.B.G. Edinb. 12:57 (1919)
+doi: ''
+wfo_id: wfo-0001048067
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333242-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub from 1-4 m. Young branches sparsely loriform-setose, the setae quickly deciduous. Leaves ± obovate, tapered to the base, abruptly acute at the apex, 70-120 x 35-60 mm, the lower surface brownish with lax to rather dense scales. Inflorescence (2-)3-5-flowered. Calyx obscurely lobed, loriform-ciliate. Corolla white or white flushed pink, with a yellow blotch at the base, (50-)55-75 mm, tube (28-)30~40 mm, pubescent at the base outside, the whole surface laxly lepidote. Capsule lepidote, c. 20 mm.
 
 ## Distribution

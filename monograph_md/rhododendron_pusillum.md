@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf spreading shrub to 50cm. Twigs 1–1.5mm in diameter, densely covered with sessile and shortly stalked brown scales, older parts warty. Leaves densely spirally arranged at the ends of the twigs. Blade 4–10 x 2–5mm, ovate-elliptic; apex shortly acuminate, sub-acute, often with a paler apiculus; margin distinctly crenulate at least in the distal ½, flat, cartilaginous and paler than the lamina; base tapering or almost rounded, laxly scaly on both sides initially, becoming glabrescent above, more persistently scaly beneath. Scales irregularly stellate, flat, not or slightly impressed. Mid-vein slightly impressed above, raised beneath, often obscure; lateral veins obscure. Petiole 1–2mm. Flower buds 10–12 x c.5mm, ovoid. Bracts to 12 x 6mm, membranous, ovate-acuminate, shortly subulate or apiculate, outer scaly outside, inner ones completely glabrous. Bracteoles to 8mm, linear. Inflorescence a solitary flower or up to 3 together hanging from an erect pedicel. Pedicels 6–20mm, densely covered with stalked stellate scales (without hairs). Calyx 2–3mm in diameter, disc-shaped, shortly sub-acutely 5-lobed, densely scaly. Corolla 15–23mm, tubular to sub-campanulate, slightly oblique, red, turning to orange with age; tube 10–16 x 3–4 x 5–6mm, laxly scaly proximally, or mostly glabrous outside, glabrous inside; lobes 5–9 x 5–9mm, semi-erect or spreading, obovate to sub-circular, slightly retuse. Stamens unequal, ½ as long as the corolla; filaments linear, glabrous; anthers c.1.2mm, sub-orbicular, black. Disc glabrous. Ovary 3–4 x c.2mm, ovoid-conical, abruptly contracted distally, densely stellate-scaly; style 2–4mm, columnar, glabrous; stigma globose, 5-lobed.
 
 ## Distribution

@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub. Twigs slender, sparsely scaly; internodes 3.5–13cm. Leaves 3–5 together in tight pseudowhorls. Blade 40–160 x 12–50mm, elliptic to narrowly ovate-elliptic; apex acuminate, acute, margin entire, flat, base broadly tapering, sometimes slightly decurrent; glabrescent above, sub-densely and more persistently scaly beneath. Scales sub-stellately lobed, margin broad; centre small and slightly impressed. Mid-vein narrowly impressed above, strongly prominent beneath; lateral veins 5–13 per side, spreading at a wide angle, anastomosing before the margin, reticulation lax to obscure. Petiole 2–5 x c.2mm, grooved above, scaly. Inflorescence 3–15 flowers in an open to complete umbel, flowers erect to semi-erect. Pedicels 30–50 x c.1mm, sparsely scaly. Calyx a low disc, scaly. Corolla c.27 x 33mm, red or yellow; tube 11–13 x c.8.5 x c.10mm, scaly outside, glabrous inside, or with a few sparse hairs, 5-angled, lobed at the base; lobes 11–13 x 8–10mm, wide-spreading to reflexed, not or only shortly overlapping, scaly outside. Stamens 21–23mm, arranged all round the flower, exserted to c.10mm; filaments filiform, glabrous or occasionally very sparsely hairy near the base; anthers c.2.5mm, oblong. Disc 10-lobed, glabrous. Ovary c.5 x 2.5mm, shortly cylindrical, longitudinally grooved, densely covered with distally pointing hairs which hide small scales; style hairy and scaly in the proximal ½, glabrous distally; stigma rounded.
 
 ## Distribution

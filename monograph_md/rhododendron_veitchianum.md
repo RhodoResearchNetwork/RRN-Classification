@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Epiphytic or free-growing shrub up to 2 m. Young growth sparsely loriform-setose, the setae usually quickly deciduous. Leaves obovate or narrowly elliptic, gradually tapered to tne base, the apex shortly acuminate, 65-100 x 28-40 mm, upper surface dark green, lower surface paler with distant, unequal, golden scales; petiole lepidote. Inflorescence (l-)2-5-flowered, pedicels short, lepidote. Calyx disc-like, scarcely lobed, lepidote, loriform-ciliate. Corolla white, often with a yellow blotch at the base, openly funnel-campanulate, 50-60(-65) mm, tube 26-34(-40) mm, sparsely pubescent at the base, lepidote along the adaxial part only; lobes with crisped margins. Stamens 10 (not 12-14 as described by Hooker), pubescent towards the base. Ovary lepidote, tapering into the style which is lepidote well above the base. Capsule up to 30 mm, lepidote.
 
 ## Distribution

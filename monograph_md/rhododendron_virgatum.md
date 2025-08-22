@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub 0.3-1 -5 m. Young growth lepidote. Leaves up to 50 mm, narrowly oblong or oblong-elliptic, laxly lepidote above particularly along the midrib and near the base, densely lepidote beneath with unequal scales, the surface of the leaf papillose. Inflorescences 1 (—2)-flowered. Calyx 2-3 mm, the tube lepidote, the lobes occasionally fringed with filiform-acicular hairs. Corolla 15-37 mm, tube 8-20 mm, the tube pubescent and sparsely lepidote outside, the lobes lepidote outside. Stamens 10, filaments pubescent near the base. Ovary densely lepidote, style lepidote and/or pilose towards the base. Capsule lepidote, 9-12.5 mm. ** * Rhododendron virgatum * var. * oleifoiium * ** ** * Rhododendron virgatum * var. * virgatum * ** Corolla 25-37 mm, the tube 11-20 mm, pale to deep pink or mauve
 
 ## Distribution

@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 80cm. Twigs 3–4mm in diameter, rounded, green, finely brown scaly; internodes 3–15cm. Leaves 4–6 together in tight pseudowhorls. Blade 50–80 x 25–40mm, obovate, elliptic or broadly elliptic; apex obtuse to rounded, sometimes minutely mucronate; margin entire, flat when fresh, becoming slightly revolute when dry; base rounded to cordate; quickly glabrescent above, more densely, persistently scaly beneath. Scales brown, rounded to irregularly lobed, c.0.1mm in diameter, weakly impressed into shallow pits. Mid-vein impressed into a narrow groove above, only slightly raised beneath; lateral veins 3–5 per side, inconspicuous, reticulation obscure. Petiole 2–3 x 4–5mm, grooved above, green or with a faint reddish flush on the upper side, scaly. Flower buds (see p.327) c.40 x 20mm, green, narrowly ovate, acute, the bracts standing out from the buds at an acute angle with a ‘spiky’ appearance. Bracts to 30 x 14mm, ovate elliptic below but narrowly acuminate with channelled and inrolled upper margins; margins minutely scaly otherwise glabrous, shiny green in the central and upper parts, translucent towards the lower margins. Inflorescence 9–14 flowers in an open or one-sided umbel. Pedicels c.20 x 2mm, dark-pink, pale brown scaly and minutely covered with patent white hairs. Flowers half-hanging to semi-erect. Calyx forming a low irregular disc covered with hairs and scales. Corolla c.50 x 40mm, pure white with a faint sweet scent; tube c.40 x 8 x 5mm, distinctly narrowed upwards, glabrous outside, inside covered with moderately dense patent hairs; lobes c.19 x 20mm, circular or nearly so, overlapping for at least ½ their length and spreading at right angles or a little reflexed, glabrous. Stamens irregularly filling the mouth of the corolla tube but not exserted; filaments white, with some short white patent hairs in the proximal 5mm other­wise glabrous; anthers 2.5–3mm, pale brown, weakly apiculate at the base. Disc green, minutely hairy on the upper side. Ovary 6–7 x c.3mm, densely white scaly and with short white slightly distally directed simple hairs, gradually tapering; style scaly in the proximal ¼ and with semi-erect hairs in the proximal ½, completely glabrous distally, pink at the base, becoming white; stigma c.3mm in diameter, white, rounded, remaining within the mouth of the flower.
 
 ## Distribution

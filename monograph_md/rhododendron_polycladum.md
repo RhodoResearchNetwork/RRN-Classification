@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron polycladum Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bull. Soc. Bot. Fr. 33:234 (1886)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron polycladum Franch.
+scientificnameauthorship: Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Bull. Soc. Bot. Fr. 33:234 (1886)
+doi: ''
+wfo_id: wfo-0001048221
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333111-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Erect shrub to 1-2 m. Leaves (4-)8-18(-20) X (2-)3-6(-8) mm, narrowly elliptic to elliptic, acute or obtuse, very shortly or obscurely mucronate, base cuneate, undersurface greyish with brown stippling, or more uniformly reddish brown, the scales discontiguous or contiguous in groups. Inflorescence up to 5-flowered, pedicels lepidote, 0.5-3 mm. Calyx obsolete to 2-5 mm, lobes sometimes unequal, deltoid to rounded, lepidote, margins ciliate and/or lepidote. Corolla lavender to rich purple-blue, rarely white, broadly funnel-shaped, pubescent inside and occasionally outside as well, elepidote, 7-5-13 mm, tube 2-5-5 mm. Stamens 10, .filaments pubescent towards the base. Ovary lepidote, style exceeding stamens, glabrous or rarely with a few hairs at the base. Capsule oblong, up to 6 mm, lepidote.
 
 ## Distribution

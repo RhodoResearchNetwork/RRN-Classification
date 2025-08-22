@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1.5-4.5m; young shoots glabrous. Leaves broadly ovate to obovate, (7—)9—11 x (4-)5-7cm, 1.5-1.8 x as long as broad, apex rounded, apiculate, base cordate to rounded, upper surface glabrous, lower surface covered with a dense fulvous lanate tomentum composed of fasciculate hairs; petioles 1 -2cm, glabrous when mature. Inflorescence dense, 8-14-flowered; rhachis 10-25mm, pedicels 7—10mm, glabrous. Calyx 1 -2mm, glabrous. Corolla tubular-campanulate, scarlet to blood-red, with darker nectar pouches, 20-35mm. Ovary glabrous. Capsule 13-30 x c.5mm, curved.
 
 ## Distribution

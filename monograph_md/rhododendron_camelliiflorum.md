@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 2 m, epiphytic or growing on rocks. Young growth lepidote. Leaves narrowly elliptic to oblong-elliptic, bluntly acute at the apex, tapering to a shortly rounded base, (53-)60-90(-105) x (16-)20-30(-37) mm, shining dark green above with few, dried-out scales, pale green to brownish beneath with a dense covering of almost contiguous, broadly rimmed scales of which a few are larger and darker than the rest. Inflorescence 1-2-flowered, pedicels densely lepidote. Calyx lobes oblong, rounded at the apex, 5-8 mm, lepidote or not on the surface, fringed with scales. Corolla waxy, with a short, broad tube, white to deep rose, rarely with a whitish or yellowish zone within at the base, lepidote outside, villous within, 14-18(-20) mm, tube 8-10 mm. Ovary 5-10-locular, lepidote, style usually shorter than the stamens. Capsule ovoid, lepidote, tapered to the apex, 7-11(-13) mm
 
 ## Distribution

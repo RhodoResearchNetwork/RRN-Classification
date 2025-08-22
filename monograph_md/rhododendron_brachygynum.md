@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 1m. Twigs red-brown. Leaves either in pseudowhorls at the end of the branchlets or scattered and spiral. Blade c.100 x 45mm, elliptic; apex shortly acuminate; base obtuse, decurrent into the petiole, shining and minutely blackish pitted above, sparsely covered with pale scales beneath. Petiole 15mm. Inflorescence 5-flowered. Pedicels c.20mm, strong, hairy. Corolla 40mm, narrowly obconical, yellow; lobes c.15mm, rounded. Stamens c.30mm; filaments minutely hairy in the proximal part; anthers c.3mm, oblong, base minutely appendaged. Disc hairy, at the upper margin. Ovary c.8 x 3mm, sub-cylindrical, densely hairy, abruptly contracted distally; style c.9mm, glabrous; stigma 2mm in diameter, rounded.
 
 ## Distribution

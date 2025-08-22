@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Very similar to R. glaucophyllum var. glaucophyllum, differing as follows: leaves elliptic, obtuse at the apex, not or scarcely lepidote above, sparsely so beneath, calyx lobes rounded at the apex, not loriform-ciliate and without a tuft or hairs inside at the apex; corolla campanulate, bright, clear yellow, 20-22 mm, tube c. 12 mm.
 
 ## Distribution

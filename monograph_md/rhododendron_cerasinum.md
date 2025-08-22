@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1.2-3.7m; young shoots glabrescent. Leaves narrowly obovate to elliptic, 4.5-7 x 1.8-4cm, 1.7-2.5 x as long as broad, apex rounded, apiculate, base rounded, upper and lower surfaces glabrous, lower cuticle shortly papillate with some red sessile hair-bases; petioles 0.7-1.5cm, with sparse, well-developed, rufous, dendroid hairs that extend up the midrib on the upper surface of the leaves. Inflorescence 4—7-flowered; rhachis up to 5mm; pedicels 15-25mm, sparsely glandular. Calyx c.1.5mm, shortly stipitate-glandular, at least on the lobe margins. Corolla campanulate, crimson to scarlet or white with a deep pink border, nectar pouches darker, 35-45mm. Ovary shortly stipitate-glandular; style glandular to tip. Capsule c.20mm.
 
 ## Distribution

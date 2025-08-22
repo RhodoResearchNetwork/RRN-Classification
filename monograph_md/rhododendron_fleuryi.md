@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 3-5 m. Leaves oblong-lanceolate, tapering to base and apex, 50-80 x 20-40 mm, margins somewhat loriform-ciliate, dark green above, brownish beneath with dense almost contiguous scales; petioles loriform-ciliate. Inflorescence 5-6-flowered, pedicels sparingly lepidote, markedly recurved in fruit. Calyx disc-like, glabrous. Corolla white with 5 yellow lines on the tube, c. 40 mm, glabrous. Stamens 10, filaments pubescent towards the base. Ovary lepidote, tapering into the style which is sparsely lepidote.near the base.
 
 ## Distribution

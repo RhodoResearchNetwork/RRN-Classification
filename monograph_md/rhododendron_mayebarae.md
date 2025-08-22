@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub; young shoots glabrous. Leaves ovate-rhombic, 2.5-3 x 1.5-1.7cm, apex acute, upper surface at first hairy, lower surface with lamina glabrous, veins and midrib with brown hairs, especially towards base; petioles very short. Inflorescence 1-flowered, flowers appearing before leaves; pedicels 10-15mm, densely brownish setose-pubescent. Calyx inconspicuous. Corolla open funnel-campanulate, c.25mm, deep magenta, spotted, lobes c.20mm, oblong. Stamens 10, unequal, filaments glabrous. Ovary densely brownish setose-strigose; style glabrous. Capsule 8 x 3mm.
 
 ## Distribution

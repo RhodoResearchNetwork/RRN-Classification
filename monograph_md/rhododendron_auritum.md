@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Very similar to R. xanthostephanum, differing as follows: often taller, bark not as conspicuous, leaves narrowly elliptic to elliptic, undersurface brown with unequal, ± contiguous or overlapping scales, the smaller sunk in pits but reaching the leaf surface; calyx lobes reflexed; corolla pale yellow or cream, sometimes with a faint pink flush.
 
 ## Distribution

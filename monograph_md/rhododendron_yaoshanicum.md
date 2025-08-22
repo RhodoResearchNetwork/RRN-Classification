@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small shrub; young shoots spreading-glandular-setose; indumentum becoming pale greyish-brown, sometimes glabrous. Leaves chartaceous, scattered along branches; spring leaves oblong to oblong-lanceolate, 9~15(-20) x 3-8cm, apex acuminate, base broadly cuneate, margin setulose, upper surface glabrescent, lower surface sparsely setulose; summer leaves smaller, up to c.10 x 4mm, otherwise as for spring leaves; petioles 5-15mm, densely spreading-brownish-setose, also with short glandular hairs. Inflorescence 10-15~flowered; pedicels c. 10mm, densely setulose. Calyx c.3mm, densely setulose, teeth minute. Corolla funnel-campanulate, 13-15mm, red; tube 7-8mm, glabrous. Stamens 5, filaments glabrous. Ovary brown-setulose; style glandular-setose in lower half. Capsule oblong to oblong-ovoid, 5-7mm.
 
 ## Distribution

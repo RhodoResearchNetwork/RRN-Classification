@@ -1,0 +1,68 @@
+import os
+import yaml
+import glob
+import re
+
+MONOGRAPH_DIR = 'monograph_md'
+OUTPUT_FILE = 'checklist.md'
+
+def slugify(text):
+    text = os.path.splitext(text)[0]
+    text = re.sub(r'[^a-zA-Z0-9\-_\s]', '', text)
+    return re.sub(r'[\s_]+', '-', text).lower()
+
+def parse_frontmatter(md_path):
+    with open(md_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    if lines and lines[0].strip() == '---':
+        try:
+            end = lines[1:].index('---\n') + 1
+            yaml_str = ''.join(lines[1:end])
+            return yaml.safe_load(yaml_str)
+        except (ValueError, yaml.YAMLError) as e:
+            print(f"Error parsing {md_path}: {e}")
+    return {}
+def fallback_title_from_slug(slug):
+    parts = slug.split('-')
+    if len(parts) >= 2:
+        genus = parts[0].capitalize()
+        epithet = parts[1].lower()
+        return f"{genus} {epithet}"
+    return slug.replace('-', ' ').title()
+
+def collect_metadata():
+    checklist = []
+    for path in glob.glob(f'{MONOGRAPH_DIR}/*.md'):
+        fname = os.path.basename(path)
+        slug = slugify(fname)
+        data = parse_frontmatter(path)
+        title = data.get('title')
+        if not title:
+            title = fallback_title_from_slug(slug)
+        checklist.append({
+            'slug': slug,
+            'title': title,
+            'wfo_id': data.get('wfo_id', ''),
+            'ipni_id': data.get('ipni_id', ''),
+            'status': '✔️' if all([data.get('wfo_id'), data.get('ipni_id')]) else '⚠️'
+        })
+    return checklist
+
+def write_checklist(checklist):
+    header = "# Checklist of Taxonomic Monographs\n\n"
+    table_head = "| Species | WFO ID | IPNI ID | Status |\n|---|---|---|---|\n"
+    rows = [
+        f"| [_{item['title']}_](/taxa/{item['slug']}) | {item['wfo_id']} | {item['ipni_id']} | {item['status']} |"
+        for item in checklist
+    ]
+
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write(header)
+        f.write(table_head)
+        f.write('\n'.join(rows))
+    print(f"Checklist written to {OUTPUT_FILE}")
+
+if __name__ == "__main__":
+    metadata = collect_metadata()
+    write_checklist(metadata)

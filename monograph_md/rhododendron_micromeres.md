@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Epiphytic or (extremely rarely) free-growing shrub to 2 m. Young growth lepidote, glabrous. Leaves mostly narrowly elliptic, rarely elliptic or tending to obovate, glabrous, undersurface papillose but not whitish, scales close, yellow, unequal, at least the smaller sunk in crenately-margined pits, and with their rims upturned. Inflorescence (4~)5—10-fIowered, rachis well developed and conspicuous, pedicels thin, flexuous, lepidote, 25-35 mm, extending to 50 mm in fruit. Calyx with well developed lobes (2—)3—5 mm, lepidote, glabrous, held ± at right angles to the floral axis or even reflexed, reflexed in fruit. Corolla broadly campanulate, yellow, 9-13 mm, tube 4-6 mm, lepidote outside, pilose within. Stamens 10, filaments pilose towards the base. Ovary lepidote. Capsule narrowly cylindric, often sickle-shaped, lepidote, 12-16 mm.
 
 ## Distribution

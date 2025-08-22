@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Large shrub or small tree, 4.5-6m; young shoots stipitate-glandular, also with a mealy tomentum. Leaves obovate, c.7.5 x 4cm, 1.9 x as long as broad, apex rounded, minutely apiculate, base rounded, upper surface glabrous, lower surface densely fulvous-tomentose; petioles c. 1.5cm, glabrous when mature. Inflorescence 4—5-flowered; rhachis c.3mm; pedicels c.lOmm, glabrous. Calyx 3-5mm, glabrous, lobes broad and rounded. Corolla funnel-campanulate, deep carmine, with darker nectar pouches, 35—40mm. Ovary glabrous. Capsule c. 13 x 7mm.
 
 ## Distribution

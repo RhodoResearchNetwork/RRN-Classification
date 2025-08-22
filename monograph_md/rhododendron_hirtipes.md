@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Low shrub to tree, 0.5-8m; young shoots covered with glandular bristles. Leaves broadly obovate, 5-11 x 3.5-6cm, 1.6-2(-2.2) x as long as broad, apex rounded, blunt, base rounded, margin cartilaginous, sometimes ciliate towards the base, upper surface glabrous, lower surface with scattered stipitate glands and a sparse floccose indumentum, midrib with glandular bristles near the base; petioles 1.5-2.5cm, densely covered with persistent glandular bristles. Inflorescence lax, 3-5-flowered; rhachis less than 5mm; pedicels 15-20mm, with a dense covering of glandular bristles. Calyx 4-10mm, stipitate-glandular, lobes rounded. Corolla campanulate, white to pink, usually darker in bud, usually with a few purple flecks, c.40mm. Ovary and style base densely stipitate-glandular. Capsule c. 17 x 6mm, straight or curved.
 
 ## Distribution

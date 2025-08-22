@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Tree, 3.5-6.5m; young shoots with numerous gland-tipped setae. Leaves broadly obovate, 8—10 x 3.7—7cm, 1.5—2.1 x as long as broad, apex and base rounded, upper surface glabrous, lower surface with sparse stout gland-tipped setae and a floccose lanate indumentum, dense at first, becoming thinner with age, midrib with a few bristles; petioles clem, sparsely glandular-bristly. Inflorescence dense, 12-15-flowered; rhachis c.lOmm; pedicels c.lOmm, stipitate-glandular. Calyx reddish, 3-4mm, glabrous, lobes rounded. Corolla tubular-campanulate, rose-pink to crimson, 30-35mm. Ovary densely stipitate-glandular; style glabrous. Capsule c.20 x 6mm, curved.
 
 ## Distribution

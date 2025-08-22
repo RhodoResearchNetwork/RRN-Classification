@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, c.3m; young shoots densely rufous-tomentose. Leaves elliptic to oblanceolate, 6-11 x 2-3.5cm, c.3x as long as broad, apex shortly cuspidate, base ± cuneate, upper surface shortly stipitate-glandular and rufous-tomentose when young, indumentum composed of flagellate hairs and restricted to the midrib by maturity, lower surface with lamina glabrous when mature although with midrib rufous-tomentose; petioles 1-1.5cm, densely rufous-tomentose. Inflorescence dense, 4-6-flowered; rhachis minute, to 2mm; pedicels 15-20mm, densely stipitate-glandular. Calyx 6-iOmm, stipitate-glandular, lobes Ungulate. Corolla open-campanulate, rose-pink, 40-45mm. Ovary and lower half of style stipitate-glandular. Capsule not known.
 
 ## Distribution

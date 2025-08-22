@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Straggling shrub up to 7 m in favourable locations. Young growth lepidote and often glaucous or with a pruinose bloom. Leaves mostly evergreen, sometimes deciduous, broadly to narrowly elliptic, rounded to the ± obtuse apex, tapered to cordate at the base, 30-90 x 27-50 mm, lepidote or elepidote above, lepidote beneath with rather fleshy, narrowly rimmed equal or unequal scales. Inflorescences all terminal, 2-7-flowered, pedicels lepidote. Calyx disc-like or undulate, lepidote. Corolla tubular to campanulate, variable in colour: yellow, orange (sometimes with a purple flush), red, red and yellow, or purple; usually with a waxy, pruinose bloom, 25-36 mm, the tube 15-22 mm. Stamens 10, filaments pubescent towards the base, rarely entirely glabrous. Ovary lepidote and sometimes puberulous at the apex. Style glabrous or sparsely pubescent or rarely lepidote at the base. Capsule lepidote, cylindric, c. 10 mm. ** * Rhododendron cinnabarinum * var. * cinnabarinum * ** Corolla lobes elepidote outside; most leaves evergreen; corolla variable in colour, rarely purple. Leaves relatively narrow, length/breadth ratio 2.2 or more, usually elepidote above; corolla usually ± tubular-campanulate ** * Rhododendron cinnabarinum * var. * tamaense * ** Corolla lobes lepidote outside; most leaves deciduous; corolla purple. ** * Rhododendron cinnabarinum * var. * xanthocodon * ** orolla lobes elepidote outside; most leaves evergreen; corolla variable in colour, rarely purple. Leaves relatively broader, length/breadth ratio less than 2.2, usually persistently lepidote above; corolla usually campanulate
 
 ## Distribution

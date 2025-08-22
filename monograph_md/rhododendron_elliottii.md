@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small straggling shrub; young shoots stellate-tomentose and stipitate-glandular. Leaves lanceolate to elliptic, 8.5-10 x 3.5-4.2cm,c.2.5 x aslongas broad, apex rounded, apiculate, base rounded, glabrous when mature on both surfaces; petioles 1.5-2.5cm, glabrous. Inflorescence 6—10-flowered; rhachis c.20mm; pedicels c.lOmm, shortly stipitate-glandular. Calyx 3—4mm, glandular, lobes rounded, glandular-ciliate. Corolla funnel-campanulate, rose-purple, with darker flecks, 40-50mm. Ovary densely rufous stellate-tomentose, intermixed with stipitate glands; style tomentose and glandular to tip. Capsule c.15 x 5-6mm.
 
 ## Distribution

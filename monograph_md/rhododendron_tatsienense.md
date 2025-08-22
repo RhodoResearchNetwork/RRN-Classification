@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron tatsienense Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Journ. de Bot. 9:394 (1895)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron tatsienense Franch.
+scientificnameauthorship: Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Journ. de Bot. 9:394 (1895)
+doi: ''
+wfo_id: wfo-0001048082
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333457-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 0-3-5 m. Young growth usually deep reddish crimson. Leaves up to 2 x longer than broad, 22-42(-52) x 12-23(-27) mm, broadly to narrowly elliptic, base rounded to subcordate, rarely somewhat cuneate, usually lepidote above with dried-out scales, the undersurface with a dense covering of small, slightly unequal, brown, narrowly rimmed (dark centre making up more than Vi of the scale diameter) scales 1-2 x their own diameter apart; petiole and upper surface of midrib somewhat puberulent. Inflorescence few-flowered; pedicels straight, lepidote, 5—10(—11) mm, rarely slightly puberulent. Calyx disc-like or undulate, often ciliate with filiform-acicular or more rarely loriform hairs. Corolla (16-)17-21 mm, rose, whitish rose-pink or lavender, usually completely elepidote outside. Capsule (7-)8-12 mm.
 
 ## Distribution

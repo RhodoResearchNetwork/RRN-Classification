@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Large shrub or small tree, 5-6m. Leaves obovate-oblanceolate, 26.5-28(-36) x 10-14cm, 2.3-2.8 x as long as broad, apex rounded, base cuneate, upper surface glabrous when mature, lacking strongly impressed veins, lower surface with a bistrate indumentum, the lower layer white, ± compacted, the upper agglutinated, patchy, often reddish-brown, composed of strongly fimbriate cup-shaped hairs; petioles c. 1.5cm, flattened and with marked wings. Inflorescence 12-17-flowered; rhachis c.20mm; pedicels c.30mm, tomentose. Calyx c.lmm, tomentose. Corolla 8-lobed, obliquely campanulate, pale yellow with a purple basal blotch, 35—45mm. Stamens 16. Ovary densely tomentose. Capsule c.25 x 10mm, curved.
 
 ## Distribution

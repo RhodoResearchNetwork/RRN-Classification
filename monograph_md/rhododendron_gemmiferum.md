@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small shrub to 0-6 m. Young growth densely lepidote. Leaves 16-22 x 8-11 mm, ± elliptic, obtuse at the apex, rounded-cuneate at the base, glabrous but lepidote above with ± dried-out scales, densely lepidote beneath with flat, broadly rimmed, pale to dark brown scales about their own diameter apart. Inflorescences 2-3-flowered, pedicels lepidote, 6-10 mm. Calyx rim-like, lepidote, occasionally somewhat ciliate with loriform setae. Corolla pale lavender, not very strongly zygomorphic, c. 12 mm, lube c. 5 mm, glabrous and elepidote outside, pubescent within the tube. Stamens 10, filaments pubescent towards the base. Ovary lepidote, style glabrous, elepidote. Capsule unknown.
 
 ## Distribution

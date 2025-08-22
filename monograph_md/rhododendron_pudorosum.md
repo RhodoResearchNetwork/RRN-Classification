@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Tree, 6-15m; perulae persistent on the apical shoots. Leaves oblanceolate, 14-20 x 5-7cm, 2.8-3.2 x as long as broad, apex ± acute, apiculate, base rounded, upper surface glabrous, lower surface with a thin whitish compacted and agglutinated indumentum; petioles terete, 2-3cm, whitish-tomentose. Inflorescence 15-25-flowered; rhachis up to 25mm; pedicels 15-30mm, sparsely hairy. Calyx c. 1mm, sparsely hairy. Corolla 6-8-lobed, ventricose-campanulate, rose-pink with a dark basal blotch, 30-35mm. Stamens c. 16. Ovary whitish-tomentose. Capsule not seen.
 
 ## Distribution

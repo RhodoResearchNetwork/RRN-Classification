@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 0.6-lm; young shoots ± densely setose, eglandular. Leaves obovate, 6-7.5 x 2.2-2.8cm, c.2.5 x as long as broad, apex rounded, acuminate, base broadly cuneate, glabrous above when mature, with a discontinuous floccose tomentum beneath; petioles 0.5-lcm, setose. Inflorescence 4-6-flowered; rhachis c.5mm; pedicels 15-20mm, sparsely setulose-glandular. Calyx 2-3mm, lobes ciliate. Corolla tubular-campanulate, white, c.35mm. Ovary densely rufous-tomentose. Capsule not known.
 
 ## Distribution

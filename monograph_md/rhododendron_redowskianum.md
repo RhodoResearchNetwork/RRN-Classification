@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf deciduous shrublet, c. 10cm high, young shoots glandular hairy. Leafy shoots from separate buds below the inflorescences; leaves with a short petiole; blade spathulate or oblanceolate, 5-15x3-6 mm, base obtuse, margin glandular ciliate, reticulation of veins prominent. Inflorescence buds terminal, opening to produce a 1-3-flowered raceme, the peduncle bearing leafy bracts, the peduncle, rhachis and bracts glandular hairy. Calyx lobes narrowly oblong, obtuse, c.5 x 1-2mm, glandular hairy and finely pubescent. Corolla rose-purple, ±rotate, glabrous, c.l5mm long, tube 7-8 mm long, lobes 5, broadly oblong, the division between the lower pair deeper. Stamens 10, filaments hairy below. Ovary ovoid, c.6 mm long, pubescent, 5-locular; style 5 mm long, curved, pubescent on the lower half. Capsule ovoid, c.6 mm long.
 
 ## Distribution

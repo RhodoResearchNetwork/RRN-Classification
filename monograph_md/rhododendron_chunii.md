@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small shrub, to 2m; young shoots covered with adpressed flattened strigose red-brown hairs. Leaves monomorphic, coriaceous, persistent, elliptic to oblong-ovate, 1-2 x 0.5-0.9cm, 2 x as long as broad, apex acuminate, base broadly cuneate, margin entire, upper surface strigose, lower surface paler, strigose, especially on midrib; petiole 2-3mm, strigose. Inflorescence 2-3-flowered; pedicels 5-7mm, densely brown-strigose. Calyx strigose; lobes l-2mm, oblanceolate. Corolla funnel-shaped, lilac-purple, upper lobes flecked, 9-10mm; tube c.6 x 3mm, with 5 rows of glands on outer surface, also glandular within. Stamens 5, sub-equal, filaments minutely hairy below. Ovary densely covered in fine brown hairs; style covered with fuscous setose hairs and glands in lower half. Ripe capsule not known.
 
 ## Distribution

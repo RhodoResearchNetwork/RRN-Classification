@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small tree, 5-8m; young shoots densely rufous stellate-tomentose. Leaves broadly obovate, 9-12 x 4.5-6.5cm, c.2 x as long as broad, apex acuminate, base rounded, both surfaces glabrous when mature though often with persistent stellate tomentum on midrib; petioles 1.5-2cm, densely stellate-tomentose when young, becoming less so at maturity. Inflorescence 6-12-flowered; rhachis c.20mm; pedicels 20-25mm, stipitate-glandular and with a floccose stellate tomentum. Calyx 2-5mm, lobes rounded, tomentose, glandular, especially on the margins. Corolla fleshy tubular-campanulate, red with darker lines, 30-50mm. Ovary densely tomentose, with some stipitate glands; style stipitate-glandular and floccose-tomentose. Capsule 25-30 x 6mm.
 
 ## Distribution

@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 1 m. Young shoots densely loriform-setose, the setae straight, not twisted and matted. Leaves broadly elliptic, 30-45 x 18-22 mm, apex obtuse, base cuneate, ± persistently loriform-ciliate, upper surface densely loriform-setose, lower surface with vesicular scales sunk in crenulately margined pits, inflorescence 1-2-flowered, pedicels lepidote, short, sometimes sparsely loriform-setose and pubescent. Calyx lobes obovate, 7-8 mm, greenish or often reddish, loriform-ciliate, not or scarcely iepidote except on the tube. Corolla very broadly campanulate to almost rotate, white, often tinged pinkish, 25-30 mm, tube 8-11 mm, lepidote outside, particularly on the lobes, pilose within. Ovary lepidote. Capsule lepidote, up to 10 mm.
 
 ## Distribution

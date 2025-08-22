@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 1m. Twigs 1–1.5mm, slender, rounded, tips laxly scaly and sometimes shortly patently hairy; internodes 1–5cm. Leaves 6–15 together in loose pseudo­whorls. Blade 15–27 x 5–12mm, spathulate-elliptic to obovate; apex broadly acute to obtuse or broadly acute; margin flat or slightly revolute when dry, minutely crenulate; base long-tapering; glabrous and shiny above; laxly to sub-densely and persistently scaly beneath. Scales with the marginal zone irregularly lobed; centre small, impressed. Mid-vein narrowly impressed above, flat or slightly raised in the proximal ½ beneath; lateral veins obscure. Petiole 0.5–2.5 x 1mm, weakly to distinctly grooved above, laxly scaly. Flower buds to 16 x 6mm, ovoid with an acute, subulate point, glossy green flushed with red. Bracts to 14 x 3mm, narrowly ovate-acuminate or elliptic, shortly subulate, membranous, glabrous. Bracteoles c.5mm, linear-spathulate. Flowers solitary, occasionally paired, stiffly held, horizontal to half-hanging. Pedicels 4–6 x c.2mm, densely, shortly, patently hairy and scaly. Calyx c.2.5mm in diameter, disc-shaped, obscurely obtusely 5-lobed, sparsely scaly and hairy. Corolla 12–16 x 8–9mm, tubular, red or orange; tube 7–15 x 4–6 x 4–5mm, straight, laxly scaly outside, laxly hairy in the proximal ½ inside; lobes 3–4 x 3–4mm, sub-erect, ovate to sub-circular. Stamens slightly dimorphic, as long as the corolla tube, arranged regularly in the mouth of the corolla; filaments flat, linear, laxly patently hairy in the proximal ½; anthers 1mm, obovoid. Disc low, glabrous. Ovary 4–5 x c.2.5mm, sub-ovoid-cylindrical, densely hairy and scaly (the scales covered by the hairs), abruptly contracted distally; style c.4mm, columnar, glabrous, central or lying on the lower side of the mouth. Fruit 20–25 x 3.5–4.5mm, fusiform, with a short sub-persistent style, laxly hairy and scaly. Seeds narrow-fusiform, c.3mm including the long tails.
 
 ## Distribution

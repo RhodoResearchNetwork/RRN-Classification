@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Very similar to R. valentinianum, differing as follows: leaves with distant scales beneath, the surface conspicuous, green; leaf margin distinctly crenate in the upper half; midrib usually not setose above; ovary conspicuously setose towards the apex, the setae persisting on the capsule.
 
 ## Distribution

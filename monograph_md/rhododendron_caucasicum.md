@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf shrub, 0.3-lm; young shoots sparsely tomentose. Leaves obovate to elliptic, 4-7.5 x 1.3-3cm, 2.2-3 X as long as broad, apex blunt to apiculate, base cuneate, upper surface glabrous, lower surface with a compacted fawn to brownish tomentum; petioles 0.5-lcm, sparsely velutinous. Inflorescence lax, 6-15-flowered; rhachis up to 35mm; pedicels pilose, 25-30mm in flower, up to 60mm in fruit; perulae usually persistent. Calyx 1 —2mm, pilose. Corolla broadly campanulate, whitish to yellow, sometimes flushed with pink, with greenish flecks, 30-35mm. Ovary densely dendroid-pilose; style glabrous. Capsule 15-20 X c.8mm.
 
 ## Distribution

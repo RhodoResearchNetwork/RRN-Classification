@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron telmateium Balfour f. & W. W. Smith"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Notes R.B.G. Edinb. 9:279 (1916)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron telmateium Balfour f. & W.W.Sm.
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Notes R.B.G. Edinb. 9:279 (1916)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Much branched prostrate shrub forming dense cushions or mats, or erect and up to 1 m. Leaves 3 —12(—14) x 1 -5-5(-6-5) mm, narrowly elliptic or lanceolate to broadly elliptic or rotund, apex acute to rounded, strongly mucronate, base cuneate, undersurface golden-fawn to pale orange or reddish brown with densely overlapping scales, the majority pale gold to reddish brown mixed with few to many darker scales (these rarely absent). Inflorescence l-2(-3)-flowered, pedicels lepidote, sometimes puberulous also, 0.5-1-5(-2) mm. Calyx 0-5-2-5(-3) mm, lobes deltoid to rounded, often unequal, lepidote, margin with scales and/or long cilia. Corolla lavender or rose-pink to purple, broadly funnel-shaped, (6-)7-12(-14) mm, tube 2-4 mm, pubescent in the throat and often also outside, sparingly to densely lepidote outside. Stamens 10, varying in length, ± as long as the corolla. Ovary lepidote, style 3-17 mm, shorter than, equalling or longer than stamens, glabrous or pubescent towards the base, sometimes with a few scales. Capsule ovoid, c. 3 mm, lepidote.
 
 ## Distribution

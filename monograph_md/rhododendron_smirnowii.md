@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1—4m; young shoots whitish lanate-tomentose, with a few scattered glands. Leaves oblanceolate to elliptic, 7.5-11.5(-14) x 2.5-3.2cm, 2.8-4.5 x as long as broad, apex usually rounded or occasionally ± acute, base cuneate, upper surface glabrous when mature, lower surface with a dense white to cinnamon indumentum; petioles 1 —1.5cm, densely lanate. Inflorescence 7—15-flowered; rhachis 20(-40)mm; pedicels densely stipitate-glandular, also with a sparse floccose indumentum, 30—35mm, apparently hardly elongating in fruit. Calyx 2-3mm, lobes broadly triangular, sparsely stipitate-glandular. Corolla funnel-campanulate, pink with yellowish flecks, 35-40mm. Ovary densely white-strigillose, eglandular. Capsuled5 X 5mm.
 
 ## Distribution

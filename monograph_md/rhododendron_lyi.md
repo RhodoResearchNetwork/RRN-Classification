@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron lyi Leveille"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Feddes Rep. 13:147 (1914)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: "Rhododendron lyi H.L\xE9v."
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Feddes Rep. 13:147 (1914)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 2 m. Young shoots loriform-setose, the setae persistent for at least one year. Leaves narrowly obovate, 70-80 x 25-30 mm, tapering to the base, bluntly acute at the apex, lower surface brown with dense but not contiguous scales. Inflorescence (2-)3-4-flowered. Calyx obscurely lobed or undulate, persistently loriform-setose. Corolla white, funnel-campanulate, c. 55 mm, tube c. 30 mm, pilose at the base, the whole surface sparingly lepidote. Capsule ± cylindric, tapering, lepidote, c. 25 mm
 
 ## Distribution

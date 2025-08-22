@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron monanthum Balfour f. & W. W. Smith"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Notes R.B.G. Edinb. 9:250 (1916)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron monanthum Balfour f. & W.W.Sm.
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Notes R.B.G. Edinb. 9:250 (1916)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small shrub, 0-3-1 m, usually epiphytic. Young growth densely lepidote. Leaves ovate-elliptic or elliptic, 30-45 x 14-22 mm, cuneate at the base, acute at the apex, slightly revolute, upper surface dark geen, usually persistently lepidote with dried-out scales, lower surface finely papillose, brownish or silvery, densely covered with close, unequal, broadly rimmed, flat scales. Inflorescence l(-2)-flowered, pedicels 2-5 mm, densely lepidote. Calyx a minute, undulately lobed rim, very densely lepidote. Corolla tubular-funnel-shaped to tubular-campanulate, the lobes scarcely spreading, 14-20 mm, tube 10-14 mm, bright yellow, drying greenish, lepidote outside. Style impressed, glabrous, elepidote, exceeding the stamens. Capsule lepidote, ± cylindric, 14-16 mm.
 
 ## Distribution

@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Very similar to R. ferrugineum, differing as follows: smaller shrub, rarely exceeding 0-5 m, leaves narrowly obovate, obtuse, 14-23 x 5-8 mm, less densely lepidote beneath, obscurely crenulate, pedicels filiform-acicular pubescent as well as lepidote, calyx lobes narrowly triangular, up to 2 mm, usually fringed with scales and a few loriform hairs. Corolla pink, 15-17 mm, tube 9-10 mm, more densely pubescent and less densely lepidote outside, style shorter than to ± as long as ovary. BULGARIA, JUGOSLAVIA, ROMANIA, USSR (western European part)
 
 ## Distribution

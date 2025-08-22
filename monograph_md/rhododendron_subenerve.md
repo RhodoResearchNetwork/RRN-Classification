@@ -1,24 +1,58 @@
 ---
-scientificname: "Rhododendron subenerve P.X.Tan"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Chamberlain, D.F."
-created: "1990"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Survey Gen. Rhododendron S. China 108, f.29 (1983) & Guihaia 3,3: 180 (1983)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron subenerve P.C.Tam
+scientificnameauthorship: P.C.Tam
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Chamberlain, D.F.
+created: '1990'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: 'Survey Gen. Rhododendron S. China 108, f.29 (1983) & Guihaia 3,3:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  180 (1983)'
+doi: ''
+wfo_id: wfo-0001229857
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:2902937-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +65,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, c.2m; young shoots densely adpressed-strigose. Leaves ? dimorphic, chartaceous, elliptic-oblong to narrowly elliptic; spring leaves 2.5ó3(ó3.5) x 0.8-1.4cm, 2.5-3 x as long as broad, apex subacuminate, base cuneate; margin obscurely crenate, ciliate; upper surface adpressed-strigose at first, later glabrescent, lower surface pale at maturity, ± glabrescent except for the strigose midrib reddish-brown-strigose; summer leaves 12-15 x 7-8mm, otherwise as for spring leaves; petioles 2-4mm. Inflorescence 3-6~flowered; pedicels c.5mm, glandular and densely strigose. Calyx c.3 mm, densely strigose, lobes c.lmm, triangular. Corolla funnel-shaped, red, with purple flecks, 12-16mm; tube 6-8mm, c.4mm broad, shortly stipitate-glandular on outer surface, puberulent within; lobes 6-8mm. Stamens 5, filaments puberulent. Ovary densely reddish-brown-strigose; style stipitate-glandular for most of its length, also strigose at base. Capsule not known.
 
 ## Distribution

@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Much-branched shrub, usually low and prostrate, though sometimes up to 2m; young shoots covered with adpressed flattened chestnut-brown setose hairs. Leaves dimorphic, chartaceous; spring leaves narrowly lanceolate to oblanceolate, 2-3 x 0.8-1 cm, 2.3-3 x as long as broad, apex acute, base cuneate, margin remotely crenate-serrulate, ciliate, upper surface with scattered bristles, lower surface paler, with setose bristles restricted to midrib; summer leaves 10-18 x 3-5mm, otherwise as for spring leaves; petioles 2-4mm, clothed with adpressed chestnut-brown setose hairs. Inflorescence 1-2-flowered; pedicels 5-10mm, clothed with brown strigose hairs. Calyx with brown strigose hairs, especially on lobe margins, lobes ovate to orbicular, c.lmm long. Corolla broadly funnel-shaped, bright red to scarlet, occasionally rose-red, 30-50mm; tube half the length of corolla, glabrous. Stamens 5, as long as or slightly exceeding the corolla, filaments scabrid below. Ovary densely covered with adpressed shining brown hairs; style glabrous. Capsule oblong-ovoid, c.lOmm long, densely strigose.
 
 ## Distribution

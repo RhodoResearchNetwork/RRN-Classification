@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf shrub, to c.30cm; young shoots covered with adpressed flattened strigose hairs. Leaves monomorphic, obovate, 1-1.2 x 0.5-0.7cm, 1.7-2 x as long as broad, apex acute, base cuneate, margin entire, ciliate, upper surface ± glabrous when mature, lower surface with a few strigose hairs on midrib, otherwise glabrous; petiole c.lmm, strigose. Inflorescence l-4~flowered; pedicels very short, apparently hairy. Calyx minute, lobes ciliate. Corolla (4-)5-lobed, tubular-carnpanulate, pink in bud, becoming white, c.9mm; tube c.6mm, broadest towards base, pubescent on outer surface. Stamens (4-)5, as long as corolla, filaments pubescent in lower half. Ovary strigose; style glabrous. Capsule c.5mm, ovoid.
 
 ## Distribution

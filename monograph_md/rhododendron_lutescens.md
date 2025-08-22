@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron lutescens Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bull. Soc. Bot. Fr. 33:235 (1886)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron lutescens Franch.
+scientificnameauthorship: Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Bull. Soc. Bot. Fr. 33:235 (1886)
+doi: ''
+wfo_id: wfo-0001048159
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:332816-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Straggling shrub up to 6 m, with grey bark. Leaves sometimes subdeciduous, lanceolate or ± oblong, apex acuminate into a long and conspicuous drip-tip, base rounded, margins somewhat distantly crenulate, 50-90 x 13-26(-37) mm, upper surface variably lepidote, midrib usually glabrous, lower surface with large, distant, broadly rimmed, golden scales. Inflorescences mostly axillary, terminal inflorescence often lacking, pedicels 6-15 mm, lepidote and sometimes puberulent at the base. Calyx undulate or obscurely 5-lobed, lepidote, sometimes loriform-ciliate. Corolla pale yellow with greenish spots on the inside of the upper lobes, 18-25 mm, tube up to 11 mm, pubescent outside with retrorse hairs, their density variable. Stamens 10, filaments densely pubescent towards the base. Ovary lepidote, often pubescent at apex. Style glabrous or pubescent at base. Capsule lepidote, narrowly cylindric, 9-11 mm.
 
 ## Distribution

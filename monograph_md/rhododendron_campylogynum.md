@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron campylogynum Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bull. Soc. Bot. Fr. 32:10 (1885)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron campylogynum Franch.
+scientificnameauthorship: Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Bull. Soc. Bot. Fr. 32:10 (1885)
+doi: ''
+wfo_id: wfo-0001230885
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:332099-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Creeping, prostrate or decumbent shrublet up to 60 cm (-1 m), more rarely an erect or ascending shrub. Young growth sparsely lepidote, glabrous or pubescent. Leaves obovate or narrowly elliptic, obtuse or rarely subacute at the apex, tapered to the base, (10-)14-25(-34) x (4-)7-12 mm, dark green and sparsely pubescent along the midrib above, papillose and often whitish or silvery beneath, glabrous and with distant, deciduous scales. Inflorescence l-2(-3)-flowered, pedicels sparsely lepidote and pubescent, 25-50 mm, up to 70 mm in fruit. Calyx lobes oblong or obovate, sometimes obscure, usually 4-7 mm, glabrous and usually elepidote. Corolla pink to red or purple, (10-)13-20(-23) mm, tube 7-12 mm, glabrous, elepidote and pruinose outside, sparsely pubescent within the tube. Capsule borne on the accrescent and rigid pedicels, ovoid-cylindric, 7-9 mm, sparsely lepidote.
 
 ## Distribution

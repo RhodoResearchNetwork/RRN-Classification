@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 A shrub or small tree to 15 m high, young branches glabrous. Leaves glabrous; blade 60-170 x 20-50 mm, elliptic to narrowly elliptic, base cuneate, apex acute or acuminate, coriaceous, margins glabrous (except in juvenile or sucker leaves, adult leaves only rarely with marginal bristles; petiole 10-18 mm long. Inflorescence buds lateral, (1-) 3-5-flowered, at the ends of leafy shoots, bud scales glabrous or minutely pilose on the back, margin shortly ciliate or glandular, caducous; pedicels 15-20 mm long, glabrous. Calyx of 5 minute glabrous lobes (abnormal elongate, pectinate or ciliate lobes also occur). Corolla white, pink, violet or magenta, with a yellow blotch, glabrous, with a narrow tube 16-22 mm long, and broad, spreading lobes to 30-40mm long. Stamens 10, filaments hairy on lower part. Ovary cylindric, c.5 mm long, glabrous; style glabrous. Capsule narrowly cylindric, c.70mm long.
 
 ## Distribution

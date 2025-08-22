@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 0-5-2 m. Leaves very narrowly elliptic to elliptic, rarely obovate or ovate, obtuse to rounded at the apex, cuneate to rounded at the base, (21-)30-50 X (10-)14-19(-26) mm, upper surface densely lepidote when young, the scales quickly deciduous, lower surface usually dark brown with dense, overlapping scales. Inflorescence (4-)5-8-flowered, rachis elongate, pubescent, pedicels 12-22 mm, lepidote. Calyx 5-lobed, the lobes ± deltoid, (1 ■ 5-)2-4 mm, lepidote, often fringed with loriform setae. Corolla magenta to purple, often with darker spots, 12-14.5 mm, tube 5-7(-9) mm, usually densely lepidote outside, especially on the tube. Capsule lepidote, 5-7.5 mm
 
 ## Distribution

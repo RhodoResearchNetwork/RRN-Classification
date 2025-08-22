@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Erect, rounded, much branched shrub to 60 cm. Leaves (7-)9-17 x (4_)5_10 mm, broadly ovate or oblong-elliptic, apex obtuse or rounded, mucro obscure, base broadly cuneate, truncate or subcordate, undersurface tawny with some darker speckling, densely covered with contiguous golden scales, some with darker centres. Inflorescence 2-3-flowered, pedicels lepidote, 1-2 mm. Calyx lobes 4-7-5 x 3-4-5 mm, broadly rounded or ovate, margins ciliate and sometimes with a few scales, and with a band of scales up the centre. Corolla pale to deep purplish blue, funnel-shaped, 14-18 mm, tube 4-6 mm, pubescent inside and often also outside, rarely sparsely lepidote outside. Stamens 10, rarely fewer, slightly shorter than the corolla. Ovary lepidote, style 14-16 mm, exceeding the stamens, pubescent or glabrous towards the base. Capsule ovoid, c. 5 mm, lepidote.
 
 ## Distribution

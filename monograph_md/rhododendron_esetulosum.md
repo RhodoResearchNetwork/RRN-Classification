@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron esetulosum Balfour f. & Forrest"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Chamberlain, D.F."
-created: "1982"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Notes R.B.G. Edinb. 13:42 (1920)."
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron esetulosum Balf.f. & Forrest
+scientificnameauthorship: Balf.f. & Forrest
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Chamberlain, D.F.
+created: '1982'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Notes R.B.G. Edinb. 13:42 (1920).
+doi: ''
+wfo_id: wfo-0001048600
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:332387-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1.5-2m; young shoots glabrous or with minute stipitate glands. Leaves coriaceous, ovate to elliptic, 6-12 x 3-4cm, 2(-3) x as long as broad, apex rounded, apicuiate, base + cordate, upper surface glabrous, lower surface with a thin scattered adpressed indumentum, even when mature; petioles l-2cm, glabrous when mature. Inflorescence 8-10-flowered; rhachis less than 5mm; pedicels 15-30(-40)mm, densely stipitate-glandular. Calyx (1-) 4-10mm, lobes broadly ovate and rounded when well-developed, stipitate-glandular. Corolla funnel-campanulate, white flushed rose, with or without purple flecks, 30-35mm. Ovary densely stipitate-glandular, style glandular, at least at base. Capsule c. 20 x 10mm.
 
 ## Distribution

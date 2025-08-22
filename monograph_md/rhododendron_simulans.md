@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 70cm. Twigs 1.5–2mm in diameter, rounded, tips densely covered with stalked scales, older parts glabrescent, densely warty and rough; internodes 2–6cm. Leaves crowded at the tips or 3–5 together in pseudo­whorls. Blade 15–20 x 6–10mm, narrowly elliptic to elliptic or sub-obovate-elliptic; apex shortly acuminate, broadly acute, with a very small terminal gland; margin cartilaginous, distinctly revolute, especially proximally; base tapering and decurrent, the extreme base often sub-truncate; glabrescent above when mature; sub-densely scaly beneath. Scales angular or lobed, flat; centre small, slightly elevated on small protrusions. Mid-vein impressed above; thick and strong proximally beneath, gradually narrowed distally; lateral veins inconspicuous. Petiole 2–3 x c.1mm, nearly rounded. Flower buds to 18 x 8mm, narrowly ovate, narrowly acute, the subulate points to the bracts standing slightly out. Bracts to 20 x 6mm, membranous, outer ones subulate, inner ones ovate-acuminate, apex subulate, glabrous and glossy. Inflorescence 2–4-flowered. Pedicels c.15mm, thick, densely covered with reddish stellate scales, without hairs. Calyx c.3mm in diameter, obliquely disc-shaped, red, shortly irregularly 5-lobed, scaly outside. Corolla c.25mm, tubular below, funnel-shaped distally, fleshy, red, with a few scales, or glabrous outside, glabrous inside; tube 16–20 x c.5 x 7–10mm, straight, base lobed; lobes 7–10 x 7–10mm, spreading, broadly obovate or sub-circular. Stamens sub-equal, 22–24mm long; filaments linear, glabrous; anthers 2–2.5 x 1mm, ellipsoid. Disc very prominent, glabrous. Ovary c.5 x 2.5mm, sub-ovoid-cylindrical, densely reddish-brown-stellate-scaly, gradually tapering distally; style c.17mm, glabrous; stigma thick-obconical, distinctly 5-lobed. Fruit 20–23 x 6mm, sub-cylindrical, the thin valves twisted.
 
 ## Distribution

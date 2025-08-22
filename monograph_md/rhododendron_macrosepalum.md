@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Low shrub, 0.3-lm; young shoots covered with greyish spreading-pilose, sometimes glandular hairs, also with a few bristles. Leaves dimorphic, ± deciduous, chartaceous; spring leaves ovate-elliptic, 2.5-7 x 1.5-2.5cm, 1.7-2.5 x as long as broad, apex acute, base cuneate, margin entire, upper surface sparsely glandular-pilose, lower surface more densely pilose, with a few setose hairs on midrib and main veins; summer leaves oblanceolate, 12-20 x 3-6mm, otherwise as for spring leaves; petioles c.5mm, densely pilose, also with a few flattened spreading setae. Inflorescence 2-10-flowered; pedicels 10-25mm, covered with long spreading pilose, partly glandular hairs. Calyx glandular-pilose, lobes lanceolate to broadly oblong, 15-30mm. Corolla broadly funnel-shaped, lilac-pink to rose-purple, with purple flecks on upper lobe, 35-50mm; tube 15-20mm, glabrous. Stamens 5(-7), slightly shorter than corolla, filaments pubescent below middle. Ovary glandular-setose, style glabrous. Capsule ovoid, c.lOmm, setose.
 
 ## Distribution

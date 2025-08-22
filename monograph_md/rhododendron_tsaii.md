@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 0-3 m. Leaves 6-12 x 2-5-5 mm, narrowly elliptic or oblong-lanceolate, apex subacute or obtuse, slightly mucronate, base cuneate, undersurface uniform buff, densely covered with overlapping pale scales. Inflorescence 3-7-flowered, pedicels lepidote, 1-2.5 mm. Calyx 0.8-1 mm, the lobes rounded, densely lepidote, margin lepidote and with a few cilia. Corolla pale purplish, broadly funnel-shaped, 4-5-6.8 mm, tube 2-2.8 mm, elepidote outside, slightly pubescent within. Stamens 4-7, shorter than corolla, filaments glabrous. Ovary densely pale lepidote, style c. 2 mm, slightly shorter than the stamens, glabrous. Capsule unknown.
 
 ## Distribution

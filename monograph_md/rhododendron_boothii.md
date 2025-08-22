@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Usually an epiphytic shrub, rarely on rocks, up to 2 m. Young growth with a dense indumentum of twisted and matted loriform setae. Leaves narrowly ovate to ovate-oblong, acuminate at the apex, rounded at the base, very hard and leathery, 78-112 x 38-52 mm, upper surface with dense, matted loriform setae on the midrib (and rarely secondary veins), margin loriform-ciliate, lower surface with dark brown, close, ± equal scales. Inflorescence (3-)4-6(-10)-flowered, pedicels stout, up to 15 mm, covered with matted loriform setae. Calyx lobes green, ovate to oblong, (7-) 10-15 mm, lepidote and loriform-ciliate. Corolla campanulate, dull to bright yellow, sometimes spotted, 25-27 mm, tube 15-16 mm, lepidote on the lobes and tube outside, pilose within the tube. Ovary lepidote. Capsule ± ovoid, up to 15 mm
 
 ## Distribution

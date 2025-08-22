@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub or tree, 1.8—9m. Leaves oblanceolate to elliptic, 9-19 x 2.6-8.2cm, 3—5.3 x as long as broad, apex apicuiate, base attenuate to rounded, lower surface with a thin unistrate compacted fawn to brown indumentum composed of radiate hairs; petioles 1.5-2cm, sometimes winged, glabrous or floccose. Inflorescence 10-25-flowered; rhachis c.25mm; pedicels 15-25mm, sparsely hairy. Calyx 0.5- 1mm, glabrous, lobes rounded. Corolla broadly campanulate, white flushed rose to pink, with or without purple flecks and a basal blotch, 35-45(-55)mm. Ovary densely white- to brown-tomentose; style glabrous. Capsule 20-45 x 6-9mm, curved.
 
 ## Distribution

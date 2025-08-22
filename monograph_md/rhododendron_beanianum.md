@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Straggling shrub, up to 3m; young shoots stellate-setose and stipitate-glandular. Leaves obovate to elliptic, 6-9 x 3.2-4.4cm, 2-2.4 x as long as broad, apex rounded, apiculate, base + rounded, upper surface rugulose, glabrous, lower surface with a dense unistrate fulvous dendroid-tomentose indumentum; petioles 1.5-2cm, setulose to tomentose. Inflorescence 6—10-flowered; rhachis c.5mm; pedicels 10- 15mm, setulose-tomentose. Calyx c.5mm, cupular, sparsely tomentose. Corolla fleshy, tubular-campanulate, carmine to blood-red, c.35mm. Ovary stellate-tomentose. Capsule at least 12 X 6mm, persistently tomentose.
 
 ## Distribution

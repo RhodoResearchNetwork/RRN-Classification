@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf shrub, 0.6-1.3m; young shoots soon glabrescent; perulae deciduous. Leaves obovate to elliptic, 4.5—8 x 2—3.5cm, c.3 x as long as broad, apex rounded, apiculate, base rounded to ± cuneate, upper surface glabrous, lower surface finely papillate, glabrous except for a few white hairs on the midrib and main veins; petioles broad, up to 0.5cm, glabrescent. Inflorescence 4-6-flowered; rhachis c.3mm; pedicels 10-20mm, glabrous. Calyx c.5mm, glabrous, lobes broad and rounded. Corolla tubular-campanulate, white or pale yellow flushed pink, with red flecks, 40-50mm. Ovary with a few scattered hairs. Capsule not known.
 
 ## Distribution

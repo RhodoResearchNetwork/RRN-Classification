@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub. c.3m; young shoots densely spreading-glandular-setose. Leaves persistent, coriaceous, dimorphic; spring leaves ovate to oblong-ovate, 7-10 x 2-2.5cm, 2-3 x as long as broad, apex acuminate, base rounded, upper surface soon glabrescent, lower surface with greyish brown indumentum, especially on veins and midrib; summer leaves 25-30 x 15-20mm, otherwise as for spring leaves; petioles 5-7mm, densely hirsute and glandular. Inflorescence 5-6-flowered; pedicels densely brownish-spreading- hairy. Calyx c.2mm, hirsute, lobes triangular-ovate, ciliate. Corolla funnel-shaped, 18-20mm, purple; tube c.7 x 4mm, glabrous. Stamens 5, filaments puberulent. Ovary densely hirsute; style hirsute below. Capsule not known.
 
 ## Distribution

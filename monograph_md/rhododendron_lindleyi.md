@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Epiphytic shrub, 1-4 m. Leaves 85-130 x 29-46 mm, narrowly elliptic to oblong-elliptic, rarely somewhat obovate, tapered or rounded to the base, apex obtuse or rounded, lower surface greyish green with rather distant, somewhat unequal, reddish brown scales. Inflorescence 2-3(-5)-flowered, pedicels 10-17(-25) mm, rather sparsely lepidote. Calyx large, conspicuous, deeply 5-lobed, the lobes pinkish or green, thin, becoming papery in fruit, tube densely lepidote, the lobes narrowly ovate-oblong, rounded at the apex, 11-18 x 5-8(-10) mm, rather prominently veined, conspicuously and persistently filiform-acicular-ciliate, elepidote. Corolla openly funnel-campanulate, (65-)70-95 mm, tube (45-)50-60 mm, white or cream with an orange-yellow blotch at the base, sometimes suffused pink in bud, elepidote or very sparsely lepidote, glabrous or finely pubescent at the base. Stamens 10, filaments pubescent in the lower part. Ovary densely lepidote, tapering into the style, which is lepidote in the lower part. Capsule cylindric-fusiform, weakly 5-ridged, c. 40 mm, much exceeding the persistent calyx.
 
 ## Distribution

@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Straggling shrub, (0-5-)l-5(-7) m, bark of mature shoots smooth, reddish brown, peeling. Leaves usually evergreen, sometimes semi-deciduous, ovate or lanceolate, rarely narrowly elliptic, acute at apex, truncate or cordate at the base, (38-)45-60(-65) x (20-)24-32 mm, upper surface dark green, ± elepidote, lower surface greyish brown with close, very small (less than 0-1 mm in diameter), almost rimless scales. Inflorescences 2-3(-4)-flowered, pedicels lepidote, 8-13 mm. Calyx small, inconspicuous, usually ± undulate, rarely more conspicuously 5-lobed, lepidote. Corolla variable in shape, pale yellow, yellow suffused with red, or with dark red spots, 21-30 mm, tube 7-12 mm, densely lepidote and pubescent at the sinuses outside. Stamens 10, filaments pubescent towards the base. Ovary lepidote, style glabrous or rarely puberulent at base. Capsule lepidote, cylindric, 10-13 mm. ** * Rhododendron triflorum * var. * bauhiniiflorum * ** Corolla very openly funnel-shaped to almost flat. ** * Rhododendron triflorum * var. * triflorum * ** Corolla widely funnel-shaped
 
 ## Distribution

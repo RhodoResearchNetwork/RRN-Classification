@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron primuliflorum Bureau & Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Journ. de Bot. 5:95 (1891)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron primuliflorum Bureau & Franch.
+scientificnameauthorship: Bureau & Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Journ. de Bot. 5:95 (1891)
+doi: ''
+wfo_id: wfo-0001048917
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333134-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small shrub to l(-l-5) m. Leaf-bud scales quickly deciduous. Leaves narrowly elliptic or oblong-narrowly elliptic, more rarely elliptic, 11-30 (-35) x 5-10(—14) mm, tapered or ± rounded to the base, tapered or rounded to the apex, dark, glossy green, lepidote or elepidote above, beneath pale brown to brown with dense, overlapping scales arranged in 2-3 tiers, the tiers often very clearly distinguished, scales of the lowermost tier golden yellow, paler than those of the upper tiers; margins ciliate with loriform setae or eciliate. Inflorescence dense, several-flowered, pedicels short, lepidote or elepidote, pubescent or glabrous. Calyx lobes oblong, often acute, (2.5-)3-5(-6) mm, usually lepidote outside, margins variably lepidote and/or loriform-ciliate, inner surface variably puberulent. Corolla white, rarely flushed pink or entirely pink, often yellowish orange towards the base of the tube, tube 6-10(-12) mm, lobes (3-)3-5-5(-6) mm, tube usually glabrous outside, more rarely sparsely pilose or somewhat lepidote, densely pilose inside at the throat. Stamens 5(-6). Capsule lepidote, c. 4-5 mm.
 
 ## Distribution

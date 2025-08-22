@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub or small tree, 3-12m. Leaves elliptic-obovate to oblong, 6-16 x 2-4.5cm, (2.5-)3-4 x as long as broad, apex acuminate to acute, base ± cuneate, margin not undulate, upper surface glabrous when mature, lower surface ± glabrous, with a few red punctate hair-bases overlying the veins;petioles l-2cm, glabrescent. Inflorescence dense, 10-15-flowered; rhachis 5-10mm; pedicels 10-15mm, sparsely rufous-tomentose. Calyx l-2mm, glabrous to stipitate-glandular. Corolla 6-7-lobed, tubular-campanulate, with nectar pouches, glabrous within, rose-magenta to crimson, occasionally magenta-blue or pale peach, with a variable amount of crimson flecks, with or without a basal blotch, 30-45mm. Ovary usually glabrous, occasionally with a few rufous hairs; style glabrous. Capsule 20-25 x c.5mm.
 
 ## Distribution

@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf much-branched shrub, 0.6-lm; young shoots covered with adpressed flattened red-brown hairs. Leaves monomorphic, deciduous, oval-obovate, 0.5-2 x 0.2-1.5cm, c.2 x as long as broad, apex acute, base cuneate, margin entire, both surfaces covered with red-brown strigose hairs; petioles l-3mm, densely covered with red-brown strigose hairs. Inflorescence 2-3-flowered; pedicels 5-10mm, covered with red-brown hairs. Calyx 2-3mm, indumentum as for pedicels, lobes ovate c.2mm. Corolla funnel-shaped,  5-20mm, usually rose-pink though occasionally with a wide range of colours from rose to deep purple, lobes 7-10mm; tube glabrous. Stamens 5, longer than or as long as the corolla, pubescent below the middle. Ovary densely covered with red-brown strigose hairs; style glabrous. Capsule 5-6 x c.4mm, strigose. ** * Rhododendron kiusianum * var. * kiusianum * ** Leaves oval to obovate, 0.5-2 x 0.2-1cm ** * Rhododendron kiusianum * var. * sataense * **
 
 ## Distribution

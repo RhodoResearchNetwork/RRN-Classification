@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1-3m; young shoots densely tomentose. Leaves coriaceous, obovate to oblong, 3.5-5.5 x 1.5-3cm, 1.6-2.2 x as long as broad, apex rounded and bluntly apiculate to acute, base rounded, upper surface with lamina glabrous though with a persistent indumentum overlying the midrib, lower surface with a dense rufous-tomentose indumentum composed of ramiform hairs; petioles c.lcm, densely tomentose. Inflorescence 3-5-flowered; rhachis 3-5mm; pedicels c.8mm, densely tomentose. Calyx c.2mm, densely tomentose. Corolla open-campanulate, white or pale cream, with a pink flush, or pale pink with crimson flecks, 25-35mm. Ovary densely tomentose. Capsule c. 12 x 4mm.
 
 ## Distribution

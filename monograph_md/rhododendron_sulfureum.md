@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron sulfureum Franchet"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bull. Soc. Bot. Fr. 34:283 (1887)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron sulfureum Franch.
+scientificnameauthorship: Franch.
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Bull. Soc. Bot. Fr. 34:283 (1887)
+doi: ''
+wfo_id: wfo-0001230699
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: urn:lsid:ipni.org:names:333427-1
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Epiphytic or free-growing shrub, 0.6-1.6 m. Young growth often loriform-setose, the setae usually quickly ciecidouous. Leaves mostly obovate, sometimes broadly so, more rarely narrowly elliptic, (35-)45~65 (-85) x 20-35(-45) mm, very rounded to subacute at the apex, tapering to the base, margins often loriform-ciliate when young, upper surface glabrous, lower surface with close, unequal scales sunk in pits with crenulate edges, the rims of the scales upturned. Inflorescence 3-6-flowered, pedicels longer than the flowers, stout, up to 15 mm, lepidote, sometimes loriform-setose and/or fiiiform-acicular pubescent. Calyx lobes ovate to oblong, 5-6 mm, lepidote, sometimes loriform-ciliate or minutely pubescent along the margin. Corolla campanulate, greenish or bright yellow, unspotted, 15-20 mm, tube 8-11 mm, sparsely to densely lepidote outside, sometimes sparsely pubescent on the tube, pilose inside. Ovary lepidote. Capsule cylindric-ovoid, lepidote, 10-13 mm.
 
 ## Distribution

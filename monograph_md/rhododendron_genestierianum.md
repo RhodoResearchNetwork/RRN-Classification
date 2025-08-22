@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 5 m; bark of older branches smooth, purplish, young shoots glabrous. Leaves narrowly elliptic to narrowly elliptic-oblanceolate, abruptly acuminate at the apex, tapered to the base, 65-120 x 25-40 mm, upper surface dark green, lower surface conspicuously white-papillose with distant, small, equal, golden yellow to brown scales. Inflorescence many-flowered, racemose, pedicels thin, rather strict in flower, lepidote, pruinose, 20-30 mm. Calyx a rim or sometimes slightly lobed, 1-2 mm, glabrous, elepidote or sparsely lepidote, pruinose. Corolla fleshy, 12—17 mm, tube 6-8 mm, reddish purple, pruinose, glabrous and elepidote. Capsule lepidote, cylindric, 6-9 mm.
 
 ## Distribution

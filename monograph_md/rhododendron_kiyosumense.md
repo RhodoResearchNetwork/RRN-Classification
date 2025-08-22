@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub or small tree; shoots glabrous. Leaves rhombic, 3-5 x 2.5-3cm, apex acuminate, upper and lower surfaces sparsely covered with brown hairs when young, midrib glabrous or shortly pilose beneath, margins ciliate; petioles 4-8mm, mostly glabrous, with scattered brown hairs near leaf base. Inflorescence 1-2-flowered; pedicels 3-5mm, with scattered brown hairs. Calyx minute, ciliate. Corolla open funnel-campanulate, 20-30mm, purple, lobes 10-20mm, oblong. Stamens 10, filaments glabrous. Ovary densely strigose; style glabrous. Capsule 4-10 x 4-5mm, curved.
 
 ## Distribution

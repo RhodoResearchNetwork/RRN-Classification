@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub or tree, 2.7-6m. Leaves elliptic to oblanceolate, 16-22 x 5-7cm, 3.3—4 x as long as broad, upper surface rugulose and ± glabrous at maturity though often with traces of indumentum along the midrib, lower surface with a dense whitish to fawn lanate-dendroid tomentum, that overlies a compacted lower layer of indumentum; petioles 1.5-2cm, velutinous. Inflorescence 20-25-flowered, dense; rhachis c.20mm; pedicels c.lOmm, glabrous. Calyx fleshy, c.2mm, with minute teeth, glabrous. Corolla campanulate, deep pink to rosy purple, with darker nectar pouches, 35mm. Ovary with a dense tomentum. Capsule shortly cylindrical, c.20 x 7mm.
 
 ## Distribution

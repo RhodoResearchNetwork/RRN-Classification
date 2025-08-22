@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, to 2.3m; young shoots with dense flattened adpressed reddish-brown setose hairs. Leaves monomorphic, subcoriaceous, broadly obovate to oblong, 0.7-1.1 x 0.3-0.5cm, 1.4-2.3 x as long as broad, apex shortly acuminate, base cuneate, margin revolute and minutely crenulate, upper surface setose, lower surface paler, setose on midrib and margin, otherwise glabrous; petioles c.2mm, setose. Calyx c.lmm, setose, lobes rounded. Corolla funnel-shaped, colour unknown, c.6mm; tube c.2.5mm, outer surface reddish-hairy, glabrous within. Stamens 5, long-exserted, filaments puberulent below. Ovary densely setose; style setose below. Capsule not known.
 
 ## Distribution

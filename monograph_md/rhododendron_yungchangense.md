@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Free-growing shrub, to 1-3 m. Young growth loriform-setose, the setae variably persistent. Leaves narrowly elliptic to narrowly obovate, tapered to the base and to the rather obtuse apex, 70-100 x 28-38 mm, upper surface dark brownish green, glabrous, elepidote, margin loriform-ciliate when young, glabrous later, lower surface light greyish green, papillose, with a lax covering of unequal, golden scales; petioles lepidote and loriform-setose. Inflorescence (l-)2-4-flowered, pedicels sparsely lepidote. Calyx conspicuous, 5-lobed, the lobes oblong, c. 7 mm, conspicuously and evenly loriform-ciliate, the surface sparsely lepidote. Corolla 60 mm, tube 32 mm, white faintly flushed pink, funnel-campanulate, glabrous and elepidote outside. Stamens 10, filaments pubescent towards the base. Ovary lepidote, tapering into the style which is elepidote except for a few scattered scales near the base. Capsule oblong-cylindric, lepidote, 12—16 mm.
 
 ## Distribution

@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Creeping shrub, 0.15—0.6m; perulae persistent. Leaves elliptic, (4-)6—7.5 x 1.8-2.8cm, 2.7—3.5 x as long as broad, apex acuminate, base cuneate, lower surface with a dense greyish to fawn bistrate indumentum, the upper layer loosely ramiform, lanate-tomentose, the lower compacted; petioles clem, glabrescent. Inflorescence 6-10-flowered; rhachis less than 5mm; pedicels 10- 15mm, glabrous. Calyx 1 -2mm, glabrous or occasionally sparsely floccose. Corolla funnel-campanulate, white or pale yellow to pink, with purple flecks, 35-45mm. Ovary and style glabrous. Capsule c.10 x 4mm.
 
 ## Distribution

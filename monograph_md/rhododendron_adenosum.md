@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub; young shoots densely setose-glandular. Leaves ovate to lanceolate or elliptic, coriaceous, 7-10.5 x 2.4-3.4cm, c.3 x as long as broad, apex acute to acuminate, base rounded, margin cartilaginous, papillate, upper surface glabrous when mature, with a few setae overlying the midrib, lower surface setose and sparsely tomentose, tomentum evanescent, at least towards apex, or ± persistent; petioles, like midribs, densely glandular-setose. Inflorescence lax, 6—8-flowered; rhachis c.5mm; pedicels 15-25mm, densely glandular-setose. Calyx c.7mm, densely glandular-setose. Corolla (in cultivation) funnel-campanulate, pale pink with purple flecks, 35-50mm. Ovary densely glandular setose; style glabrous. Capsule c.20 x 4mm, curved. china (SW Sichuan-Muli). Spruce forests,
 
 ## Distribution

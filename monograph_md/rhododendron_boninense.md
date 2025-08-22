@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Much-branched shrub, to 2m; young shoots covered with adpressed rufous hairs. Leaves persistent, monomorphic, oblong-lanceolate, 2-5 x l-2cm, apex subacute, mucronuiate, base cuneate, upper surface sparsely covered with adpressed straight rufous hairs, lower surface with impressed veins and densely covered with adpressed straight rufous hairs; petioles 5~-10mm, channelled above, indumentum as for leaves. Inflorescence 4-6~flowered; pedicels 4-6mm, covered with adpressed rufous hairs and subtended by the sub-persistent bud-scales. Calyx with 5 minute acute or rounded teeth covered with adpressed rufous hairs. Corolla funnel-campanulate, white, 40-50mm long and as wide. Stamens 10, papillose below middle. Ovary densely covered with adpressed strigose hairs; style pilose below middle. Capsule 10~20mm, oblong-ovoid, covered with grey-brown hairs.
 
 ## Distribution

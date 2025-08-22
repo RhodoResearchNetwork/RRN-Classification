@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Dwarf shrub, 0.2- lm; young shoots ± glabrous; perulae persistent for up to four years. Leaves ovate to broadly elliptic, 2.5-15.5 X 1.2-7cm, 2-2.5 x as long as broad, apex rounded, base cuneate to rounded, upper and lower surfaces glabrous when mature; petioles 0.5-lcm, velutinous-tomentose. Inflorescence lax. 5-8-flowered; rhachis c.lOmm; pedicels 25-35mm, sparsely dendroid-pilose. Calyx 2-3mm, lobes rounded-triangular, pilose. Corolla widely campanulate, yellow, usually with at least a few flecks, 25-30mm. Ovary rufous-tomentose; style glabrous. Capsule c. 10 x 4mm. ** * Rhododendron aureum * var. * aureum * ** Leaves 2.5-6.5(—8)cm long; perulae persistent ** * Rhododendron aureum * var. * hypopitys * ** Leaves 9- 15.5cm long; perulae usually deciduous
 
 ## Distribution

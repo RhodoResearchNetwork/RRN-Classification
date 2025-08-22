@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 5 m high, young branches glabrous. Leaves glabrous; blade elliptic to slightly obovate, 50-100 x 15-35 mm, base cuneate, apex acuminate, coriaceous, veins impressed on upper surface; petiole 8-12 mm long. Inflorescence buds lateral, at the ends of leafy shoots, 3-5-flowered; bud-scales with a tuft of brown, wavy hairs below the tip, caducous; pedicels 20-25 mm long, densely covered with spreading glandular hairs. Calyx lobes 5, variable in size, often in the same flower, short and rounded to linear (5 mm long) glabrous or with glandular hairs. Corolla pink, glabrous, tube c.Bmm long, lobes c.35 x 17-20mm. Stamens 10, shortly exserted, filaments hairy on lower part. Ovary cylindric c.7mm high, glabrous or densely covered with coarse appressed brim, 5-locular hairs; style glabrous. Capsule narrowly cylindric, falcate, 50-60 x 4-5 mm.
 
 ## Distribution

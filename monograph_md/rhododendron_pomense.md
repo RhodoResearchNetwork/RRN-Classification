@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 0.6-1.2m. Leaves oblong-oval, 8.5-10 X 3.5-4.7cm, 2-2.5 x as long as broad, apex apiculate, base rounded, lower surface with a thin unistrate compacted brown indumentum; petioles 1.5-2cm, floccose. Inflorescence c.5-flowered; rhachis short; pedicels 13-25mm, densely tomentose. Calyx c.l2mm, glabrous, lobes unequal, with ciliate margins. Corolla pink, c.38mm. Ovary densely tomentose. Capsule not known.
 
 ## Distribution

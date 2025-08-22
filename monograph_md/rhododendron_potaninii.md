@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Tree, c.5m. Leaves oblong to obovate, 7-9 x 3.5-4cm, c.2 x as long as broad, apex obtuse, mucronate, base rounded, upper surface glabrous, lower surface presumed to be pubescent below at first though soon giabrescent, with a dense spongy indumentum of branched hairs overlying the midrib below; petioles 2—2.5cm, densely tomentose. Inflorescence 7—8-flowered; pedicels c.l8mm, rufous-pilose. Calyx c.lmm, hirsute. Corolla open-campanulate, probably white, c.30mm. Ovary densely rufous-tomentose.
 
 ## Distribution

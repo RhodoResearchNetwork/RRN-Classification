@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 60cm. Twigs rounded, rough, scaly and densely papillose with scale bases. Leaves 3–4 together in pseudowhorls. Blade 14–20 x 8–10mm, spathulate-obovate; apex emarginate, apiculate with a small protruding gland; margin conspicuously recurved; base tapering; upper surface yellowish-green, lower paler, sparsely scaly. Mid-vein conspicuous; laterals veins 3–4 per side, just visible above, inconspicuous below. Petiole to 3mm. Inflorescence terminal, 1-flowered. Pedicels 10–15mm, slender, shortly hairy and scaly. Calyx shortly hairy and sparsely scaly, 5-lobed, the lobes rounded, to 1.2 x 1mm, sparsely bristly-ciliate. Corolla 10–12 x c.14mm, broadly campanulate, yellow; tube sparsely scaly outside; lobes 6–7.5mm, ovate-spathulate, spotted with red. Stamens 8–10mm, the filaments hairy about the middle. Ovary to 2.2mm, shortly cylindrical, densely hairy and scaly; style c.5mm, bent downwards; stigma depressed-rounded to broadly 5-lobed. Fruit 9–12mm, oblong, scaly and hairy.
 
 ## Distribution

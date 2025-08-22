@@ -1,24 +1,26 @@
 ---
-scientificname: "Rhododendron lapponicum (Linnaeus) Wahlenberg"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Fl. Lapp. 104 (1812)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron lapponicum (L.) Wahlenberg
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Fl. Lapp. 104 (1812)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
  {{ page.namepublishedin }}
@@ -31,9 +33,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Much branched prostrate or erect shrub to 1 m. Leaves 4-20(-25) x 2-7(-9) mm, oblong-elliptic to elliptic-ovate, apex obtuse or rounded, mucronate (sometimes obscurely so), base cuneate, undersurface fawn to ferrugineous, the contiguous scales bicolorous, either straw-coloured to fawn, or ferrugineous, the two colours occurring in various proportions. Inflorescence 3-6-flowered, pedicels lepidote, 3-12 mm. Calyx 1-2 mm, lobes deltoid, variably lepidote, margin ciliate. Corolla violet-rose to purple or sometimes white, broadly funnel-shaped, pubescent in the throat, (6-5-)7-5-14(-15) mm, tube (1-5-)2-5(-6) mm. Stamens 5-10, filaments pubescent towards the base. Ovary lepidote, style 10.5-15 mm, exceeding the stamens, glabrous. Capsule ovoid, 4-6 mm, lepidote.
 
 ## Distribution

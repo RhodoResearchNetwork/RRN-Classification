@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1-1.6m. Leaves elliptic-oblong, 7-13 x 2.4-3.5cm, 3-3.7 x as long as broad, apex acute, base rounded, lower surface covered with a dense unistrate ramiform lanate indumentum, deep pink when young, maturing to a rich rufous brown; petioles 1 —1.5cm, tomentose at first, later glabrescent. Inflorescence 10-20-flowered; rhachis 2-3mm; pedicels c.20mm, rufous-tomentose, at least at first. Calyx c.l2mm, stipitate-glandular, lobes oblong, rounded, glandular-ciliate. Corolla campanulate, pale purplish pink, with crimson flecks, 30-4Omm. Ovary densely stipitate-glandular; style with a few glands at base. Capsule c.15 x 5mm.
 
 ## Distribution

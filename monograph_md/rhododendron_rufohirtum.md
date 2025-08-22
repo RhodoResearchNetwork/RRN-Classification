@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Much-branched shrub with slender branches; young shoots densely hirsute, with a dense covering of spreading brownish slrigose and slender pilose hairs. Leaves ? monomorphic, chartaceous, ovate-lanceolate, 2.5-6.5 x 1.3-2.5cm, 2-2.5 x as long as broad, apex acuminate, base cuneate to almost rounded, margin entire, ciliate, upper surface pilose, lower surface pale, pilose, with an admixture of strigose hairs, especially on midrib; petioles 5~10mm, densely hairy. Inflorescence 3-4-flowered; pedicels c.5mm, covered with reddish-brown pilose hairs. Calyx densely covered with reddish-brown strigose hairs, lobes narrowly obovate, c.3mm. Corolla funnel-campanulate, deep rose, c.20mm; tube c.9mm, outer surface glabrous, inner surface papillate-pilose. Stamens 10, as long as corolla, filaments pilose below middle. Ovary densely hairy; style hairy at base. Capsule ovoid, c.8 x 6mm, brown-spreading-hairy.
 
 ## Distribution

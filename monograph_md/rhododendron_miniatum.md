@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, 1.5—2m; young shoots with a thin evanescent tomentum, eglandular. Leaves elliptic, 4-5 x 2-2.6cm, c.2 x as long as broad, apex rounded, base rounded, upper surface glabrous, lower surface covered with a dense fulvous lanate tomentum composed of fasciculate hairs; petioles 0.5-0.8cm, tomentose. Inflorescence c.5-flowered; rhachis 2-3mm; pedicels c.6mm, glabrescent. Calyx 8-15mm, fleshy, cupular, glabrous, lobes crimson, rounded. Corolla funnel-campanulate, crimson, with darker nectar pouches, 30-35mm. Ovary glabrous. Capsule not known.
 
 ## Distribution

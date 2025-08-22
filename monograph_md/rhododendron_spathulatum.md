@@ -33,9 +33,18 @@ verified: null
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub to 1.5m. Twigs dark brown, slender, the upper internodes densely covered with stalked scales, rough with persistent stalks when the scales have gone, finally smooth; internodes 0.5–2cm. Leaves 3–7 together in well-marked pseudowhorls at the upper nodes. Blade 10–20 x 5–10mm, obovate-spathulate; apex rounded, mostly slightly retuse; margin flat or slightly revolute; base tapering, laxly impressed-scaly, becoming glabrescent and shining above, more densely and minutely scaly and dull beneath. Scales circular, marginal zone narrow, entire or nearly so; centre dark and thick, distinctly impressed, entire or minutely crenulate. Mid-vein mostly impressed above proximally, prominent beneath; lateral veins 3–4 per side, faintly impressed above and raised beneath, or almost invisible. Petiole c.2mm, scaly, slender. Bracts to 5 x 3mm, ovate, sub-acute, scaly outside distally, ciliate on the margins. Flowers solitary, or rarely in twos. Pedicels 6–8mm, slender, densely scaly, sometimes also minutely laxly hairy. Calyx oblique, very small, scaly, obscurely obtusely 5-lobed. Corolla 20–26mm, tubular, slightly dilated towards the mouth, zygomorphic and laterally compressed, straight, dark or orange-red; tube 18–22 x c.3 x 5–6mm, laxly scaly outside, glabrous inside; lobes 4–5 x 2.5–3mm, obovate, spreading, distinctly ciliate. Stamens unequal, exserted; filaments glabrous, linear; anthers 2 x 0.8mm, oblong. Disc glabrous. Ovary 2.5 x 1.5mm, broadly ellipsoid, densely scaly, without hairs, gradually tapering distally; style glabrous becoming long exserted; stigma rounded to indistinctly lobed. Fruit 7–8 x 2.5–3mm, shortly cylindrical or conical, densely scaly.
 
 ## Distribution

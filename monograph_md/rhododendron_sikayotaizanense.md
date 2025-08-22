@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub; young shoots covered with adpressed-strigose hairs. Leaves monomorphic, coriaceous, oblong to ovate-oblong, 0.4-1.4 x 0.2-0.6cm, 2-2.2 x as long as broad, apex apiculate, base cuneate, upper surface sparsely adpressed-hirsute, lower surface adpressed-hirsute, with a densely pilose midrib; petioles not known. Inflorescence 2-3-flowered; pedicels c.lOmm, ± pilose. Calyx with linear-lanceolate, ciliate lobes, c.4mm long. Corolla campanulate, red, c.20mm. Stamens 4-6, unequal, filaments sparsely hirsute. Ovary densely hirsute; style glabrous. Capsule not known.
 
 ## Distribution

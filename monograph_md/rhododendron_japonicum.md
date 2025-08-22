@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Shrub, l-2.5m; young shoots sparsely tomentose, eglandular, perulae deciduous. Leaves elliptic to oblanceolate, 8-14 x 2.5-3.5cm, 3-4 x as long as broad, apex acute to ± rounded, apiculate, base cuneate to rounded, upper surface glabrous, lower surface with a dense compacted grey to fawn tomentum or indumentum thin and agglutinated or occasionally giabrescent; petioles 2-2.5cm, usually densely floccose-tomentose. Inflorescence lax, 9-12-flowered; rhachis 10-20mm; pedicels 20-30mm, with a sparse dendroid indumentum. Calyx 2-3mm, lobes rounded-triangular, glabrous. Corolla widely funnel-campanulate, pink to soft rose, with conspicuous flecks, 30-45mm. Ovary white-tomentose. Capsule to at least 22 x 10mm. ** * Rhododendron japonicum * var. * japonicum * ** ** * Rhododendron japonicum * var. * pentamerum * **
 
 ## Distribution

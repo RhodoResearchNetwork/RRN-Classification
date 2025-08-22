@@ -31,9 +31,18 @@ verified:
 
 Verified by: {{ page.verified }}
 
+ {{ page.namepublishedin }}
+
+{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
 
 
-## Description
+
 Small tree, 4-7m; young shoots glandular-setose. Leaves elliptic, 8.5—12 x 2.5-4cm, 2.4—4.3 x as long as broad, apex bluntly acuminate, base cuneate, lower surface glabrous though with numerous red sessile punctate glands; petioles l-3cm, glabrous at maturity. Inflorescence 2-3-flowered; rhachis c.3mm; pedicels 10-25mm, densely stipitate- to setose-glandular. Calyx 2-3.5mm, lobes rounded, stipitate-glandular, especially on margins. Corolla campanulate, purple, 35-40mm. Ovary densely long-stipitate-glandular; style glandular in lower half. Capsule 12-20 x 6-8mm.
 
 ## Distribution
