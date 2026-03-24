@@ -1,6 +1,7 @@
 ---
-scientificname: Rhododendron adenosum (Cowan & Davidian) Davidian
-scientificnameauthorship: ''
+title: Rhododendron adenosum (Cowan & Davidian) Davidian
+scientificname: Rhododendron adenosum
+scientificnameauthorship: (Cowan & Davidian) Davidian
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -63,5 +64,4 @@ R. glischrum var. adenosum Cowan & Davidian, Notes R.B.G. Edinb. 21: 147 (1953).
 
 
 ## References
-
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):284
+Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):284(10.24823/nrbge.1982.3252)
