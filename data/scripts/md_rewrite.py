@@ -4,7 +4,7 @@ import yaml
 INPUT_DIR = "monograph_md"  # Directory with your markdown files
 
 # Literal block to insert — preserved exactly as written
-INSERT_BLOCK = """### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
+INSERT_BLOCK = """### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  {{ page.namepublishedin }}
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
