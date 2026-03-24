@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron burmanicum Hutch.
+scientificname: Rhododendron burmanicum
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Kew Bull. 1914:185.
 doi: ''
 wfo_id: wfo-0000400478
-wfo_parent_id: wfo-1000002622
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332066-1
 verified: null
+layout: default
+title: Rhododendron burmanicum Hutch.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to 2 m. Young growth with a dense indumentum of loriform setae which is soon deciduous. Leaves obovate, tapering to the base, obtuse at the apex, 50-55 X 20-24 mm, upper surface dark green, rather densely lepidote with flat, somewhat dried-out scales, margins loriform-ciliate when young, somewhat crenate in the upper part, lower surface densely lepidote with overlapping to contiguous scales producing a brownish colour; petioles densely lepidote and sparsely loriform-setose. Inflorescence 4-6(-10)-flowered, pedicels densely lepidote. Calyx disc-like, undulate, lepidote, loriform-ciliate. Corolla greenish yellow, funnel-campanulate, 30-35 mm, tube 18-20 mm, the base of the tube pilose outside, the whole conspicuously lepidote, tube glabrous inside. Stamens 10, filaments densely pubescent in the lower part. Ovary densely lepidote; style impressed, lepidote in the lower part. Fruit unknown.
 
 ## Distribution

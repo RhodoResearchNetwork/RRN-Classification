@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron thayerianum Rehder & E.H.Wilson in Sargent (ed.)
+scientificname: Rhododendron thayerianum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron thayerianum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 3-4m; perulae persistent, at least on young shoots. Leaves narrowly obianceolate, 8-13 x 1.5-3cm, 3-5 x as long as broad, apex cuspidate, glabrous above, with a dense, fawn, compacted, unistrate indumentum beneath; petioles l-2cm, with a whitish floccose indumentum at first though soon glabrous, lower surface with a thin silvery to fawn compacted indumentum 30-50mm, sparsely glandular. Calyx 2-5mm, lobes rounded, oblong, glandular. Corolla funnel-shaped, white tinged with pink, lobes sometimes with a darker median line and purple flecks, 25-30mm. Ovary exclusively rufous-stipitate-glandular or rufous-tomentose and glandular; style glandular to tip. Capsule c.20 x 4-6mm, cylindrical.
 
 ## Distribution

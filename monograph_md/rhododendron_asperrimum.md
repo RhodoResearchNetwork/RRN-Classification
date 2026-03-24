@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron asperrimum Sleumer
+scientificname: Rhododendron asperrimum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Blumea 1963. 12: 97.'
 doi: ''
 wfo_id: wfo-0000400419
-wfo_parent_id: wfo-1200001480
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331963-1
 verified: null
+layout: default
+title: Rhododendron asperrimum Sleumer
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Epiphytic, spreading shrub. Twigs c.2mm in diameter, slender, initially covered with reddish, dendroid scales; internodes 3–7cm. Leaves 3–4 together in pseudowhorls at the upper 2–3 nodes, sub-sessile. Blade 25–45 x 15–30mm, ovate; apex very broadly tapering to rounded; margin revolute distally; base a little cordate; sub-densely scaly above, quickly glabrescent but rough with the persistent epidermal scale bases, densely scaly and more persistently scaly beneath, eventually glabrescent here also but remaining rough with epidermal tubercles. Scales reddish-brown, stellate-dendroid, the tubercles often very pale in colour after the scales have fallen. Mid-vein impressed above, prominent beneath; lateral veins inconspicuous on both sides, without reticulation. Petiole 2 x 1.5mm, scaly. Bracts to 15 x 7mm, thin, ovate to spathulate, sparsely scaly at first becoming glabrous. Bracteoles c.10mm, linear to filiform, glabrous. Inflorescence 3–6-flowered. Pedicels 11–15mm, slender, very densely stellate-scaly, not hairy. Calyx 2–3mm in diameter, obliquely rimmed, shortly or hardly 5-lobed, densely scaly outside. Corolla 26–30mm, tubular, zygomorphic, pink to purplish; tube c.20 x 4–5 x 6–7mm, curved, initially, densely, later more sparsely scaly, often finally glabrescent outside, laxly papillose-hairy inside; lobes c.10 x 6mm, unequal, spreading, obovate-spathulate. Stamens almost equalling the corolla in length; filaments linear, laxly papillose-hairy in the proximal ½, glabrous distally; anthers 2 x 1.3mm, obovate-elliptic, the base obtuse. Disc glabrous below, hairy on the upper margin. Ovary c.4 x 1.5mm, sub-cylindrical, densely covered with reddish-brown, stellate scales and more sparsely with paler hairs, abruptly contracted distally; style scaly at the base, and sometimes sparsely patently hairy in the proximal ¼, otherwise glabrous; stigma sub-globose.
 
 ## Distribution

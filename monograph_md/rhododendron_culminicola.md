@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron culminicola F.Muell.
+scientificname: Rhododendron culminicola
 scientificnameauthorship: F.Muell.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Trans. R. Soc. Vict. n.s. 1889. 1(2): 23.'
 doi: ''
 wfo_id: wfo-0000400435
-wfo_parent_id: wfo-3000001252
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332272-1
 verified: null
+layout: default
+title: Rhododendron culminicola F.Muell.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 
 
 ## Distribution

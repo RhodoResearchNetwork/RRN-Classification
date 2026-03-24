@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron microphyllum J.J.Sm.
+scientificname: Rhododendron microphyllum
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Bull. Jard. Bot. Buit. II, 1912. 8: 51.'
 doi: ''
 wfo_id: wfo-0000400284
-wfo_parent_id: wfo-1000002632
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332884-1
 verified: null
+layout: default
+title: Rhododendron microphyllum J.J.Sm.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 
 
 ## Distribution

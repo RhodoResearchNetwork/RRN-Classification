@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron dendricola Hutch.
+scientificname: Rhododendron dendricola
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Notes R.B.G. Edinb. 12:60 (1919)
 doi: ''
 wfo_id: wfo-0001048060
-wfo_parent_id: wfo-1000002622
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332316-1
 verified: null
+layout: default
+title: Rhododendron dendricola Hutch.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Epiphytic or free-growing shrub. Young growth rarely loriform-setose. Leaves narrowly elliptic to narrowly obovate, tapered to the base, rather abruptly acute or with a short drip-tip, 70-120 x 30-48 mm, undersurface with a covering of scales of variable density. Calyx disc-like or very obscurely lobed, not loriform-ciliate. Corolla white, often with a yellow, orange or greenish blotch and/or flushed pink, lepidote outside, pilose at the base of the tube. Ovary lepidote, usually waisted towards the apex. Capsule up to 20 mm.
 
 ## Distribution

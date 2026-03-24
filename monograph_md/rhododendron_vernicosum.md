@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron vernicosum Franch.
+scientificname: Rhododendron vernicosum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: J. Bot. (Morot) 12:258 (1898).
 doi: ''
 wfo_id: wfo-0001220768
-wfo_parent_id: wfo-1000002597
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333551-1
 verified: null
+layout: default
+title: Rhododendron vernicosum Franch.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or tree, 1.3-8 m. Leaves elliptic to ovate- or obovate-elliptic, (4.5-) 7-10 x 2.7-5 cm, 1.5-2.2 x as long as broad, apex rounded, mucronate, base rounded, lower surface with minute punctulate hairs; petioles 2-3 cm, glabrous. Inflorescence 6-10-flowered; rhachis 5-10 mm; pedicels 17-30 mm, stipitate-glandular. Calyx a 2 mm, lobes rounded, stipitate-glandular. Corolla 6-7-lobed, broadly funnel-campanulate, glabrous, pale rose to pinkish-purple, with crimson flecks, 35-50 mm. Stamens c. 14, filaments glabrous. Ovary and style stipitate-glandular, glands red. Capsule 17-30 x 7-12 mm, curved.
 
 ## Distribution

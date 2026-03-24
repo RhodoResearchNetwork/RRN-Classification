@@ -1,37 +1,31 @@
 ---
-scientificname: "Rhododendron veitchianum Hooker"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bot. Mag. 83: t. 4992 (1857)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron veitchianum
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: 'Bot. Mag. 83: t. 4992 (1857)'
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron veitchianum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Epiphytic or free-growing shrub up to 2 m. Young growth sparsely loriform-setose, the setae usually quickly deciduous. Leaves obovate or narrowly elliptic, gradually tapered to tne base, the apex shortly acuminate, 65-100 x 28-40 mm, upper surface dark green, lower surface paler with distant, unequal, golden scales; petiole lepidote. Inflorescence (l-)2-5-flowered, pedicels short, lepidote. Calyx disc-like, scarcely lobed, lepidote, loriform-ciliate. Corolla white, often with a yellow blotch at the base, openly funnel-campanulate, 50-60(-65) mm, tube 26-34(-40) mm, sparsely pubescent at the base, lepidote along the adaxial part only; lobes with crisped margins. Stamens 10 (not 12-14 as described by Hooker), pubescent towards the base. Ovary lepidote, tapering into the style which is lepidote well above the base. Capsule up to 30 mm, lepidote.
 
 ## Distribution

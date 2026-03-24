@@ -1,37 +1,31 @@
 ---
-scientificname: "Rhododendron camelliiflorum Hooker"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Rhodo. Sikkim Himalaya t. 28 (1849)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron camelliiflorum
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Rhodo. Sikkim Himalaya t. 28 (1849)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron camelliiflorum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to 2 m, epiphytic or growing on rocks. Young growth lepidote. Leaves narrowly elliptic to oblong-elliptic, bluntly acute at the apex, tapering to a shortly rounded base, (53-)60-90(-105) x (16-)20-30(-37) mm, shining dark green above with few, dried-out scales, pale green to brownish beneath with a dense covering of almost contiguous, broadly rimmed scales of which a few are larger and darker than the rest. Inflorescence 1-2-flowered, pedicels densely lepidote. Calyx lobes oblong, rounded at the apex, 5-8 mm, lepidote or not on the surface, fringed with scales. Corolla waxy, with a short, broad tube, white to deep rose, rarely with a whitish or yellowish zone within at the base, lepidote outside, villous within, 14-18(-20) mm, tube 8-10 mm. Ovary 5-10-locular, lepidote, style usually shorter than the stamens. Capsule ovoid, lepidote, tapered to the apex, 7-11(-13) mm
 
 ## Distribution

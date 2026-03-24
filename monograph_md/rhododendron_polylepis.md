@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron polylepis Franch.
+scientificname: Rhododendron polylepis
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Bull. Soc. Bot. Fr. 33:232 (1886)
 doi: ''
 wfo_id: wfo-0001048151
-wfo_parent_id: wfo-1000002628
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333112-1
 verified: null
+layout: default
+title: Rhododendron polylepis Franch.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 1-6 m. Young growth densely lepidote. Leaves narrowly elliptic to very narrowly elliptic, 50-100 X 15-30 mm, cuneate at base, acute to somewhat rounded at apex, upper surface dark green, lepidote or elepidote, glabrous, lower surface very densely covered with large, flat, overlapping, flaky scales, dark brown or yellowish brown. Inflorescences 3-4-flowered, pedicels lepidote, 9-15 mm. Calyx minute, undulate, lepidote, rarely filiform-acicular-ciliate. Corolla purple, 25-31 mm, tube 10-15 mm, lepidote outside. Stamens 10, filaments pubescent towards the base. Ovary lepidote, somewhat pubescent at apex. Style glabrous. Capsule narrowly cylindric, c. 15 mm.
 
 ## Distribution

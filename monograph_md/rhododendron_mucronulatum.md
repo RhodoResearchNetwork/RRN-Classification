@@ -1,37 +1,31 @@
 ---
-scientificname: "Rhododendron mucronulatum Turczaninow"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Bull. Soc. Nat. Mosc. 7:155 (1837)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron mucronulatum
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Bull. Soc. Nat. Mosc. 7:155 (1837)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron mucronulatum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Straggling open shrub to 2 m. Young growth lepidote and puberulous. Leaves completely deciduous, thin, strigose with loriform hairs on the upper surface towards the margin at least when young, the upper surface of the midrib puberulent, sparsely lepidote beneath, 40-60 X 15-30 mm. Inflorescences precocious. Pedicels very short, obscure. Calyx rim-like, lepidote. Corolla very openly funnel-shaped, 21-26 mm, tube 8-12 mm, 33-42 mm in diameter, bright mauve-pink, rarely white, pilose outside near the base, glabrous or sparsely pilose inside. Stamens 10, exserted, filaments pubescent towards the base, anthers blue. Ovary lepidote, style glabrous. Capsule lepidote.
 
 ## Distribution

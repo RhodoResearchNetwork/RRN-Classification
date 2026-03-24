@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron bracteatum Rehder & E.H.Wilson
+scientificname: Rhododendron bracteatum
 scientificnameauthorship: Rehder & E.H.Wilson
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: PL Wils. 1:819 (1913)
 doi: ''
 wfo_id: wfo-0001048178
-wfo_parent_id: wfo-1000002616
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332044-1
 verified: null
+layout: default
+title: Rhododendron bracteatum Rehder & E.H.Wilson
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to 2 m with thin lepidote branches. Young shoots purplish, puberulous. Leaves ovate to elliptic, up to 35 x 15 mm, ± acute at the apex, rounded to subcuneate at the base, ± glabrous and elepidote above, sparsely lepidote with large, golden scales beneath. Bud scales of the leaf buds persistent. Inflorescence 4-6-flowered, pedicels sparsely lepidote, puberulous at the base. Calyx weakly 5-lobed, the lobes 1-2 mm, sparsely lepidote, the margins filiform-acicular-ciliate. Corolla openly funnel-shaped, 15-25 mm, white with many reddish spots, sparsely lepidote and puberulent towards the sinuses outside, puberulent inside the tube. Stamens 10, filaments pubescent towards the base. Ovary lepidote and sparsely puberulent towards the apex. Style shorter than the longest stamens at anthesis, glabrous or sparsely pilose at the base. Capsule lepidote, 10-15 mm.
 
 ## Distribution

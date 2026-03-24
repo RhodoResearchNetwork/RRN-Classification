@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron callimorphum Balfour f. & W.W.Sm.
+scientificname: Rhododendron callimorphum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron callimorphum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 0.6-2(-3)m; young shoots shortly stipitate-glandular. Leaves broadly ovate to orbicular, 3.5-7 x 3-5cm, 1-1.5 X as long as broad; apex rounded, acuminate, base cordate, upper surface glabrous, lower surface glaucous, with minute red punctate glands, sometimes also stipitate-glandular at base, especially on midrib; petioles 1.2-2cm, stipitate-glandular, at least when young. Inflorescence 4-8-flowered; rhachis c.3mm; pedicels c.l5mm, stipitate-glandular. Calyx c.2mm, stipitate-glandular. Corolla campanulate, white to rose-pink, sometimes with purple flecks and a faint basal blotch, 30-40mm. Ovary stipitate-glandular; style glabrous or with a few glands at base. Capsule 15-20 x 3-4mm, curved. ** * Rhododendron callimorphum * var. * callimorphum * ** Flowers pink ** * Rhododendron callimorphum * var. * myiagrum * **
 
 ## Distribution

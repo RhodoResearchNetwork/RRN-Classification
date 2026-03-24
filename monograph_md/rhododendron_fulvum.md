@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron fulvum Balfour f. & W.W.Sm.
+scientificname: Rhododendron fulvum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron fulvum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 2-8m; young shoots rufous-tomentose. Leaves oblanceolate to elliptic, 8-22 X 3.6-8cm, 2.2-3.5 x as long as broad, apex ± rounded, apiculate, base cuneate, upper surface glabrous when mature, lower surface with a dense bistrate indumentum, the upper layer fulvous, largely composed of capitellate hairs, giving the surface a granular appearance, the lower stellate-velutinous, whitish; petioles l-2cm, with a compacted tomentum intermixed with some stipitate glands. Inflorescence 10-20-flowered; rhachis 10-15mm; pedicels 20-30mm, slender, glabrous. Calyx c.0.5mm, glabrous. Corolla campanulate, white to pink, usually with a basal blotch, with or without purple or crimson flecks, 25-45mm. Ovary glabrous. Capsule 25-40 x 4—5mm, strongly curved.
 
 ## Distribution

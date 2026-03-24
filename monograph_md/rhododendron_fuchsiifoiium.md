@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron fuchsiifoiium H.L\xE9v.."
+scientificname: Rhododendron fuchsiifoiium
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron fuchsiifoiium
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Upright shrub; young shoots covered with flattened adpressed brown hairs. Leaves apparently monomorphic, elliptic to ovate, 1-4 x 0.5-1.4cm, 2-2.5 x as long as broad, apex acute or acuminate, base cuneate, margin entire, upper surface strigose, lower surface with flattened strigose hairs on midrib, otherwise glabrous; petioles 3-5mm, densely covered with brown strigose hairs. Inflorescence 3-5-flowered; pedicels 3-5mm, covered with shiny long brown strigose hairs, with an understorey of glandular hairs. Calyx densely covered with brown flattened strigose hairs, lobes 2-4mm, linear-lanccolaate. Corolla funnel-shaped, pale rose, 5-10mm; tube 3-5mm, with five rows of glandular hairs on outer surface. Stamens 5, c. as long as corolla, glandular below middle. Ovary covered with shining red-brown hairs; style glandular and pilose below middle, shorter than stamens. Capsule not known.
 
 ## Distribution

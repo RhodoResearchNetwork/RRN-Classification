@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron reticulatum D.Don
+scientificname: Rhododendron reticulatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron reticulatum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, l-8m; young shoots soon glabrous. Leaves rhombic-ovate, 3-6 x 1.5-4cm, apex acute, upper surface at first covered with short hairs, soon becoming glabrous, lower surface with short brown hairs, mainly on midrib and veins; petioles 2-5mm, covered with brown bristle-like hairs. Inflorescence l-2(-3)-flowered, flowers appearing before the leaves; pedicels 5-8mm covered with adpressed brown hairs, glandular, Calyx minute, ciliate, villous, glandular. Corolla funnel-campanulate, rose-purple, rarely white, 25-30mm, lobes 15mm, oblong. Stamens 10, unequal, filaments glabrous. Ovary villous; style glabrous (? occasionally pubescent below). Capsule 10mm, curved.
 
 ## Distribution

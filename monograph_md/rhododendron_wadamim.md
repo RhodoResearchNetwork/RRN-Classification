@@ -1,37 +1,31 @@
 ---
-scientificname: "Rhododendron wadamim Makino"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Chamberlain, D.F."
-created: "1990"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "J. Jap. Bot. 1: 21 (1917). No type cited."
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron wadamim
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Chamberlain, D.F.
+created: '1990'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: 'J. Jap. Bot. 1: 21 (1917). No type cited.'
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron wadamim
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree; young shoots villose. Leaves rhombic, 3-5 x 2-4cm, apex acute but with blunt tip, upper surface sparsely villose when young, soon glabrescent, lower surface sparsely villose, more densely so on midrib; petioles 4-7mm, densely villose. Inflorescence 1-2-flowered, flowers appearing before leaves; pedicels 3-10mm, with eglandular or glandular hairs. Calyx minute, ciliate. Corolla funnel-campanulate, rich rose-pink, 22-30mm. Stamens 10, unequal, filaments glabrous. Ovary densely villose; style stipitate-glandular in lower half. Capsule 8-15 x 4-5mm.
 
 ## Distribution

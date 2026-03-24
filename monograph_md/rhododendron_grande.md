@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron grande Wight
+scientificname: Rhododendron grande
 scientificnameauthorship: Wight
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Calcutta J. Nat. Hist. 8:176 (1847).
 doi: ''
 wfo_id: wfo-0001229352
-wfo_parent_id: wfo-1000002598
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332518-1
 verified: null
+layout: default
+title: Rhododendron grande Wight
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Tree, 8-12m. Leaves elliptic to oblanceolate, 15-27 x 5-9.5cm, 2.4-3.3 x as long as broad, glabrous above, with a thin compacted silvery indumentum beneath; petioles 2—3.5cm, sparsely floccose to glabrous when mature. Inflorescence 15-25-flowered; rhachis 40-50mm; pedicels 15-30mm, densely covered with sessile glands, sometimes also floccose. Calyx c.lmm, glandular. Corolla 8-lobed, ventricose-campanulate, pale yellow (rarely with a purplish tinge), with purple nectar pouches, 50-/70mm. Stamens 15-16. Ovary densely stipitate-glandular, sometimes also with a dense pale brown tomentum. Capsule 30-45 x 8- 12mm.
 
 ## Distribution

@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron pentaphyllum Maxim.
+scientificname: Rhododendron pentaphyllum
 scientificnameauthorship: Maxim.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Judd, W.S.
 created: Sections Sciadorhodion, Rhodora and Viscidula
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Bull. Acad. Sci. St Petersbourg, ser. 3, 31:65 (1887).
 doi: ''
 wfo_id: wfo-0000400196
-wfo_parent_id: wfo-3400011677
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333062-1
 verified: null
+layout: default
+title: Rhododendron pentaphyllum Maxim.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree to 4(-8)m tall; young twigs reddish brown, glabrous to
 
             sparsely covered with multicellular eglandular or gland-headed hairs; bark pale

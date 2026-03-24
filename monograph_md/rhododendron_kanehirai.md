@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kanehirai E.H.Wilson
+scientificname: Rhododendron kanehirai
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron kanehirai
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Much-branched shrub, 1-2.5m; young shoots densely clothed with adpressed broad flattened stiff, persistent chestnut-brown hairs. Leaves dimorphic, persistent; spring leaves oblanceolate to narrowly obovate, 2-5 x 0.5-1.5cm, apex acute, gland-tipped, base cuneate, margin entire, both surfaces sparsely strigose, especially on midrib; summer leaves 15-30 x 2-6mm, otherwise as for spring leaves; petioles 2-5mm, densely strigose. Inflorescence 1 (-2)~flowered; pedicels 5-8mm, densely chestnut-stri-gose. Calyx c.lmm, indumentum as for pedicels. Corolla funnel-campanulate, 25-40mm, pink (or carmine to scarlet); tube 15-25mm, glabrous. Stamens 10, as long as corolla, unequal, filaments papillose below middle. Ovary densely clothed with grey or chestnut-brown strigose hairs; style glabrous or with a few adpressed hairs at base. Capsule cylindric-oblong, c. 10mm long.
 
 ## Distribution

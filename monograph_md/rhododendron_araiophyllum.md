@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron araiophyllum Balf.f. & W.W.Sm.
+scientificname: Rhododendron araiophyllum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron araiophyllum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 1.5—6.5m. Leaves sub-coriaceous, elliptic to oblanceolate, 5.5-13 x 1.8-3.2cm, 3-5 x as long as broad, apex acute to cuspidate, base cuneate, margin plane to slightly undulate, upper and lower surfaces glabrous when mature, punctate hair-bases apparently lacking; petioles 0.7-1.5cm, fioccose-tomentose. Inflorescence lax, 5—10-flowered; rhachis c.5mm; pedicels 15-20mm, slender, smooth to minutely hairy. Calyx l-2mm, lobes rounded, glabrous to sparsely ciliate. Corolla open-campanulate, nectar pouches lacking, glabrous within, white flushed rose, with a basal blotch, sometimes also with purple flecks, 28-35mm. Ovary with a sparse covering of short white simple hairs; style glabrous. Capsule 10—16 x 3—4mm.
 
 ## Distribution

@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron chrysocalyx H.L\xE9v.. & Van."
+scientificname: Rhododendron chrysocalyx
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron chrysocalyx
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Deciduous or semi-evergreen shrub, to 2m; densely branched, branchlets with dense coarse flat, yellowish-brown, adpressed hairs. Leaves persistent coriaceous, dimorphic, lanceolate to oblanceolate; spring leaves 1.5-6 x 0.5-1.5cm, apex acute, base cuneate, margin slightly crenulate, upper surface lustrous, glabrous except for a few coarse flat adpressed hairs on the midrib, net-veins conspicuously impressed, lower surface with few and similar hairs; summer leaves 5-10 x 3-5mm, otherwise as for spring leaves; petioles 3-5mm, covered with adpressed flat yellowish-brown hairs. Inflorescence (3-)6-12~flowered; pedicels 10-15mm, densely hairy. Calyx minute, hairy. Corolla tubular-campanulate, rose, 20-30mm, glabrous; tube 7-15mm, 3mm wide at base. Stamens 5, longer than corolla, papillate below middle. Ovary densely hairy, hairs coarse, lustrous, yellowish-red, adpressed; style glabrous. Capsule ovoid, densely hairy.
 
 ## Distribution

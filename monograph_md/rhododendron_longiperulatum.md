@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron longiperulatum Hayata
+scientificname: Rhododendron longiperulatum
 scientificnameauthorship: Hayata
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Icon. PI. Formosan. 3: 138 (1913)'
 doi: ''
 wfo_id: wfo-0001220144
-wfo_parent_id: wfo-1200001570
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332792-1
 verified: null
+layout: default
+title: Rhododendron longiperulatum Hayata
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Erect shrub, young shoots densely clothed with adpressed flattened hairs. Leaves dimorphic, sub-persistent, chartaceous; spring leaves ovate to ovate-lanceolate, 1-3 x 0.5-1.5cm, 1.7-2 x as long as broad, apex acute, base cuneate, margin entire, upper surface sparsely strigose, lower surface densely strigose, especially on midrib and veins; summer leaves up to 10 x 6mm, otherwise as for spring leaves; petioles 1-2mm, strigose. Inflorescence 1-3-flowered; pedicels c.l2mm, stout, densely clothed with shining adpressed rufous hairs. Calyx indumentum as for pedicels, lobes c.2mm, acute. Corolla funnel-shaped, scarlet, c.30mm; tube c.20mm. Stamens 9-10, included within tube, sparsely pilose towards base. Ovary densely pilose; style glabrous. Capsule pubescent, 8-15mm long.
 
 ## Distribution

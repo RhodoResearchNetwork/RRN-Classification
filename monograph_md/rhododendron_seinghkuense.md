@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron seinghkuense Kingdon-Ward
+scientificname: Rhododendron seinghkuense
 scientificnameauthorship: Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Notes R.B.G. Edinb. 16:174 (1931)
 doi: ''
 wfo_id: wfo-0001275535
-wfo_parent_id: wfo-1000002613
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333322-1
 verified: null
+layout: default
+title: Rhododendron seinghkuense Kingdon-Ward
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Very similar to R. pendulum, differing as follows: leaves usually somewhat bullate above, elliptic or narrowly ovate, acuminate, 40-55 x 22-30 mm, the indumentum often dark brown, the upper surface pale brownish green, corolla campanulate, bright yellow, ovary densely tomentose all over, style glabrous.
 
 ## Distribution

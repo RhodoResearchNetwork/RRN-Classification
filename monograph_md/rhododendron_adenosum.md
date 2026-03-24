@@ -1,12 +1,13 @@
 ---
-title: Rhododendron adenosum (Cowan & Davidian) Davidian
+layout: default
+title: Rhododendron adenosum Davidian
 scientificname: Rhododendron adenosum
-scientificnameauthorship: (Cowan & Davidian) Davidian
+scientificnameauthorship: Davidian
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -18,23 +19,13 @@ tags:
 namepublishedin: Quart. Bull. Amer. Rhododendron Soc. 21:81 (1978)
 doi: ''
 wfo_id: wfo-0001229415
-wfo_parent_id: wfo-3000000625
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331877-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -46,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub; young shoots densely setose-glandular. Leaves ovate to lanceolate or elliptic, coriaceous, 7-10.5 x 2.4-3.4cm, c.3 x as long as broad, apex acute to acuminate, base rounded, margin cartilaginous, papillate, upper surface glabrous when mature, with a few setae overlying the midrib, lower surface setose and sparsely tomentose, tomentum evanescent, at least towards apex, or ± persistent; petioles, like midribs, densely glandular-setose. Inflorescence lax, 6—8-flowered; rhachis c.5mm; pedicels 15-25mm, densely glandular-setose. Calyx c.7mm, densely glandular-setose. Corolla (in cultivation) funnel-campanulate, pale pink with purple flecks, 35-50mm. Ovary densely glandular setose; style glabrous. Capsule c.20 x 4mm, curved. china (SW Sichuan-Muli). Spruce forests,
 
 ## Distribution
@@ -64,4 +56,5 @@ R. glischrum var. adenosum Cowan & Davidian, Notes R.B.G. Edinb. 21: 147 (1953).
 
 
 ## References
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):284(10.24823/nrbge.1982.3252)
+
+Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):284

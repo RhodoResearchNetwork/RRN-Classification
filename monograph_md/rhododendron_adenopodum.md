@@ -1,11 +1,13 @@
 ---
-scientificname: Rhododendron adenopodum Franch.
+layout: default
+title: Rhododendron adenopodum Franch.
+scientificname: Rhododendron adenopodum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +19,13 @@ tags:
 namepublishedin: 'J. Bot. (Morot) 9: 391 (1895).'
 doi: ''
 wfo_id: wfo-0001048903
-wfo_parent_id: wfo-1200001572
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331875-1
 verified: null
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, up to 3m; young shoots densely tomentose, with a few stalked glands. Leaves coriaceous, obianceolate, 9-16 x 2.5-4cm, 2.6-4.5 x as long as broad, apex acuminate to shortly cuspidate, glabrous above when mature, with a dense, felted, grey to fawn indumentum beneath; petioles c.3cm, tomentose. Inflorescence lax, 6-8-flowered; rhachis 10-15mm; pedicels 30-40mm, long-stipitate-glandular. Calyx 3-6(-15)mm, lobes ligulate, membranous, gland-ular-ciliate. Corolla funnel-campanulate, pale rose, 42-50mm. Ovary densely fulvous long-stipitate-glandular; style glabrous. Capsule c.15 x 7mm, cylindrical.
 
 ## Distribution

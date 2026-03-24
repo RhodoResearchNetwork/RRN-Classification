@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron ochraceum Rehder & E.H.Wilson in Sargent (ed.)
+scientificname: Rhododendron ochraceum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron ochraceum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Small tree, c.3m; young shoots covered with glandular setae. Leaves oblanceolate, 5.5-10 x 1.3—2cm, 4-5 x as long as broad, apex cuspidate, base rounded, upper surface glabrous when mature, lower surface with a dense matted yellow-brown indumentum composed of flagellate hairs; petioles 1-1.5cm, stipitate-glandular. Inflorescence dense, 8-12-flowered; rhachis c.5mm; pedicels 5-8mm, densely stipitate-glandular. Calyx c.lmm, glandular-setulose. Corolla tubular-campanulate, apparently with depressed nectar pouches, dark red, c.35mm. Ovary densely glandular-setulose; style glabrous. Capsule not known
 
 ## Distribution

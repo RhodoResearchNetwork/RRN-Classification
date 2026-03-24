@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron microgynum Balf.f. & Forrest
+scientificname: Rhododendron microgynum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Notes R.B.G. Edinb. 11: 99 (1919)'
 doi: ''
 wfo_id: wfo-0001048713
-wfo_parent_id: wfo-1000002601
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332880-1
 verified: null
+layout: default
+title: Rhododendron microgynum Balf.f. & Forrest
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Dwarf shrub, 0.6-1.6m; young shoots whitish-tomentose; perulae persistent or deciduous. Leaves elliptic, 5.5-7.5 x 1.5-2(-3)cm, 2.5-4 x as long as broad, apex apiculate, base ± cuneate to rounded, upper surface glabrous, lower surface with a dense, felted, cinnamon to buff rosulate indumentum; petioles c.0.7cm, glabrescent. Inflorescence 3-7-flowered; rhachis c.5mm; pedicels 10-20mm, floccose-tomentose and glandular. Calyx 2-10mm, lobes fleshy to chartaceous, sparsely hairy and glandular. Corolla ± fleshy, pale rose to deep crimson, sometimes with faint flecks, 30-35mm. Ovary brown-tomentose, glandular. Capsule 10-12 x c.5mm.
 
 ## Distribution

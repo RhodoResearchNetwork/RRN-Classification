@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron hirsutum L.
+scientificname: Rhododendron hirsutum
 scientificnameauthorship: L.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Sp. PI. 392 (1753)
 doi: ''
 wfo_id: wfo-0000400715
-wfo_parent_id: wfo-1000002625
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:326360-2
 verified: null
+layout: default
+title: Rhododendron hirsutum L.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Small shrub to 1 m. Young growth sparsely lepidote, filiform-acicular pubescent and sparsely loriform-setose. Leaves narrowly obovate to obovate-orbicular, 13-30 x 7-14 mm, ± flat, glabrous above, sparsely lepidote beneath with well-separated, golden scales, the margins ciliate with long straight loriform hairs. Inflorescence many-flowered, the rachis short or reaching 10 mm. Pedicels sparsely lepidote and filiform-acicular puberulent. Calyx with narrowly triangular lobes, 2-4 mm, lepidote and fringed with loriform setae. Corolla pink, sparsely lepidote and pubescent outside, 12-18 mm, tube 6-10 mm. Stamens 10, filaments pubescent towards the base. Ovary lepidote, style as long as the ovary or a little longer, sparsely pubescent at the base. Capsule sparsely lepidote, oblong-globose, 5-6 mm.
 
 ## Distribution

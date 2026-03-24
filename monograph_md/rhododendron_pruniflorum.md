@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron pruniflorum Hutch.
+scientificname: Rhododendron pruniflorum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron pruniflorum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to 1 m, with shredding, brownish bark. Leaves obovate or narrowly obovate, rounded to the apex and base, 30-42 x 14-25 mm, dark green and ± elepidote above, densely lepidote beneath, the smaller scales almost contiguous, pale yellow, clouded or milky. Inflorescence 4-6-flowered, pedicels lepidote, 20-30 mm, rachis obvious, 4-8 mm, lepidote, glabrous. Calyx lobes 3-5-5 mm, rounded at the apex, lepidote at the base and on the margin. Corolla campanulate, 10-13 mm, tube 5-8 mm, dull crimson to plum purple, elepidote outside. Stamens with filaments pubescent over most of their length. Capsule ovoid, 4-6 mm.
 
 ## Distribution

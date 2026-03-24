@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron tapeliforme Balf.f. & Kingdon-Ward
+scientificname: Rhododendron tapeliforme
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron tapeliforme
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 A low matted or rounded, densely branched shrub, prostrate or up to 90 cm. Leaves 4-12(—17) x (2-)3-8(-9.5) mm, broadly elliptic to rotund, apex obtuse or rounded, emucronate or with slight mucro, base broadly cuneate, undersurface uniformly rufous, densely covered with contiguous scales. Inflorescence l-3(-4)-flowered, pedicels lepidote, sometimes puberulous, 1-5-3 mm. Calyx obsolete or up to 2 mm with rounded or deltoid lobes, variably lepidote or ciliate. Corolla usually purplish or purplish blue, sometimes violet or rose, exceptionally yellow, broadly funnel-shaped, pubescent inside and sometimes on the outside as well, 9-16 mm, tube 3-5 mm. Stamens 10 or rarely 5-6, filaments pubescent towards the base. Ovary lepidote, style exceeding the stamens (very rarely shorter), glabrous or pubescent towards the base. Capsule ovoid, lepidote, 5-7 mm.
 
 ## Distribution

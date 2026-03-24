@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron spinuliferum Franch.
+scientificname: Rhododendron spinuliferum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Journ. de Bot. 9:399 (1895)
 doi: ''
 wfo_id: wfo-0001048174
-wfo_parent_id: wfo-3000000630
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333392-1
 verified: null
+layout: default
+title: Rhododendron spinuliferum Franch.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Very like R. scabrifolium in general appearance, differing as follows: leaves large, ultimately glabrous above (though with filiform-acicular hairs persisting along the midrib and the bases of the setae persistent around the margins), calyx usually disc-like, unlobed, densely pubescent, the corolla ± erect, tubular to very narrowly funnel-shaped, filled with watery nectar, 17-23 mm, tube 11-17 mm, stamens and style exserted, filaments glabrous, capsule 11-17 mm.
 
 ## Distribution

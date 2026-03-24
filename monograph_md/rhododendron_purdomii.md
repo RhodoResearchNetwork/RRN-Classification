@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron purdomii Rehder & E.H.Wilson in Sargent (ed.)
+scientificname: Rhododendron purdomii
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron purdomii
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Robust shrub. Leaves oblong-lanceolate to oblong, 6-9 x 2.5-3.5cm, c.2.5 x as long as broad, base cuneate, margin revolute, upper surface glabrous and shining, lower surface glabrous; petioles 1-1.2cm, puberulent when young. Inflorescence 10-12-flowered; pedicels slender, 10-16mm, densely villous-tomentose. Calyx c.lmm, lobes sparsely pubescent. Corolla campanulate, 25-30mm. Ovary sparsely white-villous; style glabrous. Capsule not known.
 
 ## Distribution

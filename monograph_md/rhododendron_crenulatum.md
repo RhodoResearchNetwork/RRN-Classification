@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron crenulatum [Hutch. ex] Sleumer
+scientificname: Rhododendron crenulatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron crenulatum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to 1 m. Young branches loriform-setose, the setae persistent. Leaves oblong-elliptic, (25-)30-40 x (12-)15-20 mm, cuneate at the base, rather abruptly narrowed to the acute apex, upper surface with the veins puberulent, margins crenulate, lower surface densely lepidote. Inflorescence 3-4-flowered, pedicels densely lepidote. Calyx 5-lobed, the lobes ± ovate, obtuse, c. 2 mm, densely lepidote, loriform-ciliate. Corolla pale yellow, c. 30 mm, tube 15 mm, lepidote and pilose near the base outside. Stamens 10, pubescent towards the base. Ovary densely lepidote, style impressed, lepidote for most of its length, densely so at the base, more laxly so above. Capsule broadly oblong, 10-13 mm, lepidote.
 
 ## Distribution

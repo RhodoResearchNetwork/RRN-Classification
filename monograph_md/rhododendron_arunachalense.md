@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron arunachalense D.F.Chamb. & S.J.Rae
+scientificname: Rhododendron arunachalense
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -16,24 +16,16 @@ tags:
 - Rhododendron
 namepublishedin: Edinb. J. Bot. 47(2):197 (1990)
 doi: ''
-wfo_id: 'wfo-0000400401'
+wfo_id: ''
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:940600-1'
+ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron arunachalense
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 4.5m; young shoots adpressed-brown-strigose. Leaves probably dimorphic, chartaceous; spring leaves elliptic-ovate lanceolate, 3.5-6.5 x 1.6-2.8cm, c.2.3 x as long as broad, apex acuminate, base cuneate, margin with stiff incurved hairs, ± entire, upper surface sparsely adpressed-strigose, lower surface adpressed rufous-strigose, densely so on midrib and lateral veins; petioles 6-12mm, densely adpressed strigose. Inflorescence 3-flowered; pedicels 5-7mm, densely brown-strigose with large stiff and thinner crisped hairs. Calyx ± obsolete, strigose. Corolla open funnel-shaped, light pink, darker inside, 23-27mm; tube 6-7mm, glabrous, 3mm broad at base, 6mm broad above. Stamens 5, 30mm long, scabrid at base. Ovary densely strigose; style glabrous 35mm. Capsule unknown.
 
 ## Distribution

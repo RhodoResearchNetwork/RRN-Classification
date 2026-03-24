@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron monanthum Balfour f. & W.W.Sm.
+scientificname: Rhododendron monanthum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron monanthum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Small shrub, 0-3-1 m, usually epiphytic. Young growth densely lepidote. Leaves ovate-elliptic or elliptic, 30-45 x 14-22 mm, cuneate at the base, acute at the apex, slightly revolute, upper surface dark geen, usually persistently lepidote with dried-out scales, lower surface finely papillose, brownish or silvery, densely covered with close, unequal, broadly rimmed, flat scales. Inflorescence l(-2)-flowered, pedicels 2-5 mm, densely lepidote. Calyx a minute, undulately lobed rim, very densely lepidote. Corolla tubular-funnel-shaped to tubular-campanulate, the lobes scarcely spreading, 14-20 mm, tube 10-14 mm, bright yellow, drying greenish, lepidote outside. Style impressed, glabrous, elepidote, exceeding the stamens. Capsule lepidote, ± cylindric, 14-16 mm.
 
 ## Distribution

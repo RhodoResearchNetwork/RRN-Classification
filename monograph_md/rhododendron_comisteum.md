@@ -1,6 +1,5 @@
 ---
-scientificname: 'Rhododendron comisteum Balf.f. & Forrest in Notes R.B.G. Edinb. 11:
-  42 (1919). Type: China'
+scientificname: Rhododendron comisteum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -23,19 +22,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron comisteum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -47,6 +38,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Dwarf shrub, 0.6-1m. Leaves elliptic to obovate, 3-5 X 1.2-1.5cm, 2.5-3.5 X as long as broad, apex apiculate, base cuneate, lower surface with a dense bistrate indumentum, the upper layer red-brown, loosely lanate-tomentose, the lower compacted; petioles c.0.5cm, brown-tomentose. Inflorescence 6-10-flowered; rhachis c.5mm; pedicels c.lOmm, brown-tomentose. Calyx c.0.5mm, brown-tomentose. Corolla deep rose, with a few flecks, c.35mm. Ovary rufous-tomentose. Capsule not known.
 
 ## Distribution

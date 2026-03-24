@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron mallotum Balf.f. & Kingdon-Ward
+scientificname: Rhododendron mallotum
 scientificnameauthorship: Balf.f. & Kingdon-Ward
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Notes R.B.G. Edinb. 10:118 (1917).
 doi: ''
 wfo_id: wfo-0001229608
-wfo_parent_id: wfo-1000002601
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332847-1
 verified: null
+layout: default
+title: Rhododendron mallotum Balf.f. & Kingdon-Ward
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 1.5—6.5m, usually with a well-defined trunk; young shoots densely rufous-tomentose. Leaves broadly oblanceolate to obovate, 10-13 x 4.5-6.3cm, 1.8-2.3 x as long as broad, apex rounded, apiculate, base ± rounded, upper surface glabrous when mature except for the tomentose midrib, rugulose; lower surface covered with a dense rufous dendroid lanate tomentum; petioles 2-2.5cm, densely tomentose. Inflorescence 7-14-flowered; rhachis c.lOmm; pedicels 10-15mm, densely tomentose. Calyx 2—3mm, tomentose. Corolla fleshy, tubular-campanulate, crimson, 40-45mm. Ovary densely rufous-tomentose. Capsule c. 12 x 8mm, persistently tomentose.
 
 ## Distribution

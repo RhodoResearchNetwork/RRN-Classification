@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron mariesii Hemsl. & E.H.Wilson
+scientificname: Rhododendron mariesii
 scientificnameauthorship: Hemsl. & E.H.Wilson
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Kew Bull. 1907:244 (1907)
 doi: ''
 wfo_id: wfo-0001048927
-wfo_parent_id: wfo-3000002359
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332856-1
 verified: null
+layout: default
+title: Rhododendron mariesii Hemsl. & E.H.Wilson
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, l-3m; young shoots at first covered with adpressed yellowish hairs, becoming glabrous and grey. Leaves deciduous, ovate-lanceolate, sometimes broadly ovate, 3-7.5 x 2-4.5cm, apex acute, upper surface dark green, lower surface pale; petioles 5-~20mm, glabrous. Inflorescence 1-2-flowered, flowers appearing before leaves; pedicels 5-8mm, enclosed by bud scales, villose. Calyx minute, covered with grey/yellowish adpressed hairs. Corolla funnelform, 25-30mm, rose-purple, upper lobe spotted, 20-25mm, oblong. Stamens 10, equal, glabrous. Ovary yellowish-grey-villose; style glabrous. C´R._/ec.l0mm, cylindric, villose.
 
 ## Distribution

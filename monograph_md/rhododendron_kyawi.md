@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kyawi Lace & W.W.Sm.
+scientificname: Rhododendron kyawi
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron kyawi
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 3-9m; young shoots densely stellate-tomentose and glandular-setose. Leaves elliptic to oblong, 9-22(-30) x 4-9(-10)cm, 2.2-2.5(-3) x as long as broad, apex rounded, sometimes ± acuminate, base rounded, upper surface glabrous above, lower surface with a cinnamon stellate tomentum intermixed with a few glands, to ± glabrescent; petioles (1—)2.5—4cm, stellate-tomentose and glandular-setose, at least at first. Inflorescence 10-15-flowered; rhachis up to 40mm; pedicels 20-30mm, predominantly glandular-setose, usually also sparsely floccose. Calyx 1—2mm, glandular-setose, lobes broad and rounded. Corolla tubular-campanulate, bright crimson to scarlet, without flecks, 45—60mm. Ovary densely stellate-tomentose with an admixture of setose glands; style stipitate-glandular and floccose, at least in the lower half. Capsule 25-40 x 5-8mm, slightly curved.
 
 ## Distribution

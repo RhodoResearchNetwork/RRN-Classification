@@ -1,37 +1,31 @@
 ---
-scientificname: "Rhododendron nuttallii Booth"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Kew Journ. 5:355 (1853)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron nuttallii
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Kew Journ. 5:355 (1853)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron nuttallii
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 2-10 m, sometimes epiphytic. Leaves large, 170-260 x 75-130 mm, oblong-elliptic or oblong-obovate, tapered to the base and the bluntly acute or obtuse apex, upper surface rugose, elepidote, lower surface with a dense covering of very unequal scales, the smaller almost rimless or narrowly rimmed, the larger about 2 x the diameter of the smaller, broadly rimmed, the rim ascending to cup-shaped, irregular; secondary and tertiary veins forming a conspicuous reticulum all over the lower surface. Inflorescence 2-5-flowered, pedicels 20—33 mm, lepidote. Calyx conspicuous, deeply 5-lobed, the lobes narrowly oblong, obtuse, sparsely lepidote or elepidote, sometimes with a few filiform-acicular hairs. Corolla funnel-campanulate, white with a yellow blotch, mouth very oblique, (75-)100-125 mm from base to apex of the longest lobe, tube (45-)70~80 mm, sparsely lepidote outside. Stamens 10, filaments pubescent towards the base. Ovary densely lepidote, tapered into the style which is lepidote in the lower part. Capsule densely lepidote, cylindric or ovoid cylindric, 50-70 X 18-20 mm, weakly 5-ridged, much exceeding the persistent calyx.
 
 ## Distribution

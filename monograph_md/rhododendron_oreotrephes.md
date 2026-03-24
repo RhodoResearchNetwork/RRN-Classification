@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron oreotrephes W.W.Sm.
+scientificname: Rhododendron oreotrephes
 scientificnameauthorship: W.W.Sm.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Notes R.B.G. Edinb. 8:201 (1914)
 doi: ''
 wfo_id: wfo-0001048112
-wfo_parent_id: wfo-1000002628
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333012-1
 verified: null
+layout: default
+title: Rhododendron oreotrephes W.W.Sm.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 1-8 m. Young growth lepidote, usually whitish or greyish pruinose. Leaves mostly evergreen, sometimes semi-deciduous, orbicular, elliptic to oblong or obovate, apex rounded to acute, base cuneate to cordate, 21-63(-87) X 18-31 (-40) mm, upper surface usually elepidote, often slightly puberulent along the midrib, undersurface with dense but not contiguous purplish, reddish brown or greyish, opaque, narrowly rimmed scales; petiole glabrous or puberulent, the puberulence, when present, often extending to the underside of the midrib. Inflorescence l-3(-4)-flowered, pedicels (8-)15-20(-26) mm, sparsely lepidote, often greyish or whitish pruinose. Calyx reduced to a rim, rarely slightly lobed, sparsely lepidote, sometimes ciliate with filiform-acicuiar hairs. Corolla rose or rose-lavender, often with darker spots, more rarely white, (21~)25-30(-34) mm, tube (9-) 16-21 (-23) mm, elepidote and glabrous outside, pubescent within the tube. Capsule lepidote, oblong-cylindric, 11-16 mm.
 
 ## Distribution

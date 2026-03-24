@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron siderophyilum Franch.
+scientificname: Rhododendron siderophyilum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron siderophyilum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 1-7 m. Young growth brownish. Leaves broadly elliptic to elliptic, rarely obovate or ovate, 48-84 x (16-)24-32 mm, apex acute, base cuneate (rarely with rounded apex and base on fast-growing extension shoots), ± elepidote above, with a dense covering beneath of large, flat, broadly rimmed scales (the darker centre making up less than Vi the diameter of the scale), 1-2 x their own diameter apart. Inflorescences very dense and crowded, coalescing into a many-flowered compound inflorescence, pedicels lepidote, 5-11 mm, the outer ones recurved, particularly in fruit. Corolla white or pinkish violet, 18~22(-25) mm, elepidote outside. Capsule 11-14 mm
 
 ## Distribution

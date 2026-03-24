@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron lyi H.L\xE9v."
+scientificname: Rhododendron lyi
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron lyi
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to 2 m. Young shoots loriform-setose, the setae persistent for at least one year. Leaves narrowly obovate, 70-80 x 25-30 mm, tapering to the base, bluntly acute at the apex, lower surface brown with dense but not contiguous scales. Inflorescence (2-)3-4-flowered. Calyx obscurely lobed or undulate, persistently loriform-setose. Corolla white, funnel-campanulate, c. 55 mm, tube c. 30 mm, pilose at the base, the whole surface sparingly lepidote. Capsule ± cylindric, tapering, lepidote, c. 25 mm
 
 ## Distribution

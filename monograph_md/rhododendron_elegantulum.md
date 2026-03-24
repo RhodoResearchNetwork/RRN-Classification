@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron elegantulum Tagg & Forrest
+scientificname: Rhododendron elegantulum
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Notes R.B.G. Edinb. 15: 311 (1927).'
 doi: ''
 wfo_id: wfo-0001048866
-wfo_parent_id: wfo-1000002605
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332364-1
 verified: null
+layout: default
+title: Rhododendron elegantulum Tagg & Forrest
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 1-1.6m. Leaves elliptic-oblong, 7-13 x 2.4-3.5cm, 3-3.7 x as long as broad, apex acute, base rounded, lower surface covered with a dense unistrate ramiform lanate indumentum, deep pink when young, maturing to a rich rufous brown; petioles 1 —1.5cm, tomentose at first, later glabrescent. Inflorescence 10-20-flowered; rhachis 2-3mm; pedicels c.20mm, rufous-tomentose, at least at first. Calyx c.l2mm, stipitate-glandular, lobes oblong, rounded, glandular-ciliate. Corolla campanulate, pale purplish pink, with crimson flecks, 30-4Omm. Ovary densely stipitate-glandular; style with a few glands at base. Capsule c.15 x 5mm.
 
 ## Distribution

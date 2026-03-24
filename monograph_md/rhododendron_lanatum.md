@@ -1,37 +1,31 @@
 ---
-scientificname: "Rhododendron lanatum Hooker f."
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Chamberlain, D.F."
-created: "1982"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Rhododendrons Sikkim Himalaya 17, 1.16 (1849)."
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron lanatum
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Chamberlain, D.F.
+created: '1982'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Rhododendrons Sikkim Himalaya 17, 1.16 (1849).
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron lanatum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 0.3—4(-7.5)m; shoots densely rufous- or white-tomentose. Leaves usually coriaceous, elliptic to obovate, 6.5-11 x 2.5-4.2cm, 2-3(-3.5) x as long as broad, apex rounded, apiculate, base rounded, upper surface with lamina glabrous or with a floccose indumentum that in most specimens persists over the midrib, lower surface with a dense, usually thick ± crisped tomentum composed of dendroid hairs, whitish when young, maturing to a deep rufous-brown or mid coffee-brown; petioles c.lcm, densely tomentose. Inflorescence 5- 10-flowered; rhachis 3- 10mm; pedicels 10-20mm, densely white- to brown-tomentose. Calyx c.lmm, tomentose. Corolla campanulate, creamyyellow, with crimson flecks, 32-50mm. Ovary densely rufous-tomentose. Capsule 15-25 x 4-8mm, curved.
 
 ## Distribution

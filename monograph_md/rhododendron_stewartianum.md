@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron stewartianum Diels
+scientificname: Rhododendron stewartianum
 scientificnameauthorship: Diels
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Notes R.B.G. Edinb. 5: 211 (1912).'
 doi: ''
 wfo_id: wfo-0001048891
-wfo_parent_id: wfo-1000002606
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333409-1
 verified: null
+layout: default
+title: Rhododendron stewartianum Diels
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 0.5-2.5m; bark smooth or rough, peeling on smaller branches; young shoots often glandular. Leaves obovate to elliptic, 4-12 x 2-6.5cm, 1.8-2.5 x as long as broad, apex rounded, apiculate, base rounded, upper surface glabrous, lower surface with mammillate epidermis and a thin ± persistent to evanescent fawn indumentum interspersed with sessile glands, especially towards the base; petioles 0.5-2cm, usually glabrous, occasionally with a few glands, with or without wings. Inflorescence 3-7-flowered; rhachis usually less than 5mm; pedicels c.20mm, glabrous to sparsely stipitate-glandular. Calyx (2-)5-15mm, cupular, lobes broadly ovate, glandular-ciliate or glabrous. Corolla campanulate to tubular-campanulate, white or cream to pale (rarely deep) rose, with or without purple flecks, 35—55mm. Ovary usually densely glandular; style glabrous. Capsule 15—30 x c.6mm.
 
 ## Distribution

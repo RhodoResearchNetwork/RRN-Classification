@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron fragariflorum Kingdon-Ward
+scientificname: Rhododendron fragariflorum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron fragariflorum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Tussock-forming shrublet up to 40 cm. Young growth lepidote and puberulent. Leaves oblong-elliptic, 10-17 X 5-9 mm, ± rounded at the base, obtuse or rounded at the apex, upper surface dark green, rugose, glossy with persistent scales, puberulent along the midrib, lower surface pale green with reticulate venation and distant, golden or brown, vesicular scales, margin crenulate, and, at least when young, loriform-ciliate. Inflorescence 2-3-flowered, pedicels lepidote with stalked scales and densely pubescent, 7-10 mm. Calyx lobes reddish, oblong, rounded at the apex, 5-7 mm, sparsely lepidote and sometimes puberulent, fringed with scales and filiform-acicular hairs. Corolla strawberry-red to purple, 13-18 mm, tube 5-7 mm, usually elepidote and glabrous outside, rarely with a few hairs or scales on the lobes near the margins, pubescent within the tube. Stamens 10, filaments pubescent towards the base. Ovary lepidote, style glabrous, elepidote. Capsule lepidote, c. 7 mm.
 
 ## Distribution

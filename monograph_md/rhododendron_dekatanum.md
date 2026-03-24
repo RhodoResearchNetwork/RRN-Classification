@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron dekatanum Cowan
+scientificname: Rhododendron dekatanum
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Notes R.B.G. Edinb. 19:226 (1937)
 doi: ''
 wfo_id: wfo-0001048740
-wfo_parent_id: wfo-1000002608
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332311-1
 verified: null
+layout: default
+title: Rhododendron dekatanum Cowan
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Very similar to R. sulfureum, differing as follows: leaves broadly ovate-oblong, 45-50 x 27-30 mm, the scales beneath contiguous, markedly unequal, flat, borne above the surface, not obviously sunk in pits; corolla c. 25 mm, tube 16 mm
 
 ## Distribution

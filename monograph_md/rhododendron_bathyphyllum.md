@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron bathyphyllum Balf.f. & Forrest
+scientificname: Rhododendron bathyphyllum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron bathyphyllum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Dwarf shrub, 0.6-1.5m. Leaves elliptic to oblong, 4-7 x 1.5-2cm, 2.7-3.5 x as long as broad, apex ± cucullate, base rounded, lower surface with a dense bistrate indumentum, the upper layer dark rufous-brown, loosely and finely ramiform-tomentose, the lower layer compacted; petioles 0.5 -1.5cm, densely brown-tomentose. Inflorescence 10-15-flowered; rhachis c.5mm; pedicels 10-15mm, glabrescent. Calyx c.0.5mm, glabrous. Corolla campanulate, white flushed rose, with crimson flecks, 30-35mm. Ovary densely rufous-tomentose; style glabrous. Capsule c. 10 x 5mm.
 
 ## Distribution

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron zaleucum Balfour f. & W.W.Sm.
+scientificname: Rhododendron zaleucum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron zaleucum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub (0-6-)2-8(-ll)m. Leaves (38-)44-62(-88) x (16-)20-25(-28) mm, lanceolate to oblong-lanceolate, rarely elliptic, acute to acuminate at the apex,, cuneate-rounded at base, upper surface usually elepidote, midrib usually puberulous; margins with loriform cilia, at least when young; lower surface shining, white-papillose with distant, flat, large, rimless golden scales. Inflorescences 1-4-fIowered, pedicels lepidote, (8-)12-15(-19) mm. Calyx very small, scarcely lobed to undulate, often loriform- and/or filiform-acicular-ciliate. Corolla white, white flushed pink or lavender, (27-)30-40(-44) mm, tube (14-)18-23 mm, sparsely lepidote and usually puberulous, at least at the base of the tube outside, pubescent inside. Capsule lepidote, oblcfhg-cylindric, 10 mm or more.
 
 ## Distribution

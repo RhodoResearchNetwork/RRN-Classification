@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron potaninii Batalin
+scientificname: Rhododendron potaninii
 scientificnameauthorship: Batalin
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Acta Horti Petrop. 11:489 (1891).
 doi: ''
 wfo_id: wfo-0001229525
-wfo_parent_id: wfo-1000002605
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333121-1
 verified: null
+layout: default
+title: Rhododendron potaninii Batalin
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Tree, c.5m. Leaves oblong to obovate, 7-9 x 3.5-4cm, c.2 x as long as broad, apex obtuse, mucronate, base rounded, upper surface glabrous, lower surface presumed to be pubescent below at first though soon giabrescent, with a dense spongy indumentum of branched hairs overlying the midrib below; petioles 2—2.5cm, densely tomentose. Inflorescence 7—8-flowered; pedicels c.l8mm, rufous-pilose. Calyx c.lmm, hirsute. Corolla open-campanulate, probably white, c.30mm. Ovary densely rufous-tomentose.
 
 ## Distribution

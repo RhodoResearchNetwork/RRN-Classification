@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron johnstoneanum [Watt ex] Hutch.
+scientificname: Rhododendron johnstoneanum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron johnstoneanum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Variably sized shrub. Young growth loriform-setose. Leaves elliptic to broadly elliptic, tapering to the base, obtuse or subacute at the apex, 55-75 x 24-30 mm, margins variably loriform-ciliate, undersurface brownish with dense, contiguous or overlapping scales. Calyx disc-like, loriform-ciliate. Corolla white, often with a yellowish blotch and pink or purplish flush, 48-55 mm, tube 25-30 mm, pilose at the base only, laxly lepidote over most of the surface. Capsule lepidote, 16-22 mm.
 
 ## Distribution

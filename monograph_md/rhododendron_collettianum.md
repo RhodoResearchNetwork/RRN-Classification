@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron collettianum Aitchison & Hemsl.
+scientificname: Rhododendron collettianum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron collettianum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to 1 m. Leaf-bud scales deciduous. Leaves ± elliptic, 30-40 X 13-17 mm, rounded to the base, tapered to the acute, mucronate apex, pale green and elepidote above, pale greenish brown to brown with dense, overlapping and ± plastered scales all of the same golden brown colour beneath. Inflorescence somewhat elongate, c. 16-20-flowered, pedicels short, lepidote. Calyx lobes 5-5-5 mm, sparsely lepidote outside, margins lacerate-ciliate with loriform setae, inner surface puberulent. Corolla white (often pink in bud), funnel-hypocrateriform, tube 10-13 mm, lobes 6-8 mm, glabrous and elepidote outside, tube pilose within. Stamens 8-10. Ovary lepidote. Capsule lepidote, c. 5 mm, scarcely exceeding the calyx
 
 ## Distribution

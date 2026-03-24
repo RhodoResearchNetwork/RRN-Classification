@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron praeteritium Hutch.
+scientificname: Rhododendron praeteritium
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron praeteritium
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub. Leaves obovate-elliptic, 6-8 x 2.5-3.2 cm, c.2.5 x as long as broad, apex rounded, mucronate, base rounded, lower surface glabrous; petioles c. 1.5cm, at first with a floccose dendroid indumentum, soon glabrous. Inflorescence c. 7-flowered; rhachis 5 — 10mm; pedicels c. 10mm, glabrous. Calyx 1—2mm, glabrous. Corolla 5-lobed, open-campanulate, with nectar pouches, entirely glabrous, white flushed pink to pale pink, with purple flecks, 30-40mm. Stamens 10, filaments glabrous. Ovary and style glabrous. Capsule not known.
 
 ## Distribution

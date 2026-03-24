@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron basilicum Balfour f. & W.W.Sm.
+scientificname: Rhododendron basilicum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron basilicum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 3-10m. Leaves obovate to oblanceolate, 17-25 x 8.5-13cm, 1.8-2.4 x as long as broad, apex ± rounded, base cuneate, upper surface giabrescent, with deeply impressed veins, lower surface with a bistrate indumentum, the lower layer compacted, the upper thick, greyish at first, usually soon becoming rufous, composed of only slightly fimbriate, broadly cup-shaped hairs; petioles 2—3cm, strongly flattened and winged, giabrescent. Inflorescence 15-25-flowered; rhachis 30-60mm; pedicels 30-40mm, sparsely grey- to rufous-tomentose, eglandular. Calyx c.2mm, tomentose, lobes rounded. Corolla fleshy, 8-lobed, obliquely campanulate, pale yellow with a crimson blotch, 35-50mm. Stamens 16. Ovary densely rufous-tomentose. Capsule 20-30 X 7-10mm, straight or curved.
 
 ## Distribution

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron barbatum [Wall. ex] G.Don
+scientificname: Rhododendron barbatum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron barbatum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Large shrub or small tree, 1.5-6m; young shoots with long stiff bristles (rarely glabrous). Leaves elliptic to obovate, (9-)l 1-19 x 3.5-6.5cm,c.3 x as long as broad, apex acute to acuminate, base rounded to cuneate, upper surface ± glabrous, lower surface with scattered dendroid hairs and stipitate glands, with or without bristles on the midrib; petioles l-2cm, glabrous or with a dense covering of glandular bristles. Inflorescence dense, 10-20-flowered; rhachis c.5mm; pedicels 5-10mm, glabrous. Calyx cupular, 10-15mm, often with reddish tints, glabrous or with a few hairs at base, lobes well-developed, rounded, erose. Corolla fleshy, tubular-campanulate, crimson to blood-red, with darker nectar pouches, rarely pure white, 30-35mm. Ovary densely stipitate-glandular, also with some dendroid hairs; style glabrous. Capsule 15-20 x c.5mm, curved.
 
 ## Distribution

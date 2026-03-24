@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron macrophyllum [D.Don ex] G.Don
+scientificname: Rhododendron macrophyllum
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron macrophyllum
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, 2-4m; young shoots soon ± glabrous. Leaves broadly elliptic, (6.5-)8.5-12(-17) x 3-5.2(-7.5)cm, 2.5-2.8 x as long as broad, apex acute to minutely apiculate, base cuneate, upper and lower surfaces glabrous when mature; petioles l-2(-3)cm, glabrous. Inflorescence 10-20-flowered; rhachis 15-30mm; pedicels glabrous, 30-60mm in flower, hardly elongating in fruit. Calyx c.lmm, glabrous. Corolla broadly campanulate, white to pink with yellowish flecks, 30-40mm. Ovary densely rufous-pilose; style glabrous. Capsule c.25 x 7mm.
 
 ## Distribution

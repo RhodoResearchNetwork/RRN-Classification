@@ -1,37 +1,33 @@
 ---
-scientificname: "Rhododendron vaseyi A. Gray, Proc. Amer. Acad. 15: 48 (1879)."
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Judd, W.S."
-created: "Sections Sciadorhodion, Rhodora and Viscidula"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Judd, W.S. & Kron, K.A. (1995) A Revision of Rhododendron VI. Subgenus Pentanthera (Sections Sciadorhodion, Rhodora and Viscidula). Edinburgh Journal of Botany 52(1):27"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron vaseyi
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Judd, W.S.
+created: Sections Sciadorhodion, Rhodora and Viscidula
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Judd, W.S. & Kron, K.A. (1995) A Revision of Rhododendron VI. Subgenus
+  Pentanthera (Sections Sciadorhodion, Rhodora and Viscidula). Edinburgh Journal of
+  Botany 52(1):27
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron vaseyi
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +39,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub to small tree to 2.5(-5.5)m tall; bark thin, flaky or longitudinally
 
             shredding; young twigs pale to reddish brown, very sparsely covered with multicellular

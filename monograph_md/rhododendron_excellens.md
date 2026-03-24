@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron excellens Hemsl. & E.H.Wilson
+scientificname: Rhododendron excellens
 scientificnameauthorship: Hemsl. & E.H.Wilson
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Kew Bull. 1910:113.
 doi: ''
 wfo_id: wfo-0001048036
-wfo_parent_id: wfo-1000002622
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332400-1
 verified: null
+layout: default
+title: Rhododendron excellens Hemsl. & E.H.Wilson
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub of 3 m or more. Leaves oblong-elliptic, tapered to a shortly rounded base and to the obtuse apex, 150-190 x 40-55 mm, the lower surface with slightly unequal scales about their own diameter apart. Inflorescence 3-4-flowered, pedicels c. 20 mm, densely lepidote. Calyx conspicuous, rather deeply 5-lobed, the lobes ± ovate, rounded at the apex, lepidote towards the base, glabrous. Corolla funnel-campanulate, white, c. 100 mm, the tube 75-80 mm, lepidote outside. Stamens (12-)15, much shorter than the corolla lube, filaments pubescent towards the base. Ovary densely lepidote, tapered into the style which is lepidote in the lower part. Capsule unknown.
 
 ## Distribution

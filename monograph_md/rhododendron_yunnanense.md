@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron yunnanense Franch.
+scientificname: Rhododendron yunnanense
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: Bull. Soc. Bot. Fr. 33:232 (1886)
 doi: ''
 wfo_id: wfo-0001048096
-wfo_parent_id: wfo-1000002628
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333632-1
 verified: null
+layout: default
+title: Rhododendron yunnanense Franch.
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, (0.3—)1—6 m. Young growth lepidote and sometimes loriform-setose, the setae quickly deciduous. Leaves evergreen, subdeciduous or completely deciduous, narrowly elliptic to elliptic, (30-)35-70 x 12-20 mm, apex acute, base cuneate, usually elepidote above, beneath with flat scales 3-5 x their own diameter apart; petiole and upper surface of midrib usually puberulent; petiole, leaf margin and also the leaf upper surface densely to sparsely loriform-setose, at least when young, the setae variably deciduous. Inflorescence loose, pedicels (8-) 11-18 mm. Calyx minute, disc-like, lepidote, ciliate with loriform and/or filiform-acicular hairs, rarely glabrous. Corolla (21-)25-31 mm, white, pink or lavender, usually densely spotted with red or yellow, ± elepidote outside. Capsule 12-17 mm.
 
 ## Distribution

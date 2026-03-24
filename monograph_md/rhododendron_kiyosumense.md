@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron kiyosumense (Makino) Makino
+scientificname: Rhododendron kiyosumense
 scientificnameauthorship: (Makino) Makino
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'Fl. Jap. ed.2: 880 (1931)'
 doi: ''
 wfo_id: wfo-0000400049
-wfo_parent_id: wfo-3000002359
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332685-1
 verified: null
+layout: default
+title: Rhododendron kiyosumense (Makino) Makino
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree; shoots glabrous. Leaves rhombic, 3-5 x 2.5-3cm, apex acuminate, upper and lower surfaces sparsely covered with brown hairs when young, midrib glabrous or shortly pilose beneath, margins ciliate; petioles 4-8mm, mostly glabrous, with scattered brown hairs near leaf base. Inflorescence 1-2-flowered; pedicels 3-5mm, with scattered brown hairs. Calyx minute, ciliate. Corolla open funnel-campanulate, 20-30mm, purple, lobes 10-20mm, oblong. Stamens 10, filaments glabrous. Ovary densely strigose; style glabrous. Capsule 4-10 x 4-5mm, curved.
 
 ## Distribution

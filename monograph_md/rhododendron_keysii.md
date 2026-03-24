@@ -1,37 +1,31 @@
 ---
-scientificname: "Rhododendron keysii Nuttall"
-scientificnameauthorship: ""
-genus: "Rhododendron"
-subfamily: ""
-section: ""
-subsection: ""
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
-identifier: "https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml"
-author: "Cullen, J."
-created: "1980"
-rights holder: "Royal Botanic Garden Edinburgh"
-license: ""
-tags: ["taxonomy", "Rhododendron"]
-namepublishedin: "Hooker's Kew Journ. 5:353 (1853)"
-doi: ""
-wfo_id : ""
-wfo_parent_id: ""
-wfo_accepted_id: "" #if synonym probably needs to be archived.                      
-ipni_id: ""
-verified:
+scientificname: Rhododendron keysii
+scientificnameauthorship: ''
+genus: Rhododendron
+subfamily: ''
+section: ''
+subsection: ''
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
+author: Cullen, J.
+created: '1980'
+rights holder: Royal Botanic Garden Edinburgh
+license: ''
+tags:
+- taxonomy
+- Rhododendron
+namepublishedin: Hooker's Kew Journ. 5:353 (1853)
+doi: ''
+wfo_id: ''
+wfo_parent_id: ''
+wfo_accepted_id: ''
+ipni_id: ''
+verified: null
+layout: default
+title: Rhododendron keysii
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -43,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Straggling shrub, 1 *2-6 m, rarely epiphytic. Leaves elliptic, apex acute, base cuneate or rounded, 60-100(-150) X 19-30(-36) mm, upper surface persistently lepidote, undersurface densely so with close to distant, unequal, flat, broadly rimmed scales. Inflorescences axillary, each 2-5-flowered, but individual inflorescences often coalescing; flowers pendulous. Calyx inconspicuous, undulate, lepidote, rarely ciliate. Corolla tubular, lobes slightly flaring, deep red to salmon pink, lobes usually yellow, (14-)20-25 mm, tube (11 —) 15 —20 mm. Stamens 10, filaments pubescent for about Vi their length. Ovary lepidote, slightly pubescent at the top. Style pubescent towards the base. Capsule cylindric, lepidote, c. 10 mm
 
 ## Distribution

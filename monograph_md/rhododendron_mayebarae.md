@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron mayebarae Nakai & Hara
+scientificname: Rhododendron mayebarae
 scientificnameauthorship: Nakai & Hara
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'J. Jap. Bot. 11: 825 (1935)'
 doi: ''
 wfo_id: wfo-0000399969
-wfo_parent_id: wfo-3000002359
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332863-1
 verified: null
+layout: default
+title: Rhododendron mayebarae Nakai & Hara
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub; young shoots glabrous. Leaves ovate-rhombic, 2.5-3 x 1.5-1.7cm, apex acute, upper surface at first hairy, lower surface with lamina glabrous, veins and midrib with brown hairs, especially towards base; petioles very short. Inflorescence 1-flowered, flowers appearing before leaves; pedicels 10-15mm, densely brownish setose-pubescent. Calyx inconspicuous. Corolla open funnel-campanulate, c.25mm, deep magenta, spotted, lobes c.20mm, oblong. Stamens 10, unequal, filaments glabrous. Ovary densely brownish setose-strigose; style glabrous. Capsule 8 x 3mm.
 
 ## Distribution

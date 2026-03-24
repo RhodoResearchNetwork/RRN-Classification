@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron chrysodoron [Tagg ex] Hutch.
+scientificname: Rhododendron chrysodoron
 scientificnameauthorship: ''
 genus: Rhododendron
 subfamily: ''
@@ -21,19 +21,11 @@ wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
+layout: default
+title: Rhododendron chrysodoron
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub, perhaps epiphytic, attaining 1 m or more in cultivation. Young shoots bristly with deciduous loriform setae. Leaves oblong-elliptic, up to 88 X 45 mm, obtuse at the apex, rounded at the base, loriform-ciliate when young, the lower surface papillose with close, golden yellow scales slightly sunk in pits. Inflorescence 3-4-fIowered, pedicels very short, densely lepidote. Calyx obscurely lobed, lobes 2-3 mm, lepidote, loriform-ciliate. Corolla campanulate, yellow, 29-30 mm, tube c. 15 mm, lepidote and pubescent at the base of the tube outside, pilose within the tube. Ovary lepidote. Capsule unknown.
 
 ## Distribution

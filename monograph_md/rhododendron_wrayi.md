@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron wrayi King & Gamble
+scientificname: Rhododendron wrayi
 scientificnameauthorship: King & Gamble
 genus: Rhododendron
 subfamily: ''
 section: ''
 subsection: ''
-source: Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,23 +17,15 @@ tags:
 namepublishedin: 'J. Asiat. Soc. Beng. 74: 75 (1905)'
 doi: ''
 wfo_id: wfo-0000405698
-wfo_parent_id: wfo-1000002599
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333613-1
 verified: null
+layout: default
+title: Rhododendron wrayi King & Gamble
 ---
-### _{{ page.scientificname }}_ {{ page.scientificauthorship }}
- {{ page.namepublishedin }}
-
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
-
-**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
-
-**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
-
-Verified by: {{ page.verified }}
-
- {{ page.namepublishedin }}
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
 
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }}
 
@@ -45,6 +37,7 @@ Verified by: {{ page.verified }}
 
 
 
+## Description
 Shrub or small tree, 1.5- 10m. Leaves coriaceous, oblanceolate to elliptic, 6-15 X 2.5-3.5cm, 2.5-3.8 X as long as broad, apex bluntly acuminate, base cuneate, margin not or only slightly undulate, upper surface glabrous when mature, lower surface usually with conspicuous veins and a thin veil of a persistent white indumentum, punctate hair-bases conspicuous, overlying the veins and midrib; petioles 1.5-3.5cm, minutely white-tomentose or ± glabrous when mature. Inflorescence 8- 12-flowered; rhachis 5- 10mm; pedicels 15-20mm, rusty-floccose and shortly stipitate-glandular. Calyx c. 1mm, tomentose and glandular, lobes rounded. Corolla open-campanulate, nectar pouches lacking, glabrous within, white sometimes flushed pink, with purple flecks, 25—35(—45)mm. Ovary densely rufous-tomentose, also with a few stipitate glands; style glandular at base or entirely glabrous. Capsule 10-20 x 5-8mm.
 
 ## Distribution
