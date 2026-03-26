@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron haofui
-scientificnameauthorship: ''
+scientificnameauthorship: Chun & W.P.Fang
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Argyrophylla
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Acta Phytotax. Sin. 6: 170, t.41, f.l (1957).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001228539
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332545-1
 verified: null
 layout: default
-title: Rhododendron haofui
+title: Rhododendron haofui Chun & W.P.Fang
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

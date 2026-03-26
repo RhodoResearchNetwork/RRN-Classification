@@ -16,9 +16,11 @@ with open(CSV_PATH, newline='', encoding='utf-8-sig') as f:
         print("CSV fieldnames:", reader.fieldnames)
 
     for row in reader:
-        ScientificName = row["scianem"].strip()
-        lookup[ScientificName] = {
-            "wfo_id": row.get("taxonID") or None,
+        taxonID = row["taxonID"].strip()
+        lookup[taxonID] = {
+            "subgenus": row.get("subgenus") or None,
+            "section": row.get("section") or None,
+            "subsection": row.get("subsection") or None
         }
 
 if DEBUG:
@@ -46,20 +48,20 @@ for root, dirs, files in os.walk(MD_ROOT):
         yaml_block, body = match.groups()
         data = yaml.safe_load(yaml_block) or {}
 
-        # Extract FIELD from YAML
-        yaml_scientificname = data.get("scientificname")
+        # Extract taxonID from YAML
+        yaml_taxonID = data.get("wfo_id")
 
-        if not yaml_scientificname:
+        if not yaml_taxonID:
             if DEBUG:
-                print(f"[ERROR] {fname}: YAML has no scientificname field")
+                print(f"[ERROR] {fname}: YAML has no taxonID field")
             continue
 
-        if yaml_scientificname not in lookup:
+        if yaml_taxonID not in lookup:
             if DEBUG:
-                print(f"[SKIP] {yaml_scientificname} (from {fname}) not found in CSV")
+                print(f"[SKIP] {yaml_taxonID} (from {fname}) not found in CSV")
             continue
 
-        row = lookup[yaml_scientificname]
+        row = lookup[yaml_taxonID]
 
         # Track changes
         changed = False
@@ -75,7 +77,7 @@ for root, dirs, files in os.walk(MD_ROOT):
 
         if not changed:
             if DEBUG:
-                print(f"[NO CHANGE] {yaml_scientificname} ({fname})")
+                print(f"[NO CHANGE] {yaml_taxonID} ({fname})")
             continue
 
         # Rebuild YAML
@@ -85,7 +87,7 @@ for root, dirs, files in os.walk(MD_ROOT):
         with open(path, "w", encoding="utf-8") as f:
             f.write(new_text)
 
-        print(f"[UPDATED] {yaml_scientificname} ({fname})")
+        print(f"[UPDATED] {yaml_taxonID} ({fname})")
         if DEBUG:
             for k, (old, new) in changes.items():
                 print(f"   - {k}: {old} → {new}")

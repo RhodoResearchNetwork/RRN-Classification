@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron ovatum
-scientificnameauthorship: ''
+scientificnameauthorship: (Lindl.) Maxim. ex Planch.
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Azaleastrum
+section: Azaleastrum
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Philipson, W.R.
 created: '1986'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Rhododendrons As. Or. 45 (1870) pro parte.
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229720
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333024-1
 verified: null
 layout: default
-title: Rhododendron ovatum
+title: Rhododendron ovatum (Lindl.) Maxim. ex Planch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

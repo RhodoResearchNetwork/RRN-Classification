@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron pleistanthum
-scientificnameauthorship: ''
+scientificnameauthorship: E.H.Wilding
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Triflora
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Rhododendrons, their Names and Addresses, 73 (1923)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001275552
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron pleistanthum
+title: Rhododendron pleistanthum E.H.Wilding
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron recurvoides
-scientificnameauthorship: ''
+scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Glischrum
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Rhododendron Society Notes 3, 5: 284 (1932).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405486
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333208-1
 verified: null
 layout: default
-title: Rhododendron recurvoides
+title: Rhododendron recurvoides Tagg & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

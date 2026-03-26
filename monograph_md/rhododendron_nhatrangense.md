@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron nhatrangense
-scientificnameauthorship: ''
+scientificnameauthorship: Dop
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Taliensia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Fl. Gen. Indo-Chine 3: 743 (1940).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400348
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332951-1
 verified: null
 layout: default
-title: Rhododendron nhatrangense
+title: Rhododendron nhatrangense Dop
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

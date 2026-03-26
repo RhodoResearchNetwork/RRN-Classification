@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron hirtipes
-scientificnameauthorship: ''
+scientificnameauthorship: Tagg ex Kingdon-Ward
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Selensia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,13 +17,13 @@ tags:
 namepublishedin: 'The Species of Rhododendron 40 (1930) & Notes R.B.G. Edinb. 16:
   97 (1931).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048878
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332580-1
 verified: null
 layout: default
-title: Rhododendron hirtipes
+title: Rhododendron hirtipes Tagg ex Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

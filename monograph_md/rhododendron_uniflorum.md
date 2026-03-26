@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron uniflorum
-scientificnameauthorship: ''
+scientificnameauthorship: Hutch. & Kingdon-Ward
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Uniflora
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Gard. Chron. 88:299 (1930)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048806
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333533-1
 verified: null
 layout: default
-title: Rhododendron uniflorum
+title: Rhododendron uniflorum Hutch. & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron moulmainense
-scientificnameauthorship: ''
+scientificnameauthorship: Hook.
 genus: Rhododendron
-subgenus: ''
+subgenus: Choniastrum
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Philipson, W.R.
 created: '1986'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bot. Mag. 82: t. 4904 (1856)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229736
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332916-1
 verified: null
 layout: default
-title: Rhododendron moulmainense
+title: Rhododendron moulmainense Hook.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

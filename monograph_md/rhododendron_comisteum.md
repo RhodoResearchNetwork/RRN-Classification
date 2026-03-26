@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron comisteum
-scientificnameauthorship: ''
+scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Taliensia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,13 +17,13 @@ tags:
 namepublishedin: "SE Xizang, Tsarong, on Ka-gwr-pw, Mekong/Salween divide, 28\xB0\
   25'N, 14000ft, vi 1917, Forrest 14501 (holo. E; iso. K)."
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048697
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332219-1
 verified: null
 layout: default
-title: Rhododendron comisteum
+title: Rhododendron comisteum Balf.f. & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

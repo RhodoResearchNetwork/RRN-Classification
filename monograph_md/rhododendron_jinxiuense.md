@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron jinxiuense
-scientificnameauthorship: ''
+scientificnameauthorship: W.P.Fang & M.Y.He
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Tsutsusi
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bull. Bot. Res. N.E. Forest. Inst. 2(2): 89,t.7 (1982)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229870
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:900774-1
 verified: null
 layout: default
-title: Rhododendron jinxiuense
+title: Rhododendron jinxiuense W.P.Fang & M.Y.He
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron retusum
-scientificnameauthorship: ''
+scientificnameauthorship: (Blume) Benn.
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Vireya
+section: Discovireya
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Benn. & Br., Pl. Jav. Rar. 1838. 86 in text, 88 t.20.
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001242988
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333218-1
 verified: null
 layout: default
-title: Rhododendron retusum
+title: Rhododendron retusum (Blume) Benn.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

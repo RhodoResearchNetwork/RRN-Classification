@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron mollicomum
-scientificnameauthorship: ''
+scientificnameauthorship: Balf.f. & W.W.Sm.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Scabrifolium
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 9:249 (1916)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048167
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332904-1
 verified: null
 layout: default
-title: Rhododendron mollicomum
+title: Rhododendron mollicomum Balf.f. & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

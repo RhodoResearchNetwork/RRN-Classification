@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron orbiculare
-scientificnameauthorship: ''
+scientificnameauthorship: Decne.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Fortunea
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Fl. des Serres 22: 169 (1877)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229340
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333006-1
 verified: null
 layout: default
-title: Rhododendron orbiculare
+title: Rhododendron orbiculare Decne.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron thayerianum
-scientificnameauthorship: ''
+scientificnameauthorship: Rehder & E.H.Wilson
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Argyrophylla
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'PI Wiisonianae 1: 529 (1913).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001047945
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333474-1
 verified: null
 layout: default
-title: Rhododendron thayerianum
+title: Rhododendron thayerianum Rehder & E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

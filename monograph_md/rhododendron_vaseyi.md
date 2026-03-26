@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron vaseyi
-scientificnameauthorship: ''
+scientificnameauthorship: A.Gray
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Azaleastrum
+section: Sciadorhodion
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Judd, W.S.
 created: Sections Sciadorhodion, Rhodora and Viscidula
@@ -18,13 +18,13 @@ namepublishedin: Judd, W.S. & Kron, K.A. (1995) A Revision of Rhododendron VI. S
   Pentanthera (Sections Sciadorhodion, Rhodora and Viscidula). Edinburgh Journal of
   Botany 52(1):27
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001047083
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:307873-2
 verified: null
 layout: default
-title: Rhododendron vaseyi
+title: Rhododendron vaseyi A.Gray
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron minyaense
-scientificnameauthorship: ''
+scientificnameauthorship: Philipson & M.N.Philipson
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Lapponica
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 34:45 (1975)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048228
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332893-1
 verified: null
 layout: default
-title: Rhododendron minyaense
+title: Rhododendron minyaense Philipson & M.N.Philipson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

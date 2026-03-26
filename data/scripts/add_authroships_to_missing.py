@@ -6,9 +6,9 @@ import re
 # --- CONFIG ---
 CSV_PATH = r"data\subgens.csv"
 MD_ROOT = "monograph_md"
-DEBUG = True   # Turn debug on/off
+DEBUG = True
 
-# --- Load CSV into a lookup dict keyed by taxonID ---
+# --- Load CSV into lookup keyed by scientific name ---
 lookup = {}
 with open(CSV_PATH, newline='', encoding='utf-8-sig') as f:
     reader = csv.DictReader(f)
@@ -16,9 +16,10 @@ with open(CSV_PATH, newline='', encoding='utf-8-sig') as f:
         print("CSV fieldnames:", reader.fieldnames)
 
     for row in reader:
-        ScientificName = row["scianem"].strip()
-        lookup[ScientificName] = {
+        sci = row["scianem"].strip()
+        lookup[sci] = {
             "wfo_id": row.get("taxonID") or None,
+            "scientificnameauthorship": row.get("auth") or None
         }
 
 if DEBUG:
@@ -46,37 +47,42 @@ for root, dirs, files in os.walk(MD_ROOT):
         yaml_block, body = match.groups()
         data = yaml.safe_load(yaml_block) or {}
 
-        # Extract FIELD from YAML
-        yaml_scientificname = data.get("scientificname")
+        # Extract scientificname from YAML
+        yaml_sciname = data.get("scientificname")
 
-        if not yaml_scientificname:
+        if not yaml_sciname:
             if DEBUG:
                 print(f"[ERROR] {fname}: YAML has no scientificname field")
             continue
 
-        if yaml_scientificname not in lookup:
+        if yaml_sciname not in lookup:
             if DEBUG:
-                print(f"[SKIP] {yaml_scientificname} (from {fname}) not found in CSV")
+                print(f"[SKIP] {yaml_sciname} (from {fname}) not found in CSV")
             continue
 
-        row = lookup[yaml_scientificname]
+        row = lookup[yaml_sciname]
+        new_auth = row.get("scientificnameauthorship")
 
-        # Track changes
-        changed = False
-        changes = {}
+        # --- Only update authorship if YAML field is empty ---
+        old_auth = data.get("scientificnameauthorship")
+        empty_values = (None, "", "None", "null")
 
-        for key, value in row.items():
-            if value not in (None, "", "None"):
-                old = data.get(key)
-                if old != value:
-                    data[key] = value
-                    changed = True
-                    changes[key] = (old, value)
-
-        if not changed:
+        if old_auth not in empty_values:
             if DEBUG:
-                print(f"[NO CHANGE] {yaml_scientificname} ({fname})")
+                print(f"[NO CHANGE] {yaml_sciname} ({fname}) — authorship already set")
             continue
+
+        if new_auth in empty_values:
+            if DEBUG:
+                print(f"[SKIP] {yaml_sciname} ({fname}) — CSV has no authorship")
+            continue
+
+        # Update YAML authorship
+        data["scientificnameauthorship"] = new_auth
+
+        # Update title field
+        new_title = f"{yaml_sciname} {new_auth}"
+        data["title"] = new_title
 
         # Rebuild YAML
         new_yaml = yaml.dump(data, sort_keys=False).strip()
@@ -85,7 +91,7 @@ for root, dirs, files in os.walk(MD_ROOT):
         with open(path, "w", encoding="utf-8") as f:
             f.write(new_text)
 
-        print(f"[UPDATED] {yaml_scientificname} ({fname})")
+        print(f"[UPDATED] {yaml_sciname} ({fname})")
         if DEBUG:
-            for k, (old, new) in changes.items():
-                print(f"   - {k}: {old} → {new}")
+            print(f"   - scientificnameauthorship: {old_auth} → {new_auth}")
+            print(f"   - title updated to: {new_title}")

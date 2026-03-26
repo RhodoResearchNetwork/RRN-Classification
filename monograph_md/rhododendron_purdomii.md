@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron purdomii
-scientificnameauthorship: ''
+scientificnameauthorship: Rehder & E.H.Wilson
 genus: Rhododendron
-subgenus: ''
+subgenus: Hymenanthes
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'PI Wilsonianae 1: 538 (1913).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229526
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333183-1
 verified: null
 layout: default
-title: Rhododendron purdomii
+title: Rhododendron purdomii Rehder & E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

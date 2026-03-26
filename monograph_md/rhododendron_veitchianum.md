@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron veitchianum
-scientificnameauthorship: ''
+scientificnameauthorship: Hook.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Maddenia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bot. Mag. 83: t. 4992 (1857)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405708
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333544-1
 verified: null
 layout: default
-title: Rhododendron veitchianum
+title: Rhododendron veitchianum Hook.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

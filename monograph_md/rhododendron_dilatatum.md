@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron dilatatum
-scientificnameauthorship: ''
+scientificnameauthorship: Miq.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Brachycalyces
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -17,13 +17,13 @@ tags:
 namepublishedin: 'Ann. Mus. Bot. Lugduno-Batavum. 1:34(1863). Type: Japan, Siebold,
   n.v.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400735
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332337-1
 verified: null
 layout: default
-title: Rhododendron dilatatum
+title: Rhododendron dilatatum Miq.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

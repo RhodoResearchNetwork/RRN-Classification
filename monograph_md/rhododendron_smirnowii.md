@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron smirnowii
-scientificnameauthorship: ''
+scientificnameauthorship: Trautv. ex Regel
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Pontica
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Gartenflora 335 (1885).
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405473
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333368-1
 verified: null
 layout: default
-title: Rhododendron smirnowii
+title: Rhododendron smirnowii Trautv. ex Regel
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

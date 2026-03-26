@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron subulosum
-scientificnameauthorship: ''
+scientificnameauthorship: J.J.Sm. ex Sleumer
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Euvireya
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Reinwardtia 1960. 5: 143.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405446
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333425-1
 verified: null
 layout: default
-title: Rhododendron subulosum
+title: Rhododendron subulosum J.J.Sm. ex Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

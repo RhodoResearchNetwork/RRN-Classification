@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron verticillatum
-scientificnameauthorship: ''
+scientificnameauthorship: H.Low ex Lindl.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Euvireya
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'J. Hort. Soc. Lond. 1848. 3: 86, 87.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405735
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333555-1
 verified: null
 layout: default
-title: Rhododendron verticillatum
+title: Rhododendron verticillatum H.Low ex Lindl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

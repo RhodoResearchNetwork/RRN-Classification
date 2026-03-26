@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron occidentale
-scientificnameauthorship: ''
+scientificnameauthorship: (Torr. & A.Gray) A.Gray
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pentanthera
+subsection: Pentanthera
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Kron, K.A.
 created: '1993'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bot. Calif. 1: 458 (1876)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001047077
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332991-1
 verified: null
 layout: default
-title: Rhododendron occidentale
+title: Rhododendron occidentale (Torr. & A.Gray) A.Gray
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

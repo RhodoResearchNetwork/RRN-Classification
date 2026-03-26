@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron pumilum
-scientificnameauthorship: ''
+scientificnameauthorship: Hook.f.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Uniflora
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Rhodo. Sikkim Himalaya t. 14 (1849)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001230560
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333177-1
 verified: null
 layout: default
-title: Rhododendron pumilum
+title: Rhododendron pumilum Hook.f.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

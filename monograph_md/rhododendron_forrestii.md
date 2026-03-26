@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron forrestii
-scientificnameauthorship: ''
+scientificnameauthorship: Balf.f. ex Diels
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Neriiflora
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 5: 211 (1912).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048890
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332445-1
 verified: null
 layout: default
-title: Rhododendron forrestii
+title: Rhododendron forrestii Balf.f. ex Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron commonae
-scientificnameauthorship: ''
+scientificnameauthorship: "F.F\xF6rst."
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Malesia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Fedde Rep. 1914. 13: 223.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000403015
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332221-1
 verified: null
 layout: default
-title: Rhododendron commonae
+title: "Rhododendron commonae F.F\xF6rst."
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

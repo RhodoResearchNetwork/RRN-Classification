@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron cumberlandense
-scientificnameauthorship: ''
+scientificnameauthorship: E.L.Braun
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pentanthera
+subsection: Pentanthera
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Kron, K.A.
 created: '1993'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Rhodora 43:33 (1941)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001047634
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:219473-2
 verified: null
 layout: default
-title: Rhododendron cumberlandense
+title: Rhododendron cumberlandense E.L.Braun
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

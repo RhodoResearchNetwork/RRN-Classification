@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron fleuryi
-scientificnameauthorship: ''
+scientificnameauthorship: Dop ex A.Chev.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Maddenia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Rev. Bot. Appl. Agric. Trop. 9:255 (1929)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400786
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332436-1
 verified: null
 layout: default
-title: Rhododendron fleuryi
+title: Rhododendron fleuryi Dop ex A.Chev.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

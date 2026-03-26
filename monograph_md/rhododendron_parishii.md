@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron parishii
-scientificnameauthorship: ''
+scientificnameauthorship: C.B.Clarke
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Parishia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Fl. Brit. India 3:475 (1885).
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400200
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333043-1
 verified: null
 layout: default
-title: Rhododendron parishii
+title: Rhododendron parishii C.B.Clarke
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

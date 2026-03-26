@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron simsii
-scientificnameauthorship: ''
+scientificnameauthorship: Planch.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Tsutsusi
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -18,13 +18,13 @@ namepublishedin: 'Fl, des Serres 9:78 (1854). Based on Azalea indica sensu Sims,
   Mag. 35: t.1480 (1812), non L. (1753). Type: a plant grown by James Vere in 1812
   near London, or the plate cited.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405453
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333359-1
 verified: null
 layout: default
-title: Rhododendron simsii
+title: Rhododendron simsii Planch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

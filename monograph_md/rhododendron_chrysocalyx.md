@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron chrysocalyx
-scientificnameauthorship: ''
+scientificnameauthorship: "H.L\xE9v. & Vaniot"
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Tsutsusi
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Repert, Spec. Nov. Regni Veg. 2: 113 (1906).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229826
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332181-1
 verified: null
 layout: default
-title: Rhododendron chrysocalyx
+title: "Rhododendron chrysocalyx H.L\xE9v. & Vaniot"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

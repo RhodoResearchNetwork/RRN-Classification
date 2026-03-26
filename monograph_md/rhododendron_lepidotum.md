@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron lepidotum
-scientificnameauthorship: ''
+scientificnameauthorship: Wall. ex G.Don
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Lepidota
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Gen. Hist.-Dichlam. PI. 3:845 (1834)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001230889
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332747-1
 verified: null
 layout: default
-title: Rhododendron lepidotum
+title: Rhododendron lepidotum Wall. ex G.Don
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

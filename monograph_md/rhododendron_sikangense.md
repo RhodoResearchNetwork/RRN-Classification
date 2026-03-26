@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron sikangense
-scientificnameauthorship: ''
+scientificnameauthorship: W.P.Fang
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Maculifera
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Acta Phytotax. Sinica 2: 81, t. 7 (1952)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229461
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333355-1
 verified: null
 layout: default
-title: Rhododendron sikangense
+title: Rhododendron sikangense W.P.Fang
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

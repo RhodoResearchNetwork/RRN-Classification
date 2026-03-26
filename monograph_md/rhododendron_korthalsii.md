@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron korthalsii
-scientificnameauthorship: ''
+scientificnameauthorship: Miq.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Irrorata
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Ann. Mus. Bot. Lugdano-Batavum 1: 43 (1863).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400060
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332696-1
 verified: null
 layout: default
-title: Rhododendron korthalsii
+title: Rhododendron korthalsii Miq.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron rugosum
-scientificnameauthorship: ''
+scientificnameauthorship: H.Low ex Hook.f.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Euvireya
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: ''
 created: ''
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Ic. Pl. 1852. t.885.
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405391
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333271-1
 verified: null
 layout: default
-title: Rhododendron rugosum
+title: Rhododendron rugosum H.Low ex Hook.f.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

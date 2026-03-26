@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron collettianum
-scientificnameauthorship: ''
+scientificnameauthorship: Aitch. & Hemsl.
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Rhododendron
+section: Pogonanthum
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Journ. Linn. Soc. 18:75 (1881)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001281034
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332217-1
 verified: null
 layout: default
-title: Rhododendron collettianum
+title: Rhododendron collettianum Aitch. & Hemsl.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

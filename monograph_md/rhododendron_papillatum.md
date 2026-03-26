@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron papillatum
-scientificnameauthorship: ''
+scientificnameauthorship: Balf.f. & R.E.Cooper
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Irrorata
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 13: 282 (1922).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229435
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333040-1
 verified: null
 layout: default
-title: Rhododendron papillatum
+title: Rhododendron papillatum Balf.f. & R.E.Cooper
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

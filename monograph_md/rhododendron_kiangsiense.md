@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron kiangsiense
-scientificnameauthorship: ''
+scientificnameauthorship: W.P.Fang
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Maddenia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Acta Phytotax. Sinica 8:192 (1958)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048049
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332678-1
 verified: null
 layout: default
-title: Rhododendron kiangsiense
+title: Rhododendron kiangsiense W.P.Fang
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron lanatum
-scientificnameauthorship: ''
+scientificnameauthorship: Hook.f.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Lanata
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Rhododendrons Sikkim Himalaya 17, 1.16 (1849).
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048741
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332715-1
 verified: null
 layout: default
-title: Rhododendron lanatum
+title: Rhododendron lanatum Hook.f.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

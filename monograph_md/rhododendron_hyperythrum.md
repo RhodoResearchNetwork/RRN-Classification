@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron hyperythrum
-scientificnameauthorship: ''
+scientificnameauthorship: Hayata
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Pontica
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Icon. Pi. Formosan. 3:133 (1913).
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001220138
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332606-1
 verified: null
 layout: default
-title: Rhododendron hyperythrum
+title: Rhododendron hyperythrum Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

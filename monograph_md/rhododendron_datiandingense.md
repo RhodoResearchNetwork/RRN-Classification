@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron datiandingense
-scientificnameauthorship: ''
+scientificnameauthorship: Zhi J.Feng
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Vireya
+section: Pseudovireya
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'J. South China Agr. Univ. 1996. 17(1): 59.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001243284
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:77221986-1
 verified: null
 layout: default
-title: Rhododendron datiandingense
+title: Rhododendron datiandingense Zhi J.Feng
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

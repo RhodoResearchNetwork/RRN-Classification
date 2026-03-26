@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron spanotrichum
-scientificnameauthorship: ''
+scientificnameauthorship: Balf.f. & W.W.Sm.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Irrorata
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Trans. Bot. Soc. Edinb. 27: 214 (1917).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001047944
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333378-1
 verified: null
 layout: default
-title: Rhododendron spanotrichum
+title: Rhododendron spanotrichum Balf.f. & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron gemmiferum
-scientificnameauthorship: ''
+scientificnameauthorship: M.N.Philipson & Philipson
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Triflora
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 33:493 (1975)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048163
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332477-1
 verified: null
 layout: default
-title: Rhododendron gemmiferum
+title: Rhododendron gemmiferum M.N.Philipson & Philipson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

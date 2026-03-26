@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron kaempferi
-scientificnameauthorship: ''
+scientificnameauthorship: Planch.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Tsutsusi
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Fl. des Serres 9: 77 (1854)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400047
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332661-1
 verified: null
 layout: default
-title: Rhododendron kaempferi
+title: Rhododendron kaempferi Planch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

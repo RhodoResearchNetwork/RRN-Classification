@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron cyanocarpum
-scientificnameauthorship: ''
+scientificnameauthorship: (Franch.) Franch. ex W.W.Sm.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Thomsonia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Trans. Bot. Soc. Edinb. 26: 274(1914)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229711
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332285-1
 verified: null
 layout: default
-title: Rhododendron cyanocarpum
+title: Rhododendron cyanocarpum (Franch.) Franch. ex W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

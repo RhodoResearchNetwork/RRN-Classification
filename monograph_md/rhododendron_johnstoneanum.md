@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron johnstoneanum
-scientificnameauthorship: ''
+scientificnameauthorship: G.Watt ex Hutch.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Maddenia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 12:72 (1919)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400046
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332659-1
 verified: null
 layout: default
-title: Rhododendron johnstoneanum
+title: Rhododendron johnstoneanum G.Watt ex Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

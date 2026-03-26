@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron macabeanum
-scientificnameauthorship: ''
+scientificnameauthorship: G.Watt ex Balf.f.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Grandia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -17,13 +17,13 @@ tags:
 namepublishedin: 'Notes R.B.G. Edinb. 12: 128 (1920) - R. falconeri Hooker f. var.
   macabeanum Watt, mss.'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000399988
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332822-1
 verified: null
 layout: default
-title: Rhododendron macabeanum
+title: Rhododendron macabeanum G.Watt ex Balf.f.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

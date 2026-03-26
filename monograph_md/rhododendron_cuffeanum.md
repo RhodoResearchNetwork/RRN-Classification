@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron cuffeanum
-scientificnameauthorship: ''
+scientificnameauthorship: Craib ex Hutch.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Maddenia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bot. Mag. 143: t. 8721 (1917)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000400434
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332271-1
 verified: null
 layout: default
-title: Rhododendron cuffeanum
+title: Rhododendron cuffeanum Craib ex Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
