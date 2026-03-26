@@ -57,4 +57,4 @@ R. rubropunctatum Hayata, ibid. 3: 141 (1913), non Leveille (1911). Type: Taiwan
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):306
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):306](https://doi.org/10.24823/nrbge.1982.3252)

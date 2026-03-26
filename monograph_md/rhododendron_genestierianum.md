@@ -57,4 +57,4 @@ R. mirabile Kingdon Ward, Gard. Chron. 92:465 (1932) nomen nudum.
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):148
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):148](https://doi.org/10.24823/nrbge.1980.3250)

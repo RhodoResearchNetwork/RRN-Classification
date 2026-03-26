@@ -63,4 +63,4 @@ Azalea indica L., Sp. PI. 150 (1753)óbased on 'Chamae- rhododendron
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):119
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):119](https://doi.org/10.1017/S096042860000319X)

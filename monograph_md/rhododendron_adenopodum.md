@@ -57,4 +57,4 @@ R. youngae Fang, Contr. biol. Lab. Sci. Soc. China, Bot. ser. 12: 24 (1939). Typ
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):318
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):318](https://doi.org/10.24823/nrbge.1982.3252)

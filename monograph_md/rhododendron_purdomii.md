@@ -57,4 +57,4 @@ Robust shrub. Leaves oblong-lanceolate to oblong, 6-9 x 2.5-3.5cm, c.2.5 x as lo
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):429
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):429](https://doi.org/10.24823/nrbge.1982.3252)

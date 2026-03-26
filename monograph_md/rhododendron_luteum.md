@@ -262201,4 +262201,4 @@ AzaleaponticaL.,Sp.Pl.ed. 1,1:150 (n53).Anthodendronponticum(L.)Rchb. in Mossier
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):314
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):314](https://doi.org/10.1017/S0960428600001633)

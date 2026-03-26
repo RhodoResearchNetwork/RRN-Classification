@@ -1,12 +1,12 @@
 ---
 layout: default
-title: D.K.Pradhan
+title: Rhododendron sikkimense D.K.Pradhan
 nav: false
 genus: Rhododendron
 subgenus: ''
 section: ''
 subsection: ''
-scientific_name: Rhododendron sikkimense
+scientificname: Rhododendron sikkimense
 scientificnameauthorship: D.K.Pradhan
 source: null
 identifier: null
@@ -26,7 +26,7 @@ ipni_id: urn:lsid:ipni.org:names:77365698-1
 verified: A.Elliott
 ---
 
-# _{{ page.scientific_name }}_ {{ page.scientificnameauthorship }}
+# _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
  
 {{ page.subfamily }} {{ page.section }} {{ page.subsection }} 
@@ -38,7 +38,6 @@ verified: A.Elliott
 ## Taxonomic Overview  
 
 Pradhan and Lachungpa (1990) did not cite a holotype so thier name is invalidly published. The name was validated by Pradhan (2023). 
-Rhododendron sikkimense is an invalid & unplaced named in the WFO June 2025.
 
 ## Description  
 

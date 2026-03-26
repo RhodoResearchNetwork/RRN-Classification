@@ -57,4 +57,4 @@ R. caucasicum Pallas var. stramineum W. Hooker, Bot. Mag. 62: t.3422 (1835). Typ
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):312
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):312](https://doi.org/10.24823/nrbge.1982.3252)

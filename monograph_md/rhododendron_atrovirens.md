@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron atrovirens
-scientificnameauthorship: ''
+scientificnameauthorship: Franch.
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -16,13 +16,14 @@ tags:
 - Rhododendron
 namepublishedin: 'Bull. Soc. Bot. Fr. 33: 235 (1886)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229785
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:331978-1
 verified: null
 layout: default
-title: Rhododendron atrovirens
+title: Rhododendron atrovirens Franch.
+description: 大关杜鹃
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -35,7 +36,8 @@ title: Rhododendron atrovirens
 
 Verified by: {{ page.verified }}
 
-
+## Vernacular names
+大关杜鹃
 
 ## Description
 Large shrub or small tree; young shoots covered with adpressed flattened brown hairs. Leaves monomorphic, persistent, elliptic, 2-8 x l-3cm, 2-2.7 x as long as broad, apex acuminate, margin entire, base broadly cuneate to + rounded; both surfaces covered with adpressed shining brown hairs, glabrescent above except on midrib, lower surface paler, persistently adpressed brown-hairy, densely so on midrib and veins; petioles 5-8mm, strigose. Inflorescence 2-4-flowered; pedicels 6mm, densely covered with adpressed flattened shining brown hairs. Calyx 2~4mm, indumentum as for pedicels, lobes short, deltoid. Corolla funnel-campanulate, glabrous, red with darker flecks at base of upper lobes, 15-30mm; tube 7-10mm, glabrous, 4mm wide at base. Stamens 10, unequal, to c.30mm, shortly pilose below middle. Ovary densely covered with adpressed flattened shining brown hairs; style glabrous. Fruit not known.
@@ -44,7 +46,7 @@ Large shrub or small tree; young shoots covered with adpressed flattened brown h
 China (S Sichuan, NE Yunnan)
 
 ## Altitude
-
+750-1800m
 
 ## Habitat
 Thickets
@@ -57,4 +59,4 @@ Thickets
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):128
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):128](https://doi.org/10.1017/S096042860000319X)

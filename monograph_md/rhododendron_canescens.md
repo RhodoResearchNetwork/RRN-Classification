@@ -57,4 +57,4 @@ Azalea canescens Michaux, Fl. Bor.-Amer. 1: 150 (1803). Type: juxta rivulos Caro
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):302
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):302](https://doi.org/10.1017/S0960428600001633)

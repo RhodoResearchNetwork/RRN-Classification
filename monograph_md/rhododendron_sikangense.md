@@ -57,4 +57,4 @@ R. cookeanum Davidian, Rhododendron Yearbook 16: 105 (1961). Type: China, SW Sic
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):271
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):271](https://doi.org/10.24823/nrbge.1982.3252)

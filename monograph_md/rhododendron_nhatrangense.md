@@ -57,4 +57,4 @@ Small tree, c.3m. Leaves lanceolate to elliptic, 17-20 x 5.2-7.5cm, 2.6-3 x as l
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):428
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):428](https://doi.org/10.24823/nrbge.1982.3252)

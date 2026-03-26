@@ -57,4 +57,4 @@ R. pilicalyx Hutchinson, Notes R.B.G. Edinb. 12:66 (1919). Type: Yunnan, Mengtsz
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):53
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):53](https://doi.org/10.24823/nrbge.1980.3250)

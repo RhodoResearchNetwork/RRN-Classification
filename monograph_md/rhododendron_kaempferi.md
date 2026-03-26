@@ -57,4 +57,4 @@ Tsutsusi'Kaempfer, Amoen. Exot. Fasc. 845, t.846 (1712)ó basionym, (Sloane Hb 2
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):120
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):120](https://doi.org/10.1017/S096042860000319X)

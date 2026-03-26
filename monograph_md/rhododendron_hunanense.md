@@ -57,4 +57,4 @@ R. hunanense [Chun ex] P.X.Tan var. mangshanicum Tan, loc. cit., t.4 (1982). Typ
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):100
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):100](https://doi.org/10.1017/S096042860000319X)

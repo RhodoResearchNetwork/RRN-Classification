@@ -57,4 +57,4 @@ Azalea kiyosumensis Makino, J. Jap. Bot. 6: 18 (1929); R. dilatation Miq. var. k
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):149
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):149](https://doi.org/10.1017/S096042860000319X)

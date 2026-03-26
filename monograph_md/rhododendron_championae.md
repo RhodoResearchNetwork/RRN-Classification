@@ -57,4 +57,4 @@ China (Guangxi, Guangdong, Fujian, Zhejang, Hunan, Jiangxi), Hongkong.
 
 ## References
 
-Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):9
+[Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):9](https://doi.org/10.24823/nrbge.1986.3458)

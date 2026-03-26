@@ -57,4 +57,4 @@ R. rosthornii Diels, Bot. Jahrb. 29:509 (1900). Type: China, Szechuan, Tseku lao
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):132
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):132](https://doi.org/10.24823/nrbge.1980.3250)

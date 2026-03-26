@@ -83,4 +83,4 @@ Azalea calendulacea Michx. Nm.flammea Michx., Fl. Bor.-Amer. 1: 151 (1803). Type
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):311
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):311](https://doi.org/10.1017/S0960428600001633)

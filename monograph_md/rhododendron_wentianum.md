@@ -24,6 +24,7 @@ verified: null
 layout: default
 title: Rhododendron wentianum Koord.
 ---
+
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 

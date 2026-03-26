@@ -57,4 +57,4 @@ Shrub or small tree; shoots glabrous. Leaves broadly rhombic, 2-8 x 1-6.5cm, ape
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):150
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):150](https://doi.org/10.1017/S096042860000319X)

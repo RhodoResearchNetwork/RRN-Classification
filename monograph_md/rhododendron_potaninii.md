@@ -57,4 +57,4 @@ Tree, c.5m. Leaves oblong to obovate, 7-9 x 3.5-4cm, c.2 x as long as broad, ape
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):428
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):428](https://doi.org/10.24823/nrbge.1982.3252)

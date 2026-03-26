@@ -57,4 +57,4 @@ Erect or ascending, much branched shrub to 1-3 m. Leaves 5-11 X (2-5-)3-7 mm, ov
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):98
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):98](https://doi.org/10.24823/nrbge.1980.3250)

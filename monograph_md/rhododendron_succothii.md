@@ -57,4 +57,4 @@ R. nishiokaeHaia, J. Jap. Bot. 45:94(1970). Type: Bhutan, nr Puwa La, 2 v 1966, 
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):382
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):382](https://doi.org/10.24823/nrbge.1982.3252)

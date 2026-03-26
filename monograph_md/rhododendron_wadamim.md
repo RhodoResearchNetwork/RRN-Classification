@@ -57,4 +57,4 @@ R. glandulistylum Komatsu, Bot. Mag. (Tokyo) 32: 10 (1918)ó Japanese text. R. w
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):146
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):146](https://doi.org/10.1017/S096042860000319X)

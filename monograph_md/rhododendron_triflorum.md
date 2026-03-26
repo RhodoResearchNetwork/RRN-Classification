@@ -57,4 +57,4 @@ Straggling shrub, (0-5-)l-5(-7) m, bark of mature shoots smooth, reddish brown, 
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):77
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):77](https://doi.org/10.24823/nrbge.1980.3250)

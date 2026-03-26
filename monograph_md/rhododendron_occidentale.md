@@ -57,4 +57,4 @@ Azalea occidentalis Tour. & A. Gray, Pac. R. R. Rep. 4:116 (1856). Type: CaMforn
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):317
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):317](https://doi.org/10.1017/S0960428600001633)

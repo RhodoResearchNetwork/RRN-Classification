@@ -57,4 +57,4 @@ Tsusuiophyllum tanakae Maxim., Rhododendr. As. Orient. 12, t.3(1870) - basionym.
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):138
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):138](https://doi.org/10.1017/S096042860000319X)

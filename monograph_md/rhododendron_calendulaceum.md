@@ -57,4 +57,4 @@ Found in open, dry sites on southern and western exposures of hills and mountain
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):296
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):296](https://doi.org/10.1017/S0960428600001633)

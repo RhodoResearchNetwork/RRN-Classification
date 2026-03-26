@@ -57,4 +57,4 @@ R. porphyrophyllum Balfour f. & Forrest, Notes R.B.G. Edinb. 11: 108 (1919). Typ
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):405
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):405](https://doi.org/10.24823/nrbge.1982.3252)

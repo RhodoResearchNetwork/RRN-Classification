@@ -59,4 +59,4 @@ R. adenophorum Balfour f. & W. W. Smith, Notes R.B.G. Edinb. 9: 211 (1916).
 
 ## References
 
-[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):340][https://doi.org/10.24823/nrbge.1982.3252]
+[[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):340][https://doi.org/10.24823/nrbge.1982.3252]](https://doi.org/10.24823/nrbge.1982.3252)

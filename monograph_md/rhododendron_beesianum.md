@@ -57,4 +57,4 @@ R. colletum Balfour f. & Forrest, Notes R.B.G. Edinb. 11: 39 (1919). Type: China
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):365
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):365](https://doi.org/10.24823/nrbge.1982.3252)

@@ -57,4 +57,4 @@ Exposed grassy hillsides and meadows, open thickets and moors, open woods. ** * 
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):276
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):276](https://doi.org/10.1017/S0960428600001633)

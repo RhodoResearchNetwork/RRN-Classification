@@ -57,4 +57,4 @@ R. microphyton Franchet var. trichanthum A.L. Zhang, Acta Bot. Yunnanica 4: 249 
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):43
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):43](https://doi.org/10.1017/S096042860000319X)

@@ -57,4 +57,4 @@ Open scrub, stream-sides, to 300m (1450m in subsp. kwangsiense)
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):105
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):105](https://doi.org/10.1017/S096042860000319X)

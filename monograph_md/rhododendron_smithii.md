@@ -57,4 +57,4 @@ R. argipeplum Balfour f. & Cooper, Notes R.B.G. Edinb. 9: 213 (1916). Type: Bhut
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):381
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):381](https://doi.org/10.24823/nrbge.1982.3252)

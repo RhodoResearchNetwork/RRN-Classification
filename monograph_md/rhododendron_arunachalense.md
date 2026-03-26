@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron arunachalense
-scientificnameauthorship: ''
+scientificnameauthorship: D.F.Chamb. & S.J.Rae
 genus: Rhododendron
 subfamily: ''
 section: ''
@@ -15,14 +15,15 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: Edinb. J. Bot. 47(2):197 (1990)
-doi: ''
-wfo_id: ''
+doi: 'https://doi.org/10.1017/S096042860000319X'
+wfo_id: wfo-0000400401
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:940600-1
 verified: null
 layout: default
-title: Rhododendron arunachalense
+title: Rhododendron arunachalense D.F.Chamb. & S.J.Rae
+description: ''
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +45,7 @@ Shrub, 4.5m; young shoots adpressed-brown-strigose. Leaves probably dimorphic, c
 N E India (Arunachal Pradesh)
 
 ## Altitude
-
+Around 1500m
 
 ## Habitat
 River beds
@@ -53,8 +54,9 @@ River beds
 
                        
 ## Notes
-
+This new species is geographically isolated, and is the most westerly of the subgenus.
+Probably allied to R. saxicolum but with a more acute leaf, corolla darker, tube glabrous within.
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):131
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):131](https://doi.org/10.1017/S096042860000319X)

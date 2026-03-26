@@ -57,4 +57,4 @@ R. lingiiChun in Ching, Icon. Corm. Sin. 3:151, f.4256 (1974)ó Chinese descript
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):99
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):99](https://doi.org/10.1017/S096042860000319X)

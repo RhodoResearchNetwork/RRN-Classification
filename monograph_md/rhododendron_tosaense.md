@@ -57,4 +57,4 @@ R. obtusum Planchon var. tosaense (Makino) Kitamura, Acta Phytotax. Geobot. 25(2
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):123
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):123](https://doi.org/10.1017/S096042860000319X)

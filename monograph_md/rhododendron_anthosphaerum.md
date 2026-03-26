@@ -57,4 +57,4 @@ R. eritimum Balfour f. & W. W. Smith, Trans. Bot. Soc. Edinb. 27: 190 (1917). Ty
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):303
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):303](https://doi.org/10.24823/nrbge.1982.3252)

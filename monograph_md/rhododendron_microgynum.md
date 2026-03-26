@@ -63,4 +63,4 @@ R. perulatum Balfour f. & Forrest, ibid. 11: 106 (1919). Type: SE Xizang,
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):395
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):395](https://doi.org/10.24823/nrbge.1982.3252)

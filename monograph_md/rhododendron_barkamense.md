@@ -14,15 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus
-
-
-
-
-
-
-
-  Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):363'
+namepublishedin: 'Notes Roy. Bot. Gard. Edinburgh 29: 478 (1982)'
 doi: ''
 wfo_id: wfo-0001229550
 wfo_parent_id: ''
@@ -65,4 +57,4 @@ China (N Sichuan)
 
 ## References
 
-_No additional reference available._
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):363](https://doi.org/10.24823/nrbge.1982.3252)

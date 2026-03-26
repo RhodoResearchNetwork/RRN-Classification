@@ -57,4 +57,4 @@ Shrub, sometimes dwarf, 0.15-2.5(-4)m. Leaves linear to elliptic, 5-12 x 0.6-4cm
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):344
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):344](https://doi.org/10.24823/nrbge.1982.3252)

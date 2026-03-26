@@ -57,4 +57,4 @@ Low, compact, much branched shrub, prostrate or attaining 60-90(-120) cm. Leaves
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):105
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):105](https://doi.org/10.24823/nrbge.1980.3250)

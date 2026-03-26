@@ -65,4 +65,4 @@ R. theiochroum Balfour f. & W. W. Smith, Notes R.B.G. Edinb. 9:282 (1916). Type:
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):135
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):135](https://doi.org/10.24823/nrbge.1980.3250)

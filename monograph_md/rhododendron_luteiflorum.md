@@ -57,4 +57,4 @@ R. glaucophyllum var. luteiflorum Davidian, Journ. Roy. Hort. Soc. 85:369 (1960)
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):141
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):141](https://doi.org/10.24823/nrbge.1980.3250)

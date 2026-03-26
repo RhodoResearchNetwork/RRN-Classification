@@ -57,4 +57,4 @@ Azalea fragrans Adams, Mem. Soc. Mosc. 5:92 (1808). Osmothamnus fragrans (Adams)
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):167
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):167](https://doi.org/10.24823/nrbge.1980.3250)

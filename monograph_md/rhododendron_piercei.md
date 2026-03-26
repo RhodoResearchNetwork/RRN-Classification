@@ -57,4 +57,4 @@ R. beanianum Cowan var. compactum Cowan, Notes R.B.G. Edinb. 21: 148 (1953), typ
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):387
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):387](https://doi.org/10.24823/nrbge.1982.3252)

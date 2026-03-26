@@ -57,4 +57,4 @@ R. caespitulum P.X.Tan, Survey Gen. Rhododendron S. China 110, f.26 (1983). Type
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):135
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):135](https://doi.org/10.1017/S096042860000319X)

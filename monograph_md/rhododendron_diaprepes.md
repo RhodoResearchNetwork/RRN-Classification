@@ -57,4 +57,4 @@ R. rarile Balfour f. & W. W. Smith, ibid. 10: 139 (1917). Type: China, W Yunnan,
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):233
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):233](https://doi.org/10.24823/nrbge.1982.3252)

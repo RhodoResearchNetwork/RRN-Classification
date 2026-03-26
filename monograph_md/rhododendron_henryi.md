@@ -1,8 +1,8 @@
 ---
-scientificname: Rhodoendron henryi
-scientificnameauthorship: ''
+scientificname: Rhododendron henryi
+scientificnameauthorship: Hance
 genus: Rhododendron
-subfamily: ''
+subgenus: subg. Choniastrum (Franch.) Drude
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
@@ -15,14 +15,14 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: J. Bot. (Lond.) 19:243 (1881).
-doi: ''
-wfo_id: ''
+doi: https://www.biodiversitylibrary.org/page/34839684
+wfo_id: wfo-0001048941
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:332564-1
 verified: null
 layout: default
-title: Rhodoendron henryi
+title: Rhododendron henryi
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -57,4 +57,4 @@ R. dunnii Wilson, J. Arnold Arb. 6:170 (1925). Type: China, Guangdong, Swatow, P
 
 ## References
 
-Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):12
+[Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):12](https://doi.org/10.24823/nrbge.1986.3458)

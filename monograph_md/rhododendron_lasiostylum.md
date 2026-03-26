@@ -57,4 +57,4 @@ R. sasakii Wilson, J. Arnold Arb. 6: 181 (1925). Type: Taiwan, Nanto Prov., Hori
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):124
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):124](https://doi.org/10.1017/S096042860000319X)

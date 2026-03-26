@@ -57,4 +57,4 @@ Azaleaprunifolia Small, Fl. S.E. U.S. ed. 2. 1356,1375 (1913). Type: Georgia, Ra
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):327
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):327](https://doi.org/10.1017/S0960428600001633)

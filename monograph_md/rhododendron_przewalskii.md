@@ -58,4 +58,4 @@ R. kialense Franchet, J. Bot.(Morot) 9: 392 (1895). Type: China, Sichuan, aux en
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):360
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):360](https://doi.org/10.24823/nrbge.1982.3252)

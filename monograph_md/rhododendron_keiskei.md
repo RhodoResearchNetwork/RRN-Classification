@@ -57,4 +57,4 @@ R. laticostum Ingram, R.H.S. Rhodo. Yearbook 25:31 (1971). Type: a cultivated pl
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):78
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):78](https://doi.org/10.24823/nrbge.1980.3250)

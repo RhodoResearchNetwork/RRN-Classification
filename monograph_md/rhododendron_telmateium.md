@@ -57,4 +57,4 @@ R. diacritum Balfour f. & W. W. Smith, op. cit., 225. Type: China, Yunnan, mount
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):104
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):104](https://doi.org/10.24823/nrbge.1980.3250)

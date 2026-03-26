@@ -57,4 +57,4 @@ Shrub, 1—5m. Leaves coriaceous, obovate-lanceolate, c.7 x 3cm, 2.3 x as long a
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):321
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):321](https://doi.org/10.24823/nrbge.1982.3252)

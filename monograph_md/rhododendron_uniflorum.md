@@ -57,4 +57,4 @@ Dwarf, ± prostrate shrub, the ends of the branches ascending, to 0-5 m. Young g
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):121
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):121](https://doi.org/10.24823/nrbge.1980.3250)

@@ -57,4 +57,4 @@ China (S Yunnan)
 
 ## References
 
-Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):10
+[Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):10](https://doi.org/10.24823/nrbge.1986.3458)

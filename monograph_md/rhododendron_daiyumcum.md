@@ -57,4 +57,4 @@ R. daiyuenshanicum P.X.Tan, Survey Gen. Rhododendron S. China 96, f.22, 3 (1983)
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):145
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):145](https://doi.org/10.1017/S096042860000319X)

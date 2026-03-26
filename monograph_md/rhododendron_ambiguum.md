@@ -57,4 +57,4 @@ R. chiengshienianum Fang, Ic. PL Omeiensium 1:1, t. 36 (1942). Type: China, Szec
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):78
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):78](https://doi.org/10.24823/nrbge.1980.3250)

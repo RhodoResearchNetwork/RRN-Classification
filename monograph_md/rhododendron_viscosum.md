@@ -57,4 +57,4 @@ Azalea viscosah., Sp. PL ed. 1,1:151 (1753). Type: in Virginia (holo, LINN; IDC 
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):329
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):329](https://doi.org/10.1017/S0960428600001633)

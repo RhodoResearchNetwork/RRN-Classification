@@ -57,4 +57,4 @@ Azalea periclymenoides Michaux, Fl. Bor.-Amer. 1: 150 (1803). A. periclymena Per
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):319
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):319](https://doi.org/10.1017/S0960428600001633)

@@ -57,4 +57,4 @@ R. cruentum Leveille, Feddes Repert. 12: 284 (1913). Type: China, Yunnan, brouss
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):338
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):338](https://doi.org/10.24823/nrbge.1982.3252)

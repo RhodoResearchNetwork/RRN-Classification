@@ -57,4 +57,4 @@ Shrub or small tree, 1.3-4.5m; young shoots glabrous. Leaves ovate to broadly el
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):372
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):372](https://doi.org/10.24823/nrbge.1982.3252)

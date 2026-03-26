@@ -57,4 +57,4 @@ R. franchetianum Leveille, Bull. Soc. Agric. Sarthe 39: 45 (1903). Syntypes: Chi
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):230
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):230](https://doi.org/10.24823/nrbge.1982.3252)

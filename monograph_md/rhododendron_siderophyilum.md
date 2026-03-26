@@ -57,4 +57,4 @@ R. rubro-punctatum Leveille & Vant., Feddes Rep. 9:448 (1911). Type: China, Kouy
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):67
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):67](https://doi.org/10.24823/nrbge.1980.3250)

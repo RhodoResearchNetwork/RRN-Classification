@@ -57,4 +57,4 @@ R. thomsonii Hooker f. var. cyanocarpum Franchet, J. Bot. (Morot) 9: 389 (1895)
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):423
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):423](https://doi.org/10.24823/nrbge.1982.3252)

@@ -57,4 +57,4 @@ R. chengianum Fang, PI. Omeiens. 1: t.31 (1942). Syntypes: China, Sichuan, Mt Om
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):235
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):235](https://doi.org/10.24823/nrbge.1982.3252)

@@ -57,4 +57,4 @@ R. fordii Hemsley, Kew Bull. 1894: 5 (1894). Type: Hongkong, Lantow Island, Ford
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):320
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):320](https://doi.org/10.24823/nrbge.1982.3252)

@@ -57,4 +57,4 @@ R. coryphaeum Balfour f. & Forrest, Notes R.B.G. Edinb. 12: 100 (1920). Type: Ch
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):247
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):247](https://doi.org/10.24823/nrbge.1982.3252)

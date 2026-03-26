@@ -57,4 +57,4 @@ R. rufescens P.X.Tan, Bull. Bot. Res. N.E. Forest. Inst.2(4): 86 (1982) nonFranc
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):103
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):103](https://doi.org/10.1017/S096042860000319X)

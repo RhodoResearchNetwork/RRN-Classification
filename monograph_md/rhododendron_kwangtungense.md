@@ -57,4 +57,4 @@ R. fongkaiense C.N. Wu & P.X.Tan, Mat. Med. Guangdong 4: 34, f.2 (1978). Type: C
 
 ## References
 
-Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):104
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):104](https://doi.org/10.1017/S096042860000319X)

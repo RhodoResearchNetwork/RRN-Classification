@@ -57,4 +57,4 @@ Erect shrub to 2 m. Young growth loriform-setose. Leaves narrowly elliptic to li
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):46
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):46](https://doi.org/10.24823/nrbge.1980.3250)

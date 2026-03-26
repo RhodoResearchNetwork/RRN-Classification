@@ -65593,4 +65593,4 @@ NE Upper Burma, China (Yunnan, Sichuan, Guizhou, Hunan, Huhei, Guangxi, Anhui)
 
 ## References
 
-Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):14
+[Philipson, W.R. & Philipson, M.N. (1986) A Revision of Rhododendron III. Subgenera Azaleastrum, Mumeazalea, Candidastrum and Therorhodion. Notes from the Royal Botanic Garden Edinburgh 44(1):14](https://doi.org/10.24823/nrbge.1986.3458)

@@ -57,4 +57,4 @@ R. manopeplum Balfour f. & Forrest, Notes R.B.G. Edinb. 13: 275 (1922). Type: Ch
 
 ## References
 
-Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):281
+[Chamberlain, D.F. (1982) A Revision of Rhododendron II. Subgenus Hymenanthes. Notes From the Royal Botanic Garden Edinburgh 39(2):281](https://doi.org/10.24823/nrbge.1982.3252)

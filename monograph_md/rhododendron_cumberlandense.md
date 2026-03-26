@@ -57,4 +57,4 @@ Azalea cumberlandense (E. L. Braun) Copeland, Am. Midi. Nat. 30: 533-625 (1943).
 
 ## References
 
-Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):309
+[Kron, K.A. (1993) A Revision of Rhododendron Section Pentanthera. Edinburgh Journal of Botany 50(3):309](https://doi.org/10.1017/S0960428600001633)

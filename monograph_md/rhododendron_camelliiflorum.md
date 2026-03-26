@@ -57,4 +57,4 @@ R. sparsiflorum Nuttall in Hooker's Kew Journ. 5:363 (1853). Type: 'Bootan'(i.e.
 
 ## References
 
-Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):138
+[Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):138](https://doi.org/10.24823/nrbge.1980.3250)
