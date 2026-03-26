@@ -27,7 +27,7 @@ title: Rhododendron rhodochroum Sleumer
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+{{ page.subgenus }} {{ page.section }} {{ page.subsection }}
 
 **WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
 

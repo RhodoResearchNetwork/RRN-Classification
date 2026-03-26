@@ -2,7 +2,7 @@
 scientificname: Rhododendron benomense
 scientificnameauthorship: Rafidah & A.C.Elliott
 genus: Rhododendron
-subgenus: ' Vireya'
+subgenus: 'Vireya'
 section: ' Malayovireya'
 subsection: ''
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
@@ -29,7 +29,7 @@ description: ''
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 
-{{ page.subfamily }} {{ page.section }} {{ page.subsection }}
+Subgenus: {{ page.subgenus }} Section: {{ page.section }} Subsection: {{ page.subsection }}
 
 **WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
 
