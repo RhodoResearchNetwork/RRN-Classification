@@ -2,7 +2,7 @@
 scientificname: Rhododendron campanulatum
 scientificnameauthorship: D.Don
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

@@ -4,7 +4,7 @@ title: Rhododendron acrophilum Merr. & Quisumb.
 scientificname: Rhododendron acrophilum
 scientificnameauthorship: Merr. & Quisumb.
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

@@ -2,7 +2,7 @@
 scientificname: Rhododendron basilicum
 scientificnameauthorship: Balf.f. & W.W.Sm.
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 9: 214 (1916).'
 doi: https://doi.org/10.24823/nrbge.1916.2267
-wfo_id: wfo-0001048757
+wfo_id: 'wfo-0001048757'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332005-1'
 verified: null
 layout: default
 title: Rhododendron basilicum Balf.f. & W.W.Sm.

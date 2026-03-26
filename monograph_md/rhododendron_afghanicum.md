@@ -4,7 +4,7 @@ title: Rhododendron afghanicum Aitch. & Hemsl.
 scientificname: Rhododendron afghanicum
 scientificnameauthorship: Aitch. & Hemsl.
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

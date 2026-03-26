@@ -2,7 +2,7 @@
 scientificname: Rhododendron exuberans
 scientificnameauthorship: (Sleumer) Argent
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

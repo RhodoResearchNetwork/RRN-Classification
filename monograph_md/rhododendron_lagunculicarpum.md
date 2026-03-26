@@ -2,7 +2,7 @@
 scientificname: Rhododendron lagunculicarpum
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

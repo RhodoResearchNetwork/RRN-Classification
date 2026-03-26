@@ -4,7 +4,7 @@ title: Rhododendron acuminatum Hook.f.
 scientificname: Rhododendron acuminatum
 scientificnameauthorship: Hook.f.
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

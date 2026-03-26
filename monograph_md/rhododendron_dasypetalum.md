@@ -2,7 +2,7 @@
 scientificname: Rhododendron dasypetalum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

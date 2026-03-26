@@ -2,7 +2,7 @@
 scientificname: Rhododendron scarlatinum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
-subfamily: ''
+subgenus: ''
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"

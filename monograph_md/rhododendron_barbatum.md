@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron barbatum
-scientificnameauthorship: ''
+scientificnameauthorship: Wall. ex G.Don
 genus: Rhododendron
-subfamily: ''
-section: ''
-subsection: ''
+subgenus: subg. Hymenanthes
+section: sect. Pontica
+subsection: subsect. Barbata
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,14 @@ tags:
 - Rhododendron
 namepublishedin: 'Gen. Hist. 3: 844 (1834).'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229605
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332003-1'
 verified: null
 layout: default
 title: Rhododendron barbatum
+description: Bearded Rhododendron, 硬刺杜鹃, Barbed-Stalk Rhododendron, गुराँस Guraans, चिमल Chimal, लाल चिमल Laal Chimal, कालो चिमल Kaalo Chimal
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -35,6 +36,8 @@ title: Rhododendron barbatum
 
 Verified by: {{ page.verified }}
 
+## Vernacular names
+Bearded Rhododendron, 硬刺杜鹃, Barbed-Stalk Rhododendron, Nepali: गुराँस Guraans, चिमल Chimal, लाल चिमल Laal Chimal, कालो चिमल Kaalo Chimal
 
 
 ## Description
@@ -44,7 +47,7 @@ Large shrub or small tree, 1.5-6m; young shoots with long stiff bristles (rarely
 N India (Uttar Pradesh, Sikkim, Bengal, W Arunachal Pradesh), China (S Xizang), Nepal, Bhutan.
 
 ## Altitude
-
+2700-3700m
 
 ## Habitat
 Open slopes, amongst scrub, Abies forest, etc.
@@ -53,7 +56,7 @@ Open slopes, amongst scrub, Abies forest, etc.
 R. nobile Wallich, pro parte, nomen nudum. R. lancifolium Hooker f., Rhododendrons Sikkim Himalaya t.4 (1849). Type: Sikkim, Hooker (holo. K).
                        
 ## Notes
-
+Closely allied to R. smithii. Natural hybrids between R. barbatum and R. arboreum are recorded.
 
 ## References
 
