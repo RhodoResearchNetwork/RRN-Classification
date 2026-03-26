@@ -2,9 +2,9 @@
 scientificname: Rhododendron annae
 scientificnameauthorship: Franch.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Irrorata'
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
