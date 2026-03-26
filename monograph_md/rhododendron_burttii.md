@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron burttii
-scientificnameauthorship: ''
+scientificnameauthorship: 'P.Woods'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+subgenus: 'Vireya'
+section: 'Schistanthe'
+subsection: 'Malesia'
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,15 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Notes RBG Edinb. 1978. 37(1): 57.'
-doi: ''
-wfo_id: ''
+namepublishedin: 'Notes Roy. Bot. Gard. Edinburgh 37(1): 157 (1978)'
+doi: 'https://doi.org/10.24823/nrbge.1978.3142'
+wfo_id: 'wfo-0000400476'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332069-1'
 verified: null
 layout: default
-title: Rhododendron burttii
+title: Rhododendron burttii P.Woods
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Shrub to 80cm. Twigs smooth, green or reddish, very finely hairy and laxly scaly
 Malaysia (Borneo), Sarawak, Mt Murud, Mt Lawi. Sabah, Mt Lotung, Crocker Range and in the area of the River Rekong Waterfall near Long Pasia. Erroneously reported from Kinabalu although it could easily be on that mountain.
 
 ## Altitude
-
+1500-1600m
 
 ## Habitat
 Epiphytic in mossy sub-montane forest.
@@ -53,8 +53,10 @@ Epiphytic in mossy sub-montane forest.
 
                        
 ## Notes
-
+Named after B.L. Burtt, botanist at Edinburgh, who made a series of expeditions to Sarawak and who first collected this species with Adam Martin on Gunong Murud.
 
 ## References
 
 Argent, G. (2006) Rhododendrons of subgenus Vireya. RHS:London. Page:200
+
+[P J B Woods. (1978). TWO BORNEAN RHODODENDRONS. Notes from the Royal Botanic Garden Edinburgh, 37(1), 157–159.](https://doi.org/10.24823/nrbge.1978.3142)

@@ -2,10 +2,10 @@
 scientificname: Rhododendron callimorphum
 scientificnameauthorship: ''
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Campylocarpa'
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 10: 89(1919)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048677'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332086-1'
 verified: null
 layout: default
 title: Rhododendron callimorphum

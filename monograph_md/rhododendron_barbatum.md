@@ -2,10 +2,10 @@
 scientificname: Rhododendron barbatum
 scientificnameauthorship: Wall. ex G.Don
 genus: Rhododendron
-subgenus: subg. Hymenanthes
-section: sect. Pontica
-subsection: subsect. Barbata
-source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Barbata
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: 'urn:lsid:ipni.org:names:332003-1'
 verified: null
 layout: default
-title: Rhododendron barbatum
+title: Rhododendron barbatum Wall. ex G.Don
 description: Bearded Rhododendron, 硬刺杜鹃, Barbed-Stalk Rhododendron, गुराँस Guraans, चिमल Chimal, लाल चिमल Laal Chimal, कालो चिमल Kaalo Chimal
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}

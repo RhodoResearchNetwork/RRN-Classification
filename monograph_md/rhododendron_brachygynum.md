@@ -5,7 +5,7 @@ genus: Rhododendron
 subgenus: ''
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: "Phil. J. Sc. 1929. 40(2): 165, pl.11, f.4\u20136."
+namepublishedin: "Phil. J. Sc. 1929. 40(2): 165, pl.11, f.4–6."
 doi: ''
 wfo_id: wfo-0000400461
 wfo_parent_id: ''

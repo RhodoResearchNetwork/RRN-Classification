@@ -69,7 +69,7 @@
 | [_Rhododendron bainbridgeanum Tagg & Forrest_](/taxa/rhododendron-bainbridgeanum) | wfo-0001048807 | https://www.ipni.org/n/331997-1 | ✔️ |
 | [_Rhododendron balfourianum Diels_](/taxa/rhododendron-balfourianum) | wfo-0001048861 | urn:lsid:ipni.org:names:332000-1 | ✔️ |
 | [_Rhododendron banghamiorum (J.J.Sm.) Sleumer_](/taxa/rhododendron-banghamiorum) | wfo-0000400377 | urn:lsid:ipni.org:names:332002-1 | ✔️ |
-| [_Rhododendron barbatum_](/taxa/rhododendron-barbatum) | wfo-0001229605 | urn:lsid:ipni.org:names:332003-1 | ✔️ |
+| [_Rhododendron barbatum Wall. ex G.Don_](/taxa/rhododendron-barbatum) | wfo-0001229605 | urn:lsid:ipni.org:names:332003-1 | ✔️ |
 | [_Rhododendron barkamense D.F.Chamb._](/taxa/rhododendron-barkamense) | wfo-0001229550 | urn:lsid:ipni.org:names:900758-1 | ✔️ |
 | [_Rhododendron basilicum Balf.f. & W.W.Sm._](/taxa/rhododendron-basilicum) | wfo-0001048757 | urn:lsid:ipni.org:names:332005-1 | ✔️ |
 | [_Rhododendron × bathyphyllum Balf.f. & Forrest_](/taxa/rhododendron-bathyphyllum) | wfo-0001275677 | urn:lsid:ipni.org:names:332009-1 | ✔️ |
@@ -86,21 +86,21 @@
 | [_Rhododendron boothii Nutt._](/taxa/rhododendron-boothii) | wfo-0001230696 | urn:lsid:ipni.org:names:332034-1 | ✔️ |
 | [_Rhododendron borneense (J.J.Sm.) Argent, A.Lamb & Phillipps_](/taxa/rhododendron-borneense) | wfo-0000400378 | urn:lsid:ipni.org:names:914534-1 | ✔️ |
 | [_Rhododendron brachyanthum Franch._](/taxa/rhododendron-brachyanthum) | wfo-0001048654 | urn:lsid:ipni.org:names:332037-1 | ✔️ |
-| [_Rhododendron brachycarpum_](/taxa/rhododendron-brachycarpum) |  |  | ⚠️ |
+| [_Rhododendron brachycarpum D.Don ex G.Don_](/taxa/rhododendron-brachycarpum) | wfo-0001047851 | urn:lsid:ipni.org:names:332039-1 | ✔️ |
 | [_Rhododendron brachygynum H.F.Copel._](/taxa/rhododendron-brachygynum) | wfo-0000400461 | urn:lsid:ipni.org:names:332040-1 | ✔️ |
 | [_Rhododendron brachypodarium Sleumer_](/taxa/rhododendron-brachypodarium) | wfo-0000400462 | urn:lsid:ipni.org:names:332041-1 | ✔️ |
 | [_Rhododendron bracteatum Rehder & E.H.Wilson_](/taxa/rhododendron-bracteatum) | wfo-0001048178 | urn:lsid:ipni.org:names:332044-1 | ✔️ |
 | [_Rhododendron brassii Sleumer_](/taxa/rhododendron-brassii) | wfo-0000400450 | urn:lsid:ipni.org:names:332045-1 | ✔️ |
-| [_Rhododendron brevinerve_](/taxa/rhododendron-brevinerve) |  |  | ⚠️ |
+| [_Rhododendron brevinerve Chun & W.P.Fang_](/taxa/rhododendron-brevinerve) |  | urn:lsid:ipni.org:names:332047-1 | ⚠️ |
 | [_Rhododendron breviperulatum Hayata_](/taxa/rhododendron-breviperulatum) | wfo-0001220133 | urn:lsid:ipni.org:names:332048-1 | ✔️ |
 | [_Rhododendron brevipes Sleumer_](/taxa/rhododendron-brevipes) | wfo-0000400454 | urn:lsid:ipni.org:names:332049-1 | ✔️ |
 | [_Rhododendron bryophilum Sleumer_](/taxa/rhododendron-bryophilum) | wfo-0000400473 | urn:lsid:ipni.org:names:332056-1 | ✔️ |
 | [_Rhododendron bullifolium Sleumer_](/taxa/rhododendron-bullifolium) | wfo-0000400479 | urn:lsid:ipni.org:names:332059-1 | ✔️ |
 | [_Rhododendron bulu Hutch._](/taxa/rhododendron-bulu) | wfo-0001048229 | urn:lsid:ipni.org:names:332060-1 | ✔️ |
 | [_Rhododendron bureavii Franch._](/taxa/rhododendron-bureavii) | wfo-0001229519 | urn:lsid:ipni.org:names:332062-1 | ✔️ |
-| [_Rhododendron burjaticum_](/taxa/rhododendron-burjaticum) |  |  | ⚠️ |
+| [_Rhododendron × burjaticum Malyschev_](/taxa/rhododendron-burjaticum) | wfo-0000400477 | urn:lsid:ipni.org:names:332064-1 | ✔️ |
 | [_Rhododendron burmanicum Hutch._](/taxa/rhododendron-burmanicum) | wfo-0000400478 | urn:lsid:ipni.org:names:332066-1 | ✔️ |
-| [_Rhododendron burttii_](/taxa/rhododendron-burttii) |  |  | ⚠️ |
+| [_Rhododendron burttii P.Woods_](/taxa/rhododendron-burttii) | wfo-0000400476 | urn:lsid:ipni.org:names:332069-1 | ✔️ |
 | [_Rhododendron buruense J.J.Sm._](/taxa/rhododendron-buruense) | wfo-0000400463 | urn:lsid:ipni.org:names:332070-1 | ✔️ |
 | [_Rhododendron buxifolium_](/taxa/rhododendron-buxifolium) |  |  | ⚠️ |
 | [_Rhododendron buxoides Sleumer_](/taxa/rhododendron-buxoides) | wfo-0000400466 | urn:lsid:ipni.org:names:332072-1 | ✔️ |

@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron burjaticum
-scientificnameauthorship: ''
+scientificname: Rhododendron × burjaticum
+scientificnameauthorship: 'Malyschev'
 genus: Rhododendron
-subgenus: ''
+subgenus: 'Rhododendron'
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Not. Syst. Herb. Inst. Acad. Sci. URSS 21:455-458 (1961)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000400477'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332064-1'
 verified: null
 layout: default
-title: Rhododendron burjaticum
+title: Rhododendron × burjaticum Malyschev
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
