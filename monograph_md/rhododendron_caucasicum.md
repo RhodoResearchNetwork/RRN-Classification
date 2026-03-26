@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron caucasicum
-scientificnameauthorship: 'Pall.'
+scientificnameauthorship: Pall.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Pontica
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: Fl. Rossica 1:46, t,31 (1784).
 doi: ''
-wfo_id: 'wfo-0000403280'
+wfo_id: wfo-0000403280
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:332128-1'
+ipni_id: urn:lsid:ipni.org:names:332128-1
 verified: null
 layout: default
 title: Rhododendron caucasicum Pall.

@@ -2,10 +2,10 @@
 scientificname: Rhododendron muscicola
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Linnaeopsis
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'

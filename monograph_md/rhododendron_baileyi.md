@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron baileyi
-scientificnameauthorship: 'Balf.f'
+scientificnameauthorship: Balf.f
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Baileya
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -23,7 +23,7 @@ ipni_id: urn:lsid:ipni.org:names:331996-1
 verified: null
 layout: default
 title: Rhododendron baileyi Balf.f
-description: 辐花杜鹃
+description: "\u8F90\u82B1\u675C\u9E43"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

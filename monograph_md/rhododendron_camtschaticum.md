@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron camtschaticum
-scientificnameauthorship: 'Pall.'
+scientificnameauthorship: Pall.
 genus: Rhododendron
-subgenus: 'Therorhodion'
-section: ''
+subgenus: Ericoideae
+section: Rhododendron subg. Therorhodion
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Philipson, W.R.
 created: '1986'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: Fl. Ross. 1:48, t. 33 (1784)
 doi: ''
-wfo_id: 'wfo-0001047066'
+wfo_id: wfo-0001047066
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:219456-2'
+ipni_id: urn:lsid:ipni.org:names:219456-2
 verified: null
 layout: default
 title: Rhododendron camtschaticum Pall.

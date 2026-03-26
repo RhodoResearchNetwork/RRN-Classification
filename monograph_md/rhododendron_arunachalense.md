@@ -2,10 +2,10 @@
 scientificname: Rhododendron arunachalense
 scientificnameauthorship: D.F.Chamb. & S.J.Rae
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Tsutsusi
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -15,7 +15,7 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: Edinb. J. Bot. 47(2):197 (1990)
-doi: 'https://doi.org/10.1017/S096042860000319X'
+doi: https://doi.org/10.1017/S096042860000319X
 wfo_id: wfo-0000400401
 wfo_parent_id: ''
 wfo_accepted_id: ''

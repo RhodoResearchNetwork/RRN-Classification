@@ -2,10 +2,10 @@
 scientificname: Rhododendron durionifolium
 scientificnameauthorship: Becc.
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Vireya
+section: Malayovireya
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: ''
 created: ''

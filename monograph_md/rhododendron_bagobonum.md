@@ -2,10 +2,10 @@
 scientificname: Rhododendron bagobonum
 scientificnameauthorship: H.F.Copel.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Malesia
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: "Phil. J. Sc. 1929. 40: 151, t.4, f.1–2."
+namepublishedin: "Phil. J. Sc. 1929. 40: 151, t.4, f.1-2."
 doi: ''
 wfo_id: wfo-0000400373
 wfo_parent_id: ''

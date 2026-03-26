@@ -2,10 +2,10 @@
 scientificname: Rhododendron bainbridgeanum
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Selensia
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -23,7 +23,7 @@ ipni_id: https://www.ipni.org/n/331997-1
 verified: null
 layout: default
 title: Rhododendron bainbridgeanum Tagg & Forrest
-description: 毛萼杜鹃
+description: "\u6BDB\u843C\u675C\u9E43"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron × bathyphyllum
+scientificname: "Rhododendron \xD7 bathyphyllum"
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Taliensia
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -15,15 +15,15 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 11: 27 (1919).'
-doi:  'https://doi.org/10.24823/nrbge.1919.2276'
+doi: https://doi.org/10.24823/nrbge.1919.2276
 wfo_id: wfo-0001275677
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332009-1
 verified: null
 layout: default
-title: Rhododendron × bathyphyllum Balf.f. & Forrest
-description: 多叶杜鹃
+title: "Rhododendron \xD7 bathyphyllum Balf.f. & Forrest"
+description: "\u591A\u53F6\u675C\u9E43"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

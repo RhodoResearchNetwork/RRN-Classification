@@ -2,10 +2,10 @@
 scientificname: Rhododendron amagianum
 scientificnameauthorship: (Makino) Makino ex H.Hara
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Brachycalyces
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -23,7 +23,7 @@ ipni_id: urn:lsid:ipni.org:names:331915-1
 verified: null
 layout: default
 title: Rhododendron amagianum (Makino) Makino ex H.Hara
-description: アマギツツジ, Amagi-tsutsuji, Mt. Amagi azalea
+description: "\u30A2\u30DE\u30AE\u30C4\u30C4\u30B8, Amagi-tsutsuji, Mt. Amagi azalea"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

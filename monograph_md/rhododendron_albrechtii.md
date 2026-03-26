@@ -2,10 +2,10 @@
 scientificname: Rhododendron albrechtii
 scientificnameauthorship: Maxim.
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Azaleastrum
+section: Sciadorhodion
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Judd, W.S.
 created: Sections Sciadorhodion, Rhodora and Viscidula

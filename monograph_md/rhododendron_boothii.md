@@ -2,10 +2,10 @@
 scientificname: Rhododendron boothii
 scientificnameauthorship: Nutt.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Boothia
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -23,7 +23,7 @@ ipni_id: urn:lsid:ipni.org:names:332034-1
 verified: null
 layout: default
 title: Rhododendron boothii Nutt.
-description: 柠檬杜鹃
+description: "\u67E0\u6AAC\u675C\u9E43"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

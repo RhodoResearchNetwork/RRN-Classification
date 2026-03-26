@@ -2,10 +2,10 @@
 scientificname: Rhododendron austrinum
 scientificnameauthorship: (Small) Rehder
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pentanthera
+subsection: Pentanthera
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Kron, K.A.
 created: '1993'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Bailey, Stand. Cycl. Hort. 6: 3571 (1917)'
 doi: https://www.biodiversitylibrary.org/page/19623427
-wfo_id: 'wfo-0001047063'
+wfo_id: wfo-0001047063
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:219447-2'
+ipni_id: urn:lsid:ipni.org:names:219447-2
 verified: null
 layout: default
 title: Rhododendron austrinum (Small) Rehder

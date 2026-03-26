@@ -2,10 +2,10 @@
 scientificname: Rhododendron cephalanthum
 scientificnameauthorship: Franch.
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Rhododendron
+section: Pogonanthum
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'

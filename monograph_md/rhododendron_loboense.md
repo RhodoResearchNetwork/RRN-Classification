@@ -2,10 +2,10 @@
 scientificname: Rhododendron loboense
 scientificnameauthorship: H.F.Copel.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Euvireya
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: "Phil. J. Sc. 1929. 40: 172, t.15, f.3, t.16, f.5–6."
+namepublishedin: "Phil. J. Sc. 1929. 40: 172, t.15, f.3, t.16, f.5-6."
 doi: ''
 wfo_id: wfo-0000399913
 wfo_parent_id: ''

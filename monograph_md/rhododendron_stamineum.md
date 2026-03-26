@@ -2,10 +2,10 @@
 scientificname: Rhododendron stamineum
 scientificnameauthorship: Franch.
 genus: Rhododendron
-subgenus: ''
+subgenus: Choniastrum
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Philipson, W.R.
 created: '1986'

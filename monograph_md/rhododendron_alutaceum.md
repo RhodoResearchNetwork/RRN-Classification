@@ -2,10 +2,10 @@
 scientificname: Rhododendron alutaceum
 scientificnameauthorship: Balf.f. & W.W.Sm.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Taliensia
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -23,7 +23,7 @@ ipni_id: urn:lsid:ipni.org:names:331912-1
 verified: null
 layout: default
 title: Rhododendron alutaceum Balf.f. & W.W.Sm.
-description: 棕背杜鹃
+description: "\u68D5\u80CC\u675C\u9E43"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

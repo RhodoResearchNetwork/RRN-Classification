@@ -2,10 +2,10 @@
 scientificname: "Rhododendron \xD7 agastum"
 scientificnameauthorship: Balf.f. & W.W.Sm.
 genus: Rhododendron
-subgenus: ''
+subgenus: Hymenanthes
 section: ''
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'

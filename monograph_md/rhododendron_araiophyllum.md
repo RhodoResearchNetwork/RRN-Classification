@@ -2,10 +2,10 @@
 scientificname: Rhododendron araiophyllum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Irrorata
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -23,7 +23,7 @@ ipni_id: urn:lsid:ipni.org:names:331943-1
 verified: null
 layout: default
 title: Rhododendron araiophyllum Balf.f. & Forrest
-description: 窄叶杜鹃
+description: "\u7A84\u53F6\u675C\u9E43"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

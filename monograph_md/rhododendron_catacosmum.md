@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron catacosmum
-scientificnameauthorship: 'Balf.f. ex Tagg'
+scientificnameauthorship: Balf.f. ex Tagg
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Neriiflora
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 15: 307 (1927).'
 doi: ''
-wfo_id: 'wfo-0001048862'
+wfo_id: wfo-0001048862
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:332120-1'
+ipni_id: urn:lsid:ipni.org:names:332120-1
 verified: null
 layout: default
 title: Rhododendron catacosmum Balf.f. ex Tagg

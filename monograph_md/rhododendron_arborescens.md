@@ -2,10 +2,10 @@
 scientificname: Rhododendron arborescens
 scientificnameauthorship: (Pursh) Torr.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pentanthera
+subsection: Pentanthera
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Kron, K.A.
 created: '1993'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: Fl. U.S. 425 (1824)
 doi: ''
-wfo_id: 'wfo-0001047061'
+wfo_id: wfo-0001047061
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:30079394-2'
+ipni_id: urn:lsid:ipni.org:names:30079394-2
 verified: null
 layout: default
 title: Rhododendron arborescens (Pursh) Torr.

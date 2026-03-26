@@ -2,10 +2,10 @@
 scientificname: Rhododendron perakense
 scientificnameauthorship: King & Gamble
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Vireya
+section: Discovireya
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'

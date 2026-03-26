@@ -2,10 +2,10 @@
 scientificname: Rhododendron emarginatum
 scientificnameauthorship: Hemsl. & E.H.Wilson
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: Vireya
+section: Pseudovireya
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'

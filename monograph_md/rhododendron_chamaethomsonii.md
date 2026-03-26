@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron chamaethomsonii
-scientificnameauthorship: '(Tagg) Cowan & Davidian'
+scientificnameauthorship: (Tagg) Cowan & Davidian
 genus: Rhododendron
-subgenus: 'Hymenanthes '
-section: 'Pontica'
-subsection: 'Neriiflora'
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Neriiflora
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Rhododendron Yearbook 6: 70 (1951)'
 doi: ''
-wfo_id: 'wfo-0001229675'
+wfo_id: wfo-0001229675
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:332144-1'
+ipni_id: urn:lsid:ipni.org:names:332144-1
 verified: null
 layout: default
 title: Rhododendron chamaethomsonii (Tagg) Cowan & Davidian

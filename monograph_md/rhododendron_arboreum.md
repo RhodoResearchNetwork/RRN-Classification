@@ -2,10 +2,10 @@
 scientificname: Rhododendron arboreum
 scientificnameauthorship: Sm.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Arborea
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -15,15 +15,16 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: 'Exot. Bot. 1: 9, t.6 (1805)'
-doi: 'https://hdl.handle.net/2027/mdp.39015100090797'
-wfo_id: 'wfo-0001229495'
+doi: https://hdl.handle.net/2027/mdp.39015100090797
+wfo_id: wfo-0001229495
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: 'urn:lsid:ipni.org:names:331945-1'
+ipni_id: urn:lsid:ipni.org:names:331945-1
 verified: null
 layout: default
 title: Rhododendron arboreum Sm.
-description: गुराँस, Burans, Laligurans, 树形杜鹃, Maha ratmal, Maha Rath Mal, Asela mal, The Tree Rhododendron
+description: "\u0917\u0941\u0930\u093E\u0901\u0938, Burans, Laligurans, \u6811\u5F62\
+  \u675C\u9E43, Maha ratmal, Maha Rath Mal, Asela mal, The Tree Rhododendron"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

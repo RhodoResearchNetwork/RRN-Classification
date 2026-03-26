@@ -2,10 +2,10 @@
 scientificname: Rhododendron prunifolium
 scientificnameauthorship: (Small) Millais
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pentanthera
+subsection: Pentanthera
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Kron, K.A.
 created: '1993'

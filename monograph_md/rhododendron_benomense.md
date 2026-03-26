@@ -2,14 +2,14 @@
 scientificname: Rhododendron benomense
 scientificnameauthorship: Rafidah & A.C.Elliott
 genus: Rhododendron
-subgenus: 'Vireya'
-section: ' Malayovireya'
+subgenus: Vireya
+section: Malayovireya
 subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Elliott, A.
 created: 2022
-rights holder: 
+rights holder: null
 license: ''
 tags:
 - taxonomy
@@ -25,7 +25,6 @@ layout: default
 title: Rhododendron benomense Rafidah & A.C.Elliott
 description: ''
 ---
-
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 

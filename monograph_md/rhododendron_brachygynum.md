@@ -2,10 +2,10 @@
 scientificname: Rhododendron brachygynum
 scientificnameauthorship: H.F.Copel.
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Euvireya
+source: "Edinburgh Rhododendron Monographs - Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: "Phil. J. Sc. 1929. 40(2): 165, pl.11, f.4–6."
+namepublishedin: "Phil. J. Sc. 1929. 40(2): 165, pl.11, f.4-6."
 doi: ''
 wfo_id: wfo-0000400461
 wfo_parent_id: ''
