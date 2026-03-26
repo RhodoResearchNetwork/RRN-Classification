@@ -1,6 +1,6 @@
 ---
-scientificname: Rhododendron siderophyilum
-scientificnameauthorship: ''
+scientificname: Rhododendron siderophyllum
+scientificnameauthorship: 'Franch.'
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -17,12 +17,12 @@ tags:
 namepublishedin: Journ. de Bot. 12:262 (1898)
 doi: ''
 wfo_id: ''
-wfo_parent_id: ''
+wfo_parent_id: 'wfo-0001048090'
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333352-1'
 verified: null
 layout: default
-title: Rhododendron siderophyilum
+title: Rhododendron siderophyilum Franch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -41,19 +41,19 @@ Verified by: {{ page.verified }}
 Shrub, 1-7 m. Young growth brownish. Leaves broadly elliptic to elliptic, rarely obovate or ovate, 48-84 x (16-)24-32 mm, apex acute, base cuneate (rarely with rounded apex and base on fast-growing extension shoots), ± elepidote above, with a dense covering beneath of large, flat, broadly rimmed scales (the darker centre making up less than Vi the diameter of the scale), 1-2 x their own diameter apart. Inflorescences very dense and crowded, coalescing into a many-flowered compound inflorescence, pedicels lepidote, 5-11 mm, the outer ones recurved, particularly in fruit. Corolla white or pinkish violet, 18~22(-25) mm, elepidote outside. Capsule 11-14 mm
 
 ## Distribution
-China (C & S Yunnan, Guizhou). Open ridges and dry, wooded hills, 840-2100(-2600) m
+China (C & S Yunnan, Guizhou)
 
 ## Altitude
-
+840-2100(-2600)m.
 
 ## Habitat
-
+Open ridges and dry, wooded hills.
 
 ## Nomenclatural History
 R. rubro-punctatum Leveille & Vant., Feddes Rep. 9:448 (1911). Type: China, Kouy tcheou, Pin-fa, 1908, Cavalerie (holo. E). R. leucandrum Leveille, ibid. 12:103 (1913). Type: China, Kouytcheou, Kiao-tche che, 1902, Cavalerie 1254 at least in part (E). R. jahandiezii Leveille, ibid. 13:340 (1914). Type: China, Yunnan, flancs du lo chan, 3200 m, v 1913, Maire (holo. E). R. ioanthum Balfour f., Notes R.B.G. Edinb. 13:270 (1922). Type: China, Yunnan, Maire (holo. E). R. obscurum [Franchet ex] Balfour f., op. cit.: 278. Type: China, Yunnan, prope Yunnansen, 4 iii 1891, Delavay (holo. P, iso. E)
                        
 ## Notes
-
+Very similar to R. tatsienense but occurring well to the south and at lower altitudes; differing mainly in the size of the leaves and the nature of the scales as well as the compound inflorescence, which is usually clearly developed. A few specimens (Forrest 20490, 20468 and Ten 444) are intermediate between the two species.
 
 ## References
 

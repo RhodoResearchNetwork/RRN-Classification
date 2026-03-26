@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron smithii
-scientificnameauthorship: ''
+scientificnameauthorship: 'Nutt ex Hook.'
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bot. Mag. 85: t.5120(1859).'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000405475'
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: 'wfo-0001048756'
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron smithii
+title: Rhododendron smithii Nutt. ex Hook.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Shrub or small tree, 2-7.5m; young shoots clothed with long stiff setae. Leaves 
 NE India (Sikkim, Arunachal Pradesh), Bhutan, China (S Xizang)
 
 ## Altitude
-
+ 2700-3600m
 
 ## Habitat
 Mixed forests, etc.
@@ -53,7 +53,7 @@ Mixed forests, etc.
 R. argipeplum Balfour f. & Cooper, Notes R.B.G. Edinb. 9: 213 (1916). Type: Bhutan, Pumthang, 11000ft, 5 vii 1915, Cooper 4115 (holo. E).
                        
 ## Notes
-
+This name is an illegitimate later homonym. The replacement name is Rhododendron macrosmithii Davidian (wfo-0001273786). However the earliest valid name for this taxon is R. argipeplum Balfour f. & Cooper which was treated as a synonym of this name and should be used.
 
 ## References
 

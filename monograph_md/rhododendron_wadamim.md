@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron wadamim
-scientificnameauthorship: ''
+scientificname: Rhododendron wadamum
+scientificnameauthorship: Makino
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Brachycalyces
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -14,15 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'J. Jap. Bot. 1: 21 (1917). No type cited.'
+namepublishedin: 'J.Jap.Bot. 1: 21 (1917)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405689
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333583-1
 verified: null
 layout: default
-title: Rhododendron wadamim
+title: Rhododendron wadamum Makino
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -53,7 +53,7 @@ Mixed forest
 R. glandulistylum Komatsu, Bot. Mag. (Tokyo) 32: 10 (1918)ó Japanese text. R. wadanum Makino var. leucanthum Makino, J. Jap. Bot. 3: 11 (1926)óEnglish text. Type: Japan, Prov. Sagmai, Hakone, Sawada, n.v. R. reticulatum D.Don var. wadanum (Makino) Hatusima, Sci. Rep. Yokosuka City Mus. 15: 22 (1969)
                        
 ## Notes
-
+No type cited in the 1917 publication. Check Also in in Journ. Jap. Bot. 3. 11 (1926).
 
 ## References
 

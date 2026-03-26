@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron surasianum
-scientificnameauthorship: ''
+scientificnameauthorship: 'Balf.f. & Craib'
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 10:160 (1917)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000405434'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333432-1'
 verified: null
 layout: default
-title: Rhododendron surasianum
+title: Rhododendron surasianum Balf.f. & Craib
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,16 +44,16 @@ Usually a free-growing shrub to 4 m. Young growth not loriform-setose. Leaves na
 Thailand (Chiengmai province)
 
 ## Altitude
-
+Around 1560m
 
 ## Habitat
-Jungle,
+Jungle
 
 ## Nomenclatural History
 
                        
 ## Notes
-
+A specimen from the S Shan states of Burma (McGregor 534) appears to be the same as the Thailand material except in its very broad leaves and shorter corolla.
 
 ## References
 

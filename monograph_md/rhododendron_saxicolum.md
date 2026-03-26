@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron saxicolum
-scientificnameauthorship: ''
+scientificnameauthorship: Sleumer
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Azaleastrum
+section: Tsutsutsi
+subsection: Tsutsusi
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1990'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Blumea, suppl. 4: 49 (1958)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405366
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333295-1
 verified: null
 layout: default
-title: Rhododendron saxicolum
+title: Rhododendron saxicolum Sleumer
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,17 +44,18 @@ Shrub, 3-6m; young shoots at first covered with adpressed red-brown setose hairs
 Vietnam
 
 ## Altitude
-
+400-1800m
 
 ## Habitat
 Rocky soil in forest
 
 ## Nomenclatural History
-
+Published as _saxicolum_ by Sleumer. 
                        
 ## Notes
+A specimen from Thailand (Garrett 837), may belong to this species but differs in its larger flowers (25mm) and its glabrous style. Sleumer (op. cit.) refers this and one other specimen, also from Thailand (Put 3325), to R. microphyton on account of the glabrous styles. The latter, however, has flowers with lobes significantly longer than tube, a characteristic of R. saxicolum. In any case size of flowers and leaves is more extreme for R. microphyton than it is for R. saxicolum.
 
-
+Allied to R. seniavinii but with a laxer inflorescence, etc.
 ## References
 
 [Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):130](https://doi.org/10.1017/S096042860000319X)

@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron tapeliforme
-scientificnameauthorship: ''
+scientificname: Rhododendron tapetiforme
+scientificnameauthorship: Balf.f. & Kingdon-Ward
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Rhododendron
+section: Rhododendron
+subsection: Lapponica
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
 created: '1980'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 9:279 (1916)
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001048210
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333452-1
 verified: null
 layout: default
-title: Rhododendron tapeliforme
+title: Rhododendron tapetiforme Balf.f. & Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ A low matted or rounded, densely branched shrub, prostrate or up to 90 cm. Leave
 NE Burma, China (NW Yunnan, SE Xizang)
 
 ## Altitude
-
+3500-4600m
 
 ## Habitat
 Open alpine slopes and bare screes
@@ -53,7 +53,7 @@ Open alpine slopes and bare screes
 
                        
 ## Notes
-
+The Philipsons (1975, p. 28) record natural hybrids between R. tapeti-forme and various other species. R. chamaezelum Balfour f. & Forrest, Notes R.B.G. Edinb. 13:241, 1922 (Type: China, Yunnan, Mekong/Sal-ween Divide, 12000 ft, vi 1917, Forrest 14074, holo. E) is considered to be of hybrid origin, between R. tapetifonne and R. rupicola var. chryseum.
 
 ## References
 

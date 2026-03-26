@@ -1,11 +1,11 @@
 ---
-scientificname: Rhododendron tuhanensis
-scientificnameauthorship: ''
+scientificname: Rhododendron tuhanense
+scientificnameauthorship: Argent & T.J.Barkman
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Vireya
+section: Schistanthe
+subsection: Malesia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
 created: '2006'
@@ -14,15 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: "The New Plantsman 2000. 7(4): 214–219."
+namepublishedin: "The New Plantsman 2000. 7(4): 214\u2013219."
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0000405641
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:1018109-1
 verified: null
 layout: default
-title: Rhododendron tuhanensis
+title: Rhododendron tuhanense Argent & T.J.Barkman
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,10 +50,14 @@ Malaysia (Borneo), Sabah, Mt Kinabalu.
 
 
 ## Nomenclatural History
-
+Occiasional, and erroneously, cited as Rhododendron tuhanensis.
                        
 ## Notes
+Named from the Dusen word ‘Tuhan’ which means landslide, as the plant is known only from steep landslides in the ultramafic area of Mt Kinabalu.
 
+Discovered by Todd Barkman in July 1994 within less than 300m of the main summit trail. At present known from one landslide area on the ultramafic ‘apron’ of this mountain, where it was first collected. There are several other similar, but much less accessible, sites where it could occur but it is at present known only from about a dozen plants in three groups on this one landslip. The plants are mostly completely exposed and suffer severely in drought years but have not been killed.
+
+This species is similar to R. buxifolium but differs most significantly in the much smaller habit, the hairy ovary and hairy pedicels. It also has nearly glabrous bracts without any white hairs along the margins or outside as in R. buxifolium and should clearly be placed in section Euvireya. It would pass on leaf size as series Linnaeopsis but that series has hitherto been recorded only in New Guinea, and the erect habit with its thick sub-succulent leaves is unlike any of the species in that group. For the present it is placed in series Buxifolia; its true relationships may be with R. baconii or R. rugosum. Introduced into cultivation in Edinburgh by Paul Smith in 1995, it grows very slowly, producing its relatively large pink flower irregularly throughout the year.
 
 ## References
 

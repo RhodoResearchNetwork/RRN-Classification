@@ -1,11 +1,11 @@
 ---
 scientificname: Rhododendron viscidifoiium
-scientificnameauthorship: ''
+scientificnameauthorship: Davidian
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
-source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
+subgenus: Hymenanthes
+section: Pontica
+subsection: Thomsonia
+source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
 created: '1982'
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Rhododendron Yearbook 21: 104 (1966)'
 doi: ''
-wfo_id: ''
+wfo_id: wfo-0001229703
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: urn:lsid:ipni.org:names:333575-1
 verified: null
 layout: default
-title: Rhododendron viscidifoiium
+title: Rhododendron viscidifoiium Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Shrub, 0.6-2.4m; bark smooth; young shoots glabrous or glandular. Leaves oval to
 China (SE Xizang)
 
 ## Altitude
-
+2100-4000m
 
 ## Habitat
 Cliff faces near waterfalls
@@ -53,7 +53,7 @@ Cliff faces near waterfalls
 
                        
 ## Notes
-
+A variable species, both in the degree of development of the leaf indumentum and in leaf shape. Plants from the western part of the range of the species (Ludlow, Sherriff & Elliot 12329, 12342, 12372, 12375, 12388, 12521, 13544, 13567, 15034, 15054, 15080) have been referred to var. griseum Cowan (Notes R.B.G. Edinb. 21: 147, 1953); type: L., S. & E. 13521. These have leaves with rounded bases and consistently compacted indumentum but there is considerable variation in the relative width of the leaves and in the number of flowers per inflorescence. Over most of its range, however, the species is more uniform and almost always has oblanceolate leaves with cuneate bases. The leaf indumentum ranges from bistrate with a persistent dendroid tomentum characteristic of plants referred to R. dendritrichum to unistrate and compacted (as in var. griseum). Without extensive field studies the status of var. griseum remains uncertain.
 
 ## References
 
