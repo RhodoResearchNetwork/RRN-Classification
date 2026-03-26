@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron catacosmum
-scientificnameauthorship: ''
+scientificnameauthorship: 'Balf.f. ex Tagg'
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 15: 307 (1927).'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048862'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332120-1'
 verified: null
 layout: default
-title: Rhododendron catacosmum
+title: Rhododendron catacosmum Balf.f. ex Tagg
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,7 +50,7 @@ China (SE Xizang, NW Yunnan)
 Forest margins, rocky slopes
 
 ## Nomenclatural History
-
+Name was first published in the Rhododendron Soc. Notes 3: 81, 97 (1926). Then validated with a description in Notes Bot. Gard.Edin. 15. 307 (1927).
                        
 ## Notes
 

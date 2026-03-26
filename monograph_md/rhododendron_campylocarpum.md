@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron campylocarpum
+scientificname: Rhododendron campylocarpum Hook.f.
 scientificnameauthorship: ''
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Campylocarpa'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Rhododendrons Sikkim Himalaya t. 30 (1851)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001229373'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'rn:lsid:ipni.org:names:332098-1'
 verified: null
 layout: default
-title: Rhododendron campylocarpum
+title: Rhododendron campylocarpum Hook.f.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron caucasicum
-scientificnameauthorship: ''
+scientificnameauthorship: 'Pall.'
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Fl. Rossica 1:46, t,31 (1784).
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000403280'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332128-1'
 verified: null
 layout: default
-title: Rhododendron caucasicum
+title: Rhododendron caucasicum Pall.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,10 +50,10 @@ NE Turkey & adjacent parts of USSR (Caucasia)
 
 
 ## Nomenclatural History
-R. caucasicum Pallas var. stramineum W. Hooker, Bot. Mag. 62: t.3422 (1835). Type: a plant or the plate drawn from it (cited above), grown in Glasgow and flowering in iv 1835
+_R. caucasicum_ Pall. var. _stramineum_ Hook., Bot. Mag. 62: t.3422 (1835). Type: a plant or the plate drawn from it (Bot. Mag. 28: t.1145 (1808), grown in Glasgow and flowering in May 1835.
                        
 ## Notes
-
+A distinctive species though apparently hybridising with R. ponticum (q.v.) and R. smirnowii. The plate accompanying the type description gives a false impression of the species as described here and may be disregarded as there is no direct reference to any of the type specimens cited. Plate 3422 in Bot. Mag. 62 (1835) is a reliable representation of the species as treated here.
 
 ## References
 

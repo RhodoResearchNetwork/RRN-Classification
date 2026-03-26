@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron cerasinum
+scientificname: Rhododendron cerasinum Tagg ex Kingdon-Ward
 scientificnameauthorship: ''
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Thomsonia'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 16: 188 (1931).'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001229699'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:77340514-1'
 verified: null
 layout: default
-title: Rhododendron cerasinum
+title: Rhododendron cerasinum Tagg ex Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,13 +44,13 @@ Shrub, 1.2-3.7m; young shoots glabrescent. Leaves narrowly obovate to elliptic, 
 NE Upper Burma, China (SE Xizang)
 
 ## Altitude
-
+200-3800m
 
 ## Habitat
 Coniferous forests
 
 ## Nomenclatural History
-
+Also published in Sp. Rhodod. 737 (1930) and Notes Roy. Bot. Gard. Edinburgh 16: 188 (1931). The Notes publication has latin description. The Garden Chronicle publication is dated 26 Apr 1930. The Species of Rhododendron publication was September or October 1930.
                        
 ## Notes
 

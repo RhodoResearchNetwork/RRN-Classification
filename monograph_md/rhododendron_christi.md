@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron christi
-scientificnameauthorship: ''
+scientificnameauthorship: 'F.Först.'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Vireya'
+section: 'Schistanthe'
+subsection: 'Euvireya'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Fedde Rep. 1914. 13: 222.'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000403051'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332176-1'
 verified: null
 layout: default
-title: Rhododendron christi
+title: Rhododendron christi F.Först.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Small shrub to 1.2m. Twigs 1.5–2mm in diameter, rounded, laxly scaly, becoming
 Papua New Guinea, New Guinea (E), Mt Saruwaged and vicinity; Eastern, Western and Southern Highlands; Simbu District; Wharton Range; Finisterre Mts (Madang District). Indonesia, New Guinea (W), Wamena R.; Ibele valley.
 
 ## Altitude
-
+1200-3000m
 
 ## Habitat
 Mostly epiphytic in mossy forest and on grassland tree-ferns, or terrestrial in open forest or rock faces on cliffs
@@ -53,7 +53,9 @@ Mostly epiphytic in mossy forest and on grassland tree-ferns, or terrestrial in 
 R. christi var. loniceroides Schltr., Bot. Jahr. 1918. 55: 155. R. aff. wentianum Stonor, Rhod. Yearbook 1951. 6: 50, f.54. R. christii Foerster orth. var., Chamberlain et al., The Genus Rhododendron 1996. 17, 103.
                        
 ## Notes
+Named after Konrad H. Christ, Swiss fern specialist who was professor of botany at Basel.
 
+The records from near Wamena are a surprising extension to the range of this species which had previously been known only from Papua New Guinea; some of these plants differ in having broadly tapering leaf bases but others are quite typical with cordate bases. Those with tapering leaf bases could be hybrids with R. curviflorum. It is reported hybridising with R. beyerinckianum (van Royen & Kores 1982), these hybrids having uniformly pink flowers (see R. x schoddei).
 
 ## References
 

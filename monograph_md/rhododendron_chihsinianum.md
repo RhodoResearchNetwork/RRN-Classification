@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron chihsinianum
-scientificnameauthorship: ''
+scientificnameauthorship: 'Chun & W.P.Fang'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Fortunea'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -14,15 +14,14 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Acta Phytotax. Sin. 6: 168, t. 40, f. 1 (1957).'
+namepublishedin: 'Acta Phytotax. Sin. 6(2): 168 (1957)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001228538'
 wfo_parent_id: ''
-wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332169-1'
 verified: null
 layout: default
-title: Rhododendron chihsinianum
+title: Rhododendron chihsinianum Chun & W.P.Fang
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +43,7 @@ Small tree, 4m; young shoots setulose-glandular, also with a loose tomentum. Lea
 China (Guangxi)
 
 ## Altitude
-
+Around 850m
 
 ## Habitat
 
@@ -53,7 +52,7 @@ China (Guangxi)
 
                        
 ## Notes
-
+Allied by the original authors to R. strigillosum and R, monosematum but the 7-lobed corolla and glandular style suggest a closer affinity with R. auriculatum.
 
 ## References
 

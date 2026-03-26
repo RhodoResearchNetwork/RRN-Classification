@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron zaleucum
-scientificnameauthorship: ''
+scientificnameauthorship: 'Balf.f. & W.W.Sm.'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Triflora'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 10:163 (1917)
 doi: ''
-wfo_id: ''
-wfo_parent_id: ''
+wfo_id: 'Balf.f. & W.W.Sm.'
+wfo_parent_id: 'wfo-0001048080'
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333633-1'
 verified: null
 layout: default
-title: Rhododendron zaleucum
+title: Rhododendron zaleucum Balf.f. & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

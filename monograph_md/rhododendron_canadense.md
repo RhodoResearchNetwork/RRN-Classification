@@ -1,9 +1,9 @@
 ---
 scientificname: Rhododendron canadense
-scientificnameauthorship: ''
+scientificnameauthorship: '(L.) Torr.'
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: 'Hymenanthes'
+section: 'Rhodora'
 subsection: ''
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Cat. PI. 151 [in Geol. Surv. New York Assembly, No. 50] (1841).
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001245657'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:1203750-2'
 verified: null
 layout: default
-title: Rhododendron canadense
+title: Rhododendron canadense (L.) Torr.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -38,23 +38,13 @@ Verified by: {{ page.verified }}
 
 
 ## Description
-Rhizomatous shrub to lm tall; bark reddish brown to grey, smooth to very
-
-            slightly longitudinally grooved and flaking; young twigs pale to reddish brown, often
-
-            with a pink tinge, usually glaucous, sparsely covered with multicellular eglandular and
-
-            shorter gland-headed hairs, moderately to densely covered with short unicellular hairs;
-
-            new foliage shoots arising from axillary buds associated with foliage leaves of previous
-
-            year's shoot (i.e. below terminal bud), and some terminal buds. Vegetative bud scales moderately to densely unicellular-pubescent abaxially and often with scattered multicellular gland-headed and eglandular hairs, especially near apex or along midvein, moderately to densely unicellular-pubescent adaxially; margin fringed with unicellular hairs, the lowermost scales often with aristate apices or rudimentary blades. Leaves deciduous, dull bluish green (glaucous) to rarely dark green adaxially, pale to whitish green abaxially, turning red in autumn, alternate (with internodes becoming more closely spaced towards tip of shoot). Blade membranaceous to char-taceous, elliptic or oblong to obovate, 1-8.3 x0.4-3cm; base cuneate or acute to rounded, apex acute to rounded, usually with a short mucro; midvein strongly raised and prominent abaxially, the secondary veins flat to slightly raised abaxially; adaxial surface, including midvein, sparsely to moderately covered with short unicellular hairs and multicellular eglandular and gland-headed hairs; abaxial surface, including midvein and higher order veins, moderately to densely covered with short unicellular hairs and moderately covered with multicellular eglandular and gland-headed hairs, the eglandular hairs of midvein larger than those of higher order veins and lamina; margin entire, revolute to less commonly plane, fringed with multicellular eglandular hairs and with inconspicuous unicellular hairs; petiole l-12mm long, moderately to densely unicellular-pubescent, and with scattered multicellular eglandular and gland-headed hairs, the base of petiole slightly expanded at point of attachment. Flower buds terminal (rarely also from axillary buds just below terminal bud), larger than, but otherwise ± similar to, vegetative buds, more frequently densely unicellular-pubescent. Flowers appearing before or occasionally with the leaves; inflorescence an umbellate raceme of 3-9 flowers. Pedicels 3-10mm long, usually glaucous, usually sparsely covered with multicellular gland-headed hairs, and lacking to densely covered with unicellular hairs. Calyx lobes broadly subovate to triangular-ovate, 0.4-1.5 x 0.7-1.6mm; apex rounded; margin fringed with multicellular gland-headed and/or eglandular hairs, and unicellular hairs; adaxial surface glabrous; abaxial surface usually glaucous, glabrous to densely unicellular-pubescent, often with scattered multicellular gland-headed hairs. Corolla rose-purple to pink, or rarely white, unspotted to red-spotted on upper 3 lobes, fragrant, strongly zygomorphic, clearly 2-lipped due to the very extensive fusion of the upper 3 lobes contrasting with the 2 elongate and widely divergent lower lobes, the tube essentially lacking due to deep division between 2 lower lobes and between lateral and lower lobes; upper corolla lobe 0.3-0.8 x 0.25-0.5cm; lateral lobes 1.2-2.2 x 0.25-0.4cm (closely fused with upper lobe); lower lobes 1.2-2.2 x 0.25-0.6cm (± free); outer and inner surfaces of corolla glabrous to occasionally with few scattered multicellular gland-headed hairs. Stamens 10, slightly declinate to ± straight, variable in length, 0.9-2cm long, exserted (due to deeply cut corolla); filaments glabrous distally, becoming densely covered with flattened unicellular hairs proximally. Ovary L7-3mm long, densely covered with multicellular gland-headed and eglandular hairs and unicellular hairs; style slightly declinate, 1.1-2.2cm long, glabrous to unicellular-pubescent near base, often glaucous. Capsules ovoid to nearly cylindrical and curved near the base, slightly grooved, 0.7-1.7x0.3-0.6cm, often glaucous, moderately covered with multicellular gland-headed and eglandular hairs and densely covered with short unicellular hairs. Seeds brown, flattened ellipsoid, 1-2.7x0.4-1.3mm; testa tightly appressed to body, with cells at each end elongated and expanded, forming a flat tail 0.3-0.9mm long, the cells covering central portion of body elongate and non-bulging, those along margin expanded and flattened (in plane parallel to compression of seed body), forming an irregular wing-like fringe connecting the tails. Cotyledons lacking multicellular hairs and with venation represented by rnidvein and one (or very few) poorly developed secondary veins. 2´ = 52 (Sax, 1930).
+Rhizomatous shrub to lm tall; bark reddish brown to grey, smooth to very slightly longitudinally grooved and flaking; young twigs pale to reddish brown, often with a pink tinge, usually glaucous, sparsely covered with multicellular eglandular and shorter gland-headed hairs, moderately to densely covered with short unicellular hairs; new foliage shoots arising from axillary buds associated with foliage leaves of previous year's shoot (i.e. below terminal bud), and some terminal buds. Vegetative bud scales moderately to densely unicellular-pubescent abaxially and often with scattered multicellular gland-headed and eglandular hairs, especially near apex or along midvein, moderately to densely unicellular-pubescent adaxially; margin fringed with unicellular hairs, the lowermost scales often with aristate apices or rudimentary blades. Leaves deciduous, dull bluish green (glaucous) to rarely dark green adaxially, pale to whitish green abaxially, turning red in autumn, alternate (with internodes becoming more closely spaced towards tip of shoot). Blade membranaceous to char-taceous, elliptic or oblong to obovate, 1-8.3 x0.4-3cm; base cuneate or acute to rounded, apex acute to rounded, usually with a short mucro; midvein strongly raised and prominent abaxially, the secondary veins flat to slightly raised abaxially; adaxial surface, including midvein, sparsely to moderately covered with short unicellular hairs and multicellular eglandular and gland-headed hairs; abaxial surface, including midvein and higher order veins, moderately to densely covered with short unicellular hairs and moderately covered with multicellular eglandular and gland-headed hairs, the eglandular hairs of midvein larger than those of higher order veins and lamina; margin entire, revolute to less commonly plane, fringed with multicellular eglandular hairs and with inconspicuous unicellular hairs; petiole l-12mm long, moderately to densely unicellular-pubescent, and with scattered multicellular eglandular and gland-headed hairs, the base of petiole slightly expanded at point of attachment. Flower buds terminal (rarely also from axillary buds just below terminal bud), larger than, but otherwise ± similar to, vegetative buds, more frequently densely unicellular-pubescent. Flowers appearing before or occasionally with the leaves; inflorescence an umbellate raceme of 3-9 flowers. Pedicels 3-10mm long, usually glaucous, usually sparsely covered with multicellular gland-headed hairs, and lacking to densely covered with unicellular hairs. Calyx lobes broadly subovate to triangular-ovate, 0.4-1.5 x 0.7-1.6mm; apex rounded; margin fringed with multicellular gland-headed and/or eglandular hairs, and unicellular hairs; adaxial surface glabrous; abaxial surface usually glaucous, glabrous to densely unicellular-pubescent, often with scattered multicellular gland-headed hairs. Corolla rose-purple to pink, or rarely white, unspotted to red-spotted on upper 3 lobes, fragrant, strongly zygomorphic, clearly 2-lipped due to the very extensive fusion of the upper 3 lobes contrasting with the 2 elongate and widely divergent lower lobes, the tube essentially lacking due to deep division between 2 lower lobes and between lateral and lower lobes; upper corolla lobe 0.3-0.8 x 0.25-0.5cm; lateral lobes 1.2-2.2 x 0.25-0.4cm (closely fused with upper lobe); lower lobes 1.2-2.2 x 0.25-0.6cm (± free); outer and inner surfaces of corolla glabrous to occasionally with few scattered multicellular gland-headed hairs. Stamens 10, slightly declinate to ± straight, variable in length, 0.9-2cm long, exserted (due to deeply cut corolla); filaments glabrous distally, becoming densely covered with flattened unicellular hairs proximally. Ovary L7-3mm long, densely covered with multicellular gland-headed and eglandular hairs and unicellular hairs; style slightly declinate, 1.1-2.2cm long, glabrous to unicellular-pubescent near base, often glaucous. Capsules ovoid to nearly cylindrical and curved near the base, slightly grooved, 0.7-1.7x0.3-0.6cm, often glaucous, moderately covered with multicellular gland-headed and eglandular hairs and densely covered with short unicellular hairs. Seeds brown, flattened ellipsoid, 1-2.7x0.4-1.3mm; testa tightly appressed to body, with cells at each end elongated and expanded, forming a flat tail 0.3-0.9mm long, the cells covering central portion of body elongate and non-bulging, those along margin expanded and flattened (in plane parallel to compression of seed body), forming an irregular wing-like fringe connecting the tails. Cotyledons lacking multicellular hairs and with venation represented by rnidvein and one (or very few) poorly developed secondary veins. 2´ = 52 (Sax, 1930).
 
 ## Distribution
 Distributed from Newfoundland and Quebec, south to eastern Pennsylvania and northern New Jersey.
 
 ## Altitude
-
+0-1900m
 
 ## Habitat
 In moist to dry coniferous or deciduous forests, thickets, open rocky areas, lake margins, bogs, and swamps
@@ -63,7 +53,9 @@ In moist to dry coniferous or deciduous forests, thickets, open rocky areas, lak
 
                        
 ## Notes
+Rhododendron canadense is a very distinctive species most closely related to R. vaseyi; see discussion following the latter species. Although originally described as the genus Rhodora (Linnaeus, 1762), its close relationship to Rhododendron has long been recognized (see Rehder, 1921a; Sleumer, 1949, 1980; Wood, 1961).
 
+The artificial (and infertile) hybrid between Rhododendron canadense and R. molle (Blume) G. Don subsp. japonicum (A. Gray) K. Kron is referred to as R. fraseri W. Watson (Gard. Chron., ser. 3, 67: 225, 1920). Representative specimens of this entity include: Fraser s.n., 1929 (A); C.E.K. C.K.A., Arnold Arbor. #15359 (A); Rehder s.n., 29 iii 1920 (A); E.J.P., Arnold Arbor. #15359-1 (A).
 
 ## References
 

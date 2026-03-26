@@ -1,9 +1,9 @@
 ---
 scientificname: Rhododendron yelliotii
-scientificnameauthorship: ''
+scientificnameauthorship: 'Warb.'
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: 'Vireya'
+section: 'Albovireya'
 subsection: ''
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
@@ -14,15 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Bot. Jahr. 1892. 16: 25.'
+namepublishedin: 'Bot. Jahrb. Syst. 16(1): 25 (1892)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000405539'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333628-1'
 verified: null
 layout: default
-title: Rhododendron yelliotii
+title: Rhododendron yelliotii Warb.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,15 +44,20 @@ Erect, much-branched and mostly compact shrub or tree, to 12m. Twigs 1–2mm in 
 Papua New Guinea, Star Mts, Finisterre Mts, Mt Saruwaged region, Mt Wilhelm, Kubor Range, Mt Michael, Mt Giluwe, Mt Dickson, Mt Albert Edward, Murray Pass and the Owen Stanley Range.
 
 ## Altitude
-
+1300-3680m
 
 ## Habitat
 Epiphytic in montane forest, but mostly terrestrial at the forest margins, on steep slopes or exposed rocks or grassland above the forest line, often along streams
 
 ## Nomenclatural History
+The epithet was corrected to yelliotii with the orginal spelling yelliottii treated as an orthographic variant (Argent 2006 & 2015).
+
 R. saruwagedicum Foerster, Fedde Rep. 1914. 13: 222. R. saruwagedicum Foerster var. alpinum Sleumer, Flora Malesiana 1966. I, 6(4): 487, f.5. R. yelliottii Warb. loc. cit. (orthographic error).
                        
 ## Notes
+Named after Herr Yelliot, member of the Fini­s­terre Expedition on which this was first collected and who contributed greatly to the success of the expedition. 
+
+Often confused with R. inconspicuum; for differences see under that species. I have followed van Royen & Kores (1982) in treating this species in a broad sense and including R. saruwagedicum as a synonym. I have not seen the type material to examine the bud scales. All the material to hand shows the bract margins fringed with scales, not ciliate, as is described for R. yelliotii, although, with hairs present on the outside of the bracts, it often looks as if the bracts are ciliate. The fact that Sleumer’s (1966) description of the bracts (perulae) of R. sarawagedicum did not mention a ciliate margin is further evidence that this species does not belong in Discovireya. There is a great deal of variation in the many specimens, much of it due to the very broad altitudinal range ascribed to this species: the high altitude forms have very small leaves as might be expected. A specimen collected by Vinas & Thomas (LAE 59673) from the north valley of Mt Capella (Star Mts) has stalked scales on the ovary and very irregularly toothed leaf margins but there are no bracts present in the specimen seen. This may represent a hybrid or an undescribed species.
 
 
 ## References

@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron yungningense
-scientificnameauthorship: ''
+scientificnameauthorship: 'Balf.f. & Hutch.'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Lapponica'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Stevenson (ed.) The Species of Rhododendron 436 (1930)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048208'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333631-1.'
 verified: null
 layout: default
-title: Rhododendron yungningense
+title: Rhododendron yungningense Balf.f. & Hutch.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
