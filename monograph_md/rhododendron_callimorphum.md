@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron callimorphum
-scientificnameauthorship: ''
+scientificnameauthorship: 'Balf.f. & W.W.Sm.'
 genus: Rhododendron
 subgenus: 'Hymenanthes'
 section: 'Pontica'
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: 'urn:lsid:ipni.org:names:332086-1'
 verified: null
 layout: default
-title: Rhododendron callimorphum
+title: Rhododendron callimorphum Balf.f. & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
