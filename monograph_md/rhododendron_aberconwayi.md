@@ -5,9 +5,9 @@ description: 碟花杜鹃, Lord Aberconway's rhododendron
 scientificname: Rhododendron aberconwayi
 scientificnameauthorship: Cowan
 genus: Rhododendron
-subgenus: subg. Hymenanthes (Blume) K.Koch
-section: sect. Pontica G.Don
-subsection: subsect. Irrorata Sleumer
+subgenus: Hymenanthes
+section: Pontica
+subsection: Irrorata
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
