@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron faithae
-scientificnameauthorship: ''
+scientificname: Rhododendron faithiae
+scientificnameauthorship: 'Chun'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Fortunea'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Sunyatsenia 2: 78 t.19 (1934).'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048961'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332410-1'
 verified: null
 layout: default
-title: Rhododendron faithae
+title: Rhododendron faithiae Chun
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,10 +50,10 @@ China (Guangdong, Guangxi)
 
 
 ## Nomenclatural History
-
+Rhododendron faithae Chun (ortho. var.)
                        
 ## Notes
-
+Closely resembling R. diaprepes but differing in the glabrous filaments, etc. A large-leaved fruiting specimen from Jiangxi, Wilson 'A'1686, may belong to this species.
 
 ## References
 

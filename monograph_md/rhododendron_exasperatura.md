@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron exasperatura
-scientificnameauthorship: ''
+scientificname: Rhododendron exasperatum
+scientificnameauthorship: 'Tagg'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Barbata'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 16: 192 (1931).'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048812'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332398-1'
 verified: null
 layout: default
-title: Rhododendron exasperatura
+title: Rhododendron exasperatum Tagg
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,16 +44,16 @@ Shrub or small tree, 2-5m; young shoots with a dense covering of stout gland-tip
 NE India (Arunachal Pradesh), ne Upper Burma, China (SE Xizang)
 
 ## Altitude
-
+3000-3700m
 
 ## Habitat
 Abies forest, etc.
 
 ## Nomenclatural History
-
+Rhododendron exasperatura Tagg. (Ortho var.)
                        
 ## Notes
-
+A distinctive species on account of its large leaves and characteristic indumentum; allied to R. erosum.
 
 ## References
 

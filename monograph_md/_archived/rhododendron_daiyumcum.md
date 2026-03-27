@@ -1,6 +1,6 @@
 ---
-scientificname: Rhododendron daiyumcum
-scientificnameauthorship: ''
+scientificname: Rhododendron daiyunicum
+scientificnameauthorship: '	P.C.Tam'
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bull. Bot. Res. N.E. Forest. Inst. 2(4): 78 (1982)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001229777'
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: 'wfo-0001048927'
 ipni_id: ''
 verified: null
 layout: default
-title: Rhododendron daiyumcum
+title: Rhododendron daiyunicum P.C.Tam
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,9 +50,12 @@ China (Fujian)
 
 
 ## Nomenclatural History
+Now considered a synony of Rhododendron mariesii Hemsl. & E.H.Wilson.
+
 R. daiyuenshanicum P.X.Tan, Survey Gen. Rhododendron S. China 96, f.22, 3 (1983). Type as above.
                        
 ## Notes
+Rhododendron daiyumcum 	P.C.Tam (Ortho var)
 
 
 ## References

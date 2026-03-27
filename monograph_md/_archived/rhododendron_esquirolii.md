@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron esquirolii
-scientificnameauthorship: "H.L\xE9v."
+scientificnameauthorship: "H.Lév."
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -18,11 +18,11 @@ namepublishedin: Feddes Repert. 12:102 (1913)
 doi: ''
 wfo_id: wfo-0001048920
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: 'wfo-0001229732'
 ipni_id: urn:lsid:ipni.org:names:332388-1
 verified: null
 layout: default
-title: "Rhododendron esquirolii H.L\xE9v."
+title: "Rhododendron esquirolii H.Lév."
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,6 +50,7 @@ China (Guizhou)
 
 
 ## Nomenclatural History
+Now considered a  synonymm of Rhododendron stamineum Franch. 
 R. vaniotii Leveille, Feddes Repert. 13:148 (1914). Type: China, Guizhou, Gan-chuan, iv 1912, Cavalerie 3886 (holo. E).
                        
 ## Notes

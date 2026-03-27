@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron coeloneuron
-scientificnameauthorship: ''
+scientificnameauthorship: 'Diels'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Taliensia'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -14,16 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Bot. Jahrb. 29: 513 (1900); Fang, Contr. biol. Lab. Sci. Soc. China,
-  Bot. ser. 12: 57 (1939), descr. ampl.'
+namepublishedin: 'Bot. Jahrb. 29: 513 (1900)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001220550'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332214-1'
 verified: null
 layout: default
-title: Rhododendron coeloneuron
+title: Rhododendron coeloneurum Diels
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -51,10 +50,12 @@ China (SE Sichuan)
 
 
 ## Nomenclatural History
-
+Rhododendron coeloneuron Diels (Ortho var.)
                        
 ## Notes
+Descrption amplified in Fang, Contr. biol. Lab. Sci. Soc. China, Bot. ser. 12: 57 (1939).
 
+Distantly allied to R. rufum and R. wiltonii
 
 ## References
 

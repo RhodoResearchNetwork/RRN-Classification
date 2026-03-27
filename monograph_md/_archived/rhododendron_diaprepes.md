@@ -1,6 +1,6 @@
 ---
 scientificname: Rhododendron diaprepes
-scientificnameauthorship: ''
+scientificnameauthorship: 'Balf.f. & W.W.Sm.'
 genus: Rhododendron
 subgenus: ''
 section: ''
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 10:100 (1917).
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048680'
 wfo_parent_id: ''
-wfo_accepted_id: ''
-ipni_id: ''
+wfo_accepted_id: 'wfo-0001229324'
+ipni_id: 'urn:lsid:ipni.org:names:923775-1'
 verified: null
 layout: default
-title: Rhododendron diaprepes
+title: Rhododendron diaprepes Balf.f. & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,6 +50,7 @@ NE Burma, China (W Yunnan), Laos
 
 
 ## Nomenclatural History
+Rhododendron decorum subsp. diaprepes (Balf.f. & W.W.Sm.) T.L.Ming ()
 R. rarile Balfour f. & W. W. Smith, ibid. 10: 139 (1917). Type: China, W Yunnan, hills around Tengyueh, 6000-7000 ft, v 1912, Forrest 7940 (holo. E)
                        
 ## Notes

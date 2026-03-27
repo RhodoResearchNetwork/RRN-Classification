@@ -18,7 +18,7 @@ namepublishedin: 'Bull. Bot. Res. N.E. Forest. Inst. 2(4): 80, f.2 (1983)'
 doi: ''
 wfo_id: wfo-0001229813
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: 'wfo-0001229807'
 ipni_id: urn:lsid:ipni.org:names:900764-1
 verified: null
 layout: default
@@ -44,16 +44,20 @@ Shrub, c.2m; young shoots densely spreading-setulose and glandular-hairy. Leaves
 China (E Guangdong, S Hunan, W Fujian).
 
 ## Altitude
-
+Around 1100m
 
 ## Habitat
 Open woodland
 
 ## Nomenclatural History
+Now considered a syn of Rhododendron taipaoense T.C.Wu & P.C.Tam
+
 R. hepaticum P.X.Tan, Survey Gen. Rhododendron S. China 98, f.3 (1983). Type: China, Guangdong, Jiaoling Xian, Shek- 104 EDINB. J. BOT. 47(2) wu Chuen, Tafong Chang, 1100m, 9 v 1957, L. Teng 4669 (holo. IBSC). R. piceum P.X.Tan, Bull. Bot. Res. N.E. Forest. Inst. 2(4): 83 (1983). Type: China, Fujian, Sanming Xian, Shiao-Hu, 20 iv 1964, Fujian Forestry Coll. (Silvicul Fok.) 86 (holo. IBSC).
                        
 ## Notes
+R. hepaticum differs from R. florulentum only in the somewhat larger leaves and is thus treated here as a synonym.
 
+The discoloured leaves that are used to separate R. piceum from the other two species may well be due to different drying techniques and are not of any taxonomic value.
 
 ## References
 

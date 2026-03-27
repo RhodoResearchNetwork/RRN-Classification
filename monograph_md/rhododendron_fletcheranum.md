@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron fletcheranum
-scientificnameauthorship: ''
+scientificname: Rhododendron fletcherianum
+scientificnameauthorship: 'Davidian'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Maddenia'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: R.H.S. Rhodo. & Camellia Yearbook 16:103 (1961)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048054'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332435-1'
 verified: null
 layout: default
-title: Rhododendron fletcheranum
+title: Rhododendron fletcherianum Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,16 +44,16 @@ Very similar to R. valentinianum, differing as follows: leaves with distant scal
 China (SE Xizang)
 
 ## Altitude
-
+4000-4300 m
 
 ## Habitat
-Forests at 4000-4300 m
+Forests at 
 
 ## Nomenclatural History
-
+Rhododendron fletcheranum Davidian (Ortho var.)
                        
 ## Notes
-
+Known only from two collections; vicariating with the very similar R. valentinianum
 
 ## References
 

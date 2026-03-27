@@ -18,7 +18,7 @@ namepublishedin: 'Reinwardtia 1960. 5: 127.'
 doi: ''
 wfo_id: wfo-0000400486
 wfo_parent_id: ''
-wfo_accepted_id: ''
+wfo_accepted_id: 'wfo-0001382944'
 ipni_id: urn:lsid:ipni.org:names:331913-1
 verified: null
 layout: default
@@ -53,7 +53,7 @@ Said to be common in secondary forest on stony and peaty soil.
 
                        
 ## Notes
-
+Considered a syn of Rhododendron radians var. pubitubum.
 
 ## References
 

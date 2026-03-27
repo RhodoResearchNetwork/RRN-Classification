@@ -1,8 +1,8 @@
 ---
 scientificname: Rhododendron dimitrium
-scientificnameauthorship: ''
+scientificnameauthorship: 'Balf.f. & Forrest'
 genus: Rhododendron
-subgenus: ''
+subgenus: 'Hymenanthes'
 section: ''
 subsection: ''
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 11: 50 (1919).'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048699'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332339-1'
 verified: null
 layout: default
-title: Rhododendron dimitrium
+title: Rhododendron dimitrium Balf.f. & Forrest
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Shrub, 1 — 3m. Leaves coriaceous, oblanceolate to elliptic, 6.5—9 X 2.2-3.2c
 China (W Yunnan, around Dali)
 
 ## Altitude
-
+3000-3350m
 
 ## Habitat
 Open thickets
@@ -53,7 +53,7 @@ Open thickets
 
                        
 ## Notes
-
+This species is apparently intermediate between subsections Irrorata and Neriiflora; the corolla suggests an alliance with the former and the well-developed calyx with the latter. R. dimitrium might be a hybrid between R. irroratum and R. neriiflorum, both of which occur in the vicinity of Dali. However, the five specimens seen suggest that a stabilised population has developed thus meriting formal taxonomic treatment.
 
 ## References
 
