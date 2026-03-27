@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Bot. Jahrb. 29: 513 (1900)
+namepublishedin: 'Bot. Jahrb. 29: 513 (1900)'
 doi: ''
 wfo_id: 'wfo-0001220550'
 wfo_parent_id: ''
@@ -24,6 +24,7 @@ verified: null
 layout: default
 title: Rhododendron coeloneurum Diels
 ---
+
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
 
