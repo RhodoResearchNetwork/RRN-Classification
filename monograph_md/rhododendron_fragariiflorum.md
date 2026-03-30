@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron fragariflorum
+scientificname: Rhododendron fragariiflorum
 scientificnameauthorship: 'Kingdon-Ward'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Fragariflora'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: 'urn:lsid:ipni.org:names:332450-1'
 verified: null
 layout: default
-title: Rhododendron fragariflorum Kingdon-Ward
+title: Rhododendron fragariiflorum Kingdon-Ward
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -53,7 +53,7 @@ Indonesia, New Guinea (W), mountain valleys above Wamena. First recorded from a 
 
                        
 ## Notes
-
+Now considered a variety. Rhododendron × psammogenes nothovar. inundatum (Sleumer) Danet
 
 ## References
 
