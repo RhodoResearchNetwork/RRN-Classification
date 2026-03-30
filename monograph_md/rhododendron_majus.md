@@ -19,7 +19,7 @@ doi: ''
 wfo_id: wfo-1000002498
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332842-1'
 verified: null
 layout: default
 title: Rhododendron majus (J.J.Sm.) Sleumer
@@ -44,12 +44,15 @@ Shrub to 2m. Twigs 3–5mm in diameter, rounded, tips laxly scaly; internodes 6�
 Indonesia, New Guinea (W), Hubrecht Mts, Lake Habbema and Mt Jaya. Papua New Guinea, Marafunga and a form on Mt Wilhelm with 5-flowered umbels.
 
 ## Altitude
-
+2770-3000m
 
 ## Habitat
 Terrestrial or epiphytic, in open places or on stream banks within the mossy forest.
 
 ## Nomenclatural History
+Latin – maius – large, alluding to the larger flowers than those of R. carringtoniae.
+Sleumer’s adoption of the name as ‘maius’ cannot be maintained under the existing Code and the name reverts to J.J. Smith’s original spelling ‘majus’.
+
 R. carringtoniae F.Muell. var. majus J.J.Sm., Nova Guinea 1917. 12: 511.
                        
 ## Notes

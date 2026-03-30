@@ -398,19 +398,19 @@
 | [_Rhododendron longiflorum Lindl._](/taxa/rhododendron-longiflorum) | wfo-0000399916 | urn:lsid:ipni.org:names:332790-1 | ✔️ |
 | [_Rhododendron longiperulatum Hayata_](/taxa/rhododendron-longiperulatum) | wfo-0001220144 | urn:lsid:ipni.org:names:332792-1 | ✔️ |
 | [_Rhododendron longipes Rehder & E.H.Wilson_](/taxa/rhododendron-longipes) | wfo-0001048936 | urn:lsid:ipni.org:names:332793-1 | ✔️ |
-| [_Rhododendron longistyium_](/taxa/rhododendron-longistyium) |  |  | ⚠️ |
+| [_Rhododendron longistylum Rehder & E.H.Wilson_](/taxa/rhododendron-longistylum) | wfo-0001230689 | urn:lsid:ipni.org:names:332794-1 | ✔️ |
 | [_Rhododendron loniceriflorum P.C.Tam_](/taxa/rhododendron-loniceriflorum) | wfo-0001229874 | urn:lsid:ipni.org:names:900779-1 | ✔️ |
 | [_Rhododendron loranthiflorum Sleumer_](/taxa/rhododendron-loranthiflorum) | wfo-0000399935 | urn:lsid:ipni.org:names:332798-1 | ✔️ |
 | [_Rhododendron lowii Hook.f._](/taxa/rhododendron-lowii) | wfo-0000399930 | urn:lsid:ipni.org:names:332801-1 | ✔️ |
 | [_Rhododendron lowndesii Davidian_](/taxa/rhododendron-lowndesii) | wfo-0000399931 | urn:lsid:ipni.org:names:332802-1 | ✔️ |
-| [_Rhododendron ludiowii_](/taxa/rhododendron-ludiowii) |  |  | ⚠️ |
+| [_Rhododendron ludlowii Cowan_](/taxa/rhododendron-ludlowii) | wfo-0001048749 | urn:lsid:ipni.org:names:332806-1 | ✔️ |
 | [_Rhododendron ludwigianum Hosseus_](/taxa/rhododendron-ludwigianum) | wfo-0000399928 | urn:lsid:ipni.org:names:332807-1 | ✔️ |
 | [_Rhododendron lukiangense Franch._](/taxa/rhododendron-lukiangense) | wfo-0001220767 | urn:lsid:ipni.org:names:332808-1 | ✔️ |
 | [_Rhododendron luraluense Sleumer_](/taxa/rhododendron-luraluense) | wfo-0000399936 | urn:lsid:ipni.org:names:332809-1 | ✔️ |
 | [_Rhododendron luteiflorum (Davidian) Cullen_](/taxa/rhododendron-luteiflorum) | wfo-0000399983 | urn:lsid:ipni.org:names:332814-1 | ✔️ |
 | [_Rhododendron lutescens Franch._](/taxa/rhododendron-lutescens) | wfo-0001048159 | urn:lsid:ipni.org:names:332816-1 | ✔️ |
 | [_Rhododendron luteum Sweet_](/taxa/rhododendron-luteum) | wfo-0000399990 | urn:lsid:ipni.org:names:332817-1 | ✔️ |
-| [_Rhododendron lyi_](/taxa/rhododendron-lyi) |  |  | ⚠️ |
+| [_Rhododendron lyi H.Lév._](/taxa/rhododendron-lyi) | wfo-0001048072 | urn:lsid:ipni.org:names:332819-1 | ✔️ |
 | [_Rhododendron macabeanum G.Watt ex Balf.f._](/taxa/rhododendron-macabeanum) | wfo-0000399988 | urn:lsid:ipni.org:names:332822-1 | ✔️ |
 | [_Rhododendron macgregoriae F.Muell._](/taxa/rhododendron-macgregoriae) | wfo-0000399989 | urn:lsid:ipni.org:names:332823-1 | ✔️ |
 | [_Rhododendron macrophyllum D.Don ex G.Don_](/taxa/rhododendron-macrophyllum) | wfo-0001047073 | urn:lsid:ipni.org:names:332831-1 | ✔️ |
@@ -420,7 +420,7 @@
 | [_Rhododendron maddenii Hook.f._](/taxa/rhododendron-maddenii) | wfo-0001048032 | urn:lsid:ipni.org:names:332836-1 | ✔️ |
 | [_Rhododendron madulidii Argent_](/taxa/rhododendron-madulidii) | wfo-0000399979 | urn:lsid:ipni.org:names:1004737-1 | ✔️ |
 | [_Rhododendron magnificum Kingdon-Ward_](/taxa/rhododendron-magnificum) | wfo-0001229358 | urn:lsid:ipni.org:names:332837-1 | ✔️ |
-| [_Rhododendron majus (J.J.Sm.) Sleumer_](/taxa/rhododendron-majus) | wfo-1000002498 |  | ⚠️ |
+| [_Rhododendron majus (J.J.Sm.) Sleumer_](/taxa/rhododendron-majus) | wfo-1000002498 | urn:lsid:ipni.org:names:332842-1 | ✔️ |
 | [_Rhododendron malayanum Jack_](/taxa/rhododendron-malayanum) | wfo-0000399995 | urn:lsid:ipni.org:names:332845-1 | ✔️ |
 | [_Rhododendron mallotum Balf.f. & Kingdon-Ward_](/taxa/rhododendron-mallotum) | wfo-0001229608 | urn:lsid:ipni.org:names:332847-1 | ✔️ |
 | [_Rhododendron mariae Hance_](/taxa/rhododendron-mariae) | wfo-0001047941 | urn:lsid:ipni.org:names:332855-1 | ✔️ |
@@ -472,15 +472,15 @@
 | [_Rhododendron myrsinites Sleumer_](/taxa/rhododendron-myrsinites) | wfo-0000400258 | urn:lsid:ipni.org:names:332928-1 | ✔️ |
 | [_Rhododendron myrtifolium Schott & Kotschy_](/taxa/rhododendron-myrtifolium) | wfo-0000400253 | urn:lsid:ipni.org:names:332929-1 | ✔️ |
 | [_Rhododendron naamkwanense Merr._](/taxa/rhododendron-naamkwanense) | wfo-0001047943 | urn:lsid:ipni.org:names:332932-1 | ✔️ |
-| [_Rhododendron nakaharai_](/taxa/rhododendron-nakaharai) |  |  | ⚠️ |
+| [_Rhododendron nakaharai Hayata_](/taxa/rhododendron-nakaharae) | wfo-0001220805 | urn:lsid:ipni.org:names:332934-1 | ✔️ |
 | [_Rhododendron nakotiltum Balf.f. & Forrest_](/taxa/rhododendron-nakotiltum) | wfo-0001048796 | urn:lsid:ipni.org:names:332936-1 | ✔️ |
 | [_Rhododendron nanophyton Sleumer_](/taxa/rhododendron-nanophyton) | wfo-0000400274 | urn:lsid:ipni.org:names:332938-1 | ✔️ |
 | [_Rhododendron natalicium Sleumer_](/taxa/rhododendron-natalicium) | wfo-0000400273 | urn:lsid:ipni.org:names:332942-1 | ✔️ |
 | [_Rhododendron neobritannicum Sleumer_](/taxa/rhododendron-neobritannicum) | wfo-0000400269 | urn:lsid:ipni.org:names:332946-1 | ✔️ |
-| [_Rhododendron neriiflonim_](/taxa/rhododendron-neriiflonim) |  |  | ⚠️ |
+| [_Rhododendron neriiflorum Franch._](/taxa/rhododendron-neriiflorum) | wfo-0001229622 | urn:lsid:ipni.org:names:332948-1 | ✔️ |
 | [_Rhododendron neriifolium Schltr._](/taxa/rhododendron-neriifolium) | wfo-0000400313 | urn:lsid:ipni.org:names:332949-1 | ✔️ |
 | [_Rhododendron nervulosum Sleumer_](/taxa/rhododendron-nervulosum) | wfo-0001420139 | urn:lsid:ipni.org:names:50906490-1 | ✔️ |
-| [_Rhododendron ngawchangense_](/taxa/rhododendron-ngawchangense) |  |  | ⚠️ |
+| [_Rhododendron ngawchangense M.N.Philipson & Philipson_](/taxa/rhododendron-ngawchangense) | wfo-0000400307 | urn:lsid:ipni.org:names:900784-1 | ✔️ |
 | [_Rhododendron nhatrangense Dop_](/taxa/rhododendron-nhatrangense) | wfo-0000400348 | urn:lsid:ipni.org:names:332951-1 | ✔️ |
 | [_Rhododendron nieuwenhuisii J.J.Sm._](/taxa/rhododendron-nieuwenhuisii) | wfo-0000400349 | urn:lsid:ipni.org:names:332952-1 | ✔️ |
 | [_Rhododendron nigroglandulosum Nitz._](/taxa/rhododendron-nigroglandulosum) | wfo-0001229561 | urn:lsid:ipni.org:names:968071-1 | ✔️ |

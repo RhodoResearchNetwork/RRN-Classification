@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron lyi
-scientificnameauthorship: ''
+scientificnameauthorship: 'H.Lév.'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Maddenia'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Feddes Rep. 13:147 (1914)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048072'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332819-1'
 verified: null
 layout: default
-title: Rhododendron lyi
+title: Rhododendron lyi H.Lév.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

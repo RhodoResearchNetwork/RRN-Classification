@@ -16,10 +16,10 @@ tags:
 - Rhododendron
 namepublishedin: 'Bot. Jahr. 1918. 55: 149.'
 doi: ''
-wfo_id: wfo-0000400313
+wfo_id: 'wfo-0000400313'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: urn:lsid:ipni.org:names:332949-1
+ipni_id: 'urn:lsid:ipni.org:names:332949-1'
 verified: null
 layout: default
 title: Rhododendron neriifolium Schltr.

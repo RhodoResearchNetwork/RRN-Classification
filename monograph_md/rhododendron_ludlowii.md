@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron ludiowii
-scientificnameauthorship: ''
+scientificname: Rhododendron ludlowii
+scientificnameauthorship: 'Cowan'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Uniflora'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 19:243 (1937)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001048749'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332806-1'
 verified: null
 layout: default
-title: Rhododendron ludiowii
+title: Rhododendron ludlowii Cowan
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Small, spreading shrub to 0.3 m. Young growth lepidote with somewhat stalked sca
 China (S Xizang)
 
 ## Altitude
-
+round 4000m
 
 ## Habitat
 Open rocky hillsides,

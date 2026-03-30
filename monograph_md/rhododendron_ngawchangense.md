@@ -1,9 +1,9 @@
 ---
 scientificname: Rhododendron ngawchangense
-scientificnameauthorship: ''
+scientificnameauthorship: 'M.N.Philipson & Philipson'
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: 'Azaleastrum'
+section: 'Azaleastrum'
 subsection: ''
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
@@ -15,14 +15,15 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: Notes R.B.G. Edinb. 40:228 (1982)
-doi: ''
-wfo_id: ''
+doi: 'https://doi.org/10.24823/nrbge.1982.3269'
+
+wfo_id: 'wfo-0000400307'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:900784-1'
 verified: null
 layout: default
-title: Rhododendron ngawchangense
+title: Rhododendron ngawchangense M.N.Philipson & Philipson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +45,7 @@ Tall shrub with young branches minutely puberulous. Leaves glabrous except for t
 NE Burma
 
 ## Altitude
-
+1300-3300m
 
 ## Habitat
 In scrub
@@ -53,7 +54,9 @@ In scrub
 R. medoense Fang & M. Y. He var. adenostylum Fang & M. Y. He, Bull. Bot. Res. 3,1:2, f. 2 (1983). Type: NE Upper Burma, Tzi-tzo-ti, 3300m, iv 1925, Forrest 26420 (holo. PE-n.v., iso. E).
                        
 ## Notes
+Published as _ngawchangensis_, an error due to the gender of Rhododendron. Correctable to _ngawchangense_.
 
+This species is distinguished from all other members of section Azaleastrum by the densely glandular lower part of the style. The small, narrow, chartaceous, rather than coriaceous leaves with inconspicuous venation are also characteristic. It is a local species, occurring in the south western limits of the range of R. leptothrium. In Cox, Farrer's Last Journey (1926), p. 220, this plant is provisionally identified as R. leptothrium.
 
 ## References
 

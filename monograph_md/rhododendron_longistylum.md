@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron longistyium
-scientificnameauthorship: ''
+scientificname: Rhododendron longistylum
+scientificnameauthorship: 'Rehder & E.H.Wilson'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Tephropepla'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Pi. Wils. 1:514 (1913)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001230689'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332794-1'
 verified: null
 layout: default
-title: Rhododendron longistyium
+title: Rhododendron longistylum Rehder & E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Shrub, 0.5-2 m. Young growth sparsely lepidote and usually puberulent. Leaves ob
 China (C Sichuan)
 
 ## Altitude
-
+1300-2300m
 
 ## Habitat
 Cliffs
