@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron huianum
-scientificnameauthorship: ''
+scientificname: Rhododendron huanum
+scientificnameauthorship: 'W.P.Fang'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Fortunea'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Lab. Sci. Soc. China Bot. ser. 12: 38 (1939).'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001229351'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332595-1'
 verified: null
 layout: default
-title: Rhododendron huianum
+title: Rhododendron huanum W.P.Fang
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,16 +44,18 @@ Shrub or small tree, 2-9 m. Leaves oblanceolate, 10-12.5 x 2-3cm,3.3-5 x as long
 China (NE Yunnan, Sichuan)
 
 ## Altitude
-
+1000-2700m
 
 ## Habitat
 
 
 ## Nomenclatural History
-
+Published as _Rhododendron huianum_ correctable to _huanum_.
                        
 ## Notes
+Allied to R. davidii but differing in the larger calyx. Fang (loc. cit.) remarks on the similarity in leaf shape with R. calophytum var. openshawianum but notes the obvious floral difference between the two species.
 
+Named for Hsen Hsu Hu (1894-1968).
 
 ## References
 

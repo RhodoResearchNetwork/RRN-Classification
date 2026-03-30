@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron indieum
-scientificnameauthorship: ''
+scientificname: Rhododendron indicum
+scientificnameauthorship: '(L.) Sweet'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -14,15 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Brit. Fl. Garden ser. 2,2: t.128 (1833)'
+namepublishedin: 'Hort. Brit. [Sweet], ed. 2. 343 (1830)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000400687'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:1137397-2'
 verified: null
 layout: default
-title: Rhododendron indieum
+title: Rhododendron indicum (L.) Sweet
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,16 +50,12 @@ Japan (S & W Honshu, Kyushyu)
 Wooded river banks, etc.; also widely cultivated and sometimes escaping.
 
 ## Nomenclatural History
-Azalea indica L., Sp. PI. 150 (1753)óbased on 'Chamae- rhododendron
+Azalea indica L., Sp. PI. 150 (1753)óbased on 'Chamae- rhododendron exoticum, amplissimis floribus lilaceis' of Brey- nius(Prodr. 1:23,1680). A. macraniha Bunge, Mem. Soc. Etr. Acad. Sci. St. Petersb. 2: 115 (1833).
 
-                        exoticum, amplissimis floribus lilaceis' of Brey- nius(Prodr. 1:23,1680). A.
-
-                        macraniha Bunge, Mem. Soc. Etr. Acad. Sci. St. Petersb. 2: 115 (1833).
-
-                        Described from China, Beijing. A. indica L. var. lateritia Lindley, Edward's Bot. Reg. 20: t.1700 (1834). Type: a plant originating in China, cultivated by Mr Knight (or the plate drawn from it). Rhododendron decumbens [D. Don ex] G. Don, Gen Syst. 3: 846 (1834). Described from a plant grown by Knight & Tate, originally from China. Azalea danielsiana Paxton, Mag. Bot. 1: t.129 (1834). Type: the plate cited, of a plant grown by Mr Tate, originally introduced by Capt Daniels in 1830. Rhododendron crispiflorum Hooker, Bot. Mag. 79: t.4726 (1853). Type: a plant grown by Standish & Noble, originating as a garden plant in China (or the plate drawn from it). R. breynii Planchon, Fl. des Serres 9:77 (1855), nom. superfluum. R. sieboldii Miquel var. serrulatum Miquel, Ann. Mus. Bot. Lugduno-Batavum 1: 33 (1863). Described from a specimen collected by Keiske on Mt Kirisima, Satsuma Prov, Japan. R. balsaminiflorum Carriere, Rev. Hort. 432, t. (1882). Type: a double-flowered form from Japan, brought by Viesener to France in 1872 (or the plate cited). R. hannoense Nakai, Bot. Mag. (Tokyo) 29: 261 (1915)ó Japanese text. Type not known.
+Described from China, Beijing. A. indica L. var. lateritia Lindley, Edward's Bot. Reg. 20: t.1700 (1834). Type: a plant originating in China, cultivated by Mr Knight (or the plate drawn from it). Rhododendron decumbens [D. Don ex] G. Don, Gen Syst. 3: 846 (1834). Described from a plant grown by Knight & Tate, originally from China. Azalea danielsiana Paxton, Mag. Bot. 1: t.129 (1834). Type: the plate cited, of a plant grown by Mr Tate, originally introduced by Capt Daniels in 1830. Rhododendron crispiflorum Hooker, Bot. Mag. 79: t.4726 (1853). Type: a plant grown by Standish & Noble, originating as a garden plant in China (or the plate drawn from it). R. breynii Planchon, Fl. des Serres 9:77 (1855), nom. superfluum. R. sieboldii Miquel var. serrulatum Miquel, Ann. Mus. Bot. Lugduno-Batavum 1: 33 (1863). Described from a specimen collected by Keiske on Mt Kirisima, Satsuma Prov, Japan. R. balsaminiflorum Carriere, Rev. Hort. 432, t. (1882). Type: a double-flowered form from Japan, brought by Viesener to France in 1872 (or the plate cited). R. hannoense Nakai, Bot. Mag. (Tokyo) 29: 261 (1915)ó Japanese text. Type not known.
                        
 ## Notes
-
+Many forms of this species are known in cultivation. All are presumed to have been derived from Japanese stock though many 18th and 19th century introductions into Europe arrived via China. The extensive synonymy, of which only a part is cited above, reflects the popularity of this species in cultivation.
 
 ## References
 

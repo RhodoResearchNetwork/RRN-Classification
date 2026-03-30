@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron kanehirai
-scientificnameauthorship: ''
+scientificname: Rhododendron kanehirae
+scientificnameauthorship: 'E.H.Wilson'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: Wilson & Render, Monogr. Azaleas 28 (1921)
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000400036'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332664-1'
 verified: null
 layout: default
-title: Rhododendron kanehirai
+title: Rhododendron kanehirae E.H.Wilson
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,16 +44,16 @@ Much-branched shrub, 1-2.5m; young shoots densely clothed with adpressed broad f
 China (N Taiwan)
 
 ## Altitude
-
+Ca. 400m
 
 ## Habitat
 
 
 ## Nomenclatural History
-
+The orginial spelling of _Rhododendron kanehirai_ is correctable to _Rhododendron kanehirae_
                        
 ## Notes
-
+Apparently closely allied to R. tashiroi from the southern islands of Japan and possibly conspecific. Wilson originally described the flower colour as being scarlet or carmine; later authors have suggested that it is pink. Also allied to R. indicum but differing in the number of stamens, etc.
 
 ## References
 

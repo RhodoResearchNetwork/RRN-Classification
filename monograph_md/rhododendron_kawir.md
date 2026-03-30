@@ -1,9 +1,9 @@
 ---
-scientificname: Rhododendron kawir
-scientificnameauthorship: ''
+scientificname: Rhododendron × kawir
+scientificnameauthorship: 'Danet'
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: 'Vireya'
+section: 'Hadranthe'
 subsection: ''
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Adansonia 2005. 27(2): 273.'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000400039'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:77071329-1'
 verified: null
 layout: default
-title: Rhododendron kawir
+title: Rhododendron × kawir Danet
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,7 +44,7 @@ Erect shrub to 4m. Twigs cylindrical, 3.5–5mm in diameter, scaly when young, r
 Indonesia, New Guinea (W).
 
 ## Altitude
-
+2280m
 
 ## Habitat
 Growing at 2280m altitude at the edge of secondary forest with other ericaceous pioneers.
@@ -53,7 +53,11 @@ Growing at 2280m altitude at the edge of secondary forest with other ericaceous 
 
                        
 ## Notes
+Derived from the local name attributed to this species by the inhabitants of Dimba.
 
+Known only from the type collection made in the valley at Nambulaga near Dimba village, near Mt Jayawijaya.
+
+Said to be similar to R. rappardii and R. opulentum. Rhododendron rappardii differs in having shorter flowers up to 55mm long, anthers which are pointed at the base not rounded and a style which is both hairy and scaly in the basal ½. Rhododendron opulentum differs with its prominent reticulation which can be seen on both sides of the leaves; it also has hairy pedicels and a calyx and a corolla which is glabrous outside and a style with hairs not scales in the basal part.
 
 ## References
 

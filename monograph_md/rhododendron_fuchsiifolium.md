@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron fuchsiifoiium
-scientificnameauthorship: ''
+scientificnameauthorship: 'H.Lév.'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Repert. Spec. Nov. Regni Veg. 13: 148 (1914)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001228367'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332460-1'
 verified: null
 layout: default
-title: Rhododendron fuchsiifoiium
+title: Rhododendron fuchsiifoiium H.Lév.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
