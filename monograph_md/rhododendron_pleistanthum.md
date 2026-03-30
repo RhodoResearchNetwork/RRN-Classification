@@ -51,7 +51,7 @@ Forest and forest margins, thickets, rarely on cliffs and in meadows, 2000-4500 
 
 ## Nomenclatural History
 R. hormophorum Hort., pro parte.
-                       
+Rhododendron pleistanthum Balf.f. ex Hutch., Sp. Rhodod. 763, in clavi, 806 (1930). This is superfluous. The 1932 publication is valid.               
 ## Notes
 
 

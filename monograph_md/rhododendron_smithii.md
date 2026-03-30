@@ -19,7 +19,7 @@ doi: ''
 wfo_id: 'wfo-0000405475'
 wfo_parent_id: ''
 wfo_accepted_id: 'wfo-0001048756'
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333370-1'
 verified: null
 layout: default
 title: Rhododendron smithii Nutt. ex Hook.

@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron praeteritium
+scientificname: Rhododendron praeteritum
 scientificnameauthorship: ''
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Fortunea'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -14,15 +14,15 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Gard. Chron. 71: 149 (1922).'
+namepublishedin: 'Gard. Chron. ser. 3, 71: 149 (1922)'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0001229333'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333127-1'
 verified: null
 layout: default
-title: Rhododendron praeteritium
+title: Rhododendron praeteritum
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

@@ -1,10 +1,10 @@
 ---
-scientificname: Rhododendron poromense
+scientificname: Rhododendron poremense
 scientificnameauthorship: ''
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Vireya'
+section: 'Schistanthe'
+subsection: 'Euvireya'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Argent, G.
@@ -16,13 +16,13 @@ tags:
 - Rhododendron
 namepublishedin: 'Bot. Jahr. 1937. 68: 203.'
 doi: ''
-wfo_id: ''
+wfo_id: 'wfo-0000400179'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:333116-1'
 verified: null
 layout: default
-title: Rhododendron poromense
+title: Rhododendron poremense J.J.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

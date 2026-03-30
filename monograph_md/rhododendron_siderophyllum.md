@@ -2,9 +2,9 @@
 scientificname: Rhododendron siderophyllum
 scientificnameauthorship: 'Franch.'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Triflora'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Cullen, J.
@@ -16,8 +16,8 @@ tags:
 - Rhododendron
 namepublishedin: Journ. de Bot. 12:262 (1898)
 doi: ''
-wfo_id: ''
-wfo_parent_id: 'wfo-0001048090'
+wfo_id: 'wfo-0001048090'
+wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: 'urn:lsid:ipni.org:names:333352-1'
 verified: null

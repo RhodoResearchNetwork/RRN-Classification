@@ -15,7 +15,7 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: 'Trans. R. Soc. Vict. n.s. 1889. 1(2): 23.'
-doi: ''
+doi: 'https://www.biodiversitylibrary.org/page/36890888'
 wfo_id: wfo-0001257576
 wfo_parent_id: ''
 wfo_accepted_id: ''
@@ -50,8 +50,8 @@ Papua New Guinea, West Sepik District, above Telefomin; Western Highlands, Nondu
 Epiphytic or terrestrial on ridges (including limestone ridges)
 
 ## Nomenclatural History
+The  original spelling of this name is _phaeochitum_ in reference to the dark scaley covering on the leaves. The widely used _phaeochiton_ is at best an orthographic variant, but more likely DB error that has propagated through multiple resources like IPNI/POWO/GBIF and is an error.
 
-                       
 ## Notes
 
 
