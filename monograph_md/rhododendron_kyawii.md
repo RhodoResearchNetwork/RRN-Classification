@@ -1,10 +1,10 @@
 ---
 scientificname: Rhododendron kyawii
-scientificnameauthorship: ''
+scientificnameauthorship: 'Lace & W.W.Sm.'
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Parishia'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: 'urn:lsid:ipni.org:names:332703-1'
 verified: null
 layout: default
-title: Rhododendron kyawii
+title: Rhododendron kyawii Lace & W.W.Sm.
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
