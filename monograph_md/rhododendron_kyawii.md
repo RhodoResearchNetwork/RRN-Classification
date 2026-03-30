@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron kyawi
+scientificname: Rhododendron kyawii
 scientificnameauthorship: ''
 genus: Rhododendron
 subgenus: ''
@@ -15,14 +15,14 @@ tags:
 - taxonomy
 - Rhododendron
 namepublishedin: 'Notes R.B.G. Edinb. 8: 216, t.141 (1914).'
-doi: ''
-wfo_id: ''
+doi: 'https://doi.org/10.24823/nrbge.1914.2249'
+wfo_id: 'wfo-0001229601'
 wfo_parent_id: ''
 wfo_accepted_id: ''
-ipni_id: ''
+ipni_id: 'urn:lsid:ipni.org:names:332703-1'
 verified: null
 layout: default
-title: Rhododendron kyawi
+title: Rhododendron kyawii
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -44,22 +44,19 @@ Shrub, 3-9m; young shoots densely stellate-tomentose and glandular-setose. Leave
 NE Upper Burma, China (W Yunnan)
 
 ## Altitude
-
+1800-3650m
 
 ## Habitat
 Thickets
 
 ## Nomenclatural History
 R. agapetum Balfour f. & Kingdon-Ward, Notes R.B.G. Edinb. 13: 58 (1920). Type:
-
-   E Upper Burma, Hpimaw, 6000-7000ft, 31 vii 1914, Kingdon-Ward 1851 (holo. E). R. prophantum
-
-   Balfour f. & Forrest, Notes R.B.G. Edinb. 13: 58 (1920). Type: NE Upper Burma,
-
-   N'Maikha/Salween divide, v 1918 Forrest 17928 (holo. E)
+E Upper Burma, Hpimaw, 6000-7000ft, 31 vii 1914, Kingdon-Ward 1851 (holo. E). R. prophantum Balfour f. & Forrest, Notes R.B.G. Edinb. 13: 58 (1920). Type: NE Upper Burma,  N'Maikha/Salween divide, v 1918 Forrest 17928 (holo. E)
                        
 ## Notes
+At one extreme there are forms with short petioles and styles glandular only below. These have been referred to R. agapetum. However, these forms completely intergrade with R. kyawi so that there is no justification for maintaining the former as distinct at any rank.
 
+Species epithet commemorats Maung [Myint?] Kyaw. Image of the collector can be seen [here](https://data.rbge.org.uk/herb/E00001150), on Type material at Edinburgh.
 
 ## References
 

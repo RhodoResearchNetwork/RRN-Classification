@@ -359,7 +359,7 @@
 | [_Rhododendron korthalsii Miq._](/taxa/rhododendron-korthalsii) | wfo-0000400060 | urn:lsid:ipni.org:names:332696-1 | ✔️ |
 | [_Rhododendron kotschyi Simonk._](/taxa/rhododendron-kotschyi) | wfo-0000400034 | urn:lsid:ipni.org:names:332698-1 | ✔️ |
 | [_Rhododendron kwangtungense Merr. & Chun_](/taxa/rhododendron-kwangtungense) | wfo-0001048960 | urn:lsid:ipni.org:names:332702-1 | ✔️ |
-| [_Rhododendron kyawi_](/taxa/rhododendron-kyawi) |  |  | ⚠️ |
+| [_Rhododendron kyawii_](/taxa/rhododendron-kyawii) | wfo-0001229601 | urn:lsid:ipni.org:names:332703-1 | ✔️ |
 | [_Rhododendron lacteum Franch._](/taxa/rhododendron-lacteum) | wfo-0001048895 | urn:lsid:ipni.org:names:332704-1 | ✔️ |
 | [_Rhododendron laetum J.J.Sm._](/taxa/rhododendron-laetum) | wfo-0000400104 | urn:lsid:ipni.org:names:332708-1 | ✔️ |
 | [_Rhododendron lagunculicarpum J.J.Sm._](/taxa/rhododendron-lagunculicarpum) | wfo-0000400106 | urn:lsid:ipni.org:names:332710-1 | ✔️ |
