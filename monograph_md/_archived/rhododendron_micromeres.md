@@ -53,7 +53,7 @@ Epiphytic, 2450-3350(-4300) m
 
                        
 ## Notes
-
+Considered a syn of Rhododendron leptocarpum Nutt. 
 
 ## References
 

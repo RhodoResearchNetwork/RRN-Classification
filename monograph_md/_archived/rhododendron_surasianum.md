@@ -55,6 +55,7 @@ Jungle
 ## Notes
 A specimen from the S Shan states of Burma (McGregor 534) appears to be the same as the Thailand material except in its very broad leaves and shorter corolla.
 
+Considered a syn of R. cilicalyx now.
 ## References
 
 [Cullen, J. (1980) A Revision of Rhododendron 1: Subgenus Rhododendron sections Rhododendron & Pogonanthum. Notes from the Royal Botanic Garden Edinburgh 39(1):55](https://doi.org/10.24823/nrbge.1980.3250)

@@ -1,5 +1,5 @@
 ---
-scientificname: Rhododendron viscidifoiium
+scientificname: Rhododendron viscidifolium
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subgenus: Hymenanthes
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333575-1
 verified: null
 layout: default
-title: Rhododendron viscidifoiium Davidian
+title: Rhododendron viscidifolium Davidian
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

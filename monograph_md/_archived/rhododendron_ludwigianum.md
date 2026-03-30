@@ -53,7 +53,7 @@ Ridges
 
                        
 ## Notes
-
+Considered a synonym of Rh. cilicaylx
 
 ## References
 

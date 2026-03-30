@@ -53,7 +53,7 @@ Mixed woodland
 R. rufescens P.X.Tan, Bull. Bot. Res. N.E. Forest. Inst.2(4): 86 (1982) nonFranchet (1895). R. apricum P.X.Tan vat. falcinellum P.X.Tan, op. cit. 80 (1982); R. falcinellum P.X.Tan, Survey Gen. Rhododendron S. China 98, f.23 (1983). Type: China, Fujian, Anxi Xian, lu-tin, 20 iv 1974, L.G. Li(L.KLee)740125 (holo. Inst. Mat. Med. Fujian). ? R. spadiceum P.X.Tan, Bull. Bot. Res. N.E. Forest. Inst. 2(4): 87 (1982). Type: China, Fujian, Shanghang Xian, Chungtu, 8 v 1974, Y.Z. Jiang 740703 (holo. Inst. Mat. Med. Fujian).
                        
 ## Notes
-
+Considered a syn of Rhododendron taipaoense T.C.Wu & P.C.Tam
 
 ## References
 

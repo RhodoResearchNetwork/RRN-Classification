@@ -2,7 +2,7 @@
 scientificname: Rhododendron × psammogenes nothovar. inundatum
 scientificnameauthorship:  (Sleumer) Danet
 genus: Rhododendron
-subgenus: 'Vireay'
+subgenus: 'Vireya'
 section: 'Siphonovireya'
 subsection: ''
 source: ''

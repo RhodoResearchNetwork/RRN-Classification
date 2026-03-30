@@ -2,9 +2,9 @@
 scientificname: Rhododendron viscigemmatum
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
-subgenus: ''
-section: ''
-subsection: ''
+subgenus: 'Rhododendron'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -14,7 +14,7 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Guihaia 3: 181 (1983)'
+namepublishedin: 'Survey Gen. Rhododendron S. China : 107 (1983)'
 doi: ''
 wfo_id: wfo-0001229862
 wfo_parent_id: ''
@@ -38,7 +38,7 @@ Verified by: {{ page.verified }}
 
 
 ## Description
-Shrub, c.3.5m, shoots punctulate, adpressed-hairy; floral buds viscid. Leaves dimorphic, chartaceous; spring leaves elliptic to oblong-elliptic, 1.5-1.8 x c.0.7cm, apex shortly acute or acuminate, margin entire, ciliate, upper surface adprcssed-strigose, lower surface paler, with a brown pannose indumentum intermixed with brownish strigose hairs; summer leaves 5~9mm long, otherwise as for spring leaves; petioles 4-6mm, densely brownish-sericeous-strigose. Inflorescence 3-4~flowered; floral buds viscid; pedicels 3-4.5mm, densely strigose. Calyx small, brownish-strigose, lobes cren-ate. Corolla funnel-campanulate, c.9mm, colour unknown; tube 4 x 3mm, outer surface hairy, inner surface glabrous. Stamens 5, filaments puberulent below. Ovary strigose; style densely strigose in lower half. Capsule ovoid, 5-6 x c.4.5mm, strigose.
+Shrub, c.3.5m, shoots punctulate, adpressed-hairy; floral buds viscid. Leaves dimorphic, chartaceous; spring leaves elliptic to oblong-elliptic, 1.5-1.8 x c.0.7cm, apex shortly acute or acuminate, margin entire, ciliate, upper surface adprcssed-strigose, lower surface paler, with a brown pannose indumentum intermixed with brownish strigose hairs; summer leaves 5-9mm long, otherwise as for spring leaves; petioles 4-6mm, densely brownish-sericeous-strigose. Inflorescence 3-4-flowered; floral buds viscid; pedicels 3-4.5mm, densely strigose. Calyx small, brownish-strigose, lobes cren-ate. Corolla funnel-campanulate, c.9mm, colour unknown; tube 4 x 3mm, outer surface hairy, inner surface glabrous. Stamens 5, filaments puberulent below. Ovary strigose; style densely strigose in lower half. Capsule ovoid, 5-6 x c.4.5mm, strigose.
 
 ## Distribution
 China (NE Guangxi)
@@ -50,10 +50,13 @@ China (NE Guangxi)
 
 
 ## Nomenclatural History
-
+Also published in Guihaia 3(3): 181 (1983)
                        
 ## Notes
 
+Allied by the author to R. polyraphidoideum and R. mariae but apparently closer to R. minutiflorum, a species that also occurs in Eastern Guangxi, in the same general area as the type of R. viscigemmatum.
+
+We have seen only a photograph of the type of R. viscigemmatum from which the leaf measurements have been taken. Tan describes them as being 25-35mm long but this does not tally with the photograph which is of the only specimen known.
 
 ## References
 

@@ -53,7 +53,7 @@ Thickets, open forest
 R. linearifolium Sieb. & Zucc. var. macrosepalum (Maxim.) Makino, Bot. Mag. (Tokyo) 27: 108 (1913). R. hortense Nakai in Nakai & Koidz., Trees Shrubs Japan ed. 1: 122(1922).
                        
 ## Notes
-
+Considered a syn of Rhododendron stenopetalum (R.Hogg) Mabb.
 
 ## References
 

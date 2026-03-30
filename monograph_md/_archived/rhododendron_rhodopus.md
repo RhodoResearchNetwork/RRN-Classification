@@ -53,7 +53,7 @@ Apparently terrestrial
 
                        
 ## Notes
-
+Considered a syn of Rhododendron bloembergenii
 
 ## References
 
