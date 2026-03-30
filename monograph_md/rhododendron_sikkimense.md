@@ -3,8 +3,8 @@ layout: default
 title: Rhododendron sikkimense D.K.Pradhan
 nav: false
 genus: Rhododendron
-subgenus: ''
-section: ''
+subgenus: 'Hymenanthes'
+section: 'Pontica'
 subsection: ''
 scientificname: Rhododendron sikkimense
 scientificnameauthorship: D.K.Pradhan
@@ -37,7 +37,7 @@ verified: A.Elliott
 
 ## Taxonomic Overview  
 
-Pradhan and Lachungpa (1990) did not cite a holotype so thier name is invalidly published. The name was validated by Pradhan (2023). 
+This taxon was orginally described as a hybrid possibly between R. thomsonii and R. campanulatum. Based on the currect description is it difficult make an assessment as to which subsection it belongs. 
 
 ## Description  
 
@@ -54,5 +54,3 @@ Endemic to the Sikkim.
 Pradhan (2023) validated the publication, but cited it as a nom. nov., rather than a tax. nov. and with the aa correctable typographic error in the epithet ending -ensis rather than, -ense. He also cited the Edinburgh specimen as a lectotype rather than a holotype, this is correctable under Art. 40.1 of the Mardid code.
 
 This record recieved updated IPNI and WFO IDs for the validated name, the author string and publication details updated to reflect the data in those records.
-
----
