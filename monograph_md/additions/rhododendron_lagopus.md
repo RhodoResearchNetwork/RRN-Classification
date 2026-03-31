@@ -6,8 +6,8 @@ scientificname: Rhododendron lagopus
 scientificnameauthorship: Nakai
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Brachycalyces
 source: WFO December 2025
 identifier: wfo-0000400101
 author: WFO

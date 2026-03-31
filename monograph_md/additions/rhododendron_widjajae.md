@@ -6,8 +6,8 @@ scientificname: Rhododendron widjajae
 scientificnameauthorship: Argent & Mambrasar
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Malesia
 source: WFO December 2025
 identifier: wfo-1000002525
 author: WFO

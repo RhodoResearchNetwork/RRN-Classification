@@ -6,8 +6,8 @@ scientificname: Rhododendron bailiense
 scientificnameauthorship: Y.P.Ma, Zhang & D.F.Chamb.
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Fortunea
 source: WFO December 2025
 identifier: wfo-0001341491
 author: WFO

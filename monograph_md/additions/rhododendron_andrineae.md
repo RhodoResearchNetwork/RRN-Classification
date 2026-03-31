@@ -6,7 +6,7 @@ scientificname: Rhododendron andrineae
 scientificnameauthorship: Danet
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Hadranthe
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001334722

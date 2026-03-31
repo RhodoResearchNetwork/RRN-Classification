@@ -6,8 +6,8 @@ scientificname: Rhododendron tyaihyonii
 scientificnameauthorship: S.Sakag., H.J.Choi & S.C.Kim
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Triflora
 source: WFO December 2025
 identifier: wfo-1000078496
 author: WFO

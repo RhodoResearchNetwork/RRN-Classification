@@ -6,8 +6,8 @@ scientificname: Rhododendron makinoi
 scientificnameauthorship: Tagg ex Nakai
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Pontica
 source: WFO December 2025
 identifier: wfo-0000400004
 author: WFO

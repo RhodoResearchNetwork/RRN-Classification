@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 sarcodes Argent & Madulid"
+title: "Rhododendron × sarcodes Argent & Madulid"
 description: null
-scientificname: "Rhododendron \xD7 sarcodes"
+scientificname: "Rhododendron × sarcodes"
 scientificnameauthorship: Argent & Madulid
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Malesia
 source: WFO December 2025
 identifier: wfo-0000405387
 author: WFO

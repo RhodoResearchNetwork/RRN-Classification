@@ -6,8 +6,8 @@ scientificname: Rhododendron rawatii
 scientificnameauthorship: I.D.Rai & B.S.Adhikari
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Fulgensia
 source: WFO December 2025
 identifier: wfo-0001334385
 author: WFO

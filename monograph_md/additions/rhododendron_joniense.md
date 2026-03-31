@@ -6,8 +6,8 @@ scientificname: Rhododendron joniense
 scientificnameauthorship: Ching & C.H.Yang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Lapponica
 source: WFO December 2025
 identifier: wfo-0001249373
 author: WFO

@@ -6,8 +6,8 @@ scientificname: Rhododendron hirsutipetiolatum
 scientificnameauthorship: R.C.Fang & A.L.Chang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Heliolepida
 source: WFO December 2025
 identifier: wfo-0001250538
 author: WFO

@@ -6,8 +6,8 @@ scientificname: Rhododendron kantoense
 scientificnameauthorship: S.Sakag. & Y.Watan.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Triflora
 source: WFO December 2025
 identifier: wfo-1000078468
 author: WFO

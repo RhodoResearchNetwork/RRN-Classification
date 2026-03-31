@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 ootrichum Sleumer"
+title: "Rhododendron × ootrichum Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 ootrichum"
+scientificname: "Rhododendron × ootrichum"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-1000002529
 author: WFO

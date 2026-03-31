@@ -6,8 +6,8 @@ scientificname: Rhododendron hyugaense
 scientificnameauthorship: (T.Yamaz.) T.Yamaz
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Brachycalyces
 source: WFO December 2025
 identifier: wfo-0000400727
 author: WFO

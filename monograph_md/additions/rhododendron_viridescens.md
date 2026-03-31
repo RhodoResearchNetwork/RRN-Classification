@@ -6,8 +6,8 @@ scientificname: Rhododendron viridescens
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Trichoclada
 source: WFO December 2025
 identifier: wfo-0001230894
 author: WFO

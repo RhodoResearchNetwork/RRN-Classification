@@ -6,8 +6,8 @@ scientificname: Rhododendron poluninii
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Lanata
 source: WFO December 2025
 identifier: wfo-0000400164
 author: WFO

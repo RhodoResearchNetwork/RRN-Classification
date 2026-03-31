@@ -6,8 +6,8 @@ scientificname: Rhododendron nervosulum
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-0000400362
 author: WFO

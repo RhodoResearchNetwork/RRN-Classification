@@ -6,8 +6,8 @@ scientificname: Rhododendron urophyllum
 scientificnameauthorship: W.P.Fang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Parishia
 source: WFO December 2025
 identifier: wfo-0001219691
 author: WFO

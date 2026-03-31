@@ -6,8 +6,8 @@ scientificname: Rhododendron strigosum
 scientificnameauthorship: R.L.Liu
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-0001261393
 author: WFO

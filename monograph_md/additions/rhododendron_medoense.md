@@ -6,7 +6,7 @@ scientificname: Rhododendron medoense
 scientificnameauthorship: W.P.Fang & M.Y.He
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
+section: Azaleastrum
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001229730

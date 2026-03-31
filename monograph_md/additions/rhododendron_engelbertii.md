@@ -6,7 +6,7 @@ scientificname: Rhododendron engelbertii
 scientificnameauthorship: Mambrasar
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Schistanthe
 subsection: null
 source: WFO December 2025
 identifier: wfo-1000075094

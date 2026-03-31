@@ -6,8 +6,8 @@ scientificname: Rhododendron cockburnii
 scientificnameauthorship: (Argent, A.Lamb & Phillipps) Craven
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-0001341950
 author: WFO

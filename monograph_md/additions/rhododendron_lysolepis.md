@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 lysolepis Hutch."
+title: "Rhododendron × lysolepis Hutch."
 description: null
-scientificname: "Rhododendron \xD7 lysolepis"
+scientificname: "Rhododendron × lysolepis"
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Lapponica
 source: WFO December 2025
 identifier: wfo-0000399986
 author: WFO

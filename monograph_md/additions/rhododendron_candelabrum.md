@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 candelabrum Hook.f."
+title: "Rhododendron × candelabrum Hook.f."
 description: null
-scientificname: "Rhododendron \xD7 candelabrum"
+scientificname: "Rhododendron × candelabrum"
 scientificnameauthorship: Hook.f.
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Thomsonia
 source: WFO December 2025
 identifier: wfo-0000403316
 author: WFO

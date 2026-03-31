@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 detonsum Balf.f. & Farrer"
+title: "Rhododendron × detonsum Balf.f. & Farrer"
 description: null
-scientificname: "Rhododendron \xD7 detonsum"
+scientificname: "Rhododendron × detonsum"
 scientificnameauthorship: Balf.f. & Farrer
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Taliensia
 source: WFO December 2025
 identifier: wfo-0001048698
 author: WFO

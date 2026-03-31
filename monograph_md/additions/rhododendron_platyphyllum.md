@@ -6,7 +6,7 @@ scientificname: Rhododendron platyphyllum
 scientificnameauthorship: Franch. ex Balf.f. & W.W.Sm.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
+section: Pogonanthum
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001048772

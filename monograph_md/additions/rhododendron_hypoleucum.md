@@ -6,8 +6,8 @@ scientificname: Rhododendron hypoleucum
 scientificnameauthorship: (Kom.) Harmaja
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Ledum
 source: WFO December 2025
 identifier: wfo-0001279385
 author: WFO

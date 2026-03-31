@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 erythrocalyx Balf.f. & Forrest"
+title: "Rhododendron × erythrocalyx Balf.f. & Forrest"
 description: null
-scientificname: "Rhododendron \xD7 erythrocalyx"
+scientificname: "Rhododendron × erythrocalyx"
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Selensia
 source: WFO December 2025
 identifier: wfo-0001230972
 author: WFO

@@ -6,8 +6,8 @@ scientificname: Rhododendron jiulongshanense
 scientificnameauthorship: Xiang Chen & Jia Y.Huang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Fortunea
 source: WFO December 2025
 identifier: wfo-0000747042
 author: WFO

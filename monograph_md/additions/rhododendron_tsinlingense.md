@@ -6,8 +6,8 @@ scientificname: Rhododendron tsinlingense
 scientificnameauthorship: W.P.Fang ex J.Q.Fu
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Tephropepla
 source: WFO December 2025
 identifier: wfo-0001249389
 author: WFO

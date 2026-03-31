@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 variolosum Becc."
+title: "Rhododendron × variolosum Becc."
 description: null
-scientificname: "Rhododendron \xD7 variolosum"
+scientificname: "Rhododendron × variolosum"
 scientificnameauthorship: Becc.
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Malayovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000405706

@@ -6,8 +6,8 @@ scientificname: Rhododendron jinboense
 scientificnameauthorship: Xiang Chen & X.Chen
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Irrorata
 source: WFO December 2025
 identifier: wfo-0000747073
 author: WFO

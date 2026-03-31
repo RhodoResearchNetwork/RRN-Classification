@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 silvicola (Sleumer) Sleumer"
+title: "Rhododendron × silvicola (Sleumer) Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 silvicola"
+scientificname: "Rhododendron × silvicola"
 scientificnameauthorship: (Sleumer) Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Discovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-1000002530

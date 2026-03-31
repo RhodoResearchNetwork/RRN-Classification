@@ -6,8 +6,8 @@ scientificname: Rhododendron fuyuanense
 scientificnameauthorship: Z.H.Yang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Scabrifolium
 source: WFO December 2025
 identifier: wfo-0001238654
 author: WFO

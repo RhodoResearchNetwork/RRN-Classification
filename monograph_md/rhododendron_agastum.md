@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron \xD7 agastum"
+scientificname: "Rhododendron × agastum"
 scientificnameauthorship: Balf.f. & W.W.Sm.
 genus: Rhododendron
 subgenus: Hymenanthes
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:331889-1
 verified: null
 layout: default
-title: "Rhododendron \xD7 agastum Balf.f. & W.W.Sm."
+title: "Rhododendron × agastum Balf.f. & W.W.Sm."
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

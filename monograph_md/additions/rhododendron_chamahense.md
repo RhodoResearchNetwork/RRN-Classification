@@ -6,8 +6,8 @@ scientificname: Rhododendron chamahense
 scientificnameauthorship: Rafidah
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-1000002488
 author: WFO

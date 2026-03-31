@@ -6,8 +6,8 @@ scientificname: Rhododendron shimenense
 scientificnameauthorship: Q.X.Liu & C.M.Zhang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Argyrophylla
 source: WFO December 2025
 identifier: wfo-0001240253
 author: WFO

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 filidactylis R.I.Milne"
+title: "Rhododendron × filidactylis R.I.Milne"
 description: null
-scientificname: "Rhododendron \xD7 filidactylis"
+scientificname: "Rhododendron × filidactylis"
 scientificnameauthorship: R.I.Milne
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Pontica
 source: WFO December 2025
 identifier: wfo-0000400784
 author: WFO

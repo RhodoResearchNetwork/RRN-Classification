@@ -6,8 +6,8 @@ scientificname: Rhododendron pachyphyllum
 scientificnameauthorship: W.P.Fang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Maculifera
 source: WFO December 2025
 identifier: wfo-0001219681
 author: WFO

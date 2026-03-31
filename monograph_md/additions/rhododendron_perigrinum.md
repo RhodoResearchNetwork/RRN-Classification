@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Rhododendron \xD7 perigrinum Tagg"
+title: "Rhododendron × perigrinum Tagg"
 description: null
-scientificname: "Rhododendron \xD7 perigrinum"
+scientificname: "Rhododendron × perigrinum"
 scientificnameauthorship: Tagg
 genus: Rhododendron
 subgenus: Hymenanthes

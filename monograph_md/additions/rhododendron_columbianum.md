@@ -6,8 +6,8 @@ scientificname: Rhododendron columbianum
 scientificnameauthorship: (Piper) Harmaja
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Ledum
 source: WFO December 2025
 identifier: wfo-0001279384
 author: WFO

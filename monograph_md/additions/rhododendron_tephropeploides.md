@@ -6,8 +6,8 @@ scientificname: Rhododendron tephropeploides
 scientificnameauthorship: R.A.Baines & D.F.Chamb.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Tephropepla
 source: WFO December 2025
 identifier: wfo-1000002523
 author: WFO

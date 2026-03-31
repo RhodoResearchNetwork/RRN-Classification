@@ -6,8 +6,8 @@ scientificname: Rhododendron smokianum
 scientificnameauthorship: Ralf Bauer & Albach
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Caroliniana
 source: WFO December 2025
 identifier: wfo-1000000095
 author: WFO

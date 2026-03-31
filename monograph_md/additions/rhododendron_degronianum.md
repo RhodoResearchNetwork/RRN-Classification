@@ -6,8 +6,8 @@ scientificname: Rhododendron degronianum
 scientificnameauthorship: "Carri\xE8re"
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Pontica
 source: WFO December 2025
 identifier: wfo-0000400778
 author: WFO

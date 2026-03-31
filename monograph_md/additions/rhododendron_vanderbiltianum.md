@@ -6,8 +6,8 @@ scientificname: Rhododendron vanderbiltianum
 scientificnameauthorship: Merr.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Maddenia
 source: WFO December 2025
 identifier: wfo-0000405704
 author: WFO

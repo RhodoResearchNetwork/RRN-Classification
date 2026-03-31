@@ -6,8 +6,8 @@ scientificname: Rhododendron pilostylum
 scientificnameauthorship: W.K.Hu
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Maculifera
 source: WFO December 2025
 identifier: wfo-0001229392
 author: WFO

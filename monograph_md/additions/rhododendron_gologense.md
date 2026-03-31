@@ -6,8 +6,8 @@ scientificname: Rhododendron gologense
 scientificnameauthorship: C.J.Xu & Z.J.Zhao
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Lapponica
 source: WFO December 2025
 identifier: wfo-0001250570
 author: WFO

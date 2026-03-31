@@ -6,8 +6,8 @@ scientificname: Rhododendron diphrocalyx
 scientificnameauthorship: Balf.f.
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Glischrum
 source: WFO December 2025
 identifier: wfo-0001275638
 author: WFO

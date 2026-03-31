@@ -6,8 +6,8 @@ scientificname: Rhododendron riparioides
 scientificnameauthorship: (Cullen) Cubey
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Saluenensia
 source: WFO December 2025
 identifier: wfo-0001275564
 author: WFO

@@ -6,7 +6,7 @@ scientificname: Rhododendron bachii
 scientificnameauthorship: "H.L\xE9v."
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
+section: Azaleastrum
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001048922

@@ -6,7 +6,7 @@ scientificname: Rhododendron tubulosum
 scientificnameauthorship: Ching ex W.Y.Wang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
+section: Pogonanthum
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001249390

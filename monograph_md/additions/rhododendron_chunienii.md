@@ -6,8 +6,8 @@ scientificname: Rhododendron chunienii
 scientificnameauthorship: Chun & W.P.Fang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Maddenia
 source: WFO December 2025
 identifier: wfo-0001048048
 author: WFO

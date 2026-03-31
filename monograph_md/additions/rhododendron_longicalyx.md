@@ -6,8 +6,8 @@ scientificname: Rhododendron longicalyx
 scientificnameauthorship: M.Y.Fang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Campylocarpa
 source: WFO December 2025
 identifier: wfo-0001229380
 author: WFO

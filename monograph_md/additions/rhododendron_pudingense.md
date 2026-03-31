@@ -6,8 +6,8 @@ scientificname: Rhododendron pudingense
 scientificnameauthorship: X.Y.Dai, C.H.Yang & Y.P.Ma
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-1000002504
 author: WFO

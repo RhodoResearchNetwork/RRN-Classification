@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 sheilae Sleumer"
+title: "Rhododendron × sheilae Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 sheilae"
+scientificname: "Rhododendron × sheilae"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Schistanthe
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000405458

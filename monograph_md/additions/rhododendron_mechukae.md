@@ -6,8 +6,8 @@ scientificname: Rhododendron mechukae
 scientificnameauthorship: A.A.Mao & A.Paul
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Falconera
 source: WFO December 2025
 identifier: wfo-0001335226
 author: WFO

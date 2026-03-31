@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 niko-montanum Nakai"
+title: "Rhododendron × niko-montanum Nakai"
 description: null
-scientificname: "Rhododendron \xD7 niko-montanum"
+scientificname: "Rhododendron × niko-montanum"
 scientificnameauthorship: Nakai
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Pontica
 source: WFO December 2025
 identifier: wfo-0000400350
 author: WFO

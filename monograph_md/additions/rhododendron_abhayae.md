@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 abhayae L.K.Rai"
+title: "Rhododendron × abhayae L.K.Rai"
 description: null
-scientificname: "Rhododendron \xD7 abhayae"
+scientificname: "Rhododendron × abhayae"
 scientificnameauthorship: L.K.Rai
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
+section: Pontica
 subsection: null
 source: WFO December 2025
 identifier: wfo-1000036138

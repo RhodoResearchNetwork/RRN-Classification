@@ -6,7 +6,7 @@ scientificname: Rhododendron stanleyi
 scientificnameauthorship: S.James & Argent
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Hadranthe
 subsection: null
 source: WFO December 2025
 identifier: wfo-1000001733

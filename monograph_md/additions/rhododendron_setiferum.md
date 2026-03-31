@@ -6,8 +6,8 @@ scientificname: Rhododendron setiferum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Selensia
 source: WFO December 2025
 identifier: wfo-0001048724
 author: WFO

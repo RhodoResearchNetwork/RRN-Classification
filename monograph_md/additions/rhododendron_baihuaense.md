@@ -6,8 +6,8 @@ scientificname: Rhododendron baihuaense
 scientificnameauthorship: Y.P.Ma
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Tephropepla
 source: WFO December 2025
 identifier: wfo-0001336435
 author: WFO

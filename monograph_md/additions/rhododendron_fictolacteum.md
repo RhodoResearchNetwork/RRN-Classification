@@ -6,8 +6,8 @@ scientificname: Rhododendron fictolacteum
 scientificnameauthorship: Balf.f.
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Falconera
 source: WFO December 2025
 identifier: wfo-0001229363
 author: WFO

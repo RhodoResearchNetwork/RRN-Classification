@@ -6,8 +6,8 @@ scientificname: Rhododendron angiense
 scientificnameauthorship: J.J.Sm.
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-0000400603
 author: WFO

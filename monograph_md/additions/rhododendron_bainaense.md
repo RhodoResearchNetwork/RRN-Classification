@@ -6,8 +6,8 @@ scientificname: Rhododendron bainaense
 scientificnameauthorship: Xiang Chen & C.H.Yang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Heliolepida
 source: WFO December 2025
 identifier: wfo-1000002486
 author: WFO

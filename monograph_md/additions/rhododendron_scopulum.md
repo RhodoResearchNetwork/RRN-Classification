@@ -6,8 +6,8 @@ scientificname: Rhododendron scopulum
 scientificnameauthorship: (G.Z.Li) G.Z.Li
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Taliensia
 source: WFO December 2025
 identifier: wfo-0001039656
 author: WFO

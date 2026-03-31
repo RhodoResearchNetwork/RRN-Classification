@@ -6,8 +6,8 @@ scientificname: Rhododendron tianmenshanense
 scientificnameauthorship: C.L.Peng & L.H.Yan
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Taliensia
 source: WFO December 2025
 identifier: wfo-0000507900
 author: WFO

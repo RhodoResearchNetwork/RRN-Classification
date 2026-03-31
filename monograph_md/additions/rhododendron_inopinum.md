@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Rhododendron \xD7 inopinum Balf.f."
+title: "Rhododendron × inopinum Balf.f."
 description: null
-scientificname: "Rhododendron \xD7 inopinum"
+scientificname: "Rhododendron × inopinum"
 scientificnameauthorship: Balf.f.
 genus: Rhododendron
 subgenus: Hymenanthes

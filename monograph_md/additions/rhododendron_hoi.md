@@ -6,7 +6,7 @@ scientificname: Rhododendron hoi
 scientificnameauthorship: W.P.Fang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
+section: Pogonanthum
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001219687

@@ -6,8 +6,8 @@ scientificname: Rhododendron henanense
 scientificnameauthorship: W.P.Fang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Campylocarpa
 source: WFO December 2025
 identifier: wfo-0001219678
 author: WFO

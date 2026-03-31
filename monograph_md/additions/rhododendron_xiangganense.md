@@ -6,8 +6,8 @@ scientificname: Rhododendron xiangganense
 scientificnameauthorship: X.F.Jin & B.Y.Ding
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-0000750106
 author: WFO

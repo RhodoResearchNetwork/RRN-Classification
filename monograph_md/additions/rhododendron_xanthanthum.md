@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 xanthanthum (Balf.f. & Forrest) D.F.Chamb."
+title: "Rhododendron × xanthanthum (Balf.f. & Forrest) D.F.Chamb."
 description: null
-scientificname: "Rhododendron \xD7 xanthanthum"
+scientificname: "Rhododendron × xanthanthum"
 scientificnameauthorship: (Balf.f. & Forrest) D.F.Chamb.
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Neriiflora
 source: WFO December 2025
 identifier: wfo-0001273681
 author: WFO

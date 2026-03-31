@@ -6,8 +6,8 @@ scientificname: Rhododendron chilanshanense
 scientificnameauthorship: Kurash.
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Brachycalyces
 source: WFO December 2025
 identifier: wfo-0001247845
 author: WFO

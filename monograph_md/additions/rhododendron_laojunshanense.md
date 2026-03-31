@@ -6,8 +6,8 @@ scientificname: Rhododendron laojunshanense
 scientificnameauthorship: M.Y.Fang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Irrorata
 source: WFO December 2025
 identifier: wfo-0001229460
 author: WFO

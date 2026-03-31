@@ -6,8 +6,8 @@ scientificname: Rhododendron nayarii
 scientificnameauthorship: G.D.Pal
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Lepidota
 source: WFO December 2025
 identifier: wfo-0000400278
 author: WFO

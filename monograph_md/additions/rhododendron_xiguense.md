@@ -6,8 +6,8 @@ scientificname: Rhododendron xiguense
 scientificnameauthorship: Ching & H.P.Yang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Lapponica
 source: WFO December 2025
 identifier: wfo-0001249391
 author: WFO

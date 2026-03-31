@@ -6,8 +6,8 @@ scientificname: Rhododendron bijiangense
 scientificnameauthorship: T.L.Ming
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Neriiflora
 source: WFO December 2025
 identifier: wfo-0001229642
 author: WFO

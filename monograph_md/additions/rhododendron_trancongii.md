@@ -6,7 +6,7 @@ scientificname: Rhododendron trancongii
 scientificnameauthorship: Argent & Rushforth
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Pseudovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000747041

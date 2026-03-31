@@ -6,8 +6,8 @@ scientificname: Rhododendron lateriflorum
 scientificnameauthorship: R.C.Fang & A.L.Chang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Cinnabarina
 source: WFO December 2025
 identifier: wfo-0001250586
 author: WFO

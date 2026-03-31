@@ -6,8 +6,8 @@ scientificname: Rhododendron colemanii
 scientificnameauthorship: R.F.Mill.
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pentanthera
+subsection: Pentanthera
 source: WFO December 2025
 identifier: wfo-0000744590
 author: WFO

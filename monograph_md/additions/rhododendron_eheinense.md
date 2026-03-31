@@ -6,8 +6,8 @@ scientificname: Rhododendron eheinense
 scientificnameauthorship: M.Y.He & Z.J.Zhao
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Maddenia
 source: WFO December 2025
 identifier: wfo-0000400750
 author: WFO

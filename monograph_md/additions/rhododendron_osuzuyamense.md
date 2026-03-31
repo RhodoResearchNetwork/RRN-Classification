@@ -6,8 +6,8 @@ scientificname: Rhododendron osuzuyamense
 scientificnameauthorship: T.Yamaz
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Brachycalyces
 source: WFO December 2025
 identifier: wfo-0000400336
 author: WFO

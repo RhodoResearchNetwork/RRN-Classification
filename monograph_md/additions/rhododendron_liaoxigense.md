@@ -6,8 +6,8 @@ scientificname: Rhododendron liaoxigense
 scientificnameauthorship: S.L.Tung & Z.Lu
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Micrantha
 source: WFO December 2025
 identifier: wfo-0001250588
 author: WFO

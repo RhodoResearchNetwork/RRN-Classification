@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 geraldii (Hutch.) Ivens"
+title: "Rhododendron × geraldii (Hutch.) Ivens"
 description: null
-scientificname: "Rhododendron \xD7 geraldii"
+scientificname: "Rhododendron × geraldii"
 scientificnameauthorship: (Hutch.) Ivens
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Fortunea
 source: WFO December 2025
 identifier: wfo-0000400645
 author: WFO

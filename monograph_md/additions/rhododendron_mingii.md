@@ -6,8 +6,8 @@ scientificname: Rhododendron mingii
 scientificnameauthorship: Y.P.Ma, L.M.Gao & E.D.Liu
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Genestieriana
 source: WFO December 2025
 identifier: wfo-1000055594
 author: WFO

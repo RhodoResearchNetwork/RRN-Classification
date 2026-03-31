@@ -6,8 +6,8 @@ scientificname: Rhododendron komiyamae
 scientificnameauthorship: Makino
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-0000400048
 author: WFO

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 apradae U.Rai & Lama"
+title: "Rhododendron × apradae U.Rai & Lama"
 description: null
-scientificname: "Rhododendron \xD7 apradae"
+scientificname: "Rhododendron × apradae"
 scientificnameauthorship: U.Rai & Lama
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
+section: Pontica
 subsection: null
 source: WFO December 2025
 identifier: wfo-1000002483

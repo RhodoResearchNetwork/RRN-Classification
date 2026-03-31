@@ -6,7 +6,7 @@ scientificname: Rhododendron cravenii
 scientificnameauthorship: Danet
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Hadranthe
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001345025

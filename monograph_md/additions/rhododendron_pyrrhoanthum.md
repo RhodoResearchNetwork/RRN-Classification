@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Rhododendron \xD7 pyrrhoanthum Balf.f."
+title: "Rhododendron × pyrrhoanthum Balf.f."
 description: null
-scientificname: "Rhododendron \xD7 pyrrhoanthum"
+scientificname: "Rhododendron × pyrrhoanthum"
 scientificnameauthorship: Balf.f.
 genus: Rhododendron
 subgenus: Hymenanthes

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 bakeri (W.P.Lemmon & McKay) H.H.Hume"
+title: "Rhododendron × bakeri (W.P.Lemmon & McKay) H.H.Hume"
 description: null
-scientificname: "Rhododendron \xD7 bakeri"
+scientificname: "Rhododendron × bakeri"
 scientificnameauthorship: (W.P.Lemmon & McKay) H.H.Hume
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pentanthera
+subsection: Pentanthera
 source: WFO December 2025
 identifier: wfo-0001047064
 author: WFO

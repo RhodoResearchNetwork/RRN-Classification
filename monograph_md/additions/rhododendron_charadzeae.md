@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 charadzeae A.P.Khokhr. & Mazurenko"
+title: "Rhododendron × charadzeae A.P.Khokhr. & Mazurenko"
 description: null
-scientificname: "Rhododendron \xD7 charadzeae"
+scientificname: "Rhododendron × charadzeae"
 scientificnameauthorship: A.P.Khokhr. & Mazurenko
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Pontica
 source: WFO December 2025
 identifier: wfo-0000403034
 author: WFO

@@ -6,8 +6,8 @@ scientificname: Rhododendron muscipulum
 scientificnameauthorship: Danet
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Solenovireya
 source: WFO December 2025
 identifier: wfo-1000002501
 author: WFO

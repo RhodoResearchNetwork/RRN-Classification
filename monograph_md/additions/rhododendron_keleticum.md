@@ -6,8 +6,8 @@ scientificname: Rhododendron keleticum
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Saluenensia
 source: WFO December 2025
 identifier: wfo-0001048268
 author: WFO

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 decipiens Lacaita"
+title: "Rhododendron × decipiens Lacaita"
 description: null
-scientificname: "Rhododendron \xD7 decipiens"
+scientificname: "Rhododendron × decipiens"
 scientificnameauthorship: Lacaita
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Falconera
 source: WFO December 2025
 identifier: wfo-0000400775
 author: WFO

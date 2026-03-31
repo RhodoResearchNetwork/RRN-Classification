@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 nebulicola Danet"
+title: "Rhododendron × nebulicola Danet"
 description: null
-scientificname: "Rhododendron \xD7 nebulicola"
+scientificname: "Rhododendron × nebulicola"
 scientificnameauthorship: Danet
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Malesia
 source: WFO December 2025
 identifier: wfo-0000400268
 author: WFO

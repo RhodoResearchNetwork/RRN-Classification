@@ -6,8 +6,8 @@ scientificname: Rhododendron shingbae
 scientificnameauthorship: C.S.Purohit & Ram.Kumar
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Camelliiflora
 source: WFO December 2025
 identifier: wfo-1000002513
 author: WFO

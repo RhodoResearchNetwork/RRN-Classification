@@ -1,4 +1,28 @@
-
+---
+layout: default
+title: Rhododendron ziyuanense P.C.Tam
+description: null
+scientificname: Rhododendron ziyuanense
+scientificnameauthorship: P.C.Tam
+genus: Rhododendron
+subgenus: null
+section: Pontica
+subsection: Maculifera
+source: WFO December 2025
+identifier: wfo-0001228142
+author: WFO
+created: '2026-03-31'
+rights_holder: null
+license: null
+tags: []
+namepublishedin: 'Guihaia 2: 70 (1982)'
+doi: ''
+wfo_id: wfo-0001228142
+wfo_parent_id: wfo-1000002600
+wfo_accepted_id: wfo-0001228142
+ipni_id: urn:lsid:ipni.org:names:900805-1
+verified: null
+---
 
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

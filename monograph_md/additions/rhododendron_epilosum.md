@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 epilosum (J.J.Sm.) Argent"
+title: "Rhododendron × epilosum (J.J.Sm.) Argent"
 description: null
-scientificname: "Rhododendron \xD7 epilosum"
+scientificname: "Rhododendron × epilosum"
 scientificnameauthorship: (J.J.Sm.) Argent
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Discovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-1000040555

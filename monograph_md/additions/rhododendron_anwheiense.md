@@ -6,8 +6,8 @@ scientificname: Rhododendron anwheiense
 scientificnameauthorship: E.H.Wilson
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Maculifera
 source: WFO December 2025
 identifier: wfo-0000400593
 author: WFO

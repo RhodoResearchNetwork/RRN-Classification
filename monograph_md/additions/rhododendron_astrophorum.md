@@ -6,8 +6,8 @@ scientificname: Rhododendron astrophorum
 scientificnameauthorship: M.N.Tamayo, Y.P.Ang & A.S.Rob.
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-1000056284
 author: WFO

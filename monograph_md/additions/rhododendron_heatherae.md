@@ -6,7 +6,7 @@ scientificname: Rhododendron heatherae
 scientificnameauthorship: Rushforth
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
+section: Rhododendron
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000400622

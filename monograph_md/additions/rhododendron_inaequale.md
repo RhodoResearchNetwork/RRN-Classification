@@ -6,8 +6,8 @@ scientificname: Rhododendron inaequale
 scientificnameauthorship: (C.B.Clarke) Hutch.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Maddenia
 source: WFO December 2025
 identifier: wfo-0000400679
 author: WFO

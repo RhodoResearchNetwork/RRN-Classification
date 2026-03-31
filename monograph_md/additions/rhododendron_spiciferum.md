@@ -6,8 +6,8 @@ scientificname: Rhododendron spiciferum
 scientificnameauthorship: Franch.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Scabrifolium
 source: WFO December 2025
 identifier: wfo-0001048172
 author: WFO

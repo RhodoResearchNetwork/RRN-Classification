@@ -6,8 +6,8 @@ scientificname: Rhododendron cochlearifolium
 scientificnameauthorship: Xiang Chen & Jia Y.Huang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Irrorata
 source: WFO December 2025
 identifier: wfo-0001335320
 author: WFO

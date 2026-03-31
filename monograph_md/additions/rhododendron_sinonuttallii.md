@@ -6,8 +6,8 @@ scientificname: Rhododendron sinonuttallii
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Maddenia
 source: WFO December 2025
 identifier: wfo-0001048038
 author: WFO

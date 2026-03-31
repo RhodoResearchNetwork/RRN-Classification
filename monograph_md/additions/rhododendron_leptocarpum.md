@@ -6,8 +6,8 @@ scientificname: Rhododendron leptocarpum
 scientificnameauthorship: Nutt.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Boothia
 source: WFO December 2025
 identifier: wfo-0001275583
 author: WFO

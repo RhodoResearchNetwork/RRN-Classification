@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 kamatae (Mochizuki) Craven"
+title: "Rhododendron × kamatae (Mochizuki) Craven"
 description: null
-scientificname: "Rhododendron \xD7 kamatae"
+scientificname: "Rhododendron × kamatae"
 scientificnameauthorship: (Mochizuki) Craven
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
+section: Sciadorhodion
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000749223

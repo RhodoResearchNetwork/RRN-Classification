@@ -6,8 +6,8 @@ scientificname: Rhododendron danbaense
 scientificnameauthorship: L.C.Hu
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Taliensia
 source: WFO December 2025
 identifier: wfo-0001229559
 author: WFO

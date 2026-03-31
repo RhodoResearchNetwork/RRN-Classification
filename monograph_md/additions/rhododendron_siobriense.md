@@ -6,7 +6,7 @@ scientificname: Rhododendron siobriense
 scientificnameauthorship: Argent
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Siphonovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-1000002514

@@ -6,8 +6,8 @@ scientificname: Rhododendron eastmanii
 scientificnameauthorship: Kron & Creel
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pentanthera
+subsection: Pentanthera
 source: WFO December 2025
 identifier: wfo-0000400745
 author: WFO

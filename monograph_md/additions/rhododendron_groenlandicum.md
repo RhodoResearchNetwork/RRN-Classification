@@ -6,8 +6,8 @@ scientificname: Rhododendron groenlandicum
 scientificnameauthorship: (Oeder) Kron & Judd
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Ledum
 source: WFO December 2025
 identifier: wfo-0001279386
 author: WFO

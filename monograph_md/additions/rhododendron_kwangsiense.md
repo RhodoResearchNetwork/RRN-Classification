@@ -6,8 +6,8 @@ scientificname: Rhododendron kwangsiense
 scientificnameauthorship: Hu ex W.P.Fang
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-0001229839
 author: WFO

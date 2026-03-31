@@ -6,8 +6,8 @@ scientificname: Rhododendron kuomeianum
 scientificnameauthorship: Yu H.Chang, J.Nielsen & Y.P.Ma
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Maddenia
 source: WFO December 2025
 identifier: wfo-1000002494
 author: WFO

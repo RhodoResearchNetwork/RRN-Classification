@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 fuchsii Sleumer"
+title: "Rhododendron × fuchsii Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 fuchsii"
+scientificname: "Rhododendron × fuchsii"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Malesia
 source: WFO December 2025
 identifier: wfo-0000400791
 author: WFO

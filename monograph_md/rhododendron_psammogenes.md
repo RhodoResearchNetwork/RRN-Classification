@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron \xD7 psammogenes"
+scientificname: "Rhododendron × psammogenes"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:333156-1
 verified: null
 layout: default
-title: "Rhododendron \xD7 psammogenes Sleumer"
+title: "Rhododendron × psammogenes Sleumer"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})

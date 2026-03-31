@@ -6,8 +6,8 @@ scientificname: Rhododendron kesangiae
 scientificnameauthorship: D.G.Long & Rushforth
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Grandia
 source: WFO December 2025
 identifier: wfo-0000400063
 author: WFO

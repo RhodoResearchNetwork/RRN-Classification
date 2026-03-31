@@ -6,8 +6,8 @@ scientificname: Rhododendron leptocladon
 scientificnameauthorship: Dop
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Maddenia
 source: WFO December 2025
 identifier: wfo-0001275542
 author: WFO

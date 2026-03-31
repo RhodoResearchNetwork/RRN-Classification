@@ -6,8 +6,8 @@ scientificname: Rhododendron litchiifolium
 scientificnameauthorship: T.C.Wu & P.C.Tam
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-0001229808
 author: WFO

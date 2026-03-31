@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 liewianum Argent, A.Lamb & Phillipps"
+title: "Rhododendron × liewianum Argent, A.Lamb & Phillipps"
 description: null
-scientificname: "Rhododendron \xD7 liewianum"
+scientificname: "Rhododendron × liewianum"
 scientificnameauthorship: Argent, A.Lamb & Phillipps
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-0000399959
 author: WFO

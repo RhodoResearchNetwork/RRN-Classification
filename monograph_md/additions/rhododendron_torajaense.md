@@ -6,8 +6,8 @@ scientificname: Rhododendron torajaense
 scientificnameauthorship: Craven
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-0001341954
 author: WFO

@@ -1,5 +1,5 @@
 ---
-scientificname: "Rhododendron \xD7 bathyphyllum"
+scientificname: "Rhododendron × bathyphyllum"
 scientificnameauthorship: Balf.f. & Forrest
 genus: Rhododendron
 subgenus: Hymenanthes
@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:332009-1
 verified: null
 layout: default
-title: "Rhododendron \xD7 bathyphyllum Balf.f. & Forrest"
+title: "Rhododendron × bathyphyllum Balf.f. & Forrest"
 description: "\u591A\u53F6\u675C\u9E43"
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}

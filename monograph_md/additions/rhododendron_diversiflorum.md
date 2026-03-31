@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 diversiflorum Danet"
+title: "Rhododendron × diversiflorum Danet"
 description: null
-scientificname: "Rhododendron \xD7 diversiflorum"
+scientificname: "Rhododendron × diversiflorum"
 scientificnameauthorship: Danet
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Siphonovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001332431

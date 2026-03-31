@@ -6,8 +6,8 @@ scientificname: Rhododendron stenopetalum
 scientificnameauthorship: (R.Hogg) Mabb.
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-0000405432
 author: WFO

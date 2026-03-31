@@ -6,7 +6,7 @@ scientificname: Rhododendron tianlinense
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
+section: Azaleastrum
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001229729

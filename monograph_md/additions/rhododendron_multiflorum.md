@@ -6,7 +6,7 @@ scientificname: Rhododendron multiflorum
 scientificnameauthorship: (Maxim.) Craven
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
+section: Sciadorhodion
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000750125

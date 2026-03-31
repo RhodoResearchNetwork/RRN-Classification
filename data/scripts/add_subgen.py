@@ -3,14 +3,14 @@ import os
 import yaml
 
 # --- CONFIG ---
-CSV_PATH = "data/AccetpedRhodo.csv"
+CSV_PATH = "data/sec_subsec.csv"
 MD_ROOT = "monograph_md/additions"   # folder containing your .md files
 
 print("Loading CSV:", CSV_PATH)
 
 # --- LOAD CSV INTO DICT BY taxonID ---
 csv_by_id = {}
-with open(CSV_PATH, newline='', encoding="utf-8") as f:
+with open(CSV_PATH, newline='', encoding="utf-8-sig") as f:
     reader = csv.DictReader(f)
     print("CSV columns:", reader.fieldnames)
     for row in reader:
@@ -21,6 +21,13 @@ with open(CSV_PATH, newline='', encoding="utf-8") as f:
 print("Loaded rows:", len(csv_by_id))
 print("Walking MD root:", MD_ROOT)
 print()
+
+def is_empty(value):
+    """Return True if a YAML field is empty, None, '', or 'none'."""
+    if value is None:
+        return True
+    s = str(value).strip().lower()
+    return s == "" or s == "none" or s == "null"
 
 # --- WALK MARKDOWN FILES ---
 for root, dirs, files in os.walk(MD_ROOT):
@@ -62,17 +69,18 @@ for root, dirs, files in os.walk(MD_ROOT):
             print("  No CSV match for this wfo_id")
             continue
 
-        csv_subgenus = row.get("subgenus", "").strip()
-        print("  CSV subgenus:", repr(csv_subgenus))
-        print("  FM subgenus:", repr(fm.get("subgenus")))
-
         updated = False
 
-        # populate only if missing
-        value = fm.get("subgenus")
+        # -------------------------
+        # FIELD: subgenus
+        # -------------------------
+        csv_subgenus = row.get("subgenus", "").strip()
+        fm_subgenus = fm.get("subgenus")
+        print("  CSV subgenus:", repr(csv_subgenus))
+        print("  FM subgenus:", repr(fm_subgenus))
 
         if csv_subgenus:
-            if value is None or str(value).strip() == "" or str(value).strip().lower() == "none":
+            if is_empty(fm_subgenus):
                 print("  → Updating subgenus")
                 fm["subgenus"] = csv_subgenus
                 updated = True
@@ -81,7 +89,45 @@ for root, dirs, files in os.walk(MD_ROOT):
         else:
             print("  CSV has no subgenus for this taxon")
 
-        # write back only if changed
+        # -------------------------
+        # FIELD: section
+        # -------------------------
+        csv_section = row.get("section", "").strip()
+        fm_section = fm.get("section")
+        print("  CSV section:", repr(csv_section))
+        print("  FM section:", repr(fm_section))
+
+        if csv_section:
+            if is_empty(fm_section):
+                print("  → Updating section")
+                fm["section"] = csv_section
+                updated = True
+            else:
+                print("  Section already present, not overwriting")
+        else:
+            print("  CSV has no section for this taxon")
+
+        # -------------------------
+        # FIELD: subsection
+        # -------------------------
+        csv_subsection = row.get("subsection", "").strip()
+        fm_subsection = fm.get("subsection")
+        print("  CSV subsection:", repr(csv_subsection))
+        print("  FM subsection:", repr(fm_subsection))
+
+        if csv_subsection:
+            if is_empty(fm_subsection):
+                print("  → Updating subsection")
+                fm["subsection"] = csv_subsection
+                updated = True
+            else:
+                print("  Subsection already present, not overwriting")
+        else:
+            print("  CSV has no subsection for this taxon")
+
+        # -------------------------
+        # WRITE BACK IF CHANGED
+        # -------------------------
         if updated:
             new_fm_text = yaml.safe_dump(fm, sort_keys=False).strip()
             new_text = f"---\n{new_fm_text}\n---{body}"

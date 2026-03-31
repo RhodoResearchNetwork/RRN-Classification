@@ -6,8 +6,8 @@ scientificname: Rhododendron gongshanense
 scientificnameauthorship: T.L.Ming
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Irrorata
 source: WFO December 2025
 identifier: wfo-0001229447
 author: WFO

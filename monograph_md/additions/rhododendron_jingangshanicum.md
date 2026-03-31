@@ -6,8 +6,8 @@ scientificname: Rhododendron jingangshanicum
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Fortunea
 source: WFO December 2025
 identifier: wfo-0001229318
 author: WFO

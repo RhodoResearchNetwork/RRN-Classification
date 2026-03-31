@@ -6,8 +6,8 @@ scientificname: Rhododendron adenobracteum
 scientificnameauthorship: X.F.Gao & Y.L.Peng
 genus: Rhododendron
 subgenus: Azaleastrum
-section: null
-subsection: null
+section: Tsutsutsi
+subsection: Tsutsusi
 source: WFO December 2025
 identifier: wfo-0000400482
 author: WFO

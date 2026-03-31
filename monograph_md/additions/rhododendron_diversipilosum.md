@@ -6,8 +6,8 @@ scientificname: Rhododendron diversipilosum
 scientificnameauthorship: (Nakai) Harmaja
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Ledum
 source: WFO December 2025
 identifier: wfo-0001276025
 author: WFO

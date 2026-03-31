@@ -6,8 +6,8 @@ scientificname: Rhododendron luciferum
 scientificnameauthorship: (Cowan) Cowan
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Lanata
 source: WFO December 2025
 identifier: wfo-0001229590
 author: WFO

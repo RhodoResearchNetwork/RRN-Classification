@@ -6,8 +6,8 @@ scientificname: Rhododendron brachypodum
 scientificnameauthorship: W.P.Fang & P.S.Liu
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Triflora
 source: WFO December 2025
 identifier: wfo-0001249368
 author: WFO

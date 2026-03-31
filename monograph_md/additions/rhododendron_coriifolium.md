@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 coriifolium Sleumer"
+title: "Rhododendron × coriifolium Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 coriifolium"
+scientificname: "Rhododendron × coriifolium"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Malesia
 source: WFO December 2025
 identifier: wfo-0000403117
 author: WFO

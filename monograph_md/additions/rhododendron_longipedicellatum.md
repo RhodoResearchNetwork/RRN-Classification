@@ -6,7 +6,7 @@ scientificname: Rhododendron longipedicellatum
 scientificnameauthorship: Lei Cai & Y.P.Ma
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Pseudovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001347318

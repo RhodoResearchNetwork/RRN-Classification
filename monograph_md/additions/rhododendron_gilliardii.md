@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 gilliardii Sleumer"
+title: "Rhododendron × gilliardii Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 gilliardii"
+scientificname: "Rhododendron × gilliardii"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Hadranthe
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000400628

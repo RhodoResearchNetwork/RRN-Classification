@@ -6,8 +6,8 @@ scientificname: Rhododendron glischroides
 scientificnameauthorship: Tagg & Forrest
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Glischrum
 source: WFO December 2025
 identifier: wfo-0000400665
 author: WFO

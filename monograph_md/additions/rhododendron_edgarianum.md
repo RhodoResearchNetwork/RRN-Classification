@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 edgarianum Rehder & E.H.Wilson"
+title: "Rhododendron × edgarianum Rehder & E.H.Wilson"
 description: null
-scientificname: "Rhododendron \xD7 edgarianum"
+scientificname: "Rhododendron × edgarianum"
 scientificnameauthorship: Rehder & E.H.Wilson
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Lapponica
 source: WFO December 2025
 identifier: wfo-0001248028
 author: WFO

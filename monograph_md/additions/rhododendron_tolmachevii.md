@@ -6,8 +6,8 @@ scientificname: Rhododendron tolmachevii
 scientificnameauthorship: Harmaja
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Ledum
 source: WFO December 2025
 identifier: wfo-0000405626
 author: WFO

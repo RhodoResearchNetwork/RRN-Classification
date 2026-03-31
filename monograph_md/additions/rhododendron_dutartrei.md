@@ -6,7 +6,7 @@ scientificname: Rhododendron dutartrei
 scientificnameauthorship: Danet
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Siphonovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000507898

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 pallescens Hutch."
+title: "Rhododendron × pallescens Hutch."
 description: null
-scientificname: "Rhododendron \xD7 pallescens"
+scientificname: "Rhododendron × pallescens"
 scientificnameauthorship: Hutch.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Triflora
 source: WFO December 2025
 identifier: wfo-0000400325
 author: WFO

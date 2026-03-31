@@ -6,8 +6,8 @@ scientificname: Rhododendron titapuriense
 scientificnameauthorship: A.A.Mao, K.N.E.Cox & D.F.Chamb.
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Falconera
 source: WFO December 2025
 identifier: wfo-0001335983
 author: WFO

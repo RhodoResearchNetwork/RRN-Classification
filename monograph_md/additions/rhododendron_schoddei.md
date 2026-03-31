@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 schoddei Sleumer"
+title: "Rhododendron × schoddei Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 schoddei"
+scientificname: "Rhododendron × schoddei"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Hadranthe
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000405362

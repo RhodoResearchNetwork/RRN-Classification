@@ -6,8 +6,8 @@ scientificname: Rhododendron tenuifolium
 scientificnameauthorship: R.C.Fang & S.H.Huang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Cinnabarina
 source: WFO December 2025
 identifier: wfo-0001249387
 author: WFO

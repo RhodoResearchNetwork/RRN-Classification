@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 planecostatum Sleumer"
+title: "Rhododendron × planecostatum Sleumer"
 description: null
-scientificname: "Rhododendron \xD7 planecostatum"
+scientificname: "Rhododendron × planecostatum"
 scientificnameauthorship: Sleumer
 genus: Rhododendron
 subgenus: Vireya
-section: null
-subsection: null
+section: Schistanthe
+subsection: Euvireya
 source: WFO December 2025
 identifier: wfo-0000400166
 author: WFO

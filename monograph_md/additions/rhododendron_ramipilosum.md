@@ -6,8 +6,8 @@ scientificname: Rhododendron ramipilosum
 scientificnameauthorship: T.L.Ming
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Thomsonia
 source: WFO December 2025
 identifier: wfo-0001229705
 author: WFO

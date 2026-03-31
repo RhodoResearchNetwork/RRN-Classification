@@ -6,8 +6,8 @@ scientificname: Rhododendron igneum
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Cinnabarina
 source: WFO December 2025
 identifier: wfo-0001048746
 author: WFO

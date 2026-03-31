@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 chlorops Cowan"
+title: "Rhododendron × chlorops Cowan"
 description: null
-scientificname: "Rhododendron \xD7 chlorops"
+scientificname: "Rhododendron × chlorops"
 scientificnameauthorship: Cowan
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
+section: Pontica
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000403050

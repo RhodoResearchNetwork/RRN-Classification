@@ -6,8 +6,8 @@ scientificname: Rhododendron maoerense
 scientificnameauthorship: W.P.Fang & G.Z.Li
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Fortunea
 source: WFO December 2025
 identifier: wfo-0001229345
 author: WFO

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Rhododendron \xD7 wilhelminae Hochr."
+title: "Rhododendron × wilhelminae Hochr."
 description: null
-scientificname: "Rhododendron \xD7 wilhelminae"
+scientificname: "Rhododendron × wilhelminae"
 scientificnameauthorship: Hochr.
 genus: Rhododendron
 subgenus: Vireya
-section: null
+section: Malayovireya
 subsection: null
 source: WFO December 2025
 identifier: wfo-0000405694

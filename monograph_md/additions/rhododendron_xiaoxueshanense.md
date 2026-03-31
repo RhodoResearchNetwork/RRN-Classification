@@ -6,7 +6,7 @@ scientificname: Rhododendron xiaoxueshanense
 scientificnameauthorship: R.L.Liao & Y.P.Ma
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
+section: Pogonanthum
 subsection: null
 source: WFO December 2025
 identifier: wfo-0001344428

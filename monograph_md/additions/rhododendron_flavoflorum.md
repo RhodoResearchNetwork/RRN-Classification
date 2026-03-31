@@ -6,8 +6,8 @@ scientificname: Rhododendron flavoflorum
 scientificnameauthorship: T.L.Ming
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Parishia
 source: WFO December 2025
 identifier: wfo-0001229603
 author: WFO

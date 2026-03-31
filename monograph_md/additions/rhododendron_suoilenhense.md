@@ -6,8 +6,8 @@ scientificname: Rhododendron suoilenhense
 scientificnameauthorship: D.F.Chamb., N.T.T.Huong & Rushforth
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Grandia
 source: WFO December 2025
 identifier: wfo-1000002522
 author: WFO

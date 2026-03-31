@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Rhododendron \xD7 paradoxum Balf.f."
+title: "Rhododendron × paradoxum Balf.f."
 description: null
-scientificname: "Rhododendron \xD7 paradoxum"
+scientificname: "Rhododendron × paradoxum"
 scientificnameauthorship: Balf.f.
 genus: Rhododendron
 subgenus: Hymenanthes

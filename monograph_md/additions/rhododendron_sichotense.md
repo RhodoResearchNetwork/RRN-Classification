@@ -6,8 +6,8 @@ scientificname: Rhododendron sichotense
 scientificnameauthorship: Pojark.
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Rhodorastrum
 source: WFO December 2025
 identifier: wfo-0001046886
 author: WFO

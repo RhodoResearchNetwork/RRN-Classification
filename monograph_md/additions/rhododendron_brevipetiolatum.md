@@ -6,8 +6,8 @@ scientificname: Rhododendron brevipetiolatum
 scientificnameauthorship: M.Y.Fang
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Argyrophylla
 source: WFO December 2025
 identifier: wfo-0001229475
 author: WFO

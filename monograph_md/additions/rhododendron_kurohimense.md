@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 kurohimense Arakawa"
+title: "Rhododendron × kurohimense Arakawa"
 description: null
-scientificname: "Rhododendron \xD7 kurohimense"
+scientificname: "Rhododendron × kurohimense"
 scientificnameauthorship: Arakawa
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Pontica
 source: WFO December 2025
 identifier: wfo-0000400081
 author: WFO

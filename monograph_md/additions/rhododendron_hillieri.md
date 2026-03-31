@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Rhododendron \xD7 hillieri Davidian"
+title: "Rhododendron × hillieri Davidian"
 description: null
-scientificname: "Rhododendron \xD7 hillieri"
+scientificname: "Rhododendron × hillieri"
 scientificnameauthorship: Davidian
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Neriiflora
 source: WFO December 2025
 identifier: wfo-0001231347
 author: WFO

@@ -6,8 +6,8 @@ scientificname: Rhododendron gannanense
 scientificnameauthorship: Z.C.Feng & X.G.Sun
 genus: Rhododendron
 subgenus: Hymenanthes
-section: null
-subsection: null
+section: Pontica
+subsection: Arborea
 source: WFO December 2025
 identifier: wfo-0001240235
 author: WFO

@@ -6,8 +6,8 @@ scientificname: Rhododendron guangnanense
 scientificnameauthorship: R.C.Fang
 genus: Rhododendron
 subgenus: Rhododendron
-section: null
-subsection: null
+section: Rhododendron
+subsection: Triflora
 source: WFO December 2025
 identifier: wfo-0001231542
 author: WFO
