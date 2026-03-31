@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × pulchrum"
 scientificnameauthorship: "Sweet"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi'
 source: 'WFO December 2025'
 identifier: "wfo-0001229780"
 author: WFO
