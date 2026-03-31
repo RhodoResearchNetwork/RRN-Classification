@@ -5,8 +5,8 @@ description:
 scientificname: "Rhododendron × vanhoeffenii"
 scientificnameauthorship: "Abrom."
 genus: "Rhododendron"
-subgenus: 
-section: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
 subsection: 
 source: 'WFO December 2025'
 identifier: "wfo-0001047743"
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Greenaland
 
 ## Altitude
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+R. lapponicum (subsect Lapponica) × R. tomentosum (subsect. Ledum).
 
 ## References

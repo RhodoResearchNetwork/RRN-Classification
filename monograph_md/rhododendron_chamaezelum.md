@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × chamaezelum"
 scientificnameauthorship: "Balf.f. & Forrest"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Lapponica'
 source: 'WFO December 2025'
 identifier: "wfo-0001048642"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+China, Yunnan
 
 ## Altitude
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid between R. rupicola var. chryseum × R. tapetiforme.
 ## References

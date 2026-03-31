@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × intermedium"
 scientificnameauthorship: "Tausch"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Rhododendron'
 source: 'WFO December 2025'
 identifier: "wfo-0000400672"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Austria, France
 
 ## Altitude
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid between R. ferrugineum × R. hirsutum.
 ## References

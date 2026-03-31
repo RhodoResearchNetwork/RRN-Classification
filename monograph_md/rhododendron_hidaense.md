@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × hidaense"
 scientificnameauthorship: "Makino ex H.Hara"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Pontica'
 source: 'WFO December 2025'
 identifier: "wfo-0000400719"
 author: WFO
@@ -39,7 +39,7 @@ Verified by: {{ page.verified }}
 
 
 ## Description
-
+Japan.
 
 ## Distribution
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Wild hybrid between R. brachycarpum × R. japonoheptamerum var. hondoense.
 
 ## References

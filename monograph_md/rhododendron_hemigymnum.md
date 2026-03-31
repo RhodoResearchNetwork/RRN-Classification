@@ -5,8 +5,8 @@ description:
 scientificname: "Rhododendron × hemigymnum"
 scientificnameauthorship: "(Tagg & Forrest) D.F.Chamb."
 genus: "Rhododendron"
-subgenus: 
-section: 
+subgenus: 'Hymenanthes'
+section: 'Pontica'
 subsection: 
 source: 'WFO December 2025'
 identifier: "wfo-0001231344"
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+China, Xizang.
 
 ## Altitude
 
@@ -51,8 +51,12 @@ Verified by: {{ page.verified }}
 
 
 ## Nomenclatural History
-                       
+Chamberlain cited the epithet as _hemigynum_ when making the new combination, treated as a correctable error.
+
+Rhododendron hemigynum (Tagg & Forrest) D.F.Chamb. ortho. var.
+Rhododendron chaetomallum var. hemigymnum Tagg & Forrest in Notes Roy. Bot. Gard. Edinburgh 16: 189 (1931)            
 
 ## Notes
+Wild hybrid between R. eclecteum × R. pocophorum.
 
 ## References

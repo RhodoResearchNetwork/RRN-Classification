@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Culitvated hybrid between R. maximum × R. viscosum.
 ## References

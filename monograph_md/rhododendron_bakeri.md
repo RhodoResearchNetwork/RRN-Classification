@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+USA, Georgia.
 
 ## Altitude
 
@@ -51,8 +51,10 @@ Verified by: {{ page.verified }}
 
 
 ## Nomenclatural History
-                       
+Azalea × bakeri W.P.Lemmon & McKay in Bartonia 19: 16 (1938)
+Azalea × fastigifolia W.P.Lemmon in Bartonia 19: 15 (1938)
+Rhododendron × fastigifolium (W.P.Lemmon) H.H.Hume in Azaleas: Kinds Cult.: 28 (1948)           
 
 ## Notes
-
+Hybrid of R. flammeum and R. canescens
 ## References

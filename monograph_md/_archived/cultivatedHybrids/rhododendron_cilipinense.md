@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × kewense W.Watson"
+title: "Rhododendron × cilipinense S.Bowler"
 description: 
-scientificname: "Rhododendron × kewense"
-scientificnameauthorship: "W.Watson"
+scientificname: "Rhododendron × cilipinense"
+scientificnameauthorship: "S.Bowler"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400065"
+identifier: "wfo-0000403007"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Gard. Chron., ser. 3, 3: 620 (1888)"
+namepublishedin: "Gard. Chron., ser. 3, 99: 246 (1936)"
 doi: ""
-wfo_id: "wfo-0000400065"
+wfo_id: "wfo-0000403007"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400065"
-ipni_id: "urn:lsid:ipni.org:names:332674-1"
+wfo_accepted_id: "wfo-0000403007"
+ipni_id: "urn:lsid:ipni.org:names:332194-1"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Culitvated Hybrid between R. ciliatum × R. moupinense.
 
 ## References

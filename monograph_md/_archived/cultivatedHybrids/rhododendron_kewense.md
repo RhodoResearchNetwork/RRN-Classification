@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × victorianum (Cuvelier) Cuvelier"
+title: "Rhododendron × kewense W.Watson"
 description: 
-scientificname: "Rhododendron × victorianum"
-scientificnameauthorship: "(Cuvelier) Cuvelier"
+scientificname: "Rhododendron × kewense"
+scientificnameauthorship: "W.Watson"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000405724"
+identifier: "wfo-0000400065"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Gard. Chron., ser. 3, 1: 387 (1887)"
+namepublishedin: "Gard. Chron., ser. 3, 3: 620 (1888)"
 doi: ""
-wfo_id: "wfo-0000405724"
+wfo_id: "wfo-0000400065"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000405724"
-ipni_id: "urn:lsid:ipni.org:names:333564-1"
+wfo_accepted_id: "wfo-0000400065"
+ipni_id: "urn:lsid:ipni.org:names:332674-1"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Culitvated hybrid raised at Kew between R. fortunei × R. griffithianum.
 
 ## References

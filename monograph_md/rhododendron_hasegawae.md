@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × hasegawae"
 scientificnameauthorship: "S.Watan."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsui'
+subsection: 'Brachycalyces'
 source: 'WFO December 2025'
 identifier: "wfo-0000400625"
 author: WFO
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid from Japan between R. kiyosumense × R. wadanum.
 ## References

@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × dimidiatum Balf.f."
+title: "Rhododendron × cavronii André"
 description: 
-scientificname: "Rhododendron × dimidiatum"
-scientificnameauthorship: "Balf.f."
+scientificname: "Rhododendron × cavronii"
+scientificnameauthorship: "André"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400737"
+identifier: "wfo-0000403284"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Notes Roy. Bot. Gard. Edinburgh 11: 54 (1919)"
+namepublishedin: "Rev. Hort. (Paris) 57: 60 (1885)"
 doi: ""
-wfo_id: "wfo-0000400737"
+wfo_id: "wfo-0000403284"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400737"
-ipni_id: "urn:lsid:ipni.org:names:332338-1"
+wfo_accepted_id: "wfo-0000403284"
+ipni_id: "urn:lsid:ipni.org:names:332130-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultivated hybrid between R. formosum × R. veitchianum.
 ## References

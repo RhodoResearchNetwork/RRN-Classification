@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × fastigifolium (W.P.Lemmon) H.H.Hume"
+title: "Rhododendron × enneandrum DC."
 description: 
-scientificname: "Rhododendron × fastigifolium"
-scientificnameauthorship: "(W.P.Lemmon) H.H.Hume"
+scientificname: "Rhododendron × enneandrum"
+scientificnameauthorship: "DC."
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400822"
+identifier: "wfo-0000400813"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Azaleas: Kinds Cult. 28 (1948)"
+namepublishedin: "Prodr. 7: 728 (1839)"
 doi: ""
-wfo_id: "wfo-0000400822"
+wfo_id: "wfo-0000400813"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400822"
-ipni_id: "urn:lsid:ipni.org:names:219475-2"
+wfo_accepted_id: "wfo-0000400813"
+ipni_id: "urn:lsid:ipni.org:names:332372-1"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Historic culitvated hybrid between R. albiflorum × R. ponticum.
 
 ## References

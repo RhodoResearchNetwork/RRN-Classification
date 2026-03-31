@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × enneandrum DC."
+title: "Rhododendron × gandavense (K.Koch) Rehder"
 description: 
-scientificname: "Rhododendron × enneandrum"
-scientificnameauthorship: "DC."
+scientificname: "Rhododendron × gandavense"
+scientificnameauthorship: "(K.Koch) Rehder"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400813"
+identifier: "wfo-0000400640"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Prodr. 7: 728 (1839)"
+namepublishedin: "Monogr. Azaleas [E.H. Wilson & A. Rehder] 178 (1921)."
 doi: ""
-wfo_id: "wfo-0000400813"
+wfo_id: "wfo-0000400640"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400813"
-ipni_id: "urn:lsid:ipni.org:names:332372-1"
+wfo_accepted_id: "wfo-0000400640"
+ipni_id: "urn:lsid:ipni.org:names:332472-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Complex cultivated hybrid R. calendulaceum × R. luteum × R. periclymenoides.
 ## References

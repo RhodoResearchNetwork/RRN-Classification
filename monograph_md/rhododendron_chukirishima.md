@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × chukirishima"
 scientificnameauthorship: "T.Yamaz"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi'
 source: 'WFO December 2025'
 identifier: "wfo-0000403005"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan
 
 ## Altitude
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Hybrid. Possibly wild but described from from a cultivated corss. R. indicum × R. scabrum.
 
 ## References

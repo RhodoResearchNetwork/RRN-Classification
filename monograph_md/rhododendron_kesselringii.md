@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × kesselringii"
 scientificnameauthorship: "E.L.Wolf"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymenanthes'
+section:  'Pontica'
+subsection: 'Pontica'
 source: 'WFO December 2025'
 identifier: "wfo-0000400064"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Caucasus
 
 ## Altitude
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Wild Hybrid between R. ponticum × R. smirnowii. Named using seedlings raised from Caucasus Mountains. Lacked indumentum therefore believed to be a hybrid with Rh. ponticum.
 
 ## References

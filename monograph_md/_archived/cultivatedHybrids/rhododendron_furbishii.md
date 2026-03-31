@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × cavronii André"
+title: "Rhododendron × furbishii (W.P.Lemmon & McKay) H.H.Hume"
 description: 
-scientificname: "Rhododendron × cavronii"
-scientificnameauthorship: "André"
+scientificname: "Rhododendron × furbishii"
+scientificnameauthorship: "(W.P.Lemmon & McKay) H.H.Hume"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000403284"
+identifier: "wfo-0000400796"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Rev. Hort. (Paris) 57: 60 (1885)"
+namepublishedin: "Azaleas: Kinds Cult. 28 (1948)"
 doi: ""
-wfo_id: "wfo-0000403284"
+wfo_id: "wfo-0000400796"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000403284"
-ipni_id: "urn:lsid:ipni.org:names:332130-1"
+wfo_accepted_id: "wfo-0000400796"
+ipni_id: "urn:lsid:ipni.org:names:219476-2"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Cultivated hybrid between Rhododendron arborescens X R. bakeri
 
 ## References

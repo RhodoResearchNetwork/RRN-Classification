@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × watereri E.H.Wilson"
+title: "Rhododendron × smithii Sweet"
 description: 
-scientificname: "Rhododendron × watereri"
-scientificnameauthorship: "E.H.Wilson"
+scientificname: "Rhododendron × smithii"
+scientificnameauthorship: "Sweet"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0001228328"
+identifier: "wfo-0000405476"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "J. Arnold Arbor. 4(1): 37–38 1923"
+namepublishedin: "Brit. Fl. Gard., ser. 2, 1: t. 50 (1831)"
 doi: ""
-wfo_id: "wfo-0001228328"
+wfo_id: "wfo-0000405476"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0001228328"
-ipni_id: ""
+wfo_accepted_id: "wfo-0000405476"
+ipni_id: "urn:lsid:ipni.org:names:333371-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultivated hybrids between R. arboreum × R. ponticum.
 ## References

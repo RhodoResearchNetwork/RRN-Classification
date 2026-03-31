@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × gandavense (K.Koch) Rehder"
+title: "Rhododendron × dimidiatum Balf.f."
 description: 
-scientificname: "Rhododendron × gandavense"
-scientificnameauthorship: "(K.Koch) Rehder"
+scientificname: "Rhododendron × dimidiatum"
+scientificnameauthorship: "Balf.f."
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400640"
+identifier: "wfo-0000400737"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Monogr. Azaleas [E.H. Wilson & A. Rehder] 178 (1921)."
+namepublishedin: "Notes Roy. Bot. Gard. Edinburgh 11: 54 (1919)"
 doi: ""
-wfo_id: "wfo-0000400640"
+wfo_id: "wfo-0000400737"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400640"
-ipni_id: "urn:lsid:ipni.org:names:332472-1"
+wfo_accepted_id: "wfo-0000400737"
+ipni_id: "urn:lsid:ipni.org:names:332338-1"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Hybrid between R. habrotrichum hybrid and another species probably.  FoC have this name as a syn of _Rhododendron_ × _diphrocalyx_ Balf.f.
 
 ## References

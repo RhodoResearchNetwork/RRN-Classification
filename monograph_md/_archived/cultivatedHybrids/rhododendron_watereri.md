@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × furbishii (W.P.Lemmon & McKay) H.H.Hume"
+title: "Rhododendron × watereri E.H.Wilson"
 description: 
-scientificname: "Rhododendron × furbishii"
-scientificnameauthorship: "(W.P.Lemmon & McKay) H.H.Hume"
+scientificname: "Rhododendron × watereri"
+scientificnameauthorship: "E.H.Wilson"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400796"
+identifier: "wfo-0001228328"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Azaleas: Kinds Cult. 28 (1948)"
+namepublishedin: "J. Arnold Arbor. 4(1): 37–38 1923"
 doi: ""
-wfo_id: "wfo-0000400796"
+wfo_id: "wfo-0001228328"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400796"
-ipni_id: "urn:lsid:ipni.org:names:219476-2"
+wfo_accepted_id: "wfo-0001228328"
+ipni_id: ""
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultivated hybrid. 
 ## References

@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × davisianum"
 scientificnameauthorship: "R.I.Milne"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Pontica'
 source: 'WFO December 2025'
 identifier: "wfo-0000400760"
 author: WFO

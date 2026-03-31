@@ -5,8 +5,8 @@ description:
 scientificname: "Rhododendron × fittianum"
 scientificnameauthorship: "Balf.f."
 genus: "Rhododendron"
-subgenus: 
-section: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
 subsection: 
 source: 'WFO December 2025'
 identifier: "wfo-0000400785"
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Chinna, Yunnan.
 
 ## Altitude
 
@@ -54,5 +54,10 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Wild hybrid between _R. racemosum_ and another species probably, see Cullen (1980). Previously given as a synonym of _R. dauricum_.
 
 ## References
+
+Cullen, J. (1980). A revision of Rhododendron 1. Subgenus Rhododendron sections Rhododendron and Poganathum. In Notes RBG Edinburgh (pp. 1–207). https://doi.org/10.24823/nrbge.1980.3250
+
+Fang, R., Fang, M., He, M., Hu, L., Yang, H., & Chamberlain, D. F. (2005). Rhododendron. In Z. Wu, P. H. Raven, & D. Hong (Eds.), Flora of China (Vol. 14, pp. 260–456). Science Press & Missouri Botanical Garden Press.

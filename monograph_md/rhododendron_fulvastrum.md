@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × fulvastrum"
 scientificnameauthorship: "Balf.f. & Forrest"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Neriiflora'
 source: 'WFO December 2025'
 identifier: "wfo-0001275701"
 author: WFO
@@ -39,7 +39,7 @@ Verified by: {{ page.verified }}
 
 
 ## Description
-
+China, Xizang.
 
 ## Distribution
 
@@ -54,5 +54,7 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Flora of China state Rhododendron × fulvastrum I.B.Balfour & Forrest (Notes Roy. Bot. Gard. Edinburgh 13: 45. 1920), described from Xizang, is a hybrid between R. temenium and perhaps R. sanguineum.
 
+Cowan emmended the description in Notes Roy. Bot. Gard. Edinburgh 20: 78 (1940).
 ## References

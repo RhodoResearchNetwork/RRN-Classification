@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × kuratanum"
 scientificnameauthorship: "S.Watan."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi'
 source: 'WFO December 2025'
 identifier: "wfo-0000400077"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan.
 
 ## Altitude
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrids bewteen R. dilatatum × R. kiyosumense.
 ## References

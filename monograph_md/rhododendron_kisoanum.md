@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × kisoanum"
 scientificnameauthorship: "Okuhara ex T.Shimizu"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsutsi'
+subsection: 'Brachycalyces'
 source: 'WFO December 2025'
 identifier: "wfo-0000400070"
 author: WFO
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid between R. dilatatum × R. reticulatum.
 ## References

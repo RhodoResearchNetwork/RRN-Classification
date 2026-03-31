@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × cilipinense S.Bowler"
+title: "Rhododendron × fastigifolium (W.P.Lemmon) H.H.Hume"
 description: 
-scientificname: "Rhododendron × cilipinense"
-scientificnameauthorship: "S.Bowler"
+scientificname: "Rhododendron × fastigifolium"
+scientificnameauthorship: "(W.P.Lemmon) H.H.Hume"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000403007"
+identifier: "wfo-0000400822"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Gard. Chron., ser. 3, 99: 246 (1936)"
+namepublishedin: "Azaleas: Kinds Cult. 28 (1948)"
 doi: ""
-wfo_id: "wfo-0000403007"
+wfo_id: "wfo-0000400822"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000403007"
-ipni_id: "urn:lsid:ipni.org:names:332194-1"
+wfo_accepted_id: "wfo-0000400822"
+ipni_id: "urn:lsid:ipni.org:names:219475-2"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Hybrid. synonym of Rh. bakeri
 
 ## References

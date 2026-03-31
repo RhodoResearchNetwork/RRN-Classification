@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × smithii Sweet"
+title: "Rhododendron × victorianum (Cuvelier) Cuvelier"
 description: 
-scientificname: "Rhododendron × smithii"
-scientificnameauthorship: "Sweet"
+scientificname: "Rhododendron × victorianum"
+scientificnameauthorship: "(Cuvelier) Cuvelier"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000405476"
+identifier: "wfo-0000405724"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Brit. Fl. Gard., ser. 2, 1: t. 50 (1831)"
+namepublishedin: "Gard. Chron., ser. 3, 1: 387 (1887)"
 doi: ""
-wfo_id: "wfo-0000405476"
+wfo_id: "wfo-0000405724"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000405476"
-ipni_id: "urn:lsid:ipni.org:names:333371-1"
+wfo_accepted_id: "wfo-0000405724"
+ipni_id: "urn:lsid:ipni.org:names:333564-1"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Cultivated hybrid between R. dalhousieae × R. nuttallii. Could it be found in the wild?
 
 ## References
