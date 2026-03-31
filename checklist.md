@@ -472,7 +472,7 @@
 | [_Rhododendron myrsinifolium Ching ex W.P.Fang & M.Y.He_](/taxa/rhododendron-myrsinifolium) | wfo-0001229854 | urn:lsid:ipni.org:names:900782-1 | ✔️ |
 | [_Rhododendron myrsinites Sleumer_](/taxa/rhododendron-myrsinites) | wfo-0000400258 | urn:lsid:ipni.org:names:332928-1 | ✔️ |
 | [_Rhododendron naamkwanense Merr._](/taxa/rhododendron-naamkwanense) | wfo-0001047943 | urn:lsid:ipni.org:names:332932-1 | ✔️ |
-| [_Rhododendron nakaharai Hayata_](/taxa/rhododendron-nakaharae) | wfo-0001220805 | urn:lsid:ipni.org:names:332934-1 | ✔️ |
+| [_Rhododendron nakaharae Hayata_](/taxa/rhododendron-nakaharae) | wfo-0001220805 | urn:lsid:ipni.org:names:332934-1 | ✔️ |
 | [_Rhododendron nakotiltum Balf.f. & Forrest_](/taxa/rhododendron-nakotiltum) | wfo-0001048796 | urn:lsid:ipni.org:names:332936-1 | ✔️ |
 | [_Rhododendron nanophyton Sleumer_](/taxa/rhododendron-nanophyton) | wfo-0000400274 | urn:lsid:ipni.org:names:332938-1 | ✔️ |
 | [_Rhododendron natalicium Sleumer_](/taxa/rhododendron-natalicium) | wfo-0000400273 | urn:lsid:ipni.org:names:332942-1 | ✔️ |

@@ -22,7 +22,7 @@ wfo_accepted_id: ''
 ipni_id: 'urn:lsid:ipni.org:names:332934-1'
 verified: null
 layout: default
-title: Rhododendron nakaharai Hayata
+title: Rhododendron nakaharae Hayata
 ---
 ### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
  [{{ page.namepublishedin }}]({{ page.doi }})
@@ -50,7 +50,7 @@ China (N Taiwan)
 
 
 ## Nomenclatural History
-The orginal spelling _Rhododendron nakaharai_ is a correctable under the Code to _nakaharae_.
+The orginal spelling _Rhododendron nakaharae_ is a correctable under the Code to _nakaharae_.
                        
 ## Notes
 
