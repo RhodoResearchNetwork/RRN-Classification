@@ -14,9 +14,9 @@ license: ''
 tags:
 - taxonomy
 - Rhododendron
-namepublishedin: 'Bot. Jahr. 1940. 71: 146.'
+namepublishedin: 'Bot. Jahrb. Syst. 71: 146 (1940)'
 doi: ''
-wfo_id: wfo-0001420139
+wfo_id: wfo-0000400362
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: urn:lsid:ipni.org:names:50906490-1

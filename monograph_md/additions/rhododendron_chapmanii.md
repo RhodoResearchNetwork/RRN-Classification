@@ -1,0 +1,58 @@
+---
+layout: default
+title: Rhododendron chapmanii (Alph.Wood) A.Gray
+description: null
+scientificname: Rhododendron chapmanii
+scientificnameauthorship: (Alph.Wood) A.Gray
+genus: Rhododendron
+subgenus: Rhododendron
+section: null
+subsection: null
+source: WFO December 2025
+identifier: wfo-0001047070
+author: WFO
+created: '2026-03-31'
+rights_holder: null
+license: null
+tags: []
+namepublishedin: 'Proc. Amer. Acad. Arts 12: 61 (1877)'
+doi: ''
+wfo_id: wfo-0001047070
+wfo_parent_id: wfo-1000002611
+wfo_accepted_id: wfo-0001047070
+ipni_id: urn:lsid:ipni.org:names:332153-1
+verified: null
+---
+
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
+
+{{ page.subgenus }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
+
+## Vernacular names
+
+
+## Description
+
+
+## Distribution
+
+
+## Altitude
+
+
+## Habitat
+
+
+## Nomenclatural History
+                       
+
+## Notes
+
+## References

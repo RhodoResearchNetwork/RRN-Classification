@@ -1,0 +1,58 @@
+---
+layout: default
+title: "Rhododendron × kisoanum Okuhara ex T.Shimizu"
+description: 
+scientificname: "Rhododendron × kisoanum"
+scientificnameauthorship: "Okuhara ex T.Shimizu"
+genus: "Rhododendron"
+subgenus: 
+section: 
+subsection: 
+source: 'WFO December 2025'
+identifier: "wfo-0000400070"
+author: WFO
+created: "2026-03-31"
+rights_holder:
+license:
+tags: []
+namepublishedin: "Fl. Nagano Pref. : 1508 (1997)"
+doi: ""
+wfo_id: "wfo-0000400070"
+wfo_parent_id: "wfo-4000033027"
+wfo_accepted_id: "wfo-0000400070"
+ipni_id: "urn:lsid:ipni.org:names:1000438-1"
+verified:
+---
+
+### _{{ page.scientificname }}_ {{ page.scientificnameauthorship }}
+ [{{ page.namepublishedin }}]({{ page.doi }})
+
+{{ page.subgenus }} {{ page.section }} {{ page.subsection }}
+
+**WFO ID:** [{{ page.wfo_id }}](https://list.worldfloraonline.org/{{ page.wfo_id }})
+
+**IPNI ID:** [{{ page.ipni_id }}](https://www.ipni.org/n/{{ page.ipni_id }})
+
+Verified by: {{ page.verified }}
+
+## Vernacular names
+
+
+## Description
+
+
+## Distribution
+
+
+## Altitude
+
+
+## Habitat
+
+
+## Nomenclatural History
+                       
+
+## Notes
+
+## References

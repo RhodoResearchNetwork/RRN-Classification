@@ -16,7 +16,7 @@ tags:
 - Rhododendron
 namepublishedin: Rhodo. Sikkim Himalaya t. I non t. 2 (1849)
 doi: ''
-wfo_id: 'wfo-0001048039-'
+wfo_id: 'wfo-0001048039'
 wfo_parent_id: ''
 wfo_accepted_id: ''
 ipni_id: 'urn:lsid:ipni.org:names:332291-1'
