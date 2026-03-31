@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × ashitakayamense Sugim."
+title: "Rhododendron × albescens W.Bull"
 description: 
-scientificname: "Rhododendron × ashitakayamense"
-scientificnameauthorship: "Sugim."
+scientificname: "Rhododendron × albescens"
+scientificnameauthorship: "W.Bull"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400411"
+identifier: "wfo-0000400509"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "J. Geobot. 22(4): 53. 1975"
+namepublishedin: "Nursery Cat. (William Bull) 1887: 11 (1887)"
 doi: ""
-wfo_id: "wfo-0000400411"
+wfo_id: "wfo-0000400509"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400411"
-ipni_id: "urn:lsid:ipni.org:names:331959-1"
+wfo_accepted_id: "wfo-0000400509"
+ipni_id: "urn:lsid:ipni.org:names:331898-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultiated hybrid between R. edgeworthii × R. formosum × R. veitchianum.
 ## References

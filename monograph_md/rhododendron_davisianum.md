@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × cartonianum DC."
+title: "Rhododendron × davisianum R.I.Milne"
 description: 
-scientificname: "Rhododendron × cartonianum"
-scientificnameauthorship: "DC."
+scientificname: "Rhododendron × davisianum"
+scientificnameauthorship: "R.I.Milne"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000403305"
+identifier: "wfo-0000400760"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Prodr. 7: 727 (1839)"
+namepublishedin: "Fl. Turkey 11: 322 (2000 publ. 2001)"
 doi: ""
-wfo_id: "wfo-0000403305"
+wfo_id: "wfo-0000400760"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000403305"
-ipni_id: "urn:lsid:ipni.org:names:332118-1"
+wfo_accepted_id: "wfo-0000400760"
+ipni_id: "urn:lsid:ipni.org:names:1020704-1"
 verified:
 ---
 
@@ -39,7 +39,7 @@ Verified by: {{ page.verified }}
 
 
 ## Description
-
+Türkiye
 
 ## Distribution
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Wild Hybrid between R. caucasicum × R. smirnowii
 
 ## References

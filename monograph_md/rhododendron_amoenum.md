@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × albicans Waterer ex Zabel"
+title: "Rhododendron × amoenum Planch."
 description: 
-scientificname: "Rhododendron × albicans"
-scientificnameauthorship: "Waterer ex Zabel"
+scientificname: "Rhododendron × amoenum"
+scientificnameauthorship: "Planch."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum' 
+section: 'Tsutsusi' 
+subsection: 'Tsutsusi'
 source: 'WFO December 2025'
-identifier: "wfo-0000400510"
+identifier: "wfo-0000400595"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Mitt. Deutsch. Dendrol. Ges. 11: 30 (1902)"
+namepublishedin: "Fl. Serres Jard. Eur. 9: 80 (1853)"
 doi: ""
-wfo_id: "wfo-0000400510"
+wfo_id: "wfo-0000400595"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400510"
-ipni_id: "urn:lsid:ipni.org:names:331899-1"
+wfo_accepted_id: "wfo-0000400595"
+ipni_id: "urn:lsid:ipni.org:names:331922-1"
 verified:
 ---
 
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan
 
 ## Altitude
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid between R. kaempferi × R. kiusianum.
 ## References

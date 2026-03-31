@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × albescens W.Bull"
+title: "Rhododendron × bungonishikii Komastsu"
 description: 
-scientificname: "Rhododendron × albescens"
-scientificnameauthorship: "W.Bull"
+scientificname: "Rhododendron × bungonishikii"
+scientificnameauthorship: "Komastsu"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400509"
+identifier: "wfo-0000400472"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Nursery Cat. (William Bull) 1887: 11 (1887)"
+namepublishedin: "Bot. Mag. (Tokyo) 32: (46) (1918)"
 doi: ""
-wfo_id: "wfo-0000400509"
+wfo_id: "wfo-0000400472"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400509"
-ipni_id: "urn:lsid:ipni.org:names:331898-1"
+wfo_accepted_id: "wfo-0000400472"
+ipni_id: "urn:lsid:ipni.org:names:332061-1"
 verified:
 ---
 
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan.
 
 ## Altitude
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid between R. eriocarpum × R. kaempferi.
 ## References

@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × amoenum Planch."
+title: "Rhododendron × ashitakayamense Sugim."
 description: 
-scientificname: "Rhododendron × amoenum"
-scientificnameauthorship: "Planch."
+scientificname: "Rhododendron × ashitakayamense"
+scientificnameauthorship: "Sugim."
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400595"
+identifier: "wfo-0000400411"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Fl. Serres Jard. Eur. 9: 80 (1853)"
+namepublishedin: "J. Geobot. 22(4): 53. 1975"
 doi: ""
-wfo_id: "wfo-0000400595"
+wfo_id: "wfo-0000400411"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400595"
-ipni_id: "urn:lsid:ipni.org:names:331922-1"
+wfo_accepted_id: "wfo-0000400411"
+ipni_id: "urn:lsid:ipni.org:names:331959-1"
 verified:
 ---
 
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan, Izu Peninsula and Mt. Ashitaka.
 
 ## Altitude
 
@@ -54,5 +54,8 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Rhododendron × ashitakayamense (Sugim.) is a natural hybrid found in Japan. Parentage is not known for sure but considered a cross between Rhododendron komiyamae (Komiyama-tsutsuji) and Rhododendron amamiense (or sometimes linked to Rhododendron sataense). 
+
+A R. komiyamae x R. sataense would be a subsect. Tsutsui hybrid. R.komiyamae x R. amamiense would be a subsect. Tsutsui x Choniastrum hybrid.
 
 ## References

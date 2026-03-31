@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × bungonishikii Komastsu"
+title: "Rhododendron × alstroemerioides Lem."
 description: 
-scientificname: "Rhododendron × bungonishikii"
-scientificnameauthorship: "Komastsu"
+scientificname: "Rhododendron × alstroemerioides"
+scientificnameauthorship: "Lem."
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400472"
+identifier: "wfo-0000400500"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Bot. Mag. (Tokyo) 32: (46) (1918)"
+namepublishedin: "Jard. FIeur. 4: t. 384 (1854)"
 doi: ""
-wfo_id: "wfo-0000400472"
+wfo_id: "wfo-0000400500"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400472"
-ipni_id: "urn:lsid:ipni.org:names:332061-1"
+wfo_accepted_id: "wfo-0000400500"
+ipni_id: "urn:lsid:ipni.org:names:331908-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultivated hybrids between R. calendulaceum × R. caucasicum × R. periclymenoides.
 ## References

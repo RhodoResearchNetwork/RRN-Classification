@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × alstroemerioides Lem."
+title: "Rhododendron × anneliesae Rehder"
 description: 
-scientificname: "Rhododendron × alstroemerioides"
-scientificnameauthorship: "Lem."
+scientificname: "Rhododendron × anneliesae"
+scientificnameauthorship: "Rehder"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000400500"
+identifier: "wfo-0000400589"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Jard. FIeur. 4: t. 384 (1854)"
+namepublishedin: "Monogr. Azaleas : 181 (1921)"
 doi: ""
-wfo_id: "wfo-0000400500"
+wfo_id: "wfo-0000400589"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000400500"
-ipni_id: "urn:lsid:ipni.org:names:331908-1"
+wfo_accepted_id: "wfo-0000400589"
+ipni_id: "urn:lsid:ipni.org:names:292731-2"
 verified:
 ---
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Cultivated hybrid between R. arborescens × R. calendulaceum.
 
 ## References
