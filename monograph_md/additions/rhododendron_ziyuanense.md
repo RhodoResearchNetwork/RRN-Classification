@@ -5,7 +5,7 @@ description: null
 scientificname: Rhododendron ziyuanense
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
-subgenus: null
+subgenus: Hymenanthes
 section: Pontica
 subsection: Maculifera
 source: WFO December 2025
