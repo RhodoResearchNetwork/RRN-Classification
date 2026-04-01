@@ -4,7 +4,7 @@ scientificnameauthorship: Mastsum.
 genus: Rhododendron
 subgenus: Azaleastrum
 section: Tsutsutsi
-subsection: Tsutsusi
+subsection: Tsutsutsi
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Judd, W.S.

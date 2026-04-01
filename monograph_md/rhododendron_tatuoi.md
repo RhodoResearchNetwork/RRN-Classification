@@ -6,7 +6,7 @@ scientificname: "Rhododendron × tatuoi"
 scientificnameauthorship: "Nakai ex H.Hara"
 genus: "Rhododendron"
 subgenus: 'Azaleastrum'
-section: 'Tsutsusi'
+section: 'Tsutsutsi'
 subsection: 'Brachycalyces'
 source: 'WFO December 2025'
 identifier: "wfo-0000405650"

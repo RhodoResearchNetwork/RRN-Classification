@@ -6,8 +6,8 @@ scientificname: "Rhododendron × bungonishikii"
 scientificnameauthorship: "Komastsu"
 genus: "Rhododendron"
 subgenus: 'Azaleastrum'
-section: 'Tsutsusi'
-subsection: 'Tsutsusi'
+section: 'Tsutsutsi'
+subsection: 'Tsutsutsi'
 source: 'WFO December 2025'
 identifier: "wfo-0000400472"
 author: WFO

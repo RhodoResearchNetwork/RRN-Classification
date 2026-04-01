@@ -6,8 +6,8 @@ scientificname: "Rhododendron × koudzumontanum"
 scientificnameauthorship: "Hid.Takah & Katsu."
 genus: "Rhododendron"
 subgenus: 'Azaleastrum'
-section: 'Tsutsusi'
-subsection: 'Tsutsusi'
+section: 'Tsutsutsi'
+subsection: 'Tsutsutsi'
 source: 'WFO December 2025'
 identifier: "wfo-0000400012"
 author: WFO

@@ -23,11 +23,11 @@
     - [ ] _(Mumeazalea Makino, Bot. Mag. (Tokyo) 28(336): 338. 1914 [Dec 1914])_
     - [ ] _(Azaleastrum (Planch.) Rydb., Mem. New York Bot. Gard. 1: 297 (1900))_
     - [ ] *Rhododendron sect. Tsutsutsi* G.Don, Gen. Hist. 3: 845 (1834)
-      - [ ] _(Rhododendron ser. Tsutsusi X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi 76 (2009))_
+      - [ ] _(Rhododendron ser. Tsutsutsi X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsutsi 76 (2009))_
       - [ ] *Rhododendron semibarbatum* Maxim., Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 15: 229 (1870)
         - [ ] _(Azalea semibarbata (Maxim.) Kuntze, Revis. Gen. Pl. 2: 387 (1891))_
         - [ ] _(Azaleastrum semibarbatum (Maxim.) Makino, Bot. Mag. (Tokyo) 28: 338 (1914))_
-      - [ ] *Rhododendron subsect. Tsutsusi* Sweet, 
+      - [ ] *Rhododendron subsect. Tsutsutsi* Sweet, 
         - [ ] *Rhododendron rufohirtum* Hand.-Mazz., Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 58: 153 (1921)
         - [ ] *Rhododendron jinpingense* W.P.Fang & M.Y.He, Bull. Bot. Res., Harbin 2(2): 85 (1982)
         - [ ] *Rhododendron cretaceum* P.C.Tam, Survey Gen. Rhododendron S. China : 108 (1983)
@@ -183,7 +183,7 @@
           - [ ] _(Rhododendron kwangsiense var. subfalcatum P.C.Tam, Guihaia 3(3): 178. 1983)_
           - [ ] _(Rhododendron kwangsiense var. kwangsiense , )_
           - [ ] _(Rhododendron mariae subsp. kwangsiense (Hu ex P.C.Tam) D.F.Chamb. & Rae, Edinburgh J. Bot. 47(2): 106. 1990)_
-        - [ ] *Rhododendron xiangganense* X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi : 169 (2009)
+        - [ ] *Rhododendron xiangganense* X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsutsi : 169 (2009)
         - [ ] *Rhododendron hejiangense* M.Y.He, Bull. Bot. Res., Harbin 5(4): 118 (1985)
         - [ ] *Rhododendron gratiosum* P.C.Tam, Guihaia 3(3): 178, as 'gratiosun'. 1983
         - [ ] *Rhododendron rubropilosum* Hayata, J. Coll. Sci. Imp. Univ. Tokyo 30(1): 173 (1911)
@@ -309,10 +309,10 @@
       - [ ] *Rhododendron tsoi* Merr., Lingnan Sci. J. 13: 42 (1934)
         - [ ] _(Rhododendron subenerve var. nudistylum P.C.Tam, Surv. Genus Rhododendron S. China 108, 60. 1983 [Mar 1983])_
         - [ ] _(Rhododendron hypoblematosum P.C.Tam, Bull. Bot. Res., Harbin 2(1): 90 (1982))_
-        - [ ] *Rhododendron tsoi var. polyraphidoideum* (P.C.Tam) X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi : 203 (2009)
+        - [ ] *Rhododendron tsoi var. polyraphidoideum* (P.C.Tam) X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsutsi : 203 (2009)
           - [ ] _(Rhododendron polyraphidoideum P.C.Tam, Bull. Bot. Res., Harbin 2(4): 84 (1982))_
           - [ ] _(Rhododendron polyraphidoideum var. polyraphidoideum , )_
-        - [ ] *Rhododendron tsoi var. hypoblematosum* X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsusi : 200 (2009)
+        - [ ] *Rhododendron tsoi var. hypoblematosum* X.F.Jin & B.Y.Ding, Taxon. Study Rhododendron subgen. Tsutsutsi : 200 (2009)
         - [ ] *Rhododendron tsoi var. tsoi* , 
       - [ ] *Rhododendron subsect. Brachycalyces* (Sweet) Spethmann, Pl. Syst. Evol. 157(1-2): 28, nom. nov. 1987
         - [ ] *Rhododendron hyugaense* (T.Yamaz.) T.Yamaz, J. Jap. Bot. 62: 72 (1987)

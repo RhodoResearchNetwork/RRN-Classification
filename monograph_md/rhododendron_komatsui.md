@@ -6,8 +6,8 @@ scientificname: "Rhododendron × komatsui"
 scientificnameauthorship: "T.Yamaz"
 genus: "Rhododendron"
 subgenus: 'Azaleastrum'
-section: 'Tsutsusi'
-subsection: 'Tsutsusi'
+section: 'Tsutsutsi'
+subsection: 'Tsutsutsi'
 source: 'WFO December 2025'
 identifier: "wfo-0000400054"
 author: WFO

@@ -3,8 +3,8 @@ scientificname: Rhododendron nakaharae
 scientificnameauthorship: 'Hayata'
 genus: Rhododendron
 subgenus: 'Azaleastrum'
-section: 'Tsutsusi'
-subsection: 'Tsutsusi'
+section: 'Tsutsutsi'
+subsection: 'Tsutsutsi'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -57,4 +57,4 @@ The orginal spelling _Rhododendron nakaharae_ is a correctable under the Code to
 
 ## References
 
-[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):129](https://doi.org/10.1017/S096042860000319X)
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsutsi. Edinburgh Journal of Botany 47(2):129](https://doi.org/10.1017/S096042860000319X)

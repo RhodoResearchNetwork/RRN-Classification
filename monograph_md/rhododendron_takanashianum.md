@@ -6,7 +6,7 @@ scientificname: "Rhododendron × takanashianum"
 scientificnameauthorship: "Sugim."
 genus: "Rhododendron"
 subgenus: 'Azaleastrum'
-section: 'Tsutsusi'
+section: 'Tsutsutsi'
 subsection: ''
 source: 'WFO December 2025'
 identifier: "wfo-0000405657"

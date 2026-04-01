@@ -3,8 +3,8 @@ scientificname: Rhododendron indicum
 scientificnameauthorship: '(L.) Sweet'
 genus: Rhododendron
 subgenus: 'Azaleastrum'
-section: 'Tsutsusi'
-subsection: 'Tsutsusi'
+section: 'Tsutsutsi'
+subsection: 'Tsutsutsi'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -59,4 +59,4 @@ Many forms of this species are known in cultivation. All are presumed to have be
 
 ## References
 
-[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):119](https://doi.org/10.1017/S096042860000319X)
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsutsi. Edinburgh Journal of Botany 47(2):119](https://doi.org/10.1017/S096042860000319X)

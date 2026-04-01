@@ -7,7 +7,7 @@ scientificnameauthorship: G.Z.Li
 genus: Rhododendron
 subgenus: Azaleastrum
 section: Tsutsutsi
-subsection: Tsutsusi
+subsection: Tsutsutsi
 source: WFO December 2025
 identifier: wfo-0001234423
 author: WFO

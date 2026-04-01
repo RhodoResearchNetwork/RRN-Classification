@@ -4,7 +4,7 @@ scientificnameauthorship: Planch.
 genus: Rhododendron
 subgenus: Azaleastrum
 section: Tsutsutsi
-subsection: Tsutsusi
+subsection: Tsutsutsi
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -59,4 +59,4 @@ Much-branched twiggy shrub, l-3m; young shoots densely covered with adpressed fl
 
 ## References
 
-[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):115](https://doi.org/10.1017/S096042860000319X)
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsutsi. Edinburgh Journal of Botany 47(2):115](https://doi.org/10.1017/S096042860000319X)

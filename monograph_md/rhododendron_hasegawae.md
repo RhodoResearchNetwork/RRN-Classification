@@ -6,7 +6,7 @@ scientificname: "Rhododendron × hasegawae"
 scientificnameauthorship: "S.Watan."
 genus: "Rhododendron"
 subgenus: 'Azaleastrum'
-section: 'Tsutsui'
+section: 'Tsutsutsi'
 subsection: 'Brachycalyces'
 source: 'WFO December 2025'
 identifier: "wfo-0000400625"

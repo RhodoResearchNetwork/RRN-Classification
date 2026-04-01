@@ -7,7 +7,7 @@ scientificnameauthorship: Xiang Chen & X.Chen
 genus: Rhododendron
 subgenus: Azaleastrum
 section: Tsutsutsi
-subsection: Tsutsusi
+subsection: Tsutsutsi
 source: WFO December 2025
 identifier: wfo-0000750130
 author: WFO

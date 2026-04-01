@@ -4,7 +4,7 @@ scientificnameauthorship: Planch.
 genus: Rhododendron
 subgenus: Azaleastrum
 section: Tsutsutsi
-subsection: Tsutsusi
+subsection: Tsutsutsi
 source: "Edinburgh Rhododendron Monographs \u2013 Royal Botanic Garden Edinburgh"
 identifier: https://data.rbge.org.uk/service/factsheets/Edinburgh_Rhododendron_Monographs.xhtml
 author: Chamberlain, D.F.
@@ -50,11 +50,11 @@ Japan (C Hokkaido to Yakushima)
 Mixed deciduous forest
 
 ## Nomenclatural History
-Tsutsusi'Kaempfer, Amoen. Exot. Fasc. 845, t.846 (1712)ó basionym, (Sloane Hb 211:8, 62, BM). Azalea kaempferi (Pianchon) Andre, Belgique Hort. 15: 184 (1865); Rhododendron indicum (L.) Sweet var. kaempferi (Planchon) Maxim., Rhododendr. As. Orient. 38 (1870); R. scabrum G. Don var. kaempferi (Planchon) Nakai, Bot. Mag. (Tokyo) 33:208(1919). Rhododendron sieboldii Miquel, Ann. Bot. Mus. Lugduno-Batavum 1: 33 (1863). Described from Japan. R. kaempferi Planchon var. macrogemma Nakai, Trees, Shrubs Japan ed. 1: 103 (1922); R. macrogemma (Nakai) Nakai, Bot. Mag. (Tokyo) 45: 128 (1931). Type: Japan, Idzu Prov, Oshima, nearSenzu, Okubo, n.v.
+Tsutsutsi'Kaempfer, Amoen. Exot. Fasc. 845, t.846 (1712)ó basionym, (Sloane Hb 211:8, 62, BM). Azalea kaempferi (Pianchon) Andre, Belgique Hort. 15: 184 (1865); Rhododendron indicum (L.) Sweet var. kaempferi (Planchon) Maxim., Rhododendr. As. Orient. 38 (1870); R. scabrum G. Don var. kaempferi (Planchon) Nakai, Bot. Mag. (Tokyo) 33:208(1919). Rhododendron sieboldii Miquel, Ann. Bot. Mus. Lugduno-Batavum 1: 33 (1863). Described from Japan. R. kaempferi Planchon var. macrogemma Nakai, Trees, Shrubs Japan ed. 1: 103 (1922); R. macrogemma (Nakai) Nakai, Bot. Mag. (Tokyo) 45: 128 (1931). Type: Japan, Idzu Prov, Oshima, nearSenzu, Okubo, n.v.
                        
 ## Notes
 
 
 ## References
 
-[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):120](https://doi.org/10.1017/S096042860000319X)
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsutsi. Edinburgh Journal of Botany 47(2):120](https://doi.org/10.1017/S096042860000319X)

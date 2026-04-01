@@ -57,4 +57,4 @@ R. weyrichii Maxim, var. sanctum (Nakai) Hatusima, Sci. Rep. Yokosuka City Mus. 
 
 ## References
 
-[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):151](https://doi.org/10.1017/S096042860000319X)
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsutsi. Edinburgh Journal of Botany 47(2):151](https://doi.org/10.1017/S096042860000319X)

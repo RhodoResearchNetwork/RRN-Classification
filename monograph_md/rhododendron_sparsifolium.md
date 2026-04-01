@@ -7,7 +7,7 @@ scientificnameauthorship: W.P.Fang
 genus: Rhododendron
 subgenus: Azaleastrum
 section: Tsutsutsi
-subsection: Tsutsusi
+subsection: Tsutsutsi
 source: WFO December 2025
 identifier: wfo-1000078753
 author: WFO

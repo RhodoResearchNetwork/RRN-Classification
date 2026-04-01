@@ -7,7 +7,7 @@ scientificnameauthorship: X.F.Jin & B.Y.Ding
 genus: Rhododendron
 subgenus: Azaleastrum
 section: Tsutsutsi
-subsection: Tsutsusi
+subsection: Tsutsutsi
 source: WFO December 2025
 identifier: wfo-0000744596
 author: WFO

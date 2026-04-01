@@ -57,4 +57,4 @@ Type: Japan, Prov. Tosa in Shikoku, Ochi, iv 1887, Makino, n.v.
 
 ## References
 
-[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsusi. Edinburgh Journal of Botany 47(2):147](https://doi.org/10.1017/S096042860000319X)
+[Chamberlain, D.F. & Rae, S.J. (1990) A Revision of Rhododendron IV Subgenus Tsutsutsi. Edinburgh Journal of Botany 47(2):147](https://doi.org/10.1017/S096042860000319X)
