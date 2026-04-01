@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Culitvate hybrid -  R. molle × R. viscosum.
 ## References
+Wilson,  Ernest Henry, & Rehder,  Alfred. (1921). A monograph of azaleas : Rhododendron subgenus Anthodendron. University Press. https://doi.org/10.5962/bhl.title.25818
