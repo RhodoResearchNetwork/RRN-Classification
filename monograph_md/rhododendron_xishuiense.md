@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron xishuiense"
 scientificnameauthorship: "C.H.Yang & C.D.Yang"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Fortunea'
 source: 'WFO December 2025'
 identifier: "wfo-1000002526"
 author: WFO
