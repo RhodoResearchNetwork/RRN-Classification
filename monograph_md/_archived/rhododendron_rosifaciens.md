@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-hybrid. same parentage as Rhododendron × charadzeae A.P.Khokhr. & Mazurenko so a hybrid.
+Syn of R. x charadzeae
+
 ## References
