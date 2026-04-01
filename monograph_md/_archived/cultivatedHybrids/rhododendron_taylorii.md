@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × rovellii Leroy"
+title: "Rhododendron × taylorii H.J.Veitch"
 description: 
-scientificname: "Rhododendron × rovellii"
-scientificnameauthorship: "Leroy"
+scientificname: "Rhododendron × taylorii"
+scientificnameauthorship: "H.J.Veitch"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000405526"
+identifier: "wfo-0000405668"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Rev. Hort. (Paris) 39: 159 (1867)"
+namepublishedin: "Fl. Mag. (London), n.s., 1877: t. 242 (1877)"
 doi: ""
-wfo_id: "wfo-0000405526"
+wfo_id: "wfo-0000405668"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000405526"
-ipni_id: "urn:lsid:ipni.org:names:333252-1"
+wfo_accepted_id: "wfo-0000405668"
+ipni_id: "urn:lsid:ipni.org:names:333463-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Culitvated hybrid R. javanicum subsp. gracile × R. 'Princess Alexandra'.
 ## References

@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × russelianum Sweet"
+title: "Rhododendron × rovellii Leroy"
 description: 
-scientificname: "Rhododendron × russelianum"
-scientificnameauthorship: "Sweet"
+scientificname: "Rhododendron × rovellii"
+scientificnameauthorship: "Leroy"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000405390"
+identifier: "wfo-0000405526"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Brit. Fl. Gard. 4: t. 9 (1829)"
+namepublishedin: "Rev. Hort. (Paris) 39: 159 (1867)"
 doi: ""
-wfo_id: "wfo-0000405390"
+wfo_id: "wfo-0000405526"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000405390"
-ipni_id: "urn:lsid:ipni.org:names:333274-1"
+wfo_accepted_id: "wfo-0000405526"
+ipni_id: "urn:lsid:ipni.org:names:333252-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Cultivate hbyrid R. arboreum × R. dauricum.
 ## References

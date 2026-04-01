@@ -1,26 +1,26 @@
 ---
 layout: default
-title: "Rhododendron × taylorii H.J.Veitch"
+title: "Rhododendron × rosifaciens R.I.Milne"
 description: 
-scientificname: "Rhododendron × taylorii"
-scientificnameauthorship: "H.J.Veitch"
+scientificname: "Rhododendron × rosifaciens"
+scientificnameauthorship: "R.I.Milne"
 genus: "Rhododendron"
 subgenus: 
 section: 
 subsection: 
 source: 'WFO December 2025'
-identifier: "wfo-0000405668"
+identifier: "wfo-0000405525"
 author: WFO
 created: "2026-03-31"
 rights_holder:
 license:
 tags: []
-namepublishedin: "Fl. Mag. (London), n.s., 1877: t. 242 (1877)"
+namepublishedin: "Fl. Turkey 11: 322 (2000 publ. 2001)"
 doi: ""
-wfo_id: "wfo-0000405668"
+wfo_id: "wfo-0000405525"
 wfo_parent_id: "wfo-4000033027"
-wfo_accepted_id: "wfo-0000405668"
-ipni_id: "urn:lsid:ipni.org:names:333463-1"
+wfo_accepted_id: "wfo-0000405525"
+ipni_id: "urn:lsid:ipni.org:names:1020706-1"
 verified:
 ---
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+hybrid. same parentage as Rhododendron × charadzeae A.P.Khokhr. & Mazurenko so a hybrid.
 ## References

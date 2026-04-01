@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × sochadzeae"
 scientificnameauthorship: "Kharadze & Davlian."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymenanthes'
+section: 'Pontica'
+subsection: 'Pontica' 
 source: 'WFO December 2025'
 identifier: "wfo-0000405477"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Türkiye, Georgia
 
 ## Altitude
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild R. caucasicum × R. ponticum hybrid.
 ## References
