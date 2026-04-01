@@ -5,7 +5,7 @@ description:
 scientificname: "Rhododendron × sundarraianum"
 scientificnameauthorship: "Sherpa & Gogoi"
 genus: "Rhododendron"
-subgenus: 'Hymenathnes'
+subgenus: 'Hymenanthes'
 section: 'Pontica'
 subsection: 
 source: 'WFO December 2025'

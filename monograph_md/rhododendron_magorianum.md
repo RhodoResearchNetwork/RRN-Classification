@@ -5,7 +5,7 @@ description:
 scientificname: "Rhododendron × magorianum"
 scientificnameauthorship: "Millais"
 genus: "Rhododendron"
-subgenus: 'Hymentanthes'
+subgenus: 'Hymenanthes'
 section: 'Pontica'
 subsection: 'Fortunea'
 source: 'WFO December 2025'

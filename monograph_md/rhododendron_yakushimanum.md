@@ -2,7 +2,7 @@
 scientificname: Rhododendron yakushimanum
 scientificnameauthorship: Nakai
 genus: Rhododendron
-subgenus: 'Rhododendron'
+subgenus: 'Hymenanthes'
 section: 'Pontica'
 subsection: 'Pontica'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
