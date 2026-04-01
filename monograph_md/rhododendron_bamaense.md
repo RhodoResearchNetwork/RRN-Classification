@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron bamaense"
 scientificnameauthorship: "Z.J.Zhao"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Lapponica'
 source: 'WFO December 2025'
 identifier: "wfo-0001250567"
 author: WFO
