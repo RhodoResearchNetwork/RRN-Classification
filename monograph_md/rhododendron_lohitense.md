@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron lohitense"
 scientificnameauthorship: "D.Bhattach."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Tephropepla' 
 source: 'WFO December 2025'
 identifier: "wfo-1000002496"
 author: WFO
@@ -42,10 +42,10 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+India. Aranuchal Pradesh
 
 ## Altitude
-
+1400m
 
 ## Habitat
 

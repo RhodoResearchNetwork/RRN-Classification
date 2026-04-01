@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron rimicola"
 scientificnameauthorship: "X.L.Tian, Y.P.Ma & J.Nielsen"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Trichoclada'
 source: 'WFO December 2025'
 identifier: "wfo-1000002505"
 author: WFO

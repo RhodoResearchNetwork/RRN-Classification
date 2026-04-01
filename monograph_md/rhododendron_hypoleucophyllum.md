@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan. Bizen Province is in Okayama Prefectue
 
 ## Altitude
 
@@ -51,8 +51,9 @@ Verified by: {{ page.verified }}
 
 
 ## Nomenclatural History
-                       
+Originally invalidly published in Pract. Hort. 27:1101 (1941) in English. Validated by Hara in Enum. Spermatophytarum Japon. 1: 33 (1941), with a latin descritption. Cited specimens states cultivated in Kochi Garden [Kochi Prefectural Botanical Garden]. Specimen details state its from Bizen Province on Mt. Kosyo, Kosho?. Specimen is sterile.
 
 ## Notes
+Species was not treated in subsequent publications on the Japanese Flora.
 
 ## References

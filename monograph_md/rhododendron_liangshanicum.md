@@ -5,8 +5,8 @@ description:
 scientificname: "Rhododendron liangshanicum"
 scientificnameauthorship: "Z.J.Zhao"
 genus: "Rhododendron"
-subgenus: 
-section: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
 subsection: 
 source: 'WFO December 2025'
 identifier: "wfo-0000399957"
@@ -42,10 +42,10 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+China, Sichuan.
 
 ## Altitude
-
+2500m
 
 ## Habitat
 
@@ -54,5 +54,8 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Related to R. rubigonosum. From the description, in Section Rhododendron. Differentiating in smalled leaves, less or no scales on upper leaf surface, scattered below, persistant bud scales on speciemen, flower marginally smaller and stamen on 0.9-2.5 cm. Said to be smalled than R. rubiginosum. 
+
+May be a small form or var. rubinginosum. collected as the lower end of altidinal range of that species. 
 
 ## References

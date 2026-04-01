@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron pangeanum"
 scientificnameauthorship: "A.A.Mao & Bhaumik"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Tephropepla' 
 source: 'WFO December 2025'
 identifier: "wfo-1000002503"
 author: WFO
