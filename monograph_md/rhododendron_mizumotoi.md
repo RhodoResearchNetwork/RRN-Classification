@@ -7,7 +7,7 @@ scientificnameauthorship: "S.Watan."
 genus: "Rhododendron"
 subgenus: 'Azaleastrum'
 section: 'Tsutsutsi'
-subsection: 'Brachyclyces'
+subsection: 'Brachycalyces'
 source: 'WFO December 2025'
 identifier: "wfo-0000400304"
 author: WFO
