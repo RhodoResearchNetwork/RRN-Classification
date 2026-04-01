@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × mizumotoi"
 scientificnameauthorship: "S.Watan."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsutsi'
+subsection: 'Brachyclyces'
 source: 'WFO December 2025'
 identifier: "wfo-0000400304"
 author: WFO
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Complex wild hybrid involving. R dilatatum, R. Kiyosumense and R. wadnum
 ## References

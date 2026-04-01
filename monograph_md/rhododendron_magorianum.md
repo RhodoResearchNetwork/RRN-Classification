@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × magorianum"
 scientificnameauthorship: "Millais"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymentanthes'
+section: 'Pontica'
+subsection: 'Fortunea'
 source: 'WFO December 2025'
 identifier: "wfo-0000399996"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+China, Yunnan.
 
 ## Altitude
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Unknown in the Wild. Described from seed of Wilson 1539 collected in SW China. Type at Kew is probably subsect. Fortunea.
 
 ## References
