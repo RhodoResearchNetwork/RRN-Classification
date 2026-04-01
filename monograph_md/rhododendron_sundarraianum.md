@@ -5,8 +5,8 @@ description:
 scientificname: "Rhododendron × sundarraianum"
 scientificnameauthorship: "Sherpa & Gogoi"
 genus: "Rhododendron"
-subgenus: 
-section: 
+subgenus: 'Hymenathnes'
+section: 'Pontica'
 subsection: 
 source: 'WFO December 2025'
 identifier: "wfo-1000049117"
@@ -42,10 +42,10 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+India. Sikkim.
 
 ## Altitude
-
+3400m.
 
 ## Habitat
 
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild Hyrbrid between. R. thomsonii and R. wallichii. 
 ## References

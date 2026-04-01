@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild Hybrid R. reticulatum x R. tashiroi
 ## References

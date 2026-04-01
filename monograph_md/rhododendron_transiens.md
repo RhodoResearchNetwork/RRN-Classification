@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × transiens"
 scientificnameauthorship: "Nakai"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Tsutsusi' 
 source: 'WFO December 2025'
 identifier: "wfo-0000405619"
 author: WFO
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+Japan
 
 ## Altitude
 
@@ -53,6 +53,6 @@ Verified by: {{ page.verified }}
 ## Nomenclatural History
                        
 
-## Notes
-
+## Note
+Wild Hybrid between R. kaempfer and R. stenopetalum
 ## References

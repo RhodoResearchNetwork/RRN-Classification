@@ -54,5 +54,7 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Culitvated hybrid between R. racemosum x R. spinuliferum
+POWO has an earlier publication date and authorship for this hybrid taxon. Need checked.
 
 ## References

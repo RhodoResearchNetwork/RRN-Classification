@@ -5,8 +5,8 @@ description:
 scientificname: "Rhododendron × sinosimulans"
 scientificnameauthorship: "D.F.Chamb."
 genus: "Rhododendron"
-subgenus: 
-section: 
+subgenus: 'Hymenanthes'
+section: 'Pontica'
 subsection: 
 source: 'WFO December 2025'
 identifier: "wfo-0001275656"
@@ -42,7 +42,7 @@ Verified by: {{ page.verified }}
 
 
 ## Distribution
-
+China. Yunnan.
 
 ## Altitude
 
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Wild Hybrid from SW China.
 
 ## References

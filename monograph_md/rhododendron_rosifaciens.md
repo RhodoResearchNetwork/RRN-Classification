@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Syn of R. x charadzeae
 
 ## References

@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × tatuoi"
 scientificnameauthorship: "Nakai ex H.Hara"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Azaleastrum'
+section: 'Tsutsusi'
+subsection: 'Brachycalyces'
 source: 'WFO December 2025'
 identifier: "wfo-0000405650"
 author: WFO
@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Wild Hyrbrid between R. dilatatum x R. wadnum
 
 ## References
