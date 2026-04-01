@@ -54,5 +54,6 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
+Cultivated hybrid R. calendulaceum x R. periclymenoides
 
 ## References
