@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × pennsylvanicum"
 scientificnameauthorship: "(B.E.Harkn.) Rehder"
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Hymenanthes'
+section: 'Pentanthera'
+subsection: 'Pentanthera'
 source: 'WFO December 2025'
 identifier: "wfo-0000400194"
 author: WFO
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild Hybrid between R. atlanticum and R. nudiflorum (now R. periclymenoides)
 ## References
