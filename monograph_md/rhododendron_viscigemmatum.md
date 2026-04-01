@@ -2,7 +2,7 @@
 scientificname: Rhododendron viscigemmatum
 scientificnameauthorship: P.C.Tam
 genus: Rhododendron
-subgenus: 'Rhododendron'
+subgenus: 'Azaleastrum'
 section: 'Tsutsutsi'
 subsection: 'Tsutsutsi'
 source: "Edinburgh Rhododendron Monographs – Royal Botanic Garden Edinburgh"
