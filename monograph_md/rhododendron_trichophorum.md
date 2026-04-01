@@ -5,9 +5,9 @@ description:
 scientificname: "Rhododendron × trichophorum"
 scientificnameauthorship: "Balf.f."
 genus: "Rhododendron"
-subgenus: 
-section: 
-subsection: 
+subgenus: 'Rhododendron'
+section: 'Rhododendron'
+subsection: 'Triflora'
 source: 'WFO December 2025'
 identifier: "wfo-0001048805"
 author: WFO
@@ -54,5 +54,5 @@ Verified by: {{ page.verified }}
                        
 
 ## Notes
-
+Wild hybrid between R. augustinii and R. trichanthum
 ## References
